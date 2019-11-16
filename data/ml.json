@@ -1,0 +1,55 @@
+{
+    "version": "1.0",
+    "categories": [
+        {
+            "category": "beef",
+            "name": {
+                "DE": "Rindfleisch",
+                "GB": "Beef"
+            },
+            "related-categories": ["pork", "chicken"],
+            "parent-categories": ["meat"],
+            "description": {
+                "DE": "Als Rindfleisch bezeichnet man im deutschsprachigen Raum allgemein das Fleisch verschiedener Hausrindrassen, das nach der Schlachtung von Tieren aus der Rinderproduktion erzeugt wird.",
+                "GB": "Beef is the culinary name for meat from cattle, particularly skeletal muscle."
+            },
+            "urls": {
+                "wikipedia": {
+                    "DE": "https://de.wikipedia.org/wiki/Rindfleisch",
+                    "GB": "https://en.wikipedia.org/wiki/Beef"
+                },
+                "spoonacular": null
+            }
+        },
+        {
+            "category": "beer",
+            "name": {
+                "DE": "Bier",
+                "GB": "Beer"
+            },
+            "related-categories": [],
+            "parent-categories": ["beverage"],
+            "description": {
+                "DE": "Bier ist ein Getränk, das durch Gärung aus stärkehaltigen Stoffen gewonnen und nicht destilliert wird.",
+                "GB": "Beer is one of the oldest and most widely consumed alcoholic drinks in the world."
+            },
+            "urls": {
+                "wikipedia": {
+                    "DE": "https://de.wikipedia.org/wiki/Bier",
+                    "GB": "https://en.wikipedia.org/wiki/Beer"
+                },
+                "spoonacular": null
+            }
+        }
+    ],
+    "classes":  [
+        {
+            "manufacturer": "VW",
+            "model": "Golf"
+        },
+        {
+            "manufacturer": "Audi",
+            "model": "A4"
+        }
+    ]
+}
