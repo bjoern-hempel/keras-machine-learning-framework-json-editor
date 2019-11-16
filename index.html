@@ -38,19 +38,22 @@
     </style>
 </head>
 <body>
-<div class='row'>
-    <div class='medium-12 columns'>
-        <h1>Machine Learning Dataset Editor</h1>
+<div style="width: 100%; position: fixed; z-index: 100; background-color: white;">
+    <div class='row'>
+        <div class='medium-12 columns'>
+            <h1>Machine Learning Dataset Editor</h1>
+        </div>
+    </div>
+    <div class='row'>
+        <div class='medium-12-columns'>
+            <button id='submit' class='tiny'>Submit (console.log)</button>
+            <button id='restore' class='secondary tiny'>Restore to Default</button>
+            <span id='valid_indicator' class='label'></span>
+        </div>
     </div>
 </div>
-<div class='row'>
-    <div class='medium-12-columns'>
-        <button id='submit' class='tiny'>Submit (console.log)</button>
-        <button id='restore' class='secondary tiny'>Restore to Default</button>
-        <span id='valid_indicator' class='label'></span>
-    </div>
-</div>
-<div class='row'>
+
+<div class='row' style="padding-top: 150px;">
     <div id='editor_holder' class='medium-12 columns'></div>
 </div>
 

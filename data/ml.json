@@ -110,20 +110,22 @@
         },
         {
             "category": "soft drink",
-            "parent-categories": [],
+            "parent-categories": [
+                "beverage"
+            ],
             "related-categories": [],
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Erfrischungsgetränk",
+                "GB": "Soft drink"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Als Erfrischungsgetränke (englisch soft drink, eingedeutscht Softdrink, in Abgrenzung zu alkoholhaltigen hard drinks) produziert die Lebensmittelindustrie verschiedene Kaltgetränke, die meist kohlensäurehaltig und süß-sauer aromatisiert sind.",
+                "GB": "A soft drink (see § Terminology for other names) is a drink that usually contains carbonated water (although some lemonades are not carbonated), a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute (in the case of diet drinks), or some combination of these."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Erfrischungsgetr%C3%A4nk",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Soft_drink"
                 },
                 "spoonacular": null
             }
