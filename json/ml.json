@@ -1,210 +1,108 @@
 {
-  "$ref": "basic_ml.json",
-  "properties": {
-    "categories": {
-      "type": "array",
-      "format": "row",
-      "title": "Categories",
-      "uniqueItems": true,
-      "items": {
-        "type": "object",
-        "title": "Category",
-        "properties": {
-          "category": {
-            "type": "string"
-          },
-          "related-categories": {
+    "$ref": "basic_ml.json",
+    "properties": {
+        "categories": {
             "type": "array",
-            "title": "Related Categories"
-          },
-          "parent-categories": {
-            "type": "string",
-            "title": "Parent Category",
-            "enum": [
-              "beverage",
-              "beer",
-              "cocktail",
-              "coffee",
-              "liquor",
-              "soft drink",
-              "tea",
-              "wine",
-              "breakfast",
-              "dessert",
-              "cake",
-              "ice cream",
-              "pudding",
-              "soup",
-              "other",
-              "fingerfood, snack, appetizer & starter",
-              "main course",
-              "curry",
-              "fast food",
-              "fish",
-              "meat",
-              "beef",
-              "chicken",
-              "pork",
-              "other",
-              "pasta",
-              "pizza",
-              "vegetable",
-              "other",
-              "pastry & bread",
-              "salad",
-              "antipasto",
-              "bound",
-              "fruit",
-              "green",
-              "other",
-              "wurst",
-              "sauce & marinade",
-              "side dish",
-              "beans",
-              "coleslaw",
-              "green",
-              "mushrooms",
-              "other",
-              "pasta",
-              "potato",
-              "squash",
-              "vegetable",
-              "soup & stew",
-              "soup",
-              "stew"
-            ],
-            "options": {
-              "enum_titles": [
-                "1. Beverage",
-                ".......... 1.1 Beer *",
-                ".......... 1.2 Cocktail *",
-                ".......... 1.3 Coffee *",
-                ".......... 1.4 Liquor *",
-                ".......... 1.5 Soft drink *",
-                ".......... 1.6 Tea *",
-                ".......... 1.7 Wine *",
-                "2. Breakfast *",
-                "3. Dessert",
-                ".......... 3.1 Cake *",
-                ".......... 3.2 Ice cream *",
-                ".......... 3.3 Pudding *",
-                ".......... 3.4 Soup *",
-                ".......... 3.5 Other *",
-                "4. Fingerfood, Snack, Appetizer & Starter (Chicken wings, etc.) *",
-                "5. Main course",
-                ".......... 5.1 Curry *",
-                ".......... 5.2 Fast food *",
-                ".......... 5.3 Fish *",
-                ".......... 5.4 Meat",
-                ".......... .......... 5.4.1 Beef *",
-                ".......... .......... 5.4.2 Chicken *",
-                ".......... .......... 5.4.3 Pork *",
-                ".......... .......... 5.4.4 Other *",
-                ".......... 5.5 Pasta *",
-                ".......... 5.6 Pizza *",
-                ".......... 5.7 Vegetable *",
-                ".......... 5.8 Other *",
-                "6. Pastry & bread *",
-                "7. Salad",
-                ".......... 7.1 Antipasto *",
-                ".......... 7.2 Bound *",
-                ".......... 7.3 Fruit *",
-                ".......... 7.4 Green *",
-                ".......... 7.5 Other *",
-                ".......... 7.6 Wurst *",
-                "8. Sauce & marinade *",
-                "9. Side dish",
-                ".......... 9.1 Beans *",
-                ".......... 9.2 Coleslaw *",
-                ".......... 9.3 Green *",
-                ".......... 9.4 Mushrooms *",
-                ".......... 9.5 Other *",
-                ".......... 9.6 Pasta *",
-                ".......... 9.7 Potato (Fries, etc.) *",
-                ".......... 9.8 Squash *",
-                ".......... 9.10 Vegetable *",
-                "10. Soup & stew",
-                ".......... 10.1 Soup *",
-                ".......... 10.2 Stew *"
-              ]
-            }
-          },
-          "name": {
-            "type": "object",
-            "title": "Name",
-            "properties": {
-              "DE": {
-                "type": "string",
-                "title": "German"
-              },
-              "GB": {
-                "type": "string",
-                "title": "English"
-              }
-            }
-          },
-          "description": {
-            "type": "object",
-            "title": "Description",
-            "format": "textarea",
-            "properties": {
-              "DE": {
-                "type": "string",
-                "title": "German"
-              },
-              "GB": {
-                "type": "string",
-                "title": "English"
-              }
-            }
-          },
-          "urls": {
-            "type": "object",
-            "title": "URLs",
-            "properties": {
-              "wikipedia": {
+            "format": "row",
+            "title": "Categories",
+            "uniqueItems": true,
+            "items": {
                 "type": "object",
-                "title": "Wikipedia",
+                "title": "Category",
                 "properties": {
-                  "DE": {
-                    "type": "string",
-                    "title": "German",
-                    "format": "url"
-                  },
-                  "GB": {
-                    "type": "string",
-                    "title": "English",
-                    "format": "url"
-                  }
+                    "category": {
+                        "type": "string",
+                        "title": "Category"
+                    },
+                    "parent-categories": {
+                        "type": "string",
+                        "title": "Parent Category",
+                        "$ref": "categories.json"
+                    },
+                    "related-categories": {
+                        "type": "array",
+                        "title": "Related Categories",
+                        "items": {
+                            "type": "string",
+                            "title": "Related Category",
+                            "$ref": "categories.json"
+                        }
+                    },
+                    "name": {
+                        "type": "object",
+                        "title": "Name",
+                        "properties": {
+                            "DE": {
+                                "type": "string",
+                                "title": "German"
+                            },
+                            "GB": {
+                                "type": "string",
+                                "title": "English"
+                            }
+                        }
+                    },
+                    "description": {
+                        "type": "object",
+                        "title": "Description",
+                        "format": "textarea",
+                        "properties": {
+                            "DE": {
+                                "type": "string",
+                                "title": "German"
+                            },
+                            "GB": {
+                                "type": "string",
+                                "title": "English"
+                            }
+                        }
+                    },
+                    "urls": {
+                        "type": "object",
+                        "title": "URLs",
+                        "properties": {
+                            "wikipedia": {
+                                "type": "object",
+                                "title": "Wikipedia",
+                                "properties": {
+                                    "DE": {
+                                        "type": "string",
+                                        "title": "German",
+                                        "format": "url"
+                                    },
+                                    "GB": {
+                                        "type": "string",
+                                        "title": "English",
+                                        "format": "url"
+                                    }
+                                }
+                            },
+                            "spoonacular": {
+                                "type": "null",
+                                "title": "Spoonacular"
+                            }
+                        }
+                    }
                 }
-              },
-              "spoonacular": {
-                "type": "null",
-                "title": "Spoonacular"
-              }
             }
-          }
+        },
+        "classes": {
+            "type": "array",
+            "format": "table",
+            "title": "Classes",
+            "uniqueItems": true,
+            "items": {
+                "type": "object",
+                "title": "Class",
+                "properties": {
+                    "manufacturer": {
+                        "type": "string"
+                    },
+                    "model": {
+                        "type": "string"
+                    }
+                }
+            }
         }
-      }
-    },
-
-    "classes": {
-      "type": "array",
-      "format": "table",
-      "title": "Classes",
-      "uniqueItems": true,
-      "items": {
-        "type": "object",
-        "title": "Class",
-        "properties": {
-          "manufacturer": {
-            "type": "string"
-          },
-          "model": {
-            "type": "string"
-          }
-        }
-      }
     }
-  }
 }
