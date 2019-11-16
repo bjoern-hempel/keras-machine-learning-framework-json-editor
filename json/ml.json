@@ -15,12 +15,18 @@
                         "title": "Category"
                     },
                     "parent-categories": {
-                        "type": "string",
-                        "title": "Parent Category",
-                        "$ref": "categories.json"
+                        "type": "array",
+                        "uniqueItems": false,
+                        "title": "Parent Categories",
+                        "items": {
+                            "type": "string",
+                            "title": "Parent Category",
+                            "$ref": "categories.json"
+                        }
                     },
                     "related-categories": {
                         "type": "array",
+                        "uniqueItems": false,
                         "title": "Related Categories",
                         "items": {
                             "type": "string",
@@ -49,11 +55,17 @@
                         "properties": {
                             "DE": {
                                 "type": "string",
-                                "title": "German"
+                                "title": "German",
+                                "options": {
+                                    "format": "textarea"
+                                }
                             },
                             "GB": {
                                 "type": "string",
-                                "title": "English"
+                                "title": "English",
+                                "options": {
+                                    "format": "textarea"
+                                }
                             }
                         }
                     },

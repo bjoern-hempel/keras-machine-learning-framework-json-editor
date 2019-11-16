@@ -66,5 +66,7 @@ function startEditor()
                 indicator.textContent = 'valid';
             }
         });
+
+
     });
 }
