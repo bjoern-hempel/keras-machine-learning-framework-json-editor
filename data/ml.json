@@ -216,7 +216,9 @@
         },
         {
             "category": "cake",
-            "parent-categories": [],
+            "parent-categories": [
+                "dessert"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -236,7 +238,9 @@
         },
         {
             "category": "ice cream",
-            "parent-categories": [],
+            "parent-categories": [
+                "dessert"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -256,7 +260,9 @@
         },
         {
             "category": "pudding",
-            "parent-categories": [],
+            "parent-categories": [
+                "dessert"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -275,8 +281,10 @@
             }
         },
         {
-            "category": "soup",
-            "parent-categories": [],
+            "category": "soup dessert",
+            "parent-categories": [
+                "dessert"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -296,7 +304,9 @@
         },
         {
             "category": "other dessert",
-            "parent-categories": [],
+            "parent-categories": [
+                "dessert"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
