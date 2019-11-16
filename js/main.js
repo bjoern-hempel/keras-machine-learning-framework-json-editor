@@ -11,10 +11,20 @@ function loadJSON(jsonPath, callback)
     request.send(null);
 }
 
-function saveJSON(json, callback)
+function saveJSON(obj, callback)
 {
-    console.log(json);
-    callback();
+    let xhr = new XMLHttpRequest();
+    let url = "/php/write-json.php";
+    xhr.open("POST", url, true);
+    xhr.setRequestHeader("Content-Type", "application/json");
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            let json = JSON.parse(xhr.responseText);
+            callback(json);
+        }
+    };
+    let data = JSON.stringify(obj);
+    xhr.send(data);
 }
 
 function startEditor()
@@ -34,7 +44,8 @@ function startEditor()
 
         /* Hook up the submit button to log to the console */
         document.getElementById('submit').addEventListener('click',function() {
-            saveJSON(editor.getValue(), function () {
+            saveJSON(editor.getValue(), function (json) {
+                console.log('Save result.', json);
                 alert('Saved');
             })
         });
