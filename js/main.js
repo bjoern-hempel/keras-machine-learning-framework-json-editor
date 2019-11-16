@@ -1,15 +1,14 @@
 function loadJSON(jsonPath, callback)
 {
-    let xobj = new XMLHttpRequest();
-    xobj.overrideMimeType("application/json");
-    xobj.open('GET', jsonPath, true); // Replace 'my_data' with the path to your file
-    xobj.onreadystatechange = function () {
-        if (xobj.readyState == 4 && xobj.status == "200") {
-            // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
-            callback(xobj.responseText);
+    let request = new XMLHttpRequest();
+    request.overrideMimeType("application/json");
+    request.open('GET', jsonPath, true); // Replace 'my_data' with the path to your file
+    request.onreadystatechange = function () {
+        if (request.readyState === 4 && request.status === 200) {
+            callback(request.responseText);
         }
     };
-    xobj.send(null);
+    request.send(null);
 }
 
 function saveJSON(jsonPath, callback)
