@@ -1,0 +1,12 @@
+{
+  "title": "Machine Learning Dataset (Food)",
+  "type": "object",
+  "id": "dataset",
+  "properties": {
+    "version": {
+      "type": "string",
+      "description": "Version",
+      "minLength": 3
+    }
+  }
+}
