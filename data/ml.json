@@ -346,7 +346,9 @@
         },
         {
             "category": "curry",
-            "parent-categories": [],
+            "parent-categories": [
+                "main course"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -366,7 +368,9 @@
         },
         {
             "category": "fast food",
-            "parent-categories": [],
+            "parent-categories": [
+                "main course"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -386,7 +390,9 @@
         },
         {
             "category": "fish",
-            "parent-categories": [],
+            "parent-categories": [
+                "main course"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "Speisefisch",
@@ -406,7 +412,9 @@
         },
         {
             "category": "meat",
-            "parent-categories": [],
+            "parent-categories": [
+                "main course"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "Fleisch",
@@ -470,7 +478,9 @@
         },
         {
             "category": "pork",
-            "parent-categories": [],
+            "parent-categories": [
+                "meat"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -490,7 +500,9 @@
         },
         {
             "category": "other meat",
-            "parent-categories": [],
+            "parent-categories": [
+                "meat"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -510,7 +522,9 @@
         },
         {
             "category": "pasta",
-            "parent-categories": [],
+            "parent-categories": [
+                "main course"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "Pasta",
@@ -530,7 +544,9 @@
         },
         {
             "category": "pizza",
-            "parent-categories": [],
+            "parent-categories": [
+                "main course"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "Pizza",
@@ -550,7 +566,9 @@
         },
         {
             "category": "vegetable",
-            "parent-categories": [],
+            "parent-categories": [
+                "main course"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "Gemüse",
@@ -570,7 +588,9 @@
         },
         {
             "category": "other main course",
-            "parent-categories": [],
+            "parent-categories": [
+                "main course"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
