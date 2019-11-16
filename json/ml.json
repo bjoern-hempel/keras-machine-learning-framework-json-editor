@@ -16,7 +16,6 @@
                     },
                     "parent-categories": {
                         "type": "array",
-                        "uniqueItems": false,
                         "title": "Parent Categories",
                         "items": {
                             "type": "string",
@@ -26,7 +25,6 @@
                     },
                     "related-categories": {
                         "type": "array",
-                        "uniqueItems": false,
                         "title": "Related Categories",
                         "items": {
                             "type": "string",
