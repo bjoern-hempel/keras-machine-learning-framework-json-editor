@@ -29,8 +29,15 @@ function saveJSON(obj, callback)
 
 function startEditor()
 {
+    /* -1: all */
+    let maxCategories = -1;
+
     loadJSON('data/ml.json', function(response) {
         let json_data = JSON.parse(response);
+
+        if (maxCategories > -1) {
+            json_data.categories = json_data.categories.slice(0, maxCategories);
+        }
 
         /* Initialize the editor */
         let editor = new JSONEditor(document.getElementById('editor_holder'),{
