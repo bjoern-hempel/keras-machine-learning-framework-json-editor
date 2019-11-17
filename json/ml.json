@@ -98,18 +98,94 @@
         },
         "classes": {
             "type": "array",
-            "format": "table",
+            "format": "grid",
             "title": "Classes",
             "uniqueItems": true,
             "items": {
                 "type": "object",
                 "title": "Class",
                 "properties": {
-                    "manufacturer": {
-                        "type": "string"
+                    "class": {
+                        "type": "string",
+                        "title": "Class"
                     },
-                    "model": {
-                        "type": "string"
+                    "categories": {
+                        "type": "array",
+                        "title": "Categories",
+                        "items": {
+                            "type": "string",
+                            "title": "Category",
+                            "$ref": "categories.json"
+                        }
+                    },
+                    "related-classes": {
+                        "type": "array",
+                        "title": "Related Classes",
+                        "items": {
+                            "type": "string",
+                            "title": "Related Class"
+                        }
+                    },
+                    "name": {
+                        "type": "object",
+                        "title": "Name",
+                        "properties": {
+                            "DE": {
+                                "type": "string",
+                                "title": "German"
+                            },
+                            "GB": {
+                                "type": "string",
+                                "title": "English"
+                            }
+                        }
+                    },
+                    "description": {
+                        "type": "object",
+                        "title": "Description",
+                        "format": "textarea",
+                        "properties": {
+                            "DE": {
+                                "type": "string",
+                                "title": "German",
+                                "options": {
+                                    "format": "textarea"
+                                }
+                            },
+                            "GB": {
+                                "type": "string",
+                                "title": "English",
+                                "options": {
+                                    "format": "textarea"
+                                }
+                            }
+                        }
+                    },
+                    "urls": {
+                        "type": "object",
+                        "title": "URLs",
+                        "properties": {
+                            "wikipedia": {
+                                "type": "object",
+                                "title": "Wikipedia",
+                                "properties": {
+                                    "DE": {
+                                        "type": "string",
+                                        "title": "German",
+                                        "format": "url"
+                                    },
+                                    "GB": {
+                                        "type": "string",
+                                        "title": "English",
+                                        "format": "url"
+                                    }
+                                }
+                            },
+                            "spoonacular": {
+                                "type": "null",
+                                "title": "Spoonacular"
+                            }
+                        }
                     }
                 }
             }
