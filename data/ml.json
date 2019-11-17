@@ -1106,40 +1106,44 @@
     "classes": [
         {
             "class": "agnolotti",
+            "categories": [
+                "pasta"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Agnolotti",
                 "GB": "Agnolotti"
             },
-            "related-classes": [],
-            "categories": ["dish", "pasta"],
             "description": {
                 "DE": "Agnolotti sind eine italienische Pastasorte, und zwar gefüllte Teigtäschchen aus der Region Piemont.",
                 "GB": "Agnolotti is a type of pasta typical of the Piedmont region of Italy, made with small pieces of flattened pasta dough, folded over a filling of roasted meat or vegetables."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Agnolotti",
-                    "GB": "https://en.wikipedia.org/wiki/Agnolotti"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Agnolotti",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Agnolotti"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "ahi tuna",
+            "categories": [
+                "fish"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Gelbflossen-Thun",
                 "GB": "Yellowfin tuna"
             },
-            "related-classes": [],
-            "categories": ["dish", "fish"],
             "description": {
                 "DE": "Der Gelbflossen-Thun (Thunnus albacares), auch Ahi genannt, ist eine Thunfischart und ein bedeutender Speisefisch.",
                 "GB": "The yellowfin tuna (Thunnus albacares) is a species of tuna found in pelagic waters of tropical and subtropical oceans worldwide."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Gelbflossen-Thun",
-                    "GB": "https://en.wikipedia.org/wiki/Yellowfin_tuna"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gelbflossen-Thun",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Yellowfin_tuna"
                 },
                 "spoonacular": null
             }
@@ -1151,15 +1155,18 @@
                 "GB": "Ale"
             },
             "related-classes": [],
-            "categories": ["drink", "beer"],
+            "categories": [
+                "drink",
+                "beer"
+            ],
             "description": {
                 "DE": "Ale ist ein gebräuchlicher Begriff für ein fermentiertes Getränk, das hauptsächlich aus gemälzter Gerste hergestellt wird.",
                 "GB": "Ale is a type of beer brewed using a warm fermentation method, resulting in a sweet, full-bodied and fruity taste."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Ale_(Bier)",
-                    "GB": "https://en.wikipedia.org/wiki/Ale"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ale_(Bier)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ale"
                 },
                 "spoonacular": null
             }
@@ -1171,15 +1178,18 @@
                 "GB": "Amaretto"
             },
             "related-classes": [],
-            "categories": ["drink", "liqueur"],
+            "categories": [
+                "drink",
+                "liqueur"
+            ],
             "description": {
                 "DE": "Amaretto ist eine Geschmacksrichtung für ursprünglich aus Italien stammende Liköre mit einem nussigen Aroma, das an Marzipan erinnert.",
                 "GB": "Amaretto (Italian for \"a little bitter\") is a sweet Italian liqueur that originated in Saronno, Italy."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Amaretto",
-                    "GB": "https://en.wikipedia.org/wiki/Amaretto"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Amaretto",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Amaretto"
                 },
                 "spoonacular": null
             }
@@ -1195,15 +1205,18 @@
                 "GB": "Anchovy"
             },
             "related-classes": [],
-            "categories": ["dish", "fish"],
+            "categories": [
+                "dish",
+                "fish"
+            ],
             "description": {
                 "DE": "Die Sardellen (Engraulidae) sind eine Familie der Heringsartigen.",
                 "GB": "An anchovy is a small, common forage fish of the family Engraulidae."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Sardellen",
-                    "GB": "https://en.wikipedia.org/wiki/Anchovy"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sardellen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Anchovy"
                 },
                 "spoonacular": null
             }
@@ -1215,15 +1228,18 @@
                 "GB": "Capellini"
             },
             "related-classes": [],
-            "categories": ["dish", "pasta"],
+            "categories": [
+                "dish",
+                "pasta"
+            ],
             "description": {
                 "DE": "Die Capellini sind eine mit zumeist 0,88 Millimeter Durchmesser extrem dünne, den Spaghetti ähnliche Pastaform aus der italienischen Küche.",
                 "GB": "Capellini is a very thin variety of Italian pasta, with a diameter between 0.85 and 0.92 millimetres (0.033 and 0.036 in)."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Capellini",
-                    "GB": "https://en.wikipedia.org/wiki/Capellini"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Capellini",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Capellini"
                 },
                 "spoonacular": null
             }
@@ -1239,15 +1255,18 @@
                 "GB": "Antipasto"
             },
             "related-classes": [],
-            "categories": ["dish", "starter"],
+            "categories": [
+                "dish",
+                "starter"
+            ],
             "description": {
                 "DE": "Antipasto (Mehrzahl Antipasti) ist die italienische Bezeichnung für \"Vorspeise\".",
                 "GB": "Antipasto (plural antipasti) is the traditional first course of a formal Italian meal."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Antipasto",
-                    "GB": "https://en.wikipedia.org/wiki/Antipasto"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Antipasto",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Antipasto"
                 },
                 "spoonacular": null
             }
@@ -1259,15 +1278,17 @@
                 "GB": "Apéritif and digestif"
             },
             "related-classes": [],
-            "categories": ["drink"],
+            "categories": [
+                "drink"
+            ],
             "description": {
                 "DE": "Ein Aperitif ist ein meist alkoholisches Getränk, das vor dem Essen konsumiert wird, um den Appetit anzuregen und auf die bevorstehende Mahlzeit einzustimmen.",
                 "GB": "Apéritifs are drinks, typically alcoholic, that are normally served before (apéritif) or after (digestif) a meal."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Aperitif",
-                    "GB": "https://en.wikipedia.org/wiki/Ap%C3%A9ritif_and_digestif"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Aperitif",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ap%C3%A9ritif_and_digestif"
                 },
                 "spoonacular": null
             }
@@ -1287,7 +1308,10 @@
                 "GB": "Appetizer Sampler Platter"
             },
             "related-classes": [],
-            "categories": ["dish", "starter"],
+            "categories": [
+                "dish",
+                "starter"
+            ],
             "description": {
                 "DE": null,
                 "GB": null
@@ -1307,15 +1331,18 @@
                 "GB": "Apple cake"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Der Apfelkuchen ist einer der klassischen Obstkuchen, der in vielen Varianten zubereitet wird.",
                 "GB": "Apple cake is a popular dessert produced with the main ingredient of apples."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Apfelkuchen",
-                    "GB": "https://en.wikipedia.org/wiki/Apple_cake"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Apfelkuchen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Apple_cake"
                 },
                 "spoonacular": null
             }
@@ -1327,15 +1354,17 @@
                 "GB": "Apple cider"
             },
             "related-classes": [],
-            "categories": ["drink"],
+            "categories": [
+                "drink"
+            ],
             "description": {
                 "DE": "Apfelschaumwein (auch Apfelsekt oder Apfelperlwein) ist eine Bezeichnung für moussierende Apfelweine, die aus verschiedenen Apfelsorten vergoren werden.",
                 "GB": "Apple cider (also called sweet cider or soft cider or simply cider) is the name used in the United States and parts of Canada for an unfiltered, unsweetened, non-alcoholic beverage made from apples."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Apfelschaumwein",
-                    "GB": "https://en.wikipedia.org/wiki/Apple_cider"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Apfelschaumwein",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Apple_cider"
                 },
                 "spoonacular": null
             }
@@ -1347,15 +1376,17 @@
                 "GB": "Apple juice"
             },
             "related-classes": [],
-            "categories": ["drink"],
+            "categories": [
+                "drink"
+            ],
             "description": {
                 "DE": "Apfelsaft ist ein Fruchtsaft, der durch Pressung von Äpfeln gewonnen wird.",
                 "GB": "Apple juice is a fruit juice made by the maceration and pressing of an apple."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Apfelsaft",
-                    "GB": "https://en.wikipedia.org/wiki/Apple_juice"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Apfelsaft",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Apple_juice"
                 },
                 "spoonacular": null
             }
@@ -1375,7 +1406,9 @@
                 "GB": "Artichoke dip"
             },
             "related-classes": [],
-            "categories": ["sauce"],
+            "categories": [
+                "sauce"
+            ],
             "description": {
                 "DE": "Artischockendip ist ein Dip, der Artischocken als Hauptbestandteil verwendet.",
                 "GB": "Artichoke dip is a dip that uses artichoke as a primary ingredient."
@@ -1383,7 +1416,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Artichoke_dip"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Artichoke_dip"
                 },
                 "spoonacular": null
             }
@@ -1395,7 +1428,9 @@
                 "GB": "Avocado Roll"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Eine Avocado-Rolle ist ein japanisches Sushi-Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Avocados und Gurken.",
                 "GB": "An avocado roll is a Japanese sushi dish made from cooled, acidified rice, supplemented with avocados and cucumbers."
@@ -1423,15 +1458,17 @@
                 "GB": "Baguette"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Das bzw. die Baguette, in Deutschland auch Stangenweißbrot, Pariser Weißbrot oder kurz Pariser, in der Schweiz auch Parisette, ist ein langgestrecktes, knuspriges Weißbrot französischen Ursprungs.",
                 "GB": "A baguette is a long, thin loaf of French bread that is commonly made from basic lean dough (the dough, though not the shape, is defined by French law)."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Baguette",
-                    "GB": "https://en.wikipedia.org/wiki/Baguette"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Baguette",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Baguette"
                 },
                 "spoonacular": null
             }
@@ -1443,15 +1480,17 @@
                 "GB": "Baileys Irish Cream"
             },
             "related-classes": [],
-            "categories": ["drink"],
+            "categories": [
+                "drink"
+            ],
             "description": {
                 "DE": "Baileys ist die Kurzform für Baileys Original Irish Cream, dem Markennamen eines irischen Sahnelikörs aus irischem Whiskey und Rahm mit einem Alkoholgehalt von 17 Vol.-%. Baileys gehört zum Diageo-Konzern.",
                 "GB": "Baileys Irish Cream is an Irish cream liqueur - an alcoholic beverage flavored with cream, cocoa, and Irish whiskey - made by Diageo at Nangor Road, in Dublin, Republic of Ireland and in Mallusk, Northern Ireland owned by Gilbeys of Ireland, the trademark is currently owned by Diageo."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Baileys",
-                    "GB": "https://en.wikipedia.org/wiki/Baileys_Irish_Cream"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Baileys",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Baileys_Irish_Cream"
                 },
                 "spoonacular": null
             }
@@ -1463,15 +1502,17 @@
                 "GB": "Baked beans"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Baked Beans (englisch für Gebackene Bohnen) sind ein traditionelles britisches und US-amerikanisches Gericht aus weißen Bohnen, die mit Tomatensauce oder Ketchup im Ofen gebacken werden.",
                 "GB": "Baked beans is a dish traditionally containing white beans which are parboiled and then baked at a low temperature for a lengthy period of time in some sort of sauce."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Baked_Beans",
-                    "GB": "https://en.wikipedia.org/wiki/Baked_beans"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Baked_Beans",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Baked_beans"
                 },
                 "spoonacular": null
             }
@@ -1483,7 +1524,9 @@
                 "GB": "Baked brie"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": null,
                 "GB": null
@@ -1503,15 +1546,17 @@
                 "GB": "Baked potato"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Backkartoffeln, gebackene Kartoffeln oder Ofenkartoffeln sind ungeschälte Kartoffeln, die ohne Zugabe von Flüssigkeit in der Glut eines Feuers, im Erdofen oder im Backofen gegart werden.",
                 "GB": "A baked potato, or jacket potato, is a potato that has been baked for eating."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Backkartoffel",
-                    "GB": "https://en.wikipedia.org/wiki/Baked_potato"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Backkartoffel",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Baked_potato"
                 },
                 "spoonacular": null
             }
@@ -1527,7 +1572,9 @@
                 "GB": "Baked ziti"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Gebackener Ziti ist eine beliebte Auflaufform aus Ziti-Nudeln und einem Gericht auf Tomatenbasis, das typisch für die italienisch-amerikanische Küche nach neapolitanischem Stil ist.",
                 "GB": "Baked ziti is a popular casserole with ziti pasta and a Neapolitan-style tomato-based sauce characteristic of Italian-American cuisine."
@@ -1535,7 +1582,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Baked_ziti"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Baked_ziti"
                 },
                 "spoonacular": null
             }
@@ -1547,15 +1594,18 @@
                 "GB": "Baklava"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Baklava ist ein in Zuckersirup eingelegtes Gebäck aus Blätter- oder Filoteig, gefüllt mit gehackten Walnüssen, Mandeln oder Pistazien.",
                 "GB": "Baklava is a rich, sweet dessert pastry made of layers of filo filled with chopped nuts and sweetened and held together with syrup or honey."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Baklava",
-                    "GB": "https://en.wikipedia.org/wiki/Baklava"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Baklava",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Baklava"
                 },
                 "spoonacular": null
             }
@@ -1567,15 +1617,18 @@
                 "GB": "Banana bread"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Es wird, je nach Rezept, aus zerkleinerten Bananen, Weizenmehl, Zucker, Backpulver, Butter, Milch und Ei bzw. Sojamilch oder Tofu hergestellt.",
                 "GB": "Banana bread is a type of bread made from mashed bananas."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bananenbrot",
-                    "GB": "https://en.wikipedia.org/wiki/Banana_bread"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bananenbrot",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Banana_bread"
                 },
                 "spoonacular": null
             }
@@ -1587,7 +1640,10 @@
                 "GB": "Banana cake"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": null,
                 "GB": null
@@ -1607,7 +1663,10 @@
                 "GB": "Banana cream pie"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": null,
                 "GB": null
@@ -1627,7 +1686,10 @@
                 "GB": "Banana pudding"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": null,
                 "GB": "Banana pudding is a dessert generally consisting of layers of sweet vanilla flavored custard, cookies (usually Vanilla Wafers or ladyfingers) and sliced fresh bananas placed in a dish and served, topped with whipped cream or meringue."
@@ -1635,7 +1697,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Banana_pudding"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Banana_pudding"
                 },
                 "spoonacular": null
             }
@@ -1647,7 +1709,10 @@
                 "GB": "Bananas Foster"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Bananas Foster ist ein Dessert aus Bananen und Vanilleeis mit einer Sauce aus Butter, braunem Zucker, Zimt, dunklem Rum und Bananenlikör.",
                 "GB": "Bananas Foster is a dessert made from bananas and vanilla ice cream, with a sauce made from butter, brown sugar, cinnamon, dark rum, and banana liqueur."
@@ -1655,7 +1720,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Bananas_Foster"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bananas_Foster"
                 },
                 "spoonacular": null
             }
@@ -1667,15 +1732,18 @@
                 "GB": "Banana split"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Bananensplit ist eine Eisspeise, der aus der US-amerikanischen Küche stammt.",
                 "GB": "A banana split is an ice cream-based dessert."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bananensplit",
-                    "GB": "https://en.wikipedia.org/wiki/Banana_split"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bananensplit",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Banana_split"
                 },
                 "spoonacular": null
             }
@@ -1686,16 +1754,20 @@
                 "DE": "Bánh mì",
                 "GB": "Bánh mì"
             },
-            "related-classes": ["baguette"],
-            "categories": ["dish"],
+            "related-classes": [
+                "baguette"
+            ],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Bánh mì ist der vietnamesische Begriff für eine bestimmte Art von belegtem Brot.",
                 "GB": "Bánh mì or banh mi is the Vietnamese word for bread."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC",
-                    "GB": "https://en.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/B%C3%A1nh_m%C3%AC",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/B%C3%A1nh_m%C3%AC"
                 },
                 "spoonacular": null
             }
@@ -1707,7 +1779,10 @@
                 "GB": "Banoffee pie"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Banoffee pie ist ein englischer Dessertkuchen aus Bananen, Sahne und Toffee, kombiniert entweder auf Butterkeksbasis oder aus zerbröckeltem Keks und Butter.",
                 "GB": "Banoffee pie is an English dessert pie made from bananas, cream and toffee (made from boiled condensed milk, or dulce de leche), combined either on a buttery biscuit base or one made from crumbled biscuits and butter."
@@ -1715,7 +1790,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Banoffee_pie"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Banoffee_pie"
                 },
                 "spoonacular": null
             }
@@ -1730,8 +1805,13 @@
                 "DE": "Panierter Fisch",
                 "GB": "Battered fish"
             },
-            "related-classes": ["fish and chips"],
-            "categories": ["dish", "fish"],
+            "related-classes": [
+                "fish and chips"
+            ],
+            "categories": [
+                "dish",
+                "fish"
+            ],
             "description": {
                 "DE": null,
                 "GB": null
@@ -1751,7 +1831,10 @@
                 "GB": "Barbecue chicken"
             },
             "related-classes": [],
-            "categories": ["dish", "chicken"],
+            "categories": [
+                "dish",
+                "chicken"
+            ],
             "description": {
                 "DE": "Grillhähnchen besteht aus Hühnerteilen oder ganzen Hühnern, die gegrillt, gegrillt oder geräuchert werden.",
                 "GB": "Barbecue chicken consists of chicken parts or entire chickens that are barbecued, grilled or smoked."
@@ -1759,7 +1842,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Barbecue_chicken"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Barbecue_chicken"
                 },
                 "spoonacular": null
             }
@@ -1771,15 +1854,17 @@
                 "GB": "Barbecue sauce"
             },
             "related-classes": [],
-            "categories": ["sauce"],
+            "categories": [
+                "sauce"
+            ],
             "description": {
                 "DE": "Barbecuesauce (auch BBQ-Sauce) ist eine Würzsauce, die vornehmlich für Grill- und Barbecuegerichte Verwendung findet.",
                 "GB": "Barbecue sauce (also abbreviated as BBQ sauce) is used as a flavoring sauce, a marinade, basting, condiment, or topping for meat cooked in the barbecue cooking style, including pork or beef ribs and chicken."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Barbecuesauce",
-                    "GB": "https://en.wikipedia.org/wiki/Barbecue_sauce"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Barbecuesauce",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Barbecue_sauce"
                 },
                 "spoonacular": null
             }
@@ -1790,8 +1875,13 @@
                 "DE": "Hähnchenflügel",
                 "GB": "Barbecue Wings"
             },
-            "related-classes": ["bbq chicken"],
-            "categories": ["dish", "chicken"],
+            "related-classes": [
+                "bbq chicken"
+            ],
+            "categories": [
+                "dish",
+                "chicken"
+            ],
             "description": {
                 "DE": null,
                 "GB": null
@@ -1811,15 +1901,18 @@
                 "GB": "Veggie burger"
             },
             "related-classes": [],
-            "categories": ["dish", "burger"],
+            "categories": [
+                "dish",
+                "burger"
+            ],
             "description": {
                 "DE": "Ein Veggie-Burger ist ein Hamburger, der kein Fleisch enthält.",
                 "GB": "A veggie burger is a burger patty that does not contain meat or any such kind of meat."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Veggie-Burger",
-                    "GB": "https://en.wikipedia.org/wiki/Veggie_burger"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Veggie-Burger",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Veggie_burger"
                 },
                 "spoonacular": null
             }
@@ -1831,7 +1924,9 @@
                 "GB": "Bohnensalat"
             },
             "related-classes": [],
-            "categories": ["salad"],
+            "categories": [
+                "salad"
+            ],
             "description": {
                 "DE": null,
                 "GB": null
@@ -1851,7 +1946,9 @@
                 "GB": "Beans and rice"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Reis und Bohnen oder Bohnen und Reis ist eine Art von Gericht, das aus einer Kombination von Grundnahrungsmitteln in vielen Kulturen auf der ganzen Welt hergestellt wird.",
                 "GB": "Rice and beans or beans and rice is type of dish made from a combination of staple foods in many cultures around the world."
@@ -1859,7 +1956,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Rice_and_beans"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Rice_and_beans"
                 },
                 "spoonacular": null
             }
@@ -1871,15 +1968,19 @@
                 "GB": "Beef brisket"
             },
             "related-classes": [],
-            "categories": ["dish", "meat", "beef"],
+            "categories": [
+                "dish",
+                "meat",
+                "beef"
+            ],
             "description": {
                 "DE": "Die Rinderbrust ist in der Kochkunst bzw. im Fleischer-Gewerbe ein mäßig durchwachsenes, langfaseriges Teilstück des Vorderviertels vom Rind.",
                 "GB": "Brisket is a cut of meat from the breast or lower chest of beef or veal."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Rinderbrust",
-                    "GB": "https://en.wikipedia.org/wiki/Brisket"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rinderbrust",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Brisket"
                 },
                 "spoonacular": null
             }
@@ -1895,15 +1996,19 @@
                 "GB": "Short ribs"
             },
             "related-classes": [],
-            "categories": ["dish", "meat", "beef"],
+            "categories": [
+                "dish",
+                "meat",
+                "beef"
+            ],
             "description": {
                 "DE": "Die Quer- oder Zwerchrippe ist das vordere Teilstück der Rippen vom Rind unterhalb von Rinderhals und Hochrippe.",
                 "GB": "Short ribs are a cut of beef taken from the brisket, chuck, plate, or rib areas of beef cattle."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Querrippe",
-                    "GB": "https://en.wikipedia.org/wiki/Short_ribs"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Querrippe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Short_ribs"
                 },
                 "spoonacular": null
             }
@@ -1915,15 +2020,19 @@
                 "GB": "Beefsteak"
             },
             "related-classes": [],
-            "categories": ["dish", "meat", "beef"],
+            "categories": [
+                "dish",
+                "meat",
+                "beef"
+            ],
             "description": {
                 "DE": "Als Beefsteak werden Scheiben aus dem Muskelfleisch des Rindes bezeichnet, unter anderem aus dem Filet, aus dem Roastbeef und aus der Hüfte (Schwanzstück) oder aus Hackfleisch.",
                 "GB": "A beef steak is a flat cut of beef, with parallel faces spaced to a thickness of 1 to 5 centimetres (1⁄2 to 2 in), usually cut perpendicular to the muscle fibers, with a raw mass in common restaurant service ranging from 120 to 600 grams (4 to 21 oz)."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Beefsteak",
-                    "GB": "https://en.wikipedia.org/wiki/Beefsteak"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Beefsteak",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Beefsteak"
                 },
                 "spoonacular": null
             }
@@ -1935,7 +2044,10 @@
                 "GB": "Beef stew"
             },
             "related-classes": [],
-            "categories": ["dish", "stew"],
+            "categories": [
+                "dish",
+                "stew"
+            ],
             "description": {
                 "DE": null,
                 "GB": null
@@ -1955,15 +2067,19 @@
                 "GB": "Beef Stroganoff"
             },
             "related-classes": [],
-            "categories": ["dish", "meat", "beef"],
+            "categories": [
+                "dish",
+                "meat",
+                "beef"
+            ],
             "description": {
                 "DE": "Bœuf Stroganoff ist ein Gericht der russischen Küche und der Haute cuisine aus sautierten Würfelchen oder Streifen der Spitze des Rinderfilets, in einer säuerlich abgeschmeckten Soße, die Zwiebel (oder Schalotte), Sauerrahm und Senf enthält.",
                 "GB": "Beef Stroganoff or beef Stroganov is a Russian dish of sautéed pieces of beef served in a sauce with smetana (sour cream)."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/B%C5%93uf_Stroganoff",
-                    "GB": "https://en.wikipedia.org/wiki/Beef_Stroganoff"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/B%C5%93uf_Stroganoff",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Beef_Stroganoff"
                 },
                 "spoonacular": null
             }
@@ -1975,15 +2091,19 @@
                 "GB": "Beef Wellington"
             },
             "related-classes": [],
-            "categories": ["dish", "meat", "beef"],
+            "categories": [
+                "dish",
+                "meat",
+                "beef"
+            ],
             "description": {
                 "DE": "Das Filet Wellington ist ein Fleischgericht, das angeblich von dem Schweizer Küchenchef Charles Senn anlässlich der Zürcher Internationalen Kochkunstausstellung (ZIKA) 1930 kreiert wurde.",
                 "GB": "Beef Wellington is a preparation of fillet steak coated with pâté and duxelles, which is then wrapped in parma ham, puff pastry and baked."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Filet_Wellington",
-                    "GB": "https://en.wikipedia.org/wiki/Beef_Wellington"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Filet_Wellington",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Beef_Wellington"
                 },
                 "spoonacular": null
             }
@@ -1995,15 +2115,18 @@
                 "GB": "Beer"
             },
             "related-classes": [],
-            "categories": ["drink", "beer"],
+            "categories": [
+                "drink",
+                "beer"
+            ],
             "description": {
                 "DE": "Bier ist ein Getränk, das durch Gärung aus stärkehaltigen Stoffen gewonnen und nicht destilliert wird.",
                 "GB": "Beer is one of the oldest and most widely consumed alcoholic drinks in the world."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bier",
-                    "GB": "https://en.wikipedia.org/wiki/Beer"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bier",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Beer"
                 },
                 "spoonacular": null
             }
@@ -2015,7 +2138,10 @@
                 "GB": "Beet salad"
             },
             "related-classes": [],
-            "categories": ["dish", "salad"],
+            "categories": [
+                "dish",
+                "salad"
+            ],
             "description": {
                 "DE": null,
                 "GB": null
@@ -2035,15 +2161,18 @@
                 "GB": "Bellini (cocktail)"
             },
             "related-classes": [],
-            "categories": ["drink", "cocktail"],
+            "categories": [
+                "drink",
+                "cocktail"
+            ],
             "description": {
                 "DE": "Bellini ist ein Cocktail, der aus trockenem Prosecco, Sekt oder Champagner, einem halben pürierten weißen Pfirsich und nach Geschmack etwas Zuckersirup besteht.",
                 "GB": "A Bellini is a cocktail made with Prosecco and peach purée or nectar."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bellini_(Cocktail)",
-                    "GB": "https://en.wikipedia.org/wiki/Bellini_(cocktail)"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bellini_(Cocktail)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bellini_(cocktail)"
                 },
                 "spoonacular": null
             }
@@ -2059,15 +2188,17 @@
                 "GB": "Beurre blanc"
             },
             "related-classes": [],
-            "categories": ["sauce"],
+            "categories": [
+                "sauce"
+            ],
             "description": {
                 "DE": "Beurre blanc (deutsch „weiße Butter“, in Frankreich auch als „Beurre nantais“ bezeichnet) ist eine klassische Buttersauce der französischen Küche, die vor allem zu Fisch und hellem Geflügel serviert wird.",
-                "GB": "Beurre blanc—literally translated from French as \"white butter\"—is a hot emulsified butter sauce made with a reduction of vinegar and/or white wine (normally Muscadet) and grey shallots into which softened, whole butter is whisked in off the heat to prevent separation."
+                "GB": "Beurre blanc—literally translated from French as \"white butter\"—is a hot emulsified butter sauce made with a reduction of vinegar and\/or white wine (normally Muscadet) and grey shallots into which softened, whole butter is whisked in off the heat to prevent separation."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Beurre_blanc",
-                    "GB": "https://en.wikipedia.org/wiki/Beurre_blanc"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Beurre_blanc",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Beurre_blanc"
                 },
                 "spoonacular": null
             }
@@ -2079,15 +2210,17 @@
                 "GB": "Bibimbap"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Bibimbap ist ein beliebtes koreanisches Gericht, das mit Reis und verschiedenen Gemüsesorten, etwas Rindfleisch oder Tofu, einem rohen oder gebratenen Ei und Gochujang (einer Chilipaste) zubereitet wird.",
                 "GB": "Bibimbap from Korean is a Korean rice dish."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bibimbap",
-                    "GB": "https://en.wikipedia.org/wiki/Bibimbap"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bibimbap",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bibimbap"
                 },
                 "spoonacular": null
             }
@@ -2099,15 +2232,17 @@
                 "GB": "Biryani"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Biryani ist ein herzhaftes Reisgericht aus Asien.",
                 "GB": "Biryani, also known as biriyani, biriani, birani or briyani, is a mixed rice dish with its origins among the Muslims of the Indian subcontinent."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Biryani",
-                    "GB": "https://en.wikipedia.org/wiki/Biryani"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Biryani",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Biryani"
                 },
                 "spoonacular": null
             }
@@ -2119,15 +2254,18 @@
                 "GB": "Biscotti"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Cantuccini (auch Cantucci oder Biscotti di Prato) sind ein traditionelles Mandelgebäck aus der italienischen Provinz Prato nahe Florenz.",
                 "GB": "Biscotti, known also as cantucci, are Italian almond biscuits that originated in the city of Prato."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Cantuccini",
-                    "GB": "https://en.wikipedia.org/wiki/Biscotti"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cantuccini",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Biscotti"
                 },
                 "spoonacular": null
             }
@@ -2139,7 +2277,9 @@
                 "GB": "Biscuits and gravy"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Kekse und Soße sind in den Vereinigten Staaten, vor allem im Süden, ein beliebtes Frühstücksessen.",
                 "GB": "Biscuits and gravy is a popular breakfast dish in the United States, especially in the South."
@@ -2147,7 +2287,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Biscuits_and_gravy"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Biscuits_and_gravy"
                 },
                 "spoonacular": null
             }
@@ -2163,15 +2303,18 @@
                 "GB": "Bisque"
             },
             "related-classes": [],
-            "categories": ["dish", "soup"],
+            "categories": [
+                "dish",
+                "soup"
+            ],
             "description": {
                 "DE": "Bisque ist eine geschmacksintensive pürierte Suppe, die aus Hummern oder anderen Krustentieren gekocht wird.",
                 "GB": "Bisque is a smooth, creamy, highly seasoned soup of French origin, classically based on a strained broth (coulis) of crustaceans."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bisque",
-                    "GB": "https://en.wikipedia.org/wiki/Bisque_(food)"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bisque",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bisque_(food)"
                 },
                 "spoonacular": null
             }
@@ -2187,15 +2330,18 @@
                 "GB": "Black tea"
             },
             "related-classes": [],
-            "categories": ["drink", "tea"],
+            "categories": [
+                "drink",
+                "tea"
+            ],
             "description": {
                 "DE": "Schwarzer Tee oder Schwarztee, in Ostasien als roter Tee bezeichnet, ist eine Variante, Tee herzustellen.",
                 "GB": "Black tea is a type of tea that is more oxidized than oolong, green, and white teas. Black tea is generally stronger in flavour than the less oxidized teas."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Schwarzer_Tee",
-                    "GB": "https://en.wikipedia.org/wiki/Black_tea"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schwarzer_Tee",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Black_tea"
                 },
                 "spoonacular": null
             }
@@ -2207,15 +2353,18 @@
                 "GB": "Bloody Mary"
             },
             "related-classes": [],
-            "categories": ["drink", "cocktail"],
+            "categories": [
+                "drink",
+                "cocktail"
+            ],
             "description": {
                 "DE": "Bloody Mary ist ein klassischer Cocktail aus Wodka, Tomatensaft und Gewürzen.",
-                "GB": "A Bloody Mary is a cocktail containing vodka, tomato juice, and combinations of other spices and flavorings including Worcestershire sauce, hot sauces, garlic, herbs, horseradish, celery, olives, salt, black pepper, lemon juice, lime juice and/or celery salt."
+                "GB": "A Bloody Mary is a cocktail containing vodka, tomato juice, and combinations of other spices and flavorings including Worcestershire sauce, hot sauces, garlic, herbs, horseradish, celery, olives, salt, black pepper, lemon juice, lime juice and\/or celery salt."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bloody_Mary",
-                    "GB": "https://en.wikipedia.org/wiki/Bloody_Mary_(cocktail)"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bloody_Mary",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bloody_Mary_(cocktail)"
                 },
                 "spoonacular": null
             }
@@ -2227,7 +2376,9 @@
                 "GB": "BLT"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Ein BLT ist eine Art Sandwich, benannt nach den Initialen seiner Hauptbestandteile Speck, Salat und Tomate.",
                 "GB": "A BLT is a type of sandwich, named for the initials of its primary ingredients, bacon, lettuce and tomato."
@@ -2235,7 +2386,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/BLT"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/BLT"
                 },
                 "spoonacular": null
             }
@@ -2251,15 +2402,18 @@
                 "GB": "Bolognese sauce"
             },
             "related-classes": [],
-            "categories": ["sauce", "meat"],
+            "categories": [
+                "sauce",
+                "meat"
+            ],
             "description": {
                 "DE": "Ragù alla bolognese ist eine Hackfleischsauce, die vorwiegend mit Pasta kombiniert wird.",
                 "GB": "Bolognese sauce is a meat-based sauce in Italian cuisine, typical of the city of Bologna."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Rag%C3%B9_alla_bolognese",
-                    "GB": "https://en.wikipedia.org/wiki/Bolognese_sauce"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rag%C3%B9_alla_bolognese",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bolognese_sauce"
                 },
                 "spoonacular": null
             }
@@ -2270,8 +2424,12 @@
                 "DE": "Sardellen in Essig",
                 "GB": "Boquerones en vinagre"
             },
-            "related-classes": ["anchovy"],
-            "categories": ["dish"],
+            "related-classes": [
+                "anchovy"
+            ],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Boquerones en vinagre sind eine Art Vorspeise oder Tapa, die man in Spanien findet.",
                 "GB": "Boquerones en vinagre are a type of appetizer or tapa found in Spain."
@@ -2279,7 +2437,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Boquerones_en_vinagre"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Boquerones_en_vinagre"
                 },
                 "spoonacular": null
             }
@@ -2295,7 +2453,10 @@
                 "GB": "Bordeaux wine"
             },
             "related-classes": [],
-            "categories": ["drink", "wine"],
+            "categories": [
+                "drink",
+                "wine"
+            ],
             "description": {
                 "DE": "Ein Bordeaux-Wein ist jeder Wein, der in der Region Bordeaux im Südwesten Frankreichs hergestellt wird. Bordeaux liegt in der Stadt Bordeaux, am Fluss Garonne.",
                 "GB": "A Bordeaux wine is any wine produced in the Bordeaux region of southwest France. Bordeaux is centered on the city of Bordeaux, on the Garonne River."
@@ -2303,7 +2464,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Bordeaux_wine"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bordeaux_wine"
                 },
                 "spoonacular": null
             }
@@ -2315,15 +2476,18 @@
                 "GB": "Bouillabaisse"
             },
             "related-classes": [],
-            "categories": ["dish", "stew"],
+            "categories": [
+                "dish",
+                "stew"
+            ],
             "description": {
                 "DE": "Bouillabaisse ist ein provenzalisches Fischgericht, das je nach Zubereitung als zweigängiges Gericht aus Fischsuppe und gegartem Speisefisch mit Meeresfrüchten oder als reichhaltiger Eintopf serviert wird.",
                 "GB": "Bouillabaisse is a traditional Provençal fish stew originating from the port city of Marseille."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bouillabaisse",
-                    "GB": "https://en.wikipedia.org/wiki/Bouillabaisse"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bouillabaisse",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bouillabaisse"
                 },
                 "spoonacular": null
             }
@@ -2335,7 +2499,9 @@
                 "GB": "Boule"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Boule, aus dem Französischen für \"Ball\", ist eine traditionelle Form von französischem Brot, die an einen zerquetschten Ball erinnert.",
                 "GB": "Boule, from the French for \"ball\", is a traditional shape of French bread, resembling a squashed ball."
@@ -2343,7 +2509,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Boule_(bread)"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Boule_(bread)"
                 },
                 "spoonacular": null
             }
@@ -2355,15 +2521,17 @@
                 "GB": "Bourbon whiskey"
             },
             "related-classes": [],
-            "categories": ["drink"],
+            "categories": [
+                "drink"
+            ],
             "description": {
                 "DE": "Bourbon Whiskey, kurz Bourbon, ist eine ursprünglich nur in Kentucky gebrannte Variante des amerikanischen Whiskeys.",
                 "GB": "Bourbon whiskey is a type of American whiskey, a barrel-aged distilled spirit made primarily from corn."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bourbon_Whiskey",
-                    "GB": "https://en.wikipedia.org/wiki/Bourbon_whiskey"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bourbon_Whiskey",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bourbon_whiskey"
                 },
                 "spoonacular": null
             }
@@ -2395,7 +2563,10 @@
                 "GB": "Braised lamb shank"
             },
             "related-classes": [],
-            "categories": ["dish", "meat"],
+            "categories": [
+                "dish",
+                "meat"
+            ],
             "description": {
                 "DE": null,
                 "GB": null
@@ -2414,8 +2585,12 @@
                 "DE": "Geschmorte kurze Rippen",
                 "GB": "Braised short ribs"
             },
-            "related-classes": ["spare rips"],
-            "categories": ["dish"],
+            "related-classes": [
+                "spare rips"
+            ],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Galbi-jjjim oder geschmorte kurze Rippen sind eine Vielzahl von jjim oder koreanischen Dampfgerichten, die aus Galbi hergestellt werden.",
                 "GB": "Galbi-jjim or braised short ribs is a variety of jjim or Korean steamed dish made with galbi."
@@ -2423,7 +2598,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Galbi-jjim"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Galbi-jjim"
                 },
                 "spoonacular": null
             }
@@ -2439,15 +2614,17 @@
                 "GB": "Brandy"
             },
             "related-classes": [],
-            "categories": ["drink"],
+            "categories": [
+                "drink"
+            ],
             "description": {
                 "DE": "Weinbrand ist ein Gattungsbegriff für Spirituosen aus einem Weindestillat.",
                 "GB": "Brandy is a spirit produced by distilling wine."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Weinbrand",
-                    "GB": "https://en.wikipedia.org/wiki/Brandy"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Weinbrand",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Brandy"
                 },
                 "spoonacular": null
             }
@@ -2459,15 +2636,18 @@
                 "GB": "Bread pudding"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Brotpudding, auch Semmelauflauf oder Semmelschmarren ist ein Gericht nach traditionellen Rezepten, das in seiner Zubereitung dem ursprünglichen englischen Pudding entspricht, der in Deutschland früher auch Serviettenkloß genannt wurde.",
                 "GB": "Bread pudding is a bread-based dessert popular in many countries' cuisines, made with stale bread and milk or cream, generally containing eggs, a form of fat such as oil, butter or suet, and depending on whether the pudding is sweet or savory, a variety of other ingredients."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Brotpudding",
-                    "GB": "https://en.wikipedia.org/wiki/Bread_pudding"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Brotpudding",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bread_pudding"
                 },
                 "spoonacular": null
             }
@@ -2479,7 +2659,10 @@
                 "GB": "Frühstücksburrito"
             },
             "related-classes": [],
-            "categories": ["dish", "breakfast"],
+            "categories": [
+                "dish",
+                "breakfast"
+            ],
             "description": {
                 "DE": "Der Frühstücksburrito, manchmal auch als Frühstückswrap außerhalb des amerikanischen Südwestens bezeichnet, ist eine Variante des amerikanischen Frühstücks, die aus Frühstücksbestandteilen besteht, die in einem Mehltortilla-Burrito verpackt sind.",
                 "GB": "The breakfast burrito, sometimes referred to as a breakfast wrap outside of the American Southwest, is a variety of American breakfast composed of breakfast items wrapped inside a flour tortilla burrito."
@@ -2487,7 +2670,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Breakfast_burrito"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Breakfast_burrito"
                 },
                 "spoonacular": null
             }
@@ -2499,7 +2682,10 @@
                 "GB": "Frühstückssandwich"
             },
             "related-classes": [],
-            "categories": ["dish", "breakfast"],
+            "categories": [
+                "dish",
+                "breakfast"
+            ],
             "description": {
                 "DE": "In North America, a breakfast sandwich is any sandwich filled with foods associated with the breakfast meal.",
                 "GB": "In Nordamerika ist ein Frühstückssandwich jedes Sandwich, das mit Lebensmitteln gefüllt ist, die mit der Frühstücksmahlzeit verbunden sind."
@@ -2507,7 +2693,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Breakfast_sandwich"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Breakfast_sandwich"
                 },
                 "spoonacular": null
             }
@@ -2519,7 +2705,10 @@
                 "GB": "Sea Breeze"
             },
             "related-classes": [],
-            "categories": ["drink", "cocktail"],
+            "categories": [
+                "drink",
+                "cocktail"
+            ],
             "description": {
                 "DE": "A Sea Breeze ist ein Cocktail mit Wodka mit Preiselbeersaft und Grapefruitsaft.",
                 "GB": "A Sea Breeze is a cocktail containing vodka with cranberry juice and grapefruit juice."
@@ -2527,7 +2716,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Sea_Breeze_(cocktail)"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sea_Breeze_(cocktail)"
                 },
                 "spoonacular": null
             }
@@ -2539,15 +2728,18 @@
                 "GB": "Brioche"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Die Brioche, im Deutschen gelegentlich als „Apostelkuchen“ bezeichnet, ist ein feines Tafelgebäck aus ei- und fettreichem Hefeteig, das aus zwei oder drei verschieden großen und pyramidenartig aufeinander gesetzten Teigkugeln besteht.",
                 "GB": "Brioche is a bread of French origin that is similar to a highly enriched pastry, and whose high egg and butter content (400 grams for each kilogram of flour) give it a rich and tender crumb."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Brioche",
-                    "GB": "https://en.wikipedia.org/wiki/Brioche"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Brioche",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Brioche"
                 },
                 "spoonacular": null
             }
@@ -2559,15 +2751,19 @@
                 "GB": "Brisket"
             },
             "related-classes": [],
-            "categories": ["dish", "meat", "beef"],
+            "categories": [
+                "dish",
+                "meat",
+                "beef"
+            ],
             "description": {
                 "DE": "Die Rinderbrust ist in der Kochkunst bzw. im Fleischer-Gewerbe ein mäßig durchwachsenes, langfaseriges Teilstück des Vorderviertels vom Rind.",
                 "GB": "Brisket is a cut of meat from the breast or lower chest of beef or veal."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Rinderbrust",
-                    "GB": "https://en.wikipedia.org/wiki/Brisket"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rinderbrust",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Brisket"
                 },
                 "spoonacular": null
             }
@@ -2579,15 +2775,18 @@
                 "GB": "Rapini"
             },
             "related-classes": [],
-            "categories": ["dish", "vegetable"],
+            "categories": [
+                "dish",
+                "vegetable"
+            ],
             "description": {
                 "DE": "Als Rübstiel bezeichnet man die als Gemüse verwendeten Stiele und Blätter einiger Unterarten des Rübsen.",
                 "GB": "Rapini or broccoli rabe is a green cruciferous vegetable, with the leaves, buds, and stems all being edible; the buds somewhat resemble broccoli, but do not form a large head."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/R%C3%BCbstiel",
-                    "GB": "https://en.wikipedia.org/wiki/Rapini"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/R%C3%BCbstiel",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Rapini"
                 },
                 "spoonacular": null
             }
@@ -2599,15 +2798,18 @@
                 "GB": "Chocolate brownie"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Ein Brownie (auch Boston Brownie) ist ein traditioneller Kuchen der US-amerikanischen Küche.",
                 "GB": "A chocolate brownie (commonly referred to as simply brownie) is a square or rectangular, baked, chocolate cake. Brownies come in a variety of forms and may be either fudgy or cakey, depending on their density."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Brownie_(Geb%C3%A4ck)",
-                    "GB": "https://en.wikipedia.org/wiki/Chocolate_brownie"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Brownie_(Geb%C3%A4ck)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chocolate_brownie"
                 },
                 "spoonacular": null
             }
@@ -2623,7 +2825,10 @@
                 "GB": "Brownie Sundae"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Ein Brownie Eisbecher ist einfach ein Eisbecher auf einem Brownie.",
                 "GB": "A Brownie Sundae is simply a sundae on top of a brownie."
@@ -2643,15 +2848,17 @@
                 "GB": "Brunch"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Als Brunch wird eine Mahlzeit bezeichnet, die aus Komponenten des Frühstücks und des Mittagessens besteht.",
                 "GB": "Brunch is a combination of breakfast and lunch, and regularly has some form of alcoholic drink (most usually champagne or a cocktail) served with it."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Brunch",
-                    "GB": "https://en.wikipedia.org/wiki/Brunch"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Brunch",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Brunch"
                 },
                 "spoonacular": null
             }
@@ -2663,15 +2870,18 @@
                 "GB": "Bruschetta"
             },
             "related-classes": [],
-            "categories": ["dish", "starter"],
+            "categories": [
+                "dish",
+                "starter"
+            ],
             "description": {
                 "DE": "Bruschetta gehört zu den italienischen Antipasti.",
                 "GB": "Bruschetta is an antipasto from Italy consisting of grilled bread rubbed with garlic and topped with olive oil and salt."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bruschetta",
-                    "GB": "https://en.wikipedia.org/wiki/Bruschetta"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bruschetta",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bruschetta"
                 },
                 "spoonacular": null
             }
@@ -2683,15 +2893,18 @@
                 "GB": "Bubble tea"
             },
             "related-classes": [],
-            "categories": ["drink", "tea"],
+            "categories": [
+                "drink",
+                "tea"
+            ],
             "description": {
                 "DE": "Bubble Tea, international auch bekannt unter dem Namen Pearl Milk Tea oder Boba, ist ein taiwanisches Getränk auf der Basis von gesüßtem grünem oder schwarzem Tee, das häufig mit Milch und Fruchtsirup versetzt und wie ein Milchshake zubereitet wird.",
                 "GB": "Bubble tea (also known as pearl milk tea, bubble milk tea, or boba) is a Taiwanese tea-based drink invented in Tainan and Taichung in the 1980s."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bubble_Tea",
-                    "GB": "https://en.wikipedia.org/wiki/Bubble_tea"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bubble_Tea",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bubble_tea"
                 },
                 "spoonacular": null
             }
@@ -2703,15 +2916,18 @@
                 "GB": "Bucatini"
             },
             "related-classes": [],
-            "categories": ["dish", "pasta"],
+            "categories": [
+                "dish",
+                "pasta"
+            ],
             "description": {
                 "DE": "Bucatini oder Perciatelli sind röhrenförmige Nudeln aus Hartweizenmehl, die bei einem Durchmesser von 3 mm und einer Wanddicke von 1 mm eine Länge von etwa 30 cm besitzen, vor dem Kochen allerdings auch in kürzere Stücke zerbrochen werden können.",
                 "GB": "Bucatini, also known as perciatelli, is a thick spaghetti-like pasta with a hole running through the center."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bucatini",
-                    "GB": "https://en.wikipedia.org/wiki/Bucatini"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bucatini",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bucatini"
                 },
                 "spoonacular": null
             }
@@ -2723,7 +2939,11 @@
                 "GB": "Buffalo burger"
             },
             "related-classes": [],
-            "categories": ["dish", "meat", "beef"],
+            "categories": [
+                "dish",
+                "meat",
+                "beef"
+            ],
             "description": {
                 "DE": "Bison-Burger sind Hamburger, die aus Fleisch vom Rind oder amerikanischen Bison (Bison-Bison) hergestellt werden.",
                 "GB": "Buffalo burgers are hamburgers made with meat from the beefalo or American bison (Bison bison)."
@@ -2731,7 +2951,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Buffalo_burger"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Buffalo_burger"
                 },
                 "spoonacular": null
             }
@@ -2751,15 +2971,17 @@
                 "GB": "Bulgogi"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Bulgogi ist ein Fleischgericht der koreanischen Küche. In Korea gilt es als Festtagsgericht.",
                 "GB": "Bulgogi is a gui made of thin, marinated slices of beef or pork grilled on a barbecue or on a stove-top griddle."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bulgogi",
-                    "GB": "https://en.wikipedia.org/wiki/Bulgogi"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bulgogi",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bulgogi"
                 },
                 "spoonacular": null
             }
@@ -2771,15 +2993,18 @@
                 "GB": "Bun"
             },
             "related-classes": [],
-            "categories": ["dish", "bread"],
+            "categories": [
+                "dish",
+                "bread"
+            ],
             "description": {
                 "DE": "Ein Bun ist ein weiches Brötchen, wahlweise mit Sesam bestreut, das in runder Form für Hamburger und in länglicher Form für Hot Dogs verwendet wird.",
                 "GB": "A bun is a small, sometimes sweet, bread-based item or roll."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Bun",
-                    "GB": "https://en.wikipedia.org/wiki/Bun"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bun",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bun"
                 },
                 "spoonacular": null
             }
@@ -2795,15 +3020,18 @@
                 "GB": "Hamburger"
             },
             "related-classes": [],
-            "categories": ["dish", "burger"],
+            "categories": [
+                "dish",
+                "burger"
+            ],
             "description": {
                 "DE": "Ein Hamburger (kurz Burger) ist ein warmes Schnell- oder Fertiggericht und der Standardartikel vieler Fast-Food-Ketten.",
                 "GB": "A hamburger (short: burger) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Hamburger",
-                    "GB": "https://en.wikipedia.org/wiki/Hamburger"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Hamburger",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hamburger"
                 },
                 "spoonacular": null
             }
@@ -2819,15 +3047,17 @@
                 "GB": "Burrito"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Ein Burrito ist eine gefüllte Tortilla aus Weizenmehl und ein Gericht aus der mexikanischen und Tex-Mex-Küche.",
                 "GB": "A burrito is a dish in Mexican and Tex-Mex cuisine that consists of a flour tortilla wrapped into a sealed cylindrical shape around various ingredients."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Burrito",
-                    "GB": "https://en.wikipedia.org/wiki/Burrito"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Burrito",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Burrito"
                 },
                 "spoonacular": null
             }
@@ -3023,15 +3253,18 @@
                 "GB": "Cappuccino"
             },
             "related-classes": [],
-            "categories": ["drink", "coffee"],
+            "categories": [
+                "drink",
+                "coffee"
+            ],
             "description": {
                 "DE": "Cappuccino ist ein italienisches Kaffeegetränk, das aus einem Espresso und heißem Milchschaum zubereitet wird.",
                 "GB": "A cappuccino is an espresso-based coffee drink that originated in Italy, and is traditionally prepared with steamed milk foam (microfoam)."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Cappuccino",
-                    "GB": "https://en.wikipedia.org/wiki/Cappuccino"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cappuccino",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cappuccino"
                 },
                 "spoonacular": null
             }
@@ -4727,15 +4960,18 @@
                 "GB": "Cinnamon roll"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Eine Zimtschnecke (in Österreich auch Zuckerschnecke genannt, dänisch: Kanelsnegl) ist ein süßes Gebäck, das in Skandinavien und Mitteleuropa, aber auch in ganz Nordamerika (als Cinnamon roll oder brioche à la cannelle) verbreitet ist.",
                 "GB": "A cinnamon roll (also cinnamon bun, cinnamon swirl, cinnamon Danish and cinnamon snail) is a sweet roll served commonly in Northern Europe (mainly in Scandinavia) and North America."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Zimtschnecke",
-                    "GB": "https://en.wikipedia.org/wiki/Cinnamon_roll"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Zimtschnecke",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cinnamon_roll"
                 },
                 "spoonacular": null
             }
@@ -5035,15 +5271,18 @@
                 "GB": "Coffee"
             },
             "related-classes": [],
-            "categories": ["drink", "coffee"],
+            "categories": [
+                "drink",
+                "coffee"
+            ],
             "description": {
                 "DE": "Kaffee oder Kaffeegetränk ist ein schwarzes, psychotropes, koffeinhaltiges Getränk, das aus gerösteten und gemahlenen Kaffeebohnen, den Samen der Frucht der Kaffeepflanze, und heißem Wasser hergestellt wird.",
                 "GB": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Kaffee",
-                    "GB": "https://en.wikipedia.org/wiki/Coffee"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kaffee",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coffee"
                 },
                 "spoonacular": null
             }
@@ -5119,15 +5358,17 @@
                 "GB": "Cola"
             },
             "related-classes": [],
-            "categories": ["drink"],
+            "categories": [
+                "drink"
+            ],
             "description": {
                 "DE": "Cola, auch Kola, ist ein coffein- und kohlensäurehaltiges Erfrischungsgetränk.",
                 "GB": "Cola is a sweetened, carbonated soft drink flavored with vanilla, cinnamon, citrus oils and other flavorings."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Cola",
-                    "GB": "https://en.wikipedia.org/wiki/Cola"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cola",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cola"
                 },
                 "spoonacular": null
             }
@@ -5219,15 +5460,17 @@
                 "GB": "Biscuit"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Ein Keks (aus dem Plural cakes von englisch cake \"Kuchen\") ist ein ursprünglich englisches Gebäckstück.",
                 "GB": "A biscuit is a flour-based baked food product."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Keks",
-                    "GB": "https://en.wikipedia.org/wiki/Biscuit"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Keks",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Biscuit"
                 },
                 "spoonacular": null
             }
@@ -5823,15 +6066,17 @@
                 "GB": "Crumble"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Crumble (dt.: Krümel) ist eine Nachspeise der englischen und US-amerikanischen Küche.",
                 "GB": "A crumble is a dish that can be made in a sweet or savoury version, although the sweet version is much more common."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Crumble",
-                    "GB": "https://en.wikipedia.org/wiki/Crumble"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Crumble",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Crumble"
                 },
                 "spoonacular": null
             }
@@ -5863,15 +6108,18 @@
                 "GB": "Cupcake"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Ein Cupcake (amerikanisches Englisch; im britischen Englisch auch fairy cake) ist ein kleiner Kuchen, der in einer tassengroßen Backform gebacken wird und mit einem Guss oder einer Cremehaube versehen ist.",
                 "GB": "A cupcake (also British English: fairy cake; Hiberno-English: bun; Australian English: fairy cake or patty cake) is a small cake designed to serve one person, which may be baked in a small thin paper or aluminum cup."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Cupcake",
-                    "GB": "https://en.wikipedia.org/wiki/Cupcake"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cupcake",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cupcake"
                 },
                 "spoonacular": null
             }
@@ -5911,15 +6159,17 @@
                 "GB": "Curry"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Curry ist die Bezeichnung für Gerichte der südasiatischen, südostasiatischen und japanischen Küche auf der Basis einer sämigen Sauce mit verschiedenen Gewürzen und Zugaben von Fleisch, Fisch oder Gemüse.",
                 "GB": "Curry (plural curries) is a variety of dishes originating in the Indian subcontinent that use a complex combination of spices or herbs, usually including ground turmeric, cumin, coriander, ginger, and fresh or dried chilies."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Curry_(Gericht)",
-                    "GB": "https://en.wikipedia.org/wiki/Curry"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Curry_(Gericht)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Curry"
                 },
                 "spoonacular": null
             }
@@ -6139,15 +6389,18 @@
                 "GB": "Donut"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
-                "DE": "Ein Donut ist ein handtellergroßer amerikanischer/kanadischer Krapfen aus Hefeteig oder Rührteig (auch Schmalzgebäckkringel oder Lochkrapfen genannt).",
+                "DE": "Ein Donut ist ein handtellergroßer amerikanischer\/kanadischer Krapfen aus Hefeteig oder Rührteig (auch Schmalzgebäckkringel oder Lochkrapfen genannt).",
                 "GB": "A doughnut or donut (the latter spelling often seen in American English) is a type of fried dough confection or dessert food."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Donut",
-                    "GB": "https://en.wikipedia.org/wiki/Doughnut"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Donut",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Doughnut"
                 },
                 "spoonacular": null
             }
@@ -6571,15 +6824,18 @@
                 "GB": "Espresso"
             },
             "related-classes": [],
-            "categories": ["drink", "coffee"],
+            "categories": [
+                "drink",
+                "coffee"
+            ],
             "description": {
                 "DE": "Espresso ist eine aus Mailand stammende Kaffeezubereitungsart, bei der heißes Wasser mit hohem Druck durch sehr fein gemahlenes Kaffeemehl aus gerösteten Kaffeebohnen gepresst wird.",
                 "GB": "Espresso is coffee of Italian origin, brewed by forcing a small amount of nearly boiling water under pressure (expressing) through finely ground coffee beans."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Espresso",
-                    "GB": "https://en.wikipedia.org/wiki/Espresso"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Espresso",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Espresso"
                 },
                 "spoonacular": null
             }
@@ -7151,15 +7407,18 @@
                 "GB": "Flat white"
             },
             "related-classes": [],
-            "categories": ["drink", "coffee"],
+            "categories": [
+                "drink",
+                "coffee"
+            ],
             "description": {
                 "DE": "\"Flat White\" ist eine Bezeichnung für die Zubereitungsvariante eines Cappuccinos, der in der Regel mit Latte Art verziert wird.",
                 "GB": "A flat white is a coffee drink consisting of espresso with microfoam (steamed milk with small, fine bubbles and a glossy or velvety consistency)."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Flat_White",
-                    "GB": "https://en.wikipedia.org/wiki/Flat_white"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Flat_White",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Flat_white"
                 },
                 "spoonacular": null
             }
@@ -8211,15 +8470,17 @@
                 "GB": "Granola"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Knuspermüsli oder Granola besteht in der Grundform aus mit Zucker oder Honig gebackenen Haferflocken, die als Frühstücksflocken (Müsli), als Snack oder auch als Garnierung zum Beispiel von Speiseeis gegessen werden. Eine weitere häufige Zutat sind Nüsse.",
                 "GB": "Granola is a breakfast food and snack food consisting of rolled oats, nuts, honey or other sweeteners such as brown sugar, and sometimes puffed rice, that is usually baked until it is crisp, toasted and golden brown."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Knusperm%C3%BCsli",
-                    "GB": "https://en.wikipedia.org/wiki/Granola"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Knusperm%C3%BCsli",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Granola"
                 },
                 "spoonacular": null
             }
@@ -8491,15 +8752,17 @@
                 "GB": "Grissini"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Grissini sind dünne, mürbe Brotstangen aus Hefeteig.",
                 "GB": "Breadsticks (also known as grissini, grissino or dipping sticks) are generally pencil-sized sticks of crisp, dry baked bread that originated in Italy."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Grissini",
-                    "GB": "https://en.wikipedia.org/wiki/Breadstick"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Grissini",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Breadstick"
                 },
                 "spoonacular": null
             }
@@ -8943,15 +9206,17 @@
                 "GB": "Hot dog"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Der Hotdog (englisch für heißer Hund, auch Hot Dog) ist ein Fast-Food-Gericht, das aus einer warmen Brühwurst mit weiteren Zutaten in einem weichen Weizenbrötchen besteht.",
                 "GB": "The hot dog (also spelled hotdog) or dog is a grilled or steamed link-sausage sandwich where the sausage is served in the slit of a partially sliced bun."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Hotdog",
-                    "GB": "https://en.wikipedia.org/wiki/Hot_dog"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Hotdog",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hot_dog"
                 },
                 "spoonacular": null
             }
@@ -9727,15 +9992,18 @@
                 "GB": "Latte"
             },
             "related-classes": [],
-            "categories": ["drink", "coffee"],
+            "categories": [
+                "drink",
+                "coffee"
+            ],
             "description": {
                 "DE": "Milchkaffee ist ein Kaffee mit einem hohen Anteil Milch oder Milchschaum, der in verschiedenen Ländern vor allem morgens getrunken wird.",
                 "GB": "A latte is a coffee drink made with espresso and steamed milk."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Milchkaffee",
-                    "GB": "https://en.wikipedia.org/wiki/Latte"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Milchkaffee",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Latte"
                 },
                 "spoonacular": null
             }
@@ -10951,15 +11219,17 @@
                 "GB": "Migas"
             },
             "related-classes": [],
-            "categories": ["dish"],
+            "categories": [
+                "dish"
+            ],
             "description": {
                 "DE": "Migas oder Migas de Pastor sind ein spanisches und portugiesisches traditionelles Bauern- bzw. Hirtengericht, bei dem altes Weißbrot als Beilage oder eigenständiges Hauptgericht verwertet wird.",
                 "GB": "Migas is a dish in Spanish and Portuguese cuisines."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Migas",
-                    "GB": "https://en.wikipedia.org/wiki/Migas"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Migas",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Migas"
                 },
                 "spoonacular": null
             }
@@ -12911,7 +13181,10 @@
                 "GB": "Pizza Margherita"
             },
             "related-classes": [],
-            "categories": ["dish", "pizza"],
+            "categories": [
+                "dish",
+                "pizza"
+            ],
             "description": {
                 "DE": "Pizza Margherita (im Englischen besser bekannt als Margherita-Pizza) ist eine typisch neapolitanische Pizza, hergestellt aus San Marzano-Tomaten, Mozzarella-Käse, frischem Basilikum, Salz und nativem Olivenöl extra.",
                 "GB": "Pizza Margherita (more commonly known in English as Margherita pizza) is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil."
@@ -12919,7 +13192,7 @@
             "urls": {
                 "wikipedia": {
                     "DE": null,
-                    "GB": "https://en.wikipedia.org/wiki/Pizza_Margherita"
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pizza_Margherita"
                 },
                 "spoonacular": null
             }
@@ -15431,15 +15704,18 @@
                 "GB": "Sea bass"
             },
             "related-classes": [],
-            "categories": ["dish", "fish"],
+            "categories": [
+                "dish",
+                "fish"
+            ],
             "description": {
                 "DE": "Der Europäische Wolfsbarsch oder auch Seebarsch (Dicentrarchus labrax) ist ein Fisch aus der Familie der Wolfsbarsche (Moronidae).",
                 "GB": "The European bass (Dicentrarchus labrax) is a primarily ocean-going fish native to the waters off Europe's western and southern and Africa's northern coasts, though it can also be found in shallow coastal waters and river mouths during the summer months."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Wolfsbarsch",
-                    "GB": "https://en.wikipedia.org/wiki/European_bass"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Europ%C3%A4ischer_Wolfsbarsch",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/European_bass"
                 },
                 "spoonacular": null
             }
@@ -18575,15 +18851,18 @@
                 "GB": "Waffle"
             },
             "related-classes": [],
-            "categories": ["dish", "dessert"],
+            "categories": [
+                "dish",
+                "dessert"
+            ],
             "description": {
                 "DE": "Waffeln sind in ihrer einfachsten Form (Oblate) ein aus Mehl und Wasser bestehendes, flaches Feingebäck, das zwischen zwei heißen Eisen (Waffeleisen) gebacken wird.",
                 "GB": "A waffle is a dish made from leavened batter or dough that is cooked between two plates that are patterned to give a characteristic size, shape, and surface impression."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Waffel",
-                    "GB": "https://en.wikipedia.org/wiki/Waffle"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Waffel",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Waffle"
                 },
                 "spoonacular": null
             }
@@ -18599,15 +18878,17 @@
                 "GB": "Mineral water"
             },
             "related-classes": [],
-            "categories": ["drink"],
+            "categories": [
+                "drink"
+            ],
             "description": {
                 "DE": "Mineralwasser ist nach der deutschen Mineral- und Tafelwasserverordnung bzw. der österreichischen Mineralwasser- und Quellwasserverordnung ein Grundwasser mit besonderen Eigenschaften.",
                 "GB": "Mineral water is water from a mineral spring that contains various minerals, such as salts and sulfur compounds."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "https://de.wikipedia.org/wiki/Mineralwasser",
-                    "GB": "https://en.wikipedia.org/wiki/Mineral_water"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Mineralwasser",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Mineral_water"
                 },
                 "spoonacular": null
             }
@@ -19030,6 +19311,11 @@
                     "GB": null
                 },
                 "spoonacular": null
+            }
+        }
+    ],
+    "version": "1.0"
+}null
             }
         }
     ],
