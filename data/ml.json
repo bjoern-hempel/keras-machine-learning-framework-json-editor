@@ -650,7 +650,9 @@
         },
         {
             "category": "antipasto",
-            "parent-categories": [],
+            "parent-categories": [
+                "salad"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -670,7 +672,9 @@
         },
         {
             "category": "bound",
-            "parent-categories": [],
+            "parent-categories": [
+                "salad"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -690,7 +694,9 @@
         },
         {
             "category": "fruit",
-            "parent-categories": [],
+            "parent-categories": [
+                "salad"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -710,7 +716,9 @@
         },
         {
             "category": "green",
-            "parent-categories": [],
+            "parent-categories": [
+                "salad"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -730,7 +738,9 @@
         },
         {
             "category": "other salad",
-            "parent-categories": [],
+            "parent-categories": [
+                "salad"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -750,7 +760,9 @@
         },
         {
             "category": "wurst",
-            "parent-categories": [],
+            "parent-categories": [
+                "salad"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -810,7 +822,9 @@
         },
         {
             "category": "beans",
-            "parent-categories": [],
+            "parent-categories": [
+                "side dish"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -830,7 +844,9 @@
         },
         {
             "category": "coleslaw",
-            "parent-categories": [],
+            "parent-categories": [
+                "side dish"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -850,7 +866,9 @@
         },
         {
             "category": "green side dish",
-            "parent-categories": [],
+            "parent-categories": [
+                "side dish"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -870,7 +888,9 @@
         },
         {
             "category": "mushrooms",
-            "parent-categories": [],
+            "parent-categories": [
+                "side dish"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -890,7 +910,9 @@
         },
         {
             "category": "other side dish",
-            "parent-categories": [],
+            "parent-categories": [
+                "side dish"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -910,7 +932,9 @@
         },
         {
             "category": "pasta",
-            "parent-categories": [],
+            "parent-categories": [
+                "side dish"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -930,7 +954,9 @@
         },
         {
             "category": "potato",
-            "parent-categories": [],
+            "parent-categories": [
+                "side dish"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -950,7 +976,9 @@
         },
         {
             "category": "squash",
-            "parent-categories": [],
+            "parent-categories": [
+                "side dish"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -970,7 +998,9 @@
         },
         {
             "category": "vegetable side dish",
-            "parent-categories": [],
+            "parent-categories": [
+                "side dish"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "",
@@ -1030,7 +1060,9 @@
         },
         {
             "category": "soup",
-            "parent-categories": [],
+            "parent-categories": [
+                "soup & stew"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "Suppe",
@@ -1050,7 +1082,9 @@
         },
         {
             "category": "stew",
-            "parent-categories": [],
+            "parent-categories": [
+                "soup & stew"
+            ],
             "related-categories": [],
             "name": {
                 "DE": "Eintopf",
