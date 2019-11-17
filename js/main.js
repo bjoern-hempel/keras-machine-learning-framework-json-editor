@@ -23,21 +23,66 @@ function saveJSON(obj, callback)
             callback(json);
         }
     };
-    let data = JSON.stringify(obj);
+
+    let objClone = JSON.parse(JSON.stringify(obj));
+
+    /* adopt data */
+    window.categories.data = objClone.categories;
+    window.classes.data = objClone.classes;
+
+    /* build objClone */
+    objClone.categories = mergeData(window.categories);
+    objClone.classes = mergeData(window.classes);
+
+    /* build json string */
+    let data = JSON.stringify(objClone);
+
+    /* send and save json string */
     xhr.send(data);
+}
+
+function splitData(data, start, max)
+{
+    /* Correct the max value if -1 given */
+    max = max === -1 ? data.length : max;
+
+    /* Correct the max value is to hight */
+    max = start + max > data.length ? data.length - start : max;
+
+    return {
+        'before': start === 0 ? [] : data.slice(0, start),
+        'data': data.slice(start, start + max),
+        'after': start + max > data.length ? [] : data.slice(start + max)
+    };
+}
+
+function mergeData(obj) {
+    let data = [];
+
+    data = data.concat(obj.before);
+    data = data.concat(obj.data);
+    data = data.concat(obj.after);
+
+    return data;
 }
 
 function startEditor()
 {
     /* -1: all */
-    let maxCategories = -1;
+    let startCategory = 0;
+    let maxCategories = 2;
+    let startClass = 0;
+    let maxClasses = 2;
 
     loadJSON('data/ml.json', function(response) {
-        let json_data = JSON.parse(response);
+        let jsonData = JSON.parse(response);
 
-        if (maxCategories > -1) {
-            json_data.categories = json_data.categories.slice(0, maxCategories);
-        }
+        window.categories = splitData(jsonData.categories, startCategory, maxCategories);
+        window.classes = splitData(jsonData.classes, startClass, maxClasses);
+
+        /* adopt the wanted data */
+        jsonData.categories = window.categories.data;
+        jsonData.classes = window.classes.data;
 
         /* Initialize the editor */
         let editor = new JSONEditor(document.getElementById('editor_holder'),{
@@ -46,7 +91,7 @@ function startEditor()
                 $ref: "json/ml.json",
                 format: "grid"
             },
-            startval: json_data
+            startval: jsonData
         });
 
         /* Hook up the submit button to log to the console */
@@ -59,7 +104,7 @@ function startEditor()
 
         /* Hook up the Restore to Default button */
         document.getElementById('restore').addEventListener('click',function() {
-            editor.setValue(json_data);
+            editor.setValue(jsonData);
         });
 
         /* Hook up the validation indicator to update its status whenever the editor changes */
