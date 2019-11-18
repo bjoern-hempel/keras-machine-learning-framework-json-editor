@@ -148,5 +148,16 @@ function startEditor()
                 indicator.textContent = 'valid';
             }
         });
+
+        editor.on('ready',function() {
+            let counter = startClass + 1;
+            $("div.panel > div > div[data-schemapath*='root.classes.'] > h3 > label").each(function () {
+                let name = $(this).parent().parent().find("input[name*='[class]']").val();
+                $(this).text('Class %number: "%name"'.replace(/%name/, name).replace(/%number/, counter));
+                counter++;
+            });
+        });
+
+
     });
 }
