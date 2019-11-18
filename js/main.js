@@ -66,21 +66,49 @@ function mergeData(obj) {
     return data;
 }
 
+function setInformation(name, data, dataAll, page, start, max)
+{
+    if (max > 0) {
+        let from = data.before.length + 1;
+        let to = data.before.length + max;
+        let all = dataAll.length;
+
+        to = to > all ? all : to;
+
+        document.getElementById('%s-page-current'.replace(/%s/, name)).innerText = String(page);
+        document.getElementById('%s-page-all'.replace(/%s/, name)).innerText = String(Math.ceil(dataAll.length / max));
+        document.getElementById('%s-from'.replace(/%s/, name)).innerText = String(from);
+        document.getElementById('%s-to'.replace(/%s/, name)).innerText = String(to);
+        document.getElementById('%s-all'.replace(/%s/, name)).innerText = String(all);
+    }
+}
+
 function startEditor()
 {
-    /* -1: all */
+    /* Category => -1: all */
+    let pageCategory = 1;
     let startCategory = 0;
-    let maxCategories = 2;
+    let maxCategories = 10;
+    startCategory += (pageCategory - 1) * maxCategories;
+
+    /* Class => -1: all */
+    let pageClass = 1;
     let startClass = 0;
-    let maxClasses = 2;
+    let maxClasses = 10;
+    startClass += (pageClass - 1) * maxClasses;
 
     loadJSON('data/ml.json', function(response) {
         let jsonData = JSON.parse(response);
 
+        /* Split data */
         window.categories = splitData(jsonData.categories, startCategory, maxCategories);
         window.classes = splitData(jsonData.classes, startClass, maxClasses);
 
-        /* adopt the wanted data */
+        /* Set category and class labels */
+        setInformation('category', window.categories, jsonData.categories, pageCategory, startCategory, maxCategories);
+        setInformation('class', window.classes, jsonData.classes, pageClass, startClass, maxClasses);
+
+        /* Adopt the wanted data */
         jsonData.categories = window.categories.data;
         jsonData.classes = window.classes.data;
 

@@ -24,28 +24,29 @@
             height: 64px !important;
         }
 
-        /*html body button.tiny {*/
-        /*    height: 20px;*/
-        /*    font-size: 0.5rem !important;*/
-        /*    line-height: 20px;*/
-        /*    padding: 0 5px 0 5px !important;*/
-        /*}*/
-
-        /*html body .button-group {*/
-        /*    margin-left: 5px !important;*/
-        /*}*/
+        div.button-group:first-of-type {
+            margin-left: 0 !important;
+        }
 
     </style>
 </head>
 <body>
-    <div style="width: 100%; position: fixed; z-index: 100; background-color: white;">
+    <div style="width: 100%; position: fixed; z-index: 100; background-color: #e0e0e0;">
         <div class='row'>
             <div class='medium-12 columns'>
                 <h1>Machine Learning Dataset Editor</h1>
+                <p>
+                    <b>Page <span id="category-page-current">0</span> / <span id="category-page-all">0</span>:</b>
+                    Show Category <span id="category-from">0</span> to Category <span id="category-to">0</span>
+                    from <span id="category-all">0</span> Categories<br />
+                    <b>Page <span id="class-page-current">0</span> / <span id="class-page-all">0</span>:</b>
+                    Show Class <span id="class-from">0</span> to Class <span id="class-to">0</span>
+                    from <span id="class-all">0</span> Classes
+                </p>
             </div>
         </div>
         <div class='row'>
-            <div class='medium-12-columns'>
+            <div class='medium-12 columns'>
                 <button id='submit' class='tiny'>Submit (console.log)</button>
                 <button id='restore' class='secondary tiny'>Restore to Default</button>
                 <span id='valid_indicator' class='label'></span>
@@ -53,7 +54,7 @@
         </div>
     </div>
 
-    <div class='row' style="padding-top: 150px;">
+    <div class='row' style="padding-top: 210px;">
         <div id='editor_holder' class='medium-12 columns'></div>
     </div>
 
