@@ -68,7 +68,7 @@ function mergeData(obj) {
 
 function setInformation(name, data, dataAll, page, start, max)
 {
-    if (max > 0) {
+    if (max > 0 && page > 0) {
         let from = data.before.length + 1;
         let to = data.before.length + max;
         let all = dataAll.length;
@@ -86,7 +86,7 @@ function setInformation(name, data, dataAll, page, start, max)
 function startEditor()
 {
     /* Category => -1: all */
-    let pageCategory = 1;
+    let pageCategory = 0;
     let startCategory = 0;
     let maxCategories = 10;
     startCategory += (pageCategory - 1) * maxCategories;
