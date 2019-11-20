@@ -6,6 +6,9 @@
             "format": "row",
             "title": "Categories",
             "uniqueItems": true,
+            "options": {
+                "collapsed": true
+            },
             "items": {
                 "type": "object",
                 "title": "Category",
