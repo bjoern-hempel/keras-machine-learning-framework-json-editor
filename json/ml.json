@@ -126,6 +126,18 @@
                             "title": "Related Class"
                         }
                     },
+                    "singular": {
+                        "type": "string",
+                        "title": "Singular"
+                    },
+                    "plural": {
+                        "type": "string",
+                        "title": "Plural"
+                    },
+                    "duplicate": {
+                        "type": "string",
+                        "title": "Duplicate"
+                    },
                     "name": {
                         "type": "object",
                         "title": "Name",

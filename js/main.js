@@ -83,6 +83,21 @@ function setInformation(name, data, dataAll, page, start, max)
     }
 }
 
+function getLabelsArray() {
+    let labels = [];
+
+    $("div.panel > div > div[data-schemapath*='root.classes.'] > h3 > label").each(function (index) {
+        let label = $(this);
+
+        labels.push({
+            'label': label,
+            'name': label.parent().parent().find("input[name*='[class]']").val()
+        });
+    });
+
+    return labels;
+}
+
 function startEditor()
 {
     /* Category => -1: all */
@@ -151,9 +166,40 @@ function startEditor()
 
         editor.on('ready',function() {
             let counter = startClass + 1;
-            $("div.panel > div > div[data-schemapath*='root.classes.'] > h3 > label").each(function () {
-                let name = $(this).parent().parent().find("input[name*='[class]']").val();
-                $(this).text('Class %number: "%name"'.replace(/%name/, name).replace(/%number/, counter));
+            let labels = getLabelsArray();
+            labels.forEach(function (label, index) {
+                let html = '<a class="anchor" id="%name"></a>Class %number: "%name"'.
+                    replace(/%name/g, label.name).
+                    replace(/%number/, counter);
+
+                if (labels.length > 1) {
+
+                    /* Button up */
+                    if (index > 0) {
+                        let labelPrevious = labels[index - 1];
+                        html += `
+                            <button type="button" title="Go to previous class %name" class="button tiny json-editor-btn-moveup moveup json-editor-btntype-up"
+                                onclick="window.location.href='#%name'"
+                            >
+                                <i class="fa fa-arrow-up"></i><span> </span>
+                            </button>
+                        `.replace(/%name/g, labelPrevious);
+                    }
+
+                    /* Button down */
+                    if (index + 1 < labels.length) {
+                        let labelNext = labels[index + 1];
+                        html += `
+                            <button type="button" title="Go to next class %name" class="button tiny json-editor-btn-movedown movedown json-editor-btntype-move"
+                                onclick="window.location.href='#%name'"
+                            >
+                                <i class="fa fa-arrow-down"></i><span> </span>
+                            </button>
+                        `.replace(/%name/g, labelNext.name);
+                    }
+                }
+
+                label.label.html(html);
                 counter++;
             });
         });
