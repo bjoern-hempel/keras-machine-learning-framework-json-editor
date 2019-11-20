@@ -75,8 +75,31 @@ function setInformation(name, data, dataAll, page, start, max)
 
         to = to > all ? all : to;
 
-        document.getElementById('%s-page-current'.replace(/%s/, name)).innerText = String(page);
-        document.getElementById('%s-page-all'.replace(/%s/, name)).innerText = String(Math.ceil(dataAll.length / max));
+        let maxPage = Math.ceil(dataAll.length / max);
+        let nameCamelcase = name.charAt(0).toUpperCase() + name.slice(1);
+        let linkPrevious = '';
+        let linkNext = '';
+
+        /* previous link */
+        if (page > 1) {
+            let parameterPrevious = '?page%name=%page'.replace(/%name/, nameCamelcase).replace(/%page/, page - 1);
+            linkPrevious = '<a href="%parameter"> - </a>'.replace(/%parameter/, parameterPrevious);
+        }
+
+        /* next link */
+        if (page < maxPage) {
+            let parameterNext = '?page%name=%page'.replace(/%name/, nameCamelcase).replace(/%page/, page + 1);
+            linkNext = '<a href="%parameter"> + </a>'.replace(/%parameter/, parameterNext);
+        }
+
+        /* current string */
+        let currentString = '%linkPrevious%page%linkNext'.
+            replace(/%linkPrevious/, linkPrevious).
+            replace(/%linkNext/, linkNext).
+            replace(/%page/, String(page));
+
+        document.getElementById('%s-page-current'.replace(/%s/, name)).innerHTML = currentString;
+        document.getElementById('%s-page-all'.replace(/%s/, name)).innerText = String(maxPage);
         document.getElementById('%s-from'.replace(/%s/, name)).innerText = String(from);
         document.getElementById('%s-to'.replace(/%s/, name)).innerText = String(to);
         document.getElementById('%s-all'.replace(/%s/, name)).innerText = String(all);
@@ -112,15 +135,15 @@ function startEditor()
     let url = new URL(window.location.href);
 
     /* Category => -1: all */
-    let pageCategory = url.searchParams.get('pageCategory') === null ? defaultPageCategory : url.searchParams.get('pageCategory');
-    let startCategory = url.searchParams.get('startCategory') === null ? defaultStartCategory : url.searchParams.get('startCategory');
-    let maxCategories = url.searchParams.get('maxCategories') === null ? defaultMaxCategories : url.searchParams.get('maxCategories');
+    let pageCategory = url.searchParams.get('pageCategory') === null ? defaultPageCategory : parseInt(url.searchParams.get('pageCategory'));
+    let startCategory = url.searchParams.get('startCategory') === null ? defaultStartCategory : parseInt(url.searchParams.get('startCategory'));
+    let maxCategories = url.searchParams.get('maxCategories') === null ? defaultMaxCategories : parseInt(url.searchParams.get('maxCategories'));
     startCategory += (pageCategory - 1) * maxCategories;
 
     /* Class => -1: all */
-    let pageClass = url.searchParams.get('pageClass') === null ? defaultPageClass : url.searchParams.get('pageClass');
-    let startClass = url.searchParams.get('maxCategories') === null ? defaultStartClass : url.searchParams.get('maxCategories');
-    let maxClasses = url.searchParams.get('maxCategories') === null ? defaultMaxClasses : url.searchParams.get('maxCategories');
+    let pageClass = url.searchParams.get('pageClass') === null ? defaultPageClass : parseInt(url.searchParams.get('pageClass'));
+    let startClass = url.searchParams.get('maxCategories') === null ? defaultStartClass : parseInt(url.searchParams.get('maxCategories'));
+    let maxClasses = url.searchParams.get('maxCategories') === null ? defaultMaxClasses : parseInt(url.searchParams.get('maxCategories'));
     startClass += (pageClass - 1) * maxClasses;
 
     loadJSON('data/ml.json', function(response) {
