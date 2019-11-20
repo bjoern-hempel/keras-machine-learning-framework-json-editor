@@ -100,16 +100,27 @@ function getLabelsArray() {
 
 function startEditor()
 {
+    /* Default parameter for category and class */
+    let defaultPageCategory = 1;
+    let defaultStartCategory = 0;
+    let defaultMaxCategories = 10;
+    let defaultPageClass = 1;
+    let defaultStartClass = 0;
+    let defaultMaxClasses = 10;
+
+    /* Read url */
+    let url = new URL(window.location.href);
+
     /* Category => -1: all */
-    let pageCategory = 0;
-    let startCategory = 0;
-    let maxCategories = 10;
+    let pageCategory = url.searchParams.get('pageCategory') === null ? defaultPageCategory : url.searchParams.get('pageCategory');
+    let startCategory = url.searchParams.get('startCategory') === null ? defaultStartCategory : url.searchParams.get('startCategory');
+    let maxCategories = url.searchParams.get('maxCategories') === null ? defaultMaxCategories : url.searchParams.get('maxCategories');
     startCategory += (pageCategory - 1) * maxCategories;
 
     /* Class => -1: all */
-    let pageClass = 1;
-    let startClass = 0;
-    let maxClasses = 10;
+    let pageClass = url.searchParams.get('pageClass') === null ? defaultPageClass : url.searchParams.get('pageClass');
+    let startClass = url.searchParams.get('maxCategories') === null ? defaultStartClass : url.searchParams.get('maxCategories');
+    let maxClasses = url.searchParams.get('maxCategories') === null ? defaultMaxClasses : url.searchParams.get('maxCategories');
     startClass += (pageClass - 1) * maxClasses;
 
     loadJSON('data/ml.json', function(response) {
