@@ -1276,38 +1276,36 @@
         },
         {
             "class": "appetizer sampler platter",
+            "categories": [
+                "snack, appetizer & starter"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Aperitifplatte",
                 "GB": "Appetizer Sampler Platter"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "starter"
-            ],
             "description": {
-                "DE": null,
-                "GB": null
+                "DE": "Zu den beliebten modernen amerikanischen Aperitifplatten gehören: Zwiebelringe, Mozzarella-Sticks, Eierrollen, Hühner-Tender oder -Flügel, Quesadillas und andere herzhafte Gerichte, die mit einer Kavalkade von Tauchsoßen serviert werden. Heute finden Sie eine Verkostungsplatte in so ziemlich jedem Sitz-Restaurant, das über eine Vorspeisenkarte verfügt.",
+                "GB": "The popular modern American aperitif plates include: Onion rings, mozzarella sticks, egg rolls, chicken tender or wings, quesadillas and other savoury dishes served with a cavalcade of diving sauces. Today you'll find a tasting plate in just about every seated restaurant that has an appetizer menu."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "apple cake",
+            "categories": [
+                "cake"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Apfelkuchen",
                 "GB": "Apple cake"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
                 "DE": "Der Apfelkuchen ist einer der klassischen Obstkuchen, der in vielen Varianten zubereitet wird.",
                 "GB": "Apple cake is a popular dessert produced with the main ingredient of apples."
@@ -1322,14 +1320,14 @@
         },
         {
             "class": "apple cider",
+            "categories": [
+                "other beverage"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Apfelschaumwein",
                 "GB": "Apple cider"
             },
-            "related-classes": [],
-            "categories": [
-                "drink"
-            ],
             "description": {
                 "DE": "Apfelschaumwein (auch Apfelsekt oder Apfelperlwein) ist eine Bezeichnung für moussierende Apfelweine, die aus verschiedenen Apfelsorten vergoren werden.",
                 "GB": "Apple cider (also called sweet cider or soft cider or simply cider) is the name used in the United States and parts of Canada for an unfiltered, unsweetened, non-alcoholic beverage made from apples."
@@ -1344,14 +1342,14 @@
         },
         {
             "class": "apple juice",
+            "categories": [
+                "juice"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Apfelsaft",
                 "GB": "Apple juice"
             },
-            "related-classes": [],
-            "categories": [
-                "drink"
-            ],
             "description": {
                 "DE": "Apfelsaft ist ein Fruchtsaft, der durch Pressung von Äpfeln gewonnen wird.",
                 "GB": "Apple juice is a fruit juice made by the maceration and pressing of an apple."
@@ -1374,21 +1372,21 @@
         },
         {
             "class": "artichoke dip",
+            "categories": [
+                "sauce & marinade"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Artischockendip",
                 "GB": "Artichoke dip"
             },
-            "related-classes": [],
-            "categories": [
-                "sauce"
-            ],
             "description": {
                 "DE": "Artischockendip ist ein Dip, der Artischocken als Hauptbestandteil verwendet.",
                 "GB": "Artichoke dip is a dip that uses artichoke as a primary ingredient."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Artichoke_dip"
                 },
                 "spoonacular": null
@@ -1396,22 +1394,22 @@
         },
         {
             "class": "avocado roll",
+            "categories": [
+                "sushi"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Avocado-Rolle",
                 "GB": "Avocado Roll"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Eine Avocado-Rolle ist ein japanisches Sushi-Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Avocados und Gurken.",
                 "GB": "An avocado roll is a Japanese sushi dish made from cooled, acidified rice, supplemented with avocados and cucumbers."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
