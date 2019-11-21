@@ -1424,14 +1424,14 @@
         },
         {
             "class": "baguette",
+            "categories": [
+                "pastry & bread"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Baguette",
                 "GB": "Baguette"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Das bzw. die Baguette, in Deutschland auch Stangenweißbrot, Pariser Weißbrot oder kurz Pariser, in der Schweiz auch Parisette, ist ein langgestrecktes, knuspriges Weißbrot französischen Ursprungs.",
                 "GB": "A baguette is a long, thin loaf of French bread that is commonly made from basic lean dough (the dough, though not the shape, is defined by French law)."
@@ -1446,14 +1446,14 @@
         },
         {
             "class": "baileys",
+            "categories": [
+                "liquor"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Baileys",
                 "GB": "Baileys Irish Cream"
             },
-            "related-classes": [],
-            "categories": [
-                "drink"
-            ],
             "description": {
                 "DE": "Baileys ist die Kurzform für Baileys Original Irish Cream, dem Markennamen eines irischen Sahnelikörs aus irischem Whiskey und Rahm mit einem Alkoholgehalt von 17 Vol.-%. Baileys gehört zum Diageo-Konzern.",
                 "GB": "Baileys Irish Cream is an Irish cream liqueur - an alcoholic beverage flavored with cream, cocoa, and Irish whiskey - made by Diageo at Nangor Road, in Dublin, Republic of Ireland and in Mallusk, Northern Ireland owned by Gilbeys of Ireland, the trademark is currently owned by Diageo."
@@ -1468,14 +1468,14 @@
         },
         {
             "class": "baked beans",
+            "categories": [
+                "other main course"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Gebackene Bohnen",
                 "GB": "Baked beans"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Baked Beans (englisch für Gebackene Bohnen) sind ein traditionelles britisches und US-amerikanisches Gericht aus weißen Bohnen, die mit Tomatensauce oder Ketchup im Ofen gebacken werden.",
                 "GB": "Baked beans is a dish traditionally containing white beans which are parboiled and then baked at a low temperature for a lengthy period of time in some sort of sauce."
@@ -1490,36 +1490,36 @@
         },
         {
             "class": "baked brie",
+            "categories": [
+                "other main course"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Gebackener Brie",
                 "GB": "Baked brie"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
-                "DE": null,
-                "GB": null
+                "DE": "",
+                "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "baked potato",
+            "categories": [
+                "other main course"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Backkartoffel",
                 "GB": "Baked potato"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Backkartoffeln, gebackene Kartoffeln oder Ofenkartoffeln sind ungeschälte Kartoffeln, die ohne Zugabe von Flüssigkeit in der Glut eines Feuers, im Erdofen oder im Backofen gegart werden.",
                 "GB": "A baked potato, or jacket potato, is a potato that has been baked for eating."
@@ -1538,21 +1538,21 @@
         },
         {
             "class": "baked ziti",
+            "categories": [
+                "casserole"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Gebackener Ziti Auflauf",
                 "GB": "Baked ziti"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Gebackener Ziti ist eine beliebte Auflaufform aus Ziti-Nudeln und einem Gericht auf Tomatenbasis, das typisch für die italienisch-amerikanische Küche nach neapolitanischem Stil ist.",
                 "GB": "Baked ziti is a popular casserole with ziti pasta and a Neapolitan-style tomato-based sauce characteristic of Italian-American cuisine."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Baked_ziti"
                 },
                 "spoonacular": null
@@ -1560,15 +1560,15 @@
         },
         {
             "class": "baklava",
+            "categories": [
+                "other dessert",
+                "dessert"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Baklava",
                 "GB": "Baklava"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
                 "DE": "Baklava ist ein in Zuckersirup eingelegtes Gebäck aus Blätter- oder Filoteig, gefüllt mit gehackten Walnüssen, Mandeln oder Pistazien.",
                 "GB": "Baklava is a rich, sweet dessert pastry made of layers of filo filled with chopped nuts and sweetened and held together with syrup or honey."
@@ -1583,15 +1583,14 @@
         },
         {
             "class": "banana bread",
+            "categories": [
+                "other dessert"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bananenbrot",
                 "GB": "Banana bread"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
                 "DE": "Es wird, je nach Rezept, aus zerkleinerten Bananen, Weizenmehl, Zucker, Backpulver, Butter, Milch und Ei bzw. Sojamilch oder Tofu hergestellt.",
                 "GB": "Banana bread is a type of bread made from mashed bananas."
