@@ -1,3 +1,7 @@
 # idea
 /.idea
 
+# data folders
+data/source
+data/target
+

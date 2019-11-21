@@ -114,7 +114,8 @@ function getLabelsArray() {
 
         labels.push({
             'label': label,
-            'name': label.parent().parent().find("input[name*='[class]']").val()
+            'name': label.parent().parent().find("input[name*='[class]']").val(),
+            'topBox': label.parent().parent()
         });
     });
 
@@ -142,24 +143,24 @@ function startEditor()
 
     /* Class => -1: all */
     let pageClass = url.searchParams.get('pageClass') === null ? defaultPageClass : parseInt(url.searchParams.get('pageClass'));
-    let startClass = url.searchParams.get('maxCategories') === null ? defaultStartClass : parseInt(url.searchParams.get('maxCategories'));
+    let startClass = url.searchParams.get('startClass') === null ? defaultStartClass : parseInt(url.searchParams.get('startClass'));
     let maxClasses = url.searchParams.get('maxCategories') === null ? defaultMaxClasses : parseInt(url.searchParams.get('maxCategories'));
     startClass += (pageClass - 1) * maxClasses;
 
-    loadJSON('data/ml.json', function(response) {
-        let jsonData = JSON.parse(response);
+    loadJSON('data/ml.json', function(jsonData) {
+        let objData = JSON.parse(jsonData);
 
         /* Split data */
-        window.categories = splitData(jsonData.categories, startCategory, maxCategories);
-        window.classes = splitData(jsonData.classes, startClass, maxClasses);
+        window.categories = splitData(objData.categories, startCategory, maxCategories);
+        window.classes = splitData(objData.classes, startClass, maxClasses);
 
         /* Set category and class labels */
-        setInformation('category', window.categories, jsonData.categories, pageCategory, startCategory, maxCategories);
-        setInformation('class', window.classes, jsonData.classes, pageClass, startClass, maxClasses);
+        setInformation('category', window.categories, objData.categories, pageCategory, startCategory, maxCategories);
+        setInformation('class', window.classes, objData.classes, pageClass, startClass, maxClasses);
 
         /* Adopt the wanted data */
-        jsonData.categories = window.categories.data;
-        jsonData.classes = window.classes.data;
+        objData.categories = window.categories.data;
+        objData.classes = window.classes.data;
 
         /* Initialize the editor */
         let editor = new JSONEditor(document.getElementById('editor_holder'),{
@@ -168,7 +169,7 @@ function startEditor()
                 $ref: "json/ml.json",
                 format: "grid"
             },
-            startval: jsonData
+            startval: objData
         });
 
         /* Hook up the submit button to log to the console */
@@ -181,7 +182,7 @@ function startEditor()
 
         /* Hook up the Restore to Default button */
         document.getElementById('restore').addEventListener('click',function() {
-            editor.setValue(jsonData);
+            editor.setValue(objData);
         });
 
         /* Hook up the validation indicator to update its status whenever the editor changes */
@@ -198,43 +199,53 @@ function startEditor()
             }
         });
 
-        editor.on('ready',function() {
-            let counter = startClass + 1;
-            let labels = getLabelsArray();
-            labels.forEach(function (label, index) {
-                let html = '<a class="anchor" id="%name"></a>Class %number: "%name"'.
-                    replace(/%name/g, label.name).
-                    replace(/%number/, counter);
+        editor.on('ready', function() {
+            loadJSON('php/get-classes.php', function(jsonData) {
+                let objData = JSON.parse(jsonData);
 
-                if (labels.length > 1) {
+                let counter = startClass + 1;
+                let labels = getLabelsArray();
+                labels.forEach(function (label, index) {
+                    let html = '';
 
-                    /* Button up */
-                    if (index > 0) {
-                        let labelPrevious = labels[index - 1];
-                        html += `
-                            <button type="button" title="Go to previous class %name" class="button tiny json-editor-btn-moveup moveup json-editor-btntype-up"
-                                onclick="window.location.href='#%name'"
-                            >
-                                <i class="fa fa-arrow-up"></i><span> </span>
-                            </button>
-                        `.replace(/%name/g, labelPrevious);
+                    let done = !(label.name in objData.classes);
+                    let color = done ? '#d0ffd0' : '#ffd0d0';
+
+                    label.topBox.css({backgroundColor: color});
+                    label.topBox.children().css({backgroundColor: color, borderWidth: 0});
+
+                    if (labels.length > 1) {
+
+                        /* Button up */
+                        if (index > 0) {
+                            let labelPrevious = labels[index - 1];
+                            html += `
+                                <button type="button" title="Go to previous class %name" class="button tiny json-editor-btn-moveup moveup json-editor-btntype-up"
+                                    onclick="window.location.href='#%name'"
+                                >
+                                    <i class="fa fa-arrow-up"></i><span> </span>
+                                </button>
+                            `.replace(/%name/g, labelPrevious.name);
+                        }
+
+                        /* Button down */
+                        if (index + 1 < labels.length) {
+                            let labelNext = labels[index + 1];
+                            html += `
+                                <button type="button" title="Go to next class %name" class="button tiny json-editor-btn-movedown movedown json-editor-btntype-move"
+                                    onclick="window.location.href='#%name'"
+                                >
+                                    <i class="fa fa-arrow-down"></i><span> </span>
+                                </button>
+                            `.replace(/%name/g, labelNext.name);
+                        }
                     }
 
-                    /* Button down */
-                    if (index + 1 < labels.length) {
-                        let labelNext = labels[index + 1];
-                        html += `
-                            <button type="button" title="Go to next class %name" class="button tiny json-editor-btn-movedown movedown json-editor-btntype-move"
-                                onclick="window.location.href='#%name'"
-                            >
-                                <i class="fa fa-arrow-down"></i><span> </span>
-                            </button>
-                        `.replace(/%name/g, labelNext.name);
-                    }
-                }
+                    html += ' <span style="font-weight: bold;"> Class %number: "%name"</span><a class="anchor" id="%name"></a>'.replace(/%name/g, label.name).replace(/%number/, counter);
 
-                label.label.html(html);
-                counter++;
+                    label.label.html(html);
+                    counter++;
+                });
             });
         });
 
