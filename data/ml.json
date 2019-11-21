@@ -1150,15 +1150,14 @@
         },
         {
             "class": "ale",
+            "categories": [
+                "dark beer"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Ale",
                 "GB": "Ale"
             },
-            "related-classes": [],
-            "categories": [
-                "drink",
-                "beer"
-            ],
             "description": {
                 "DE": "Ale ist ein gebräuchlicher Begriff für ein fermentiertes Getränk, das hauptsächlich aus gemälzter Gerste hergestellt wird.",
                 "GB": "Ale is a type of beer brewed using a warm fermentation method, resulting in a sweet, full-bodied and fruity taste."
@@ -1173,15 +1172,14 @@
         },
         {
             "class": "amaretto",
+            "categories": [
+                "liquor"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Amaretto",
                 "GB": "Amaretto"
             },
-            "related-classes": [],
-            "categories": [
-                "drink",
-                "liqueur"
-            ],
             "description": {
                 "DE": "Amaretto ist eine Geschmacksrichtung für ursprünglich aus Italien stammende Liköre mit einem nussigen Aroma, das an Marzipan erinnert.",
                 "GB": "Amaretto (Italian for \"a little bitter\") is a sweet Italian liqueur that originated in Saronno, Italy."
@@ -1200,15 +1198,14 @@
         },
         {
             "class": "anchovy",
+            "categories": [
+                "fish"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Sardellen",
                 "GB": "Anchovy"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "fish"
-            ],
             "description": {
                 "DE": "Die Sardellen (Engraulidae) sind eine Familie der Heringsartigen.",
                 "GB": "An anchovy is a small, common forage fish of the family Engraulidae."
@@ -1223,15 +1220,14 @@
         },
         {
             "class": "angel hair pasta",
+            "categories": [
+                "pasta"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Capellini",
                 "GB": "Capellini"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "pasta"
-            ],
             "description": {
                 "DE": "Die Capellini sind eine mit zumeist 0,88 Millimeter Durchmesser extrem dünne, den Spaghetti ähnliche Pastaform aus der italienischen Küche.",
                 "GB": "Capellini is a very thin variety of Italian pasta, with a diameter between 0.85 and 0.92 millimetres (0.033 and 0.036 in)."
@@ -1250,15 +1246,14 @@
         },
         {
             "class": "antipasto",
+            "categories": [
+                "antipasto"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Antipasto",
                 "GB": "Antipasto"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "starter"
-            ],
             "description": {
                 "DE": "Antipasto (Mehrzahl Antipasti) ist die italienische Bezeichnung für \"Vorspeise\".",
                 "GB": "Antipasto (plural antipasti) is the traditional first course of a formal Italian meal."
@@ -1267,28 +1262,6 @@
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Antipasto",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Antipasto"
-                },
-                "spoonacular": null
-            }
-        },
-        {
-            "class": "aperitif",
-            "name": {
-                "DE": "Aperitif",
-                "GB": "Apéritif and digestif"
-            },
-            "related-classes": [],
-            "categories": [
-                "drink"
-            ],
-            "description": {
-                "DE": "Ein Aperitif ist ein meist alkoholisches Getränk, das vor dem Essen konsumiert wird, um den Appetit anzuregen und auf die bevorstehende Mahlzeit einzustimmen.",
-                "GB": "Apéritifs are drinks, typically alcoholic, that are normally served before (apéritif) or after (digestif) a meal."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Aperitif",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ap%C3%A9ritif_and_digestif"
                 },
                 "spoonacular": null
             }
