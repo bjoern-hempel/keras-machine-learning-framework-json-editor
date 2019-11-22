@@ -2015,16 +2015,14 @@
         },
         {
             "class": "beef stroganoff",
+            "categories": [
+                "beef"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bœuf Stroganoff",
                 "GB": "Beef Stroganoff"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "meat",
-                "beef"
-            ],
             "description": {
                 "DE": "Bœuf Stroganoff ist ein Gericht der russischen Küche und der Haute cuisine aus sautierten Würfelchen oder Streifen der Spitze des Rinderfilets, in einer säuerlich abgeschmeckten Soße, die Zwiebel (oder Schalotte), Sauerrahm und Senf enthält.",
                 "GB": "Beef Stroganoff or beef Stroganov is a Russian dish of sautéed pieces of beef served in a sauce with smetana (sour cream)."
@@ -2039,16 +2037,14 @@
         },
         {
             "class": "beef wellington",
+            "categories": [
+                "beef"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Filet Wellington",
                 "GB": "Beef Wellington"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "meat",
-                "beef"
-            ],
             "description": {
                 "DE": "Das Filet Wellington ist ein Fleischgericht, das angeblich von dem Schweizer Küchenchef Charles Senn anlässlich der Zürcher Internationalen Kochkunstausstellung (ZIKA) 1930 kreiert wurde.",
                 "GB": "Beef Wellington is a preparation of fillet steak coated with pâté and duxelles, which is then wrapped in parma ham, puff pastry and baked."
@@ -2062,62 +2058,37 @@
             }
         },
         {
-            "class": "beer",
-            "name": {
-                "DE": "Bier",
-                "GB": "Beer"
-            },
-            "related-classes": [],
-            "categories": [
-                "drink",
-                "beer"
-            ],
-            "description": {
-                "DE": "Bier ist ein Getränk, das durch Gärung aus stärkehaltigen Stoffen gewonnen und nicht destilliert wird.",
-                "GB": "Beer is one of the oldest and most widely consumed alcoholic drinks in the world."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bier",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Beer"
-                },
-                "spoonacular": null
-            }
-        },
-        {
             "class": "beet salad",
+            "categories": [
+                "other salad"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Rübensalat",
                 "GB": "Beet salad"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "salad"
-            ],
             "description": {
-                "DE": null,
-                "GB": null
+                "DE": "",
+                "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "bellini",
+            "categories": [
+                "cocktail"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bellini (Cocktail)",
                 "GB": "Bellini (cocktail)"
             },
-            "related-classes": [],
-            "categories": [
-                "drink",
-                "cocktail"
-            ],
             "description": {
                 "DE": "Bellini ist ein Cocktail, der aus trockenem Prosecco, Sekt oder Champagner, einem halben pürierten weißen Pfirsich und nach Geschmack etwas Zuckersirup besteht.",
                 "GB": "A Bellini is a cocktail made with Prosecco and peach purée or nectar."
@@ -2136,14 +2107,14 @@
         },
         {
             "class": "beurre blanc",
+            "categories": [
+                "sauce & marinade"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Beurre blanc",
                 "GB": "Beurre blanc"
             },
-            "related-classes": [],
-            "categories": [
-                "sauce"
-            ],
             "description": {
                 "DE": "Beurre blanc (deutsch „weiße Butter“, in Frankreich auch als „Beurre nantais“ bezeichnet) ist eine klassische Buttersauce der französischen Küche, die vor allem zu Fisch und hellem Geflügel serviert wird.",
                 "GB": "Beurre blanc—literally translated from French as \"white butter\"—is a hot emulsified butter sauce made with a reduction of vinegar and\/or white wine (normally Muscadet) and grey shallots into which softened, whole butter is whisked in off the heat to prevent separation."
@@ -2158,14 +2129,14 @@
         },
         {
             "class": "bibimbap",
+            "categories": [
+                "other main course"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bibimbap",
                 "GB": "Bibimbap"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Bibimbap ist ein beliebtes koreanisches Gericht, das mit Reis und verschiedenen Gemüsesorten, etwas Rindfleisch oder Tofu, einem rohen oder gebratenen Ei und Gochujang (einer Chilipaste) zubereitet wird.",
                 "GB": "Bibimbap from Korean is a Korean rice dish."
@@ -2180,14 +2151,14 @@
         },
         {
             "class": "biryani",
+            "categories": [
+                "other main course"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Biryani",
                 "GB": "Biryani"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Biryani ist ein herzhaftes Reisgericht aus Asien.",
                 "GB": "Biryani, also known as biriyani, biriani, birani or briyani, is a mixed rice dish with its origins among the Muslims of the Indian subcontinent."
@@ -2202,15 +2173,14 @@
         },
         {
             "class": "biscotti",
+            "categories": [
+                "other dessert"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Cantuccini",
                 "GB": "Biscotti"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
                 "DE": "Cantuccini (auch Cantucci oder Biscotti di Prato) sind ein traditionelles Mandelgebäck aus der italienischen Provinz Prato nahe Florenz.",
                 "GB": "Biscotti, known also as cantucci, are Italian almond biscuits that originated in the city of Prato."
@@ -2225,21 +2195,21 @@
         },
         {
             "class": "biscuits and gravy",
+            "categories": [
+                "breakfast"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Kekse und Soßen",
                 "GB": "Biscuits and gravy"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Kekse und Soße sind in den Vereinigten Staaten, vor allem im Süden, ein beliebtes Frühstücksessen.",
                 "GB": "Biscuits and gravy is a popular breakfast dish in the United States, especially in the South."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Biscuits_and_gravy"
                 },
                 "spoonacular": null
