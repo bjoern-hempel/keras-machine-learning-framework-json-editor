@@ -1605,68 +1605,65 @@
         },
         {
             "class": "banana cake",
+            "categories": [
+                "cake"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bananenkuchen",
                 "GB": "Banana cake"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
-                "DE": null,
-                "GB": null
+                "DE": "",
+                "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "banana cream pie",
+            "categories": [
+                "torte"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bananen Creme Torte",
                 "GB": "Banana cream pie"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
-                "DE": null,
-                "GB": null
+                "DE": "",
+                "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "banana pudding",
+            "categories": [
+                "pudding"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bananenpudding",
                 "GB": "Banana pudding"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
-                "DE": null,
+                "DE": "",
                 "GB": "Banana pudding is a dessert generally consisting of layers of sweet vanilla flavored custard, cookies (usually Vanilla Wafers or ladyfingers) and sliced fresh bananas placed in a dish and served, topped with whipped cream or meringue."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Banana_pudding"
                 },
                 "spoonacular": null
@@ -1674,22 +1671,21 @@
         },
         {
             "class": "bananas foster",
+            "categories": [
+                "ice cream"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bananen Foster",
                 "GB": "Bananas Foster"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
                 "DE": "Bananas Foster ist ein Dessert aus Bananen und Vanilleeis mit einer Sauce aus Butter, braunem Zucker, Zimt, dunklem Rum und Bananenlikör.",
                 "GB": "Bananas Foster is a dessert made from bananas and vanilla ice cream, with a sauce made from butter, brown sugar, cinnamon, dark rum, and banana liqueur."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Bananas_Foster"
                 },
                 "spoonacular": null
@@ -1697,15 +1693,14 @@
         },
         {
             "class": "banana split",
+            "categories": [
+                "ice cream"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bananensplit",
                 "GB": "Banana split"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
                 "DE": "Bananensplit ist eine Eisspeise, der aus der US-amerikanischen Küche stammt.",
                 "GB": "A banana split is an ice cream-based dessert."
@@ -1720,16 +1715,16 @@
         },
         {
             "class": "banh mi",
+            "categories": [
+                "fast food"
+            ],
+            "related-classes": [
+                "baguette"
+            ],
             "name": {
                 "DE": "Bánh mì",
                 "GB": "Bánh mì"
             },
-            "related-classes": [
-                "baguette"
-            ],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Bánh mì ist der vietnamesische Begriff für eine bestimmte Art von belegtem Brot.",
                 "GB": "Bánh mì or banh mi is the Vietnamese word for bread."
@@ -1744,22 +1739,21 @@
         },
         {
             "class": "banoffee pie",
+            "categories": [
+                "cake"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Banoffee pie",
                 "GB": "Banoffee pie"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
                 "DE": "Banoffee pie ist ein englischer Dessertkuchen aus Bananen, Sahne und Toffee, kombiniert entweder auf Butterkeksbasis oder aus zerbröckeltem Keks und Butter.",
                 "GB": "Banoffee pie is an English dessert pie made from bananas, cream and toffee (made from boiled condensed milk, or dulce de leche), combined either on a buttery biscuit base or one made from crumbled biscuits and butter."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Banoffee_pie"
                 },
                 "spoonacular": null
@@ -1771,47 +1765,45 @@
         },
         {
             "class": "battered fish",
+            "categories": [
+                "fish"
+            ],
+            "related-classes": [
+                "fish and chips"
+            ],
             "name": {
                 "DE": "Panierter Fisch",
                 "GB": "Battered fish"
             },
-            "related-classes": [
-                "fish and chips"
-            ],
-            "categories": [
-                "dish",
-                "fish"
-            ],
             "description": {
-                "DE": null,
-                "GB": null
+                "DE": "",
+                "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "bbq chicken",
+            "categories": [
+                "chicken"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Grillhähnchen",
                 "GB": "Barbecue chicken"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "chicken"
-            ],
             "description": {
                 "DE": "Grillhähnchen besteht aus Hühnerteilen oder ganzen Hühnern, die gegrillt, gegrillt oder geräuchert werden.",
                 "GB": "Barbecue chicken consists of chicken parts or entire chickens that are barbecued, grilled or smoked."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Barbecue_chicken"
                 },
                 "spoonacular": null
@@ -1819,14 +1811,14 @@
         },
         {
             "class": "bbq sauce",
+            "categories": [
+                "sauce & marinade"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Barbecuesauce",
                 "GB": "Barbecue sauce"
             },
-            "related-classes": [],
-            "categories": [
-                "sauce"
-            ],
             "description": {
                 "DE": "Barbecuesauce (auch BBQ-Sauce) ist eine Würzsauce, die vornehmlich für Grill- und Barbecuegerichte Verwendung findet.",
                 "GB": "Barbecue sauce (also abbreviated as BBQ sauce) is used as a flavoring sauce, a marinade, basting, condiment, or topping for meat cooked in the barbecue cooking style, including pork or beef ribs and chicken."
@@ -1841,40 +1833,38 @@
         },
         {
             "class": "bbq wings",
+            "categories": [
+                "chicken"
+            ],
+            "related-classes": [
+                "bbq chicken"
+            ],
             "name": {
                 "DE": "Hähnchenflügel",
                 "GB": "Barbecue Wings"
             },
-            "related-classes": [
-                "bbq chicken"
-            ],
-            "categories": [
-                "dish",
-                "chicken"
-            ],
             "description": {
-                "DE": null,
-                "GB": null
+                "DE": "",
+                "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "bean burger",
+            "categories": [
+                "fast food"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Veggie-Burger",
                 "GB": "Veggie burger"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "burger"
-            ],
             "description": {
                 "DE": "Ein Veggie-Burger ist ein Hamburger, der kein Fleisch enthält.",
                 "GB": "A veggie burger is a burger patty that does not contain meat or any such kind of meat."
@@ -1889,43 +1879,43 @@
         },
         {
             "class": "bean salad",
+            "categories": [
+                "other salad"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bean Salad",
                 "GB": "Bohnensalat"
             },
-            "related-classes": [],
-            "categories": [
-                "salad"
-            ],
             "description": {
-                "DE": null,
-                "GB": null
+                "DE": "",
+                "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "beans and rice",
+            "categories": [
+                "other main course"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bohnen und Reis",
                 "GB": "Beans and rice"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Reis und Bohnen oder Bohnen und Reis ist eine Art von Gericht, das aus einer Kombination von Grundnahrungsmitteln in vielen Kulturen auf der ganzen Welt hergestellt wird.",
                 "GB": "Rice and beans or beans and rice is type of dish made from a combination of staple foods in many cultures around the world."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Rice_and_beans"
                 },
                 "spoonacular": null
@@ -1933,16 +1923,14 @@
         },
         {
             "class": "beef brisket",
+            "categories": [
+                "beef"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Rinderbrust",
                 "GB": "Beef brisket"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "meat",
-                "beef"
-            ],
             "description": {
                 "DE": "Die Rinderbrust ist in der Kochkunst bzw. im Fleischer-Gewerbe ein mäßig durchwachsenes, langfaseriges Teilstück des Vorderviertels vom Rind.",
                 "GB": "Brisket is a cut of meat from the breast or lower chest of beef or veal."
@@ -1961,16 +1949,14 @@
         },
         {
             "class": "beef short ribs",
+            "categories": [
+                "beef"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Querrippe vom Rind",
                 "GB": "Short ribs"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "meat",
-                "beef"
-            ],
             "description": {
                 "DE": "Die Quer- oder Zwerchrippe ist das vordere Teilstück der Rippen vom Rind unterhalb von Rinderhals und Hochrippe.",
                 "GB": "Short ribs are a cut of beef taken from the brisket, chuck, plate, or rib areas of beef cattle."
@@ -1985,16 +1971,14 @@
         },
         {
             "class": "beef steak",
+            "categories": [
+                "beef"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Beefsteak",
                 "GB": "Beefsteak"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "meat",
-                "beef"
-            ],
             "description": {
                 "DE": "Als Beefsteak werden Scheiben aus dem Muskelfleisch des Rindes bezeichnet, unter anderem aus dem Filet, aus dem Roastbeef und aus der Hüfte (Schwanzstück) oder aus Hackfleisch.",
                 "GB": "A beef steak is a flat cut of beef, with parallel faces spaced to a thickness of 1 to 5 centimetres (1⁄2 to 2 in), usually cut perpendicular to the muscle fibers, with a raw mass in common restaurant service ranging from 120 to 600 grams (4 to 21 oz)."
@@ -2009,23 +1993,22 @@
         },
         {
             "class": "beef stew",
+            "categories": [
+                "stew"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Rindereintopf",
                 "GB": "Beef stew"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "stew"
-            ],
             "description": {
-                "DE": null,
-                "GB": null
+                "DE": "",
+                "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
