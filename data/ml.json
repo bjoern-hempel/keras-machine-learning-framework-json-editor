@@ -2221,15 +2221,14 @@
         },
         {
             "class": "bisque",
+            "categories": [
+                "soup"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bisque",
                 "GB": "Bisque"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "soup"
-            ],
             "description": {
                 "DE": "Bisque ist eine geschmacksintensive pürierte Suppe, die aus Hummern oder anderen Krustentieren gekocht wird.",
                 "GB": "Bisque is a smooth, creamy, highly seasoned soup of French origin, classically based on a strained broth (coulis) of crustaceans."
@@ -2248,15 +2247,14 @@
         },
         {
             "class": "black tea",
+            "categories": [
+                "black tea"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Schwarzer Tee",
                 "GB": "Black tea"
             },
-            "related-classes": [],
-            "categories": [
-                "drink",
-                "tea"
-            ],
             "description": {
                 "DE": "Schwarzer Tee oder Schwarztee, in Ostasien als roter Tee bezeichnet, ist eine Variante, Tee herzustellen.",
                 "GB": "Black tea is a type of tea that is more oxidized than oolong, green, and white teas. Black tea is generally stronger in flavour than the less oxidized teas."
@@ -2271,15 +2269,14 @@
         },
         {
             "class": "bloody mary",
+            "categories": [
+                "cocktail"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bloody Mary",
                 "GB": "Bloody Mary"
             },
-            "related-classes": [],
-            "categories": [
-                "drink",
-                "cocktail"
-            ],
             "description": {
                 "DE": "Bloody Mary ist ein klassischer Cocktail aus Wodka, Tomatensaft und Gewürzen.",
                 "GB": "A Bloody Mary is a cocktail containing vodka, tomato juice, and combinations of other spices and flavorings including Worcestershire sauce, hot sauces, garlic, herbs, horseradish, celery, olives, salt, black pepper, lemon juice, lime juice and\/or celery salt."
@@ -2294,21 +2291,21 @@
         },
         {
             "class": "blt",
+            "categories": [
+                "fast food"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "BLT",
                 "GB": "BLT"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Ein BLT ist eine Art Sandwich, benannt nach den Initialen seiner Hauptbestandteile Speck, Salat und Tomate.",
                 "GB": "A BLT is a type of sandwich, named for the initials of its primary ingredients, bacon, lettuce and tomato."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/BLT"
                 },
                 "spoonacular": null
@@ -2320,15 +2317,14 @@
         },
         {
             "class": "bolognese",
+            "categories": [
+                "sauce & marinade"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Ragù alla bolognese",
                 "GB": "Bolognese sauce"
             },
-            "related-classes": [],
-            "categories": [
-                "sauce",
-                "meat"
-            ],
             "description": {
                 "DE": "Ragù alla bolognese ist eine Hackfleischsauce, die vorwiegend mit Pasta kombiniert wird.",
                 "GB": "Bolognese sauce is a meat-based sauce in Italian cuisine, typical of the city of Bologna."
@@ -2343,23 +2339,23 @@
         },
         {
             "class": "boquerone",
+            "categories": [
+                "fish"
+            ],
+            "related-classes": [
+                "anchovy"
+            ],
             "name": {
                 "DE": "Sardellen in Essig",
                 "GB": "Boquerones en vinagre"
             },
-            "related-classes": [
-                "anchovy"
-            ],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Boquerones en vinagre sind eine Art Vorspeise oder Tapa, die man in Spanien findet.",
                 "GB": "Boquerones en vinagre are a type of appetizer or tapa found in Spain."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Boquerones_en_vinagre"
                 },
                 "spoonacular": null
