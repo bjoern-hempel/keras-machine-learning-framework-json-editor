@@ -2737,15 +2737,14 @@
         },
         {
             "class": "bruschetta",
+            "categories": [
+                "snack, appetizer & starter"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bruschetta",
                 "GB": "Bruschetta"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "starter"
-            ],
             "description": {
                 "DE": "Bruschetta gehört zu den italienischen Antipasti.",
                 "GB": "Bruschetta is an antipasto from Italy consisting of grilled bread rubbed with garlic and topped with olive oil and salt."
@@ -2760,15 +2759,14 @@
         },
         {
             "class": "bubble tea",
+            "categories": [
+                "other tea"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bubble Tea",
                 "GB": "Bubble tea"
             },
-            "related-classes": [],
-            "categories": [
-                "drink",
-                "tea"
-            ],
             "description": {
                 "DE": "Bubble Tea, international auch bekannt unter dem Namen Pearl Milk Tea oder Boba, ist ein taiwanisches Getränk auf der Basis von gesüßtem grünem oder schwarzem Tee, das häufig mit Milch und Fruchtsirup versetzt und wie ein Milchshake zubereitet wird.",
                 "GB": "Bubble tea (also known as pearl milk tea, bubble milk tea, or boba) is a Taiwanese tea-based drink invented in Tainan and Taichung in the 1980s."
@@ -2783,15 +2781,14 @@
         },
         {
             "class": "bucatini",
+            "categories": [
+                "pasta"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bucatini",
                 "GB": "Bucatini"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "pasta"
-            ],
             "description": {
                 "DE": "Bucatini oder Perciatelli sind röhrenförmige Nudeln aus Hartweizenmehl, die bei einem Durchmesser von 3 mm und einer Wanddicke von 1 mm eine Länge von etwa 30 cm besitzen, vor dem Kochen allerdings auch in kürzere Stücke zerbrochen werden können.",
                 "GB": "Bucatini, also known as perciatelli, is a thick spaghetti-like pasta with a hole running through the center."
@@ -2806,23 +2803,21 @@
         },
         {
             "class": "buffalo burger",
+            "categories": [
+                "fast food"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Buffalo-Burger",
                 "GB": "Buffalo burger"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "meat",
-                "beef"
-            ],
             "description": {
                 "DE": "Bison-Burger sind Hamburger, die aus Fleisch vom Rind oder amerikanischen Bison (Bison-Bison) hergestellt werden.",
                 "GB": "Buffalo burgers are hamburgers made with meat from the beefalo or American bison (Bison bison)."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Buffalo_burger"
                 },
                 "spoonacular": null
@@ -2838,14 +2833,14 @@
         },
         {
             "class": "bulgogi",
+            "categories": [
+                "other main course"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bulgogi",
                 "GB": "Bulgogi"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Bulgogi ist ein Fleischgericht der koreanischen Küche. In Korea gilt es als Festtagsgericht.",
                 "GB": "Bulgogi is a gui made of thin, marinated slices of beef or pork grilled on a barbecue or on a stove-top griddle."
@@ -2860,15 +2855,14 @@
         },
         {
             "class": "bun",
+            "categories": [
+                "fast food"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bun",
                 "GB": "Bun"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "bread"
-            ],
             "description": {
                 "DE": "Ein Bun ist ein weiches Brötchen, wahlweise mit Sesam bestreut, das in runder Form für Hamburger und in länglicher Form für Hot Dogs verwendet wird.",
                 "GB": "A bun is a small, sometimes sweet, bread-based item or roll."
@@ -2887,15 +2881,14 @@
         },
         {
             "class": "burger",
+            "categories": [
+                "fast food"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Hamburger",
                 "GB": "Hamburger"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "burger"
-            ],
             "description": {
                 "DE": "Ein Hamburger (kurz Burger) ist ein warmes Schnell- oder Fertiggericht und der Standardartikel vieler Fast-Food-Ketten.",
                 "GB": "A hamburger (short: burger) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun."
