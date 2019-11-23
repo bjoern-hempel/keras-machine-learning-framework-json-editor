@@ -3271,200 +3271,162 @@
         },
         {
             "class": "casserole",
+            "categories": [
+                "casserole"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "",
-                "GB": ""
+                "GB": "Casserole"
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Eine Auflaufform ist eine große, tiefe Pfanne, die sowohl im Ofen als auch als Serviergefäß verwendet wird.",
+                "GB": "A casserole is a large, deep pan used both in the oven and as a serving vessel."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Casserole"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cassis",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "cassis"
         },
         {
             "class": "cassoulet",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "stew"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Cassoulet",
+                "GB": "Cassoulet"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Cassoulet ist ein Eintopf aus dem Süden Frankreichs, der Region Languedoc.",
+                "GB": "Cassoulet from Occitan caçolet is a rich, slow-cooked casserole containing meat (typically pork sausages, goose, duck and sometimes mutton), pork skin (couennes) and white beans (haricots blancs), originating in southern France."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cassoulet",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cassoulet"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "catfish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
             "categories": [],
+            "related-classes": [],
+            "name": {
+                "DE": "Wels",
+                "GB": "Catfish"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Welsartigen (Siluriformes) sind eine Ordnung der Knochenfische, die mit etwa 3390 Arten in 38 Familien weltweit hauptsächlich in Süßgewässern verbreitet ist.",
+                "GB": "Catfish (or catfishes; order Siluriformes or Nematognathi) are a diverse group of ray-finned fish."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Catfish"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cavatelli",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Cavatelli",
+                "GB": "Cavatelli"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Cavatelli oder Capunti sind kleine muschelförmige Nudeln aus Hartweizengrieß.",
+                "GB": "Cavatelli are small pasta shells from eggless semolina dough that look like miniature hot dog buns, commonly cooked with garlic and broccoli or broccoli rabe."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cavatelli",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cavatelli"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cereal",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "muesli"
         },
         {
             "class": "ceviche",
+            "categories": [
+                "fish"
+            ],
+            "related-classes": [],
             "name": {
-                "DE": "",
+                "DE": "Ceviche",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ceviche ist ein Fischgericht der peruanischen Küche, das in weiten Teilen Lateinamerikas verbreitet ist.",
+                "GB": "Ceviche, also cebiche, seviche, or sebiche, is a seafood dish originating in Peru typically made from fresh raw fish cured in citrus juices, such as lemon or lime, and spiced with ají, chili peppers or other seasonings including chopped onions, salt and coriander."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ceviche",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ceviche"
                 },
                 "spoonacular": null
             }
         },
         {
-            "class": "chai",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chai",
+            "class": "chai"
         },
         {
             "class": "chai latte",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other tea"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chai Latte",
+                "GB": "Chai Latte"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "champagne",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
