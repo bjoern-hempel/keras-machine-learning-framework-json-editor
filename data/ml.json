@@ -3386,8 +3386,8 @@
             }
         },
         {
-            "duplicate": "chai",
-            "class": "chai"
+            "class": "chai",
+            "duplicate": "chai"
         },
         {
             "class": "chai latte",
@@ -3413,20 +3413,22 @@
         },
         {
             "class": "champagne",
-            "categories": [],
+            "categories": [
+                "sparkling wine"
+            ],
             "related-classes": [],
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Champagner",
+                "GB": "Champagne"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Champagner ist ein Schaumwein, der aus Trauben hergestellt wird, die nach streng festgelegten Regeln in dem Weinbaugebiet Champagne (frz. la Champagne) in Frankreich gelesen werden.",
+                "GB": "Champagne is a French sparkling wine."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Champagner",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Champagne"
                 },
                 "spoonacular": null
             }
