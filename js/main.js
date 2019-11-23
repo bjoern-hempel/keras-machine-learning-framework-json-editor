@@ -41,6 +41,35 @@ function saveJSON(obj, callback)
     xhr.send(data);
 }
 
+function filterText(text)
+{
+    let textFiltered = text;
+
+    textFiltered = textFiltered.replace(/\[[^\]]+\]/g, '');
+    textFiltered = textFiltered.replace(/\([^\)]+\)/g, '');
+    textFiltered = textFiltered.replace(/\/[^/)]+\//g, '');
+    textFiltered = textFiltered.replace(/[ ]+/g, ' ');
+
+    return textFiltered;
+}
+
+function loadWikiData(url, callback) {
+    $.ajax({
+        dataType : 'html',
+        url: url,
+        success: function(data) {
+            // set the returned contents in a new base <html> tag.
+            let response = $('<html />').html(data);
+
+            let nameElement = response.find('#firstHeading');
+            let descriptionElement = response.find('#mw-content-text p').first();
+
+            callback(nameElement.text(), filterText(descriptionElement.text()));
+        }
+    });
+}
+
+
 function splitData(data, start, max)
 {
     /* Correct the max value if -1 given */
@@ -56,7 +85,8 @@ function splitData(data, start, max)
     };
 }
 
-function mergeData(obj) {
+function mergeData(obj)
+{
     let data = [];
 
     data = data.concat(obj.before);
@@ -247,6 +277,23 @@ function startEditor()
                     counter++;
                 });
             });
+
+            /* set wikipedia parser */
+            ['DE', 'GB'].forEach(function(language) {
+                $("input[name*='[wikipedia][%s]']".replace(/%s/, language)).dblclick(function (e) {
+                    let wikipage = $(e.target).val();
+                    let panelElements = $(e.target).parents('div.panel');
+                    let nameElement = $(panelElements[2]).find("input[name*='[name][%s]']".replace(/%s/, language));
+                    let descriptionElement = $(panelElements[2]).find("textarea[name*='[description][%s]']".replace(/%s/, language));
+
+                    loadWikiData(wikipage, function (name, description) {
+                        nameElement.val(name);
+                        descriptionElement.val(description);
+                    });
+                });
+            });
+
+
         });
 
 
