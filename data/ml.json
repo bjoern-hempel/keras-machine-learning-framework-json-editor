@@ -3068,56 +3068,59 @@
             }
         },
         {
-            "class": "cannoli",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "class": "cannolo",
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Cannolo",
+                "GB": "Cannolo"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Cannolo (Mehrzahl: cannoli) ist ein gefülltes Gebäck aus Sizilien.",
+                "GB": "Cannoli are Italian pastries that originated on the island of Sicily and are today a staple of Sicilian cuisine as well as Italian-American cuisine."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cannolo",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cannoli"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "caponata",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Caponata",
+                "GB": "Caponata"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Caponata ist ein süßsaures Gemüsegericht aus der sizilianischen Küche.",
+                "GB": "Caponata is a Sicilian eggplant (aubergine) dish consisting of a cooked vegetable salad made from chopped fried eggplant and celery seasoned with sweetened vinegar, with capers in a sweet and sour sauce."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Caponata",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Caponata"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cappuccino",
+            "categories": [
+                "coffee"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Cappuccino",
                 "GB": "Cappuccino"
             },
-            "related-classes": [],
-            "categories": [
-                "drink",
-                "coffee"
-            ],
             "description": {
                 "DE": "Cappuccino ist ein italienisches Kaffeegetränk, das aus einem Espresso und heißem Milchschaum zubereitet wird.",
                 "GB": "A cappuccino is an espresso-based coffee drink that originated in Italy, and is traditionally prepared with steamed milk foam (microfoam)."
@@ -3132,140 +3135,136 @@
         },
         {
             "class": "caramel apple",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Karamell-Apfel",
+                "GB": "Caramel apple"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Karamell- oder Toffee-Äpfel werden durch Eintauchen oder Rollen von Äpfeln am Stiel in heißes Karamell hergestellt. Manchmal werden sie dann in Nüssen oder anderen kleinen Leckereien oder Süßigkeiten gerollt und abkühlen gelassen.",
+                "GB": "Caramel apples or taffy apples are created by dipping or rolling apples-on-a-stick in hot caramel, sometimes then rolling them in nuts or other small savories or confections, and allowing them to cool."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Caramel_apple"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "caramel cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "torte"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Karamellkuchen",
+                "GB": "Caramel Cake"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "caramelized onion",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "singular": "caramelized onions"
         },
         {
             "class": "caramelized onions",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other side dish"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Karamellisierte Zwiebeln",
+                "GB": "Caramelized Onions"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "carne asada",
+            "categories": [
+                "beef"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "",
-                "GB": ""
+                "GB": "Carne Asada"
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Carne asada ist ein Gericht mit gegrilltem und geschnittenem Rindfleisch, normalerweise Rocksteak, Lendensteak, Filetsteak oder Rippensteak.",
+                "GB": "Carne asada is a dish of grilled and sliced beef, usually skirt steak, sirloin steak, tenderloin steak, or rib steak."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Carne_asada"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "carrot cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Karottentorte",
+                "GB": "Carrot cake"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Rüeblitorte (alemannisch Rüebli für „Karotte“, „Möhre“, deutsch Karottentorte) ist eine Schweizer Kuchenspezialität aus dem Aargau.",
+                "GB": "Carrot cake is cake that contains carrots mixed into the batter."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/R%C3%BCeblitorte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Carrot_cake"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cashew chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Cashew-Chicken",
+                "GB": "Cashew chicken"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Cashew-Huhn ist ein chinesisch-amerikanisches Gericht, das Huhn (normalerweise gerührt, aber gelegentlich frittiert, je nach Variation), mit Cashewnüssen und entweder einer hellbraunen Knoblauchsauce oder einer dicken Sauce aus Hühnerbrühe, Sojasauce und Austernsauce kombiniert.",
+                "GB": "Cashew chicken is a Chinese-American dish that combines chicken (usually stir-fried but occasionally deep-fried, depending on the variation), with cashews and either a light brown garlic sauce or a thick sauce made from chicken stock, soy sauce and oyster sauce."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cashew_chicken"
                 },
                 "spoonacular": null
             }
