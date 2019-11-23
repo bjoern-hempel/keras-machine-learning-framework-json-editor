@@ -2367,22 +2367,21 @@
         },
         {
             "class": "bordeaux",
+            "categories": [
+                "red wine"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bordeaux Wein",
                 "GB": "Bordeaux wine"
             },
-            "related-classes": [],
-            "categories": [
-                "drink",
-                "wine"
-            ],
             "description": {
                 "DE": "Ein Bordeaux-Wein ist jeder Wein, der in der Region Bordeaux im Südwesten Frankreichs hergestellt wird. Bordeaux liegt in der Stadt Bordeaux, am Fluss Garonne.",
                 "GB": "A Bordeaux wine is any wine produced in the Bordeaux region of southwest France. Bordeaux is centered on the city of Bordeaux, on the Garonne River."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Bordeaux_wine"
                 },
                 "spoonacular": null
@@ -2390,15 +2389,14 @@
         },
         {
             "class": "bouillabaisse",
+            "categories": [
+                "stew"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bouillabaisse",
                 "GB": "Bouillabaisse"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "stew"
-            ],
             "description": {
                 "DE": "Bouillabaisse ist ein provenzalisches Fischgericht, das je nach Zubereitung als zweigängiges Gericht aus Fischsuppe und gegartem Speisefisch mit Meeresfrüchten oder als reichhaltiger Eintopf serviert wird.",
                 "GB": "Bouillabaisse is a traditional Provençal fish stew originating from the port city of Marseille."
@@ -2413,21 +2411,21 @@
         },
         {
             "class": "boule",
+            "categories": [
+                "pastry & bread"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Boule",
                 "GB": "Boule"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Boule, aus dem Französischen für \"Ball\", ist eine traditionelle Form von französischem Brot, die an einen zerquetschten Ball erinnert.",
                 "GB": "Boule, from the French for \"ball\", is a traditional shape of French bread, resembling a squashed ball."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Boule_(bread)"
                 },
                 "spoonacular": null
@@ -2435,88 +2433,71 @@
         },
         {
             "class": "bourbon",
-            "name": {
-                "DE": "Bourbon Whiskey",
-                "GB": "Bourbon whiskey"
-            },
-            "related-classes": [],
-            "categories": [
-                "drink"
-            ],
-            "description": {
-                "DE": "Bourbon Whiskey, kurz Bourbon, ist eine ursprünglich nur in Kentucky gebrannte Variante des amerikanischen Whiskeys.",
-                "GB": "Bourbon whiskey is a type of American whiskey, a barrel-aged distilled spirit made primarily from corn."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bourbon_Whiskey",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bourbon_whiskey"
-                },
-                "spoonacular": null
-            }
+            "duplicate": "whisky"
         },
         {
             "class": "bowl",
+            "categories": [
+                "other main course"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Bowl",
                 "GB": "Bowl"
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": null,
-                "GB": null
+                "DE": "",
+                "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "braised lamb shank",
+            "categories": [
+                "other meat"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Geschmorte Lammkeule",
                 "GB": "Braised lamb shank"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "meat"
-            ],
             "description": {
-                "DE": null,
-                "GB": null
+                "DE": "",
+                "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "braised short ribs",
+            "categories": [
+                "beef"
+            ],
+            "related-classes": [
+                "spare rips"
+            ],
             "name": {
                 "DE": "Geschmorte kurze Rippen",
                 "GB": "Braised short ribs"
             },
-            "related-classes": [
-                "spare rips"
-            ],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Galbi-jjjim oder geschmorte kurze Rippen sind eine Vielzahl von jjim oder koreanischen Dampfgerichten, die aus Galbi hergestellt werden.",
                 "GB": "Galbi-jjim or braised short ribs is a variety of jjim or Korean steamed dish made with galbi."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Galbi-jjim"
                 },
                 "spoonacular": null
@@ -2528,14 +2509,14 @@
         },
         {
             "class": "brandy",
+            "categories": [
+                "liquor"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Weinbrand",
                 "GB": "Brandy"
             },
-            "related-classes": [],
-            "categories": [
-                "drink"
-            ],
             "description": {
                 "DE": "Weinbrand ist ein Gattungsbegriff für Spirituosen aus einem Weindestillat.",
                 "GB": "Brandy is a spirit produced by distilling wine."
@@ -2550,15 +2531,14 @@
         },
         {
             "class": "bread pudding",
+            "categories": [
+                "pudding"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Brotpudding",
                 "GB": "Bread pudding"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
                 "DE": "Brotpudding, auch Semmelauflauf oder Semmelschmarren ist ein Gericht nach traditionellen Rezepten, das in seiner Zubereitung dem ursprünglichen englischen Pudding entspricht, der in Deutschland früher auch Serviettenkloß genannt wurde.",
                 "GB": "Bread pudding is a bread-based dessert popular in many countries' cuisines, made with stale bread and milk or cream, generally containing eggs, a form of fat such as oil, butter or suet, and depending on whether the pudding is sweet or savory, a variety of other ingredients."
@@ -2573,22 +2553,21 @@
         },
         {
             "class": "breakfast burrito",
+            "categories": [
+                "breakfast"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Breakfast burrito",
                 "GB": "Frühstücksburrito"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "breakfast"
-            ],
             "description": {
                 "DE": "Der Frühstücksburrito, manchmal auch als Frühstückswrap außerhalb des amerikanischen Südwestens bezeichnet, ist eine Variante des amerikanischen Frühstücks, die aus Frühstücksbestandteilen besteht, die in einem Mehltortilla-Burrito verpackt sind.",
                 "GB": "The breakfast burrito, sometimes referred to as a breakfast wrap outside of the American Southwest, is a variety of American breakfast composed of breakfast items wrapped inside a flour tortilla burrito."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Breakfast_burrito"
                 },
                 "spoonacular": null
@@ -2596,22 +2575,21 @@
         },
         {
             "class": "breakfast sandwich",
+            "categories": [
+                "breakfast"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Breakfast sandwich",
                 "GB": "Frühstückssandwich"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "breakfast"
-            ],
             "description": {
                 "DE": "In North America, a breakfast sandwich is any sandwich filled with foods associated with the breakfast meal.",
                 "GB": "In Nordamerika ist ein Frühstückssandwich jedes Sandwich, das mit Lebensmitteln gefüllt ist, die mit der Frühstücksmahlzeit verbunden sind."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Breakfast_sandwich"
                 },
                 "spoonacular": null
@@ -2619,22 +2597,21 @@
         },
         {
             "class": "breeze",
+            "categories": [
+                "cocktail"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Sea Breeze",
                 "GB": "Sea Breeze"
             },
-            "related-classes": [],
-            "categories": [
-                "drink",
-                "cocktail"
-            ],
             "description": {
                 "DE": "A Sea Breeze ist ein Cocktail mit Wodka mit Preiselbeersaft und Grapefruitsaft.",
                 "GB": "A Sea Breeze is a cocktail containing vodka with cranberry juice and grapefruit juice."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
+                    "DE": "",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Sea_Breeze_(cocktail)"
                 },
                 "spoonacular": null
@@ -2642,15 +2619,14 @@
         },
         {
             "class": "brioche",
+            "categories": [
+                "cake"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Brioche",
                 "GB": "Brioche"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
                 "DE": "Die Brioche, im Deutschen gelegentlich als „Apostelkuchen“ bezeichnet, ist ein feines Tafelgebäck aus ei- und fettreichem Hefeteig, das aus zwei oder drei verschieden großen und pyramidenartig aufeinander gesetzten Teigkugeln besteht.",
                 "GB": "Brioche is a bread of French origin that is similar to a highly enriched pastry, and whose high egg and butter content (400 grams for each kilogram of flour) give it a rich and tender crumb."
@@ -2664,40 +2640,19 @@
             }
         },
         {
-            "class": "brisket",
-            "name": {
-                "DE": "Rinderbrust",
-                "GB": "Brisket"
-            },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "meat",
-                "beef"
-            ],
-            "description": {
-                "DE": "Die Rinderbrust ist in der Kochkunst bzw. im Fleischer-Gewerbe ein mäßig durchwachsenes, langfaseriges Teilstück des Vorderviertels vom Rind.",
-                "GB": "Brisket is a cut of meat from the breast or lower chest of beef or veal."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rinderbrust",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Brisket"
-                },
-                "spoonacular": null
-            }
+            "duplicate": "beef brisket",
+            "class": "brisket"
         },
         {
             "class": "broccoli rabe",
+            "categories": [
+                "vegetable"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Rübstiel",
                 "GB": "Rapini"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "vegetable"
-            ],
             "description": {
                 "DE": "Als Rübstiel bezeichnet man die als Gemüse verwendeten Stiele und Blätter einiger Unterarten des Rübsen.",
                 "GB": "Rapini or broccoli rabe is a green cruciferous vegetable, with the leaves, buds, and stems all being edible; the buds somewhat resemble broccoli, but do not form a large head."
@@ -2712,15 +2667,14 @@
         },
         {
             "class": "brownie",
+            "categories": [
+                "cake"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Brownie",
                 "GB": "Chocolate brownie"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
                 "DE": "Ein Brownie (auch Boston Brownie) ist ein traditioneller Kuchen der US-amerikanischen Küche.",
                 "GB": "A chocolate brownie (commonly referred to as simply brownie) is a square or rectangular, baked, chocolate cake. Brownies come in a variety of forms and may be either fudgy or cakey, depending on their density."
@@ -2739,37 +2693,36 @@
         },
         {
             "class": "brownie sundae",
+            "categories": [
+                "ice cream"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Brownie Sundae",
                 "GB": "Brownie Sundae"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
                 "DE": "Ein Brownie Eisbecher ist einfach ein Eisbecher auf einem Brownie.",
                 "GB": "A Brownie Sundae is simply a sundae on top of a brownie."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "brunch",
+            "categories": [
+                "breakfast"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Brunch",
                 "GB": "Brunch"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Als Brunch wird eine Mahlzeit bezeichnet, die aus Komponenten des Frühstücks und des Mittagessens besteht.",
                 "GB": "Brunch is a combination of breakfast and lunch, and regularly has some form of alcoholic drink (most usually champagne or a cocktail) served with it."
