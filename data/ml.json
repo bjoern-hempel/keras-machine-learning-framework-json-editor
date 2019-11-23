@@ -2907,14 +2907,14 @@
         },
         {
             "class": "burrito",
+            "categories": [
+                "fast food"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Burrito",
                 "GB": "Burrito"
             },
-            "related-classes": [],
-            "categories": [
-                "dish"
-            ],
             "description": {
                 "DE": "Ein Burrito ist eine gefüllte Tortilla aus Weizenmehl und ein Gericht aus der mexikanischen und Tex-Mex-Küche.",
                 "GB": "A burrito is a dish in Mexican and Tex-Mex cuisine that consists of a flour tortilla wrapped into a sealed cylindrical shape around various ingredients."
@@ -2929,20 +2929,22 @@
         },
         {
             "class": "burrito bowl",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Burrito Bowl",
+                "GB": "Burrito Bowl"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
@@ -2953,120 +2955,114 @@
         },
         {
             "class": "butter chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "curry"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Butter-Huhn",
+                "GB": "Butter Chicken"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Butter-Huhn oder Makhan-Murg ist ein Gericht aus dem indischen Subkontinent, von Huhn in einer leicht gewürzten Tomatensauce.",
+                "GB": "Butter chicken or Makhan murg is a dish, originating in Indian subcontinent, of chicken in a mildly spiced tomato sauce."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Butter_chicken"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cabernet sauvignon",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "red wine"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Cabernet Sauvignon",
+                "GB": "Cabernet Sauvignon"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Cabernet Sauvignon ist eine Rotweinsorte.",
+                "GB": "Cabernet Sauvignon is one of the world's most widely recognized red wine grape varieties."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cabernet_Sauvignon",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cabernet_Sauvignon"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "caesar salad",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "green"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Caesar Salad",
+                "GB": "Caesar salad"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Caesar Salad ist ein international bekannter Salat der US-amerikanischen Küche, der dem Italo-Amerikaner Cesare Cardini zugeschrieben wird.",
+                "GB": "A Caesar salad (also spelled Cesar and Cesare) is a green salad of romaine lettuce and croutons dressed with lemon juice (or lime juice), olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Caesar_Salad",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Caesar_salad"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "cake"
         },
         {
             "class": "calzone",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pizza"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Pizza Calzone",
+                "GB": "Calzone"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Eine Calzone ist eine italienische, im Ofen gebackene Pizza, die ihren Ursprung im 18. Jahrhundert in Neapel hatte.",
+                "GB": "A calzone is an Italian oven-baked folded pizza that originated in Naples in the 18th century."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Calzone"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cannelloni",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "casserole"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Cannelloni",
+                "GB": "Cannelloni"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Cannelloni sind große, dicke Röhrennudeln aus Hartweizen mit einer Länge von ungefähr 10 cm und einem Durchmesser von etwa 3 cm.",
+                "GB": "Cannelloni are a cylindrical type of lasagna generally served baked with a filling and covered by a sauce in Italian cuisine."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cannelloni",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cannelloni"
                 },
                 "spoonacular": null
             }
