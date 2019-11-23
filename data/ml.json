@@ -3435,203 +3435,169 @@
         },
         {
             "class": "chardonnay",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "white wine"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chardonnay",
+                "GB": "Chardonnay"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Weißweinsorte Chardonnay ist eine weltweit verbreitete Sorte mit einem hohen Qualitätspotenzial und Bekanntheitsgrad.",
+                "GB": "Chardonnay is a green-skinned grape variety used in the production of white wine."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Chardonnay",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chardonnay"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cheese bread",
+            "categories": [
+                "pastry & bread"
+            ],
+            "related-classes": [],
             "name": {
-                "DE": "",
+                "DE": " Käsebrötchen",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": "",
+                "DE": "Käsebrötchen oder Käsebrote können sich auf eine Vielzahl kleiner, gebackener Brötchen mit Käsegeschmack beziehen, die in Brasilien, Kolumbien, Ecuador, Argentinien und Paraguay als Snack und Frühstück beliebt sind. Käsebrötchen können mit Maniok, Maismehl oder beidem und Käse hergestellt werden. In Ländern, in denen der Snack beliebt ist, ist er preiswert und wird häufig von Straßenhändlern, in Snackgeschäften und in Lebensmittelgeschäften verkauft.",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cheese_bun"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cheeseburger",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Cheeseburger",
+                "GB": "Cheeseburger"
+            },
             "description": {
                 "DE": "",
-                "GB": ""
+                "GB": "A cheeseburger is a hamburger topped with cheese. Traditionally, the slice of cheese is placed on top of the meat patty, but the burger can include variations in structure, ingredients and composition. The cheese is usually added to the cooking hamburger patty shortly before serving, which allows the cheese to melt. As with other hamburgers, a cheeseburger may include toppings, such as lettuce, tomato, onion, pickles, bacon, mayonnaise, ketchup, mustard or other toppings.\n"
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cheeseburger",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cheeseburger"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cheese cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "cheesecake"
         },
         {
             "class": "cheesecake",
+            "categories": [
+                "cake"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
-                "GB": ""
+                "GB": "Cheesecake is a sweet dessert consisting of one or more layers. The main, and thickest layer, consists of a mixture of soft, fresh cheese (typically cream cheese or ricotta), eggs, and sugar. If there is a bottom layer, it often consists of a crust or base made from crushed cookies (or digestive biscuits), graham crackers, pastry, or sometimes sponge cake. It may be baked or unbaked (usually refrigerated)."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/K%C3%A4sekuchen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cheesecake"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cheesecakes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "cheesecake"
         },
         {
             "class": "cheese dip",
+            "categories": [
+                "sauce & marinade"
+            ],
+            "related-classes": [],
             "name": {
-                "DE": "",
+                "DE": "Käse-Sauce",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Cheddar-Sauce, Cheddar-Käse-Sauce oder Käse-Sauce ist eine traditionelle Sauce, die in der englischen Küche verwendet wird. Die Sauce basiert auf weißer Sauce, die als eine der \"Muttersaucen\" bekannt ist, und Cheddar-Käse. Es könnte als englisches Äquivalent der französischen Mornay-Sauce angesehen werden. Die Sauce wird hergestellt, indem eine Menge Cheddar-Käse zu weißer Sauce gegeben und dann unter anderem mit englischem Senf, Worcestershire-Sauce und Pfeffer gewürzt wird.",
+                "GB": "Cheddar sauce, cheddar cheese sauce, or cheese sauce is a traditional sauce used in English cooking. The sauce is based upon white sauce, which is known as one of the 'mother sauces', and cheddar cheese. It could be seen as an English equivalent of the French Mornay sauce . The sauce is made by adding an amount of cheddar cheese to white sauce and then spiced using English mustard, Worcestershire sauce and pepper among other ingredients."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cheddar_sauce"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cheese pie",
+            "categories": [
+                "other main course"
+            ],
+            "related-classes": [],
             "name": {
-                "DE": "",
+                "DE": " Zwiebel-Käse-Kuchen",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": "",
+                "DE": "Käse-Zwiebel-Kuchen ist ein herzhaftes Gericht, dessen Basis eine äußere Schicht aus herzhaftem Gebäck ist, die mit einer Mischung aus Käse, Zwiebeln, Kräutern und manchmal Kartoffeln gefüllt ist. Viele Rezepte enthalten Lancashire-Käse, was auf die Herkunft von Nordwestengland hinweist.",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cheese_and_onion_pie"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cheese ravioli",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": " Käse-Ravioli",
+                "GB": "Cheese Ravioli"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cheese sauce",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "cheese dip"
         },
         {
             "class": "cheese sticks",
