@@ -3463,11 +3463,11 @@
             "related-classes": [],
             "name": {
                 "DE": " Käsebrötchen",
-                "GB": ""
+                "GB": "Cheese Bread"
             },
             "description": {
                 "DE": "Käsebrötchen oder Käsebrote können sich auf eine Vielzahl kleiner, gebackener Brötchen mit Käsegeschmack beziehen, die in Brasilien, Kolumbien, Ecuador, Argentinien und Paraguay als Snack und Frühstück beliebt sind. Käsebrötchen können mit Maniok, Maismehl oder beidem und Käse hergestellt werden. In Ländern, in denen der Snack beliebt ist, ist er preiswert und wird häufig von Straßenhändlern, in Snackgeschäften und in Lebensmittelgeschäften verkauft.",
-                "GB": ""
+                "GB": "Cheese buns or cheese breads may refer to a variety of small, baked, cheese-flavored rolls, a popular snack and breakfast food in Brazil, Colombia, Ecuador, Argentina and Paraguay. Cheese buns may be made with cassava or corn flour, or both, and cheese. In countries where the snack is popular, it is inexpensive and often sold from street vendors, in snack shops, and in grocery stores."
             },
             "urls": {
                 "wikipedia": {
@@ -3488,8 +3488,8 @@
                 "GB": "Cheeseburger"
             },
             "description": {
-                "DE": "",
-                "GB": "A cheeseburger is a hamburger topped with cheese. Traditionally, the slice of cheese is placed on top of the meat patty, but the burger can include variations in structure, ingredients and composition. The cheese is usually added to the cooking hamburger patty shortly before serving, which allows the cheese to melt. As with other hamburgers, a cheeseburger may include toppings, such as lettuce, tomato, onion, pickles, bacon, mayonnaise, ketchup, mustard or other toppings.\n"
+                "DE": "Als Cheeseburger bezeichnet man einen Hamburger, der zusätzlich eine Käsescheibe enthält.",
+                "GB": "A cheeseburger is a hamburger topped with cheese. Traditionally, the slice of cheese is placed on top of the meat patty, but the burger can include variations in structure, ingredients and composition. The cheese is usually added to the cooking hamburger patty shortly before serving, which allows the cheese to melt. As with other hamburgers, a cheeseburger may include toppings, such as lettuce, tomato, onion, pickles, bacon, mayonnaise, ketchup, mustard or other toppings."
             },
             "urls": {
                 "wikipedia": {
@@ -3510,11 +3510,11 @@
             ],
             "related-classes": [],
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Käsekuchen",
+                "GB": "Cheesecake"
             },
             "description": {
-                "DE": "",
+                "DE": "Der Käsekuchen oder Quarkkuchen ist eine feine Backware, die zu Hauptteilen aus Quark oder einem anderen ungesalzenen Frischkäse, Eiern, Milch und Zucker gebacken wird. Käsekuchen werden in offener, gedeckter oder gefüllter Form hergestellt. Nach den Leitsätzen des Deutschen Lebensmittelbuchs werden auf 100 g Teig mindestens 150 g Käsemasse, und für die Käsemasse mindestens 30 Prozent Speisequark verwendet.",
                 "GB": "Cheesecake is a sweet dessert consisting of one or more layers. The main, and thickest layer, consists of a mixture of soft, fresh cheese (typically cream cheese or ricotta), eggs, and sugar. If there is a bottom layer, it often consists of a crust or base made from crushed cookies (or digestive biscuits), graham crackers, pastry, or sometimes sponge cake. It may be baked or unbaked (usually refrigerated)."
             },
             "urls": {
@@ -3537,7 +3537,7 @@
             "related-classes": [],
             "name": {
                 "DE": "Käse-Sauce",
-                "GB": ""
+                "GB": "Cheddar Sauce"
             },
             "description": {
                 "DE": "Cheddar-Sauce, Cheddar-Käse-Sauce oder Käse-Sauce ist eine traditionelle Sauce, die in der englischen Küche verwendet wird. Die Sauce basiert auf weißer Sauce, die als eine der \"Muttersaucen\" bekannt ist, und Cheddar-Käse. Es könnte als englisches Äquivalent der französischen Mornay-Sauce angesehen werden. Die Sauce wird hergestellt, indem eine Menge Cheddar-Käse zu weißer Sauce gegeben und dann unter anderem mit englischem Senf, Worcestershire-Sauce und Pfeffer gewürzt wird.",
@@ -3559,11 +3559,11 @@
             "related-classes": [],
             "name": {
                 "DE": " Zwiebel-Käse-Kuchen",
-                "GB": ""
+                "GB": "Cheese and onion pie"
             },
             "description": {
                 "DE": "Käse-Zwiebel-Kuchen ist ein herzhaftes Gericht, dessen Basis eine äußere Schicht aus herzhaftem Gebäck ist, die mit einer Mischung aus Käse, Zwiebeln, Kräutern und manchmal Kartoffeln gefüllt ist. Viele Rezepte enthalten Lancashire-Käse, was auf die Herkunft von Nordwestengland hinweist.",
-                "GB": ""
+                "GB": "Cheese and onion pie is a savoury dish, the basis of which is an outer layer of savoury pastry filled with a mixture of cheese, onion, herbs and sometimes potato. Many recipes contain Lancashire cheese, indicating parentage of North West England."
             },
             "urls": {
                 "wikipedia": {
