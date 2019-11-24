@@ -61,10 +61,23 @@ function loadWikiData(url, callback) {
             // set the returned contents in a new base <html> tag.
             let response = $('<html />').html(data);
 
-            let nameElement = response.find('#firstHeading');
-            let descriptionElement = response.find('#mw-content-text p').first();
+            let name = response.find('#firstHeading').text();
 
-            callback(nameElement.text(), filterText(descriptionElement.text()));
+            let counter = 0;
+            let description = "";
+            let descriptionElements = response.find('#mw-content-text p');
+
+            do {
+                if (counter + 1 > descriptionElements.length) {
+                    console.error('Break');
+                    break;
+                }
+
+                description = $(descriptionElements[counter]).text().trim();
+                counter++;
+            } while (description === "");
+
+            callback(name, filterText(description));
         }
     });
 }
