@@ -3601,200 +3601,184 @@
         },
         {
             "class": "cheese sticks",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "mozzarella sticks"
         },
         {
             "class": "chianti",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "red wine"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chianti",
+                "GB": "Chianti"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Chianti ist ein Rotwein aus der Toskana, der im Wesentlichen aus der Sangiovese-Traube besteht. Er wird in einem Gebiet erzeugt, das einen Großteil der mittleren Toskana umfasst. Chianti war früher das Synonym für italienischen Wein schlechthin und wurde traditionell in strohumflochtenen Flaschen verkauft. Mit der Bezeichnung Chianti werden zwei bedeutende Rotweine erzeugt sowie zwei Dessertweine . Die Rotweine erhielten beide ihre „kontrollierte und garantierte Herkunftsbezeichnung“ am 2. Juli 1984, nachdem sie vorher bereits seit 1967 als DOC-Weine zertifiziert waren. Der „Vin Santo del Chianti“ erhielt seine kontrollierte Herkunftsbezeichnung am 28. August 1997. Der „Vin Santo del Chianti Classico“ besitzt seit dem 24. Oktober 1995 eine „Denominazione di origine controllata“.",
+                "GB": "A Chianti wine is any wine produced in the Chianti region of central Tuscany. It was historically associated with a squat bottle enclosed in a straw basket, called a fiasco . However, the fiasco is only used by a few makers of the wine as most Chianti is now bottled in more standard shaped wine bottles. Baron Bettino Ricasoli created the Chianti recipe of 70% Sangiovese, 15% Canaiolo and 15% Malvasia bianca in the middle of the 19th century."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Chianti_(Wein)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chianti"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Geflügel",
+                "GB": "Chicken as food"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Geflügel ist der Oberbegriff für alle Vogelarten, die als Nutztiere oder Haustiere gezüchtet werden und zum menschlichen Verzehr geeignet sind. Teilweise wird der Begriff synonym für Haus- oder Nutzgeflügel verwendet, manchmal schließt er auch Federwild, Wildvögel, die gezielt zum Verzehr gejagt werden, mit ein. Je nach Nutzung werden Vögel auch in Wirtschaftsgeflügel, Rassegeflügel und Ziergeflügel oder Fettgeflügel, Magergeflügel und Wildgeflügel unterschieden.",
+                "GB": "Chicken is the most common type of poultry in the world. Owing to the relative ease and low cost of raising them in comparison to animals such as cattle or hogs, chickens have become prevalent throughout the cuisine of cultures around the world, and their meat has been variously adapted to regional tastes."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gefl%C3%BCgel",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_as_food"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken alfredo",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chicken Alfredo",
+                "GB": "Chicken Alfredo"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hühnchen mit Pasta",
+                "GB": "Chicken with pasta"
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken and waffles",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Huhn und Waffeln",
+                "GB": "Chicken and waffles"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Huhn und Waffeln ist ein amerikanisches Gericht, das Huhn mit Waffeln kombiniert. Es ist Teil einer Vielzahl von kulinarischen Traditionen, einschließlich Soul Food und Pennsylvania Dutch Cuisine, und wird in einigen Spezialitätenrestaurants in den Vereinigten Staaten serviert.",
+                "GB": "Chicken and waffles is an American dish combining chicken with waffles. It is part of a variety of culinary traditions, including soul food and Pennsylvania Dutch cuisine, and is served in certain specialty restaurants in the United States."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_and_waffles"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken breast",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Hühnerbrust",
+                "GB": "Chicken Breast"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken burger",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Hähnchenbürger",
+                "GB": "Chicken burger"
+            },
             "description": {
-                "DE": "",
+                "DE": "Ein Hühnersandwich ist ein Sandwich, das typischerweise aus knochenloser, hautloser Hühnerbrust besteht, die zwischen Brotscheiben, auf einem Brötchen oder auf einem Brötchen serviert wird. Variationen des \"Huhn-Sandwichs\" beinhalten den Huhn-Burger oder Huhn auf einem Brötchen, heißes Huhn und Hühnersalat-Sandwich.",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_sandwich"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken caesar salad",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "caesar salad"
         },
         {
             "class": "chicken cordon bleu",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Hühnchen cordon bleu",
+                "GB": "Chicken cordon bleu"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken curry",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "curry"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Hühnchen Curry",
+                "GB": "Chicken Curry"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
