@@ -1368,7 +1368,25 @@
         },
         {
             "class": "arroz con pollo",
-            "duplicate": "chicken rice"
+            "categories": [
+                "chicken"
+            ],
+            "related-classes": [],
+            "name": {
+                "DE": "Reis mit Huhn",
+                "GB": "Arroz con pollo"
+            },
+            "description": {
+                "DE": "Reis mit Huhn ist ein traditionelles Gericht aus Spanien und Lateinamerika, das eng mit der Paella verbunden ist. In der Dominikanischen Republik wird es abwechselnd locrio de pollo genannt, und in Saint Martin wird es lokri oder locreo genannt.",
+                "GB": "Arroz con pollo is a traditional dish of Spain and Latin America, closely related to paella. In the Dominican Republic it is alternately called locrio de pollo, and in Saint Martin it is called lokri or locreo."
+            },
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Arroz_con_pollo"
+                },
+                "spoonacular": null
+            }
         },
         {
             "class": "artichoke dip",
@@ -3967,71 +3985,61 @@
         },
         {
             "class": "chicken rice",
-            "categories": [],
-            "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            }
+            "duplicate": "arroz con pollo"
         },
         {
             "class": "chicken salad",
-            "categories": [],
+            "categories": [
+                "green"
+            ],
             "related-classes": [],
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hühnersalat",
+                "GB": "Chicken salad"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hühnersalat ist jeder Salat mit Huhn als Hauptbestandteil. Andere gängige Zutaten können Mayonnaise, hart gekochtes Ei, Sellerie, Zwiebel, Pfeffer, Gurken und eine Vielzahl von Senfen sein.",
+                "GB": "Chicken salad is any salad with chicken as a main ingredient. Other common ingredients may include mayonnaise, hard-boiled egg, celery, onion, pepper, pickles and a variety of mustards."
             },
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_salad"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken sandwich",
-            "categories": [],
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hühnersandwich",
+                "GB": "Chicken sandwich"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ein Hühnersandwich ist ein Sandwich, das typischerweise aus knochenloser, hautloser Hühnerbrust besteht, die zwischen Brotscheiben, auf einem Brötchen oder auf einem Brötchen serviert wird. Variationen des \"Huhn-Sandwichs\" beinhalten den Huhn-Burger oder Huhn auf einem Brötchen, heißes Huhn und Hühnersalat-Sandwich.",
+                "GB": "A chicken sandwich is a sandwich that typically consists of boneless, skinless chicken breast served between slices of bread, on a bun, or on a roll. Variations on the \"chicken sandwich\" include the chicken burger or chicken on a bun, hot chicken, and chicken salad sandwich."
             },
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_sandwich"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken sausage",
-            "categories": [],
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hühnerwurst",
+                "GB": "chicken sausage"
             },
             "description": {
                 "DE": "",
@@ -4047,11 +4055,13 @@
         },
         {
             "class": "chicken steak",
-            "categories": [],
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hühnersteak",
+                "GB": "Chicken Steak"
             },
             "description": {
                 "DE": "",
@@ -4075,15 +4085,17 @@
         },
         {
             "class": "chicken teriyaki",
-            "categories": [],
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Teriyaki Chicken",
+                "GB": "Chicken Teriyaki"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Chicken Teriyaki ist ein asiatisches Grillgericht mit mariniertem Hähnchenbrustfilet und Gemüse aus der Gusspfanne.",
+                "GB": "Chicken Teriyaki is an Asian grill dish with marinated chicken breast fillet and vegetables from the cast pan."
             },
             "urls": {
                 "wikipedia": {
@@ -4095,40 +4107,26 @@
         },
         {
             "class": "chicken tikka",
-            "categories": [],
-            "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chicken tikka masala"
         },
         {
             "class": "chicken tikka masala",
-            "categories": [],
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Chicken tikka masala",
+                "GB": "Chicken tikka masala"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Chicken tikka masala, oft CTM abgekürzt, ist ein häufig in indischen Restaurants in Europa und Nordamerika angebotenes Currygericht aus gegrillten marinierten Hähnchenfleischstücken in einer würzigen Tomatensauce, das eigentlich der englischen Küche zuzurechnen ist. In Großbritannien war es nach einer Erhebung aus dem Jahr 2001 das beliebteste Gericht.",
+                "GB": "Chicken tikka masala is a dish of chunks of roasted marinated chicken in a spiced curry sauce. The sauce is usually creamy and orange-coloured. There are multiple claims to its place of origin such as the Indian subcontinent and the United Kingdom. It is among the United Kingdom's most popular dishes."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Chicken_tikka_masala",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_tikka_masala"
                 },
                 "spoonacular": null
             }
