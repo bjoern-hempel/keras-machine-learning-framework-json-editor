@@ -4137,180 +4137,108 @@
         },
         {
             "class": "chicken wings",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chicken Wings",
+                "GB": "Buffalo wing"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Chicken Wings, in den USA Buffalo Wings oder Buffalo Chicken Wings , sind ein Geflügelgericht der Küche der Vereinigten Staaten. Im deutschsprachigen Raum zählt es heute zumeist zum Fast Food und wird industriell vorgefertigt.",
+                "GB": "A Buffalo wing, in the cuisine of the United States, is an unbreaded chicken wing section that is generally deep-fried then coated or dipped in a sauce consisting of a vinegar-based cayenne pepper hot sauce and melted butter prior to serving. The Buffalo wing was allegedly invented in 1964 at Anchor Bar in Buffalo, New York by Teressa Bellissimo. They are traditionally served hot, along with celery sticks and carrot sticks with blue cheese dressing or ranch dressing for dipping. Locals refer to them merely as \"wings\"."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Chicken_Wings",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Buffalo_wing"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chilean sea bass",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "sea bass"
         },
         {
             "class": "chili",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chili con carne"
         },
         {
             "class": "chili cheese fries",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chili Cheese Fries",
+                "GB": "Chili Cheese Fries"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chili con carne",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chili con Carne",
+                "GB": "Chili con carne"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Chili con Carne ist die Bezeichnung eines scharfen Gerichts aus Fleisch und Chilischoten.",
+                "GB": "Chili con carne or chilli con carne , meaning 'chili with meat', and almost always known as simply chili or chilli, is a spicy stew containing chili peppers , meat , and often tomatoes and beans. Other seasonings may include garlic, onions, and cumin. The original dish originated in southern Texas with working-class Mexican women."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Chili_con_Carne",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chili_con_carne"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chili dog",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "hotdog"
         },
         {
             "class": "chilli",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chili con carne"
         },
         {
             "class": "chimichanga",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "burrito"
         },
         {
             "class": "chimichurri",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chimichurri",
+                "GB": "Chimichurri"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Chimichurri ist eine argentinische Sauce, die in der Regel zu gegrilltem Rindfleisch serviert wird, wie zum Beispiel bei einem typischen argentinischen Asado. Gelegentlich wird er aber auch als Marinade für Fisch oder Geflügel oder als Sauce für die beliebte Bratwurst auf Weißbrot benutzt.",
+                "GB": "Chimichurri or chimmichurri is an uncooked sauce used both in cooking and as a table condiment for grilled meat. It originated in Argentina, and comes in a green and a red version. It is made of finely chopped parsley, minced garlic, olive oil, oregano and red wine vinegar. The dominant flavors are parsley and garlic. It is widely used in Argentina and Uruguay."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Chimichurri",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chimichurri"
                 },
                 "spoonacular": null
             }
