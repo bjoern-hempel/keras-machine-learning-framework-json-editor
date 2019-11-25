@@ -3785,400 +3785,350 @@
         },
         {
             "class": "chicken fingers",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Hühnchen Sticks",
+                "GB": "Chicken fingers"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hühnerfinger, auch bekannt als Hühnerzungen, Hühnergoujons, Hühnerstreifen, Bonbons oder Hühnerfilets, sind Hühnerfleisch, das aus den kleinen Muskeln der Pectoralis des Tieres hergestellt wird. Diese weißen Fleischstreifen befinden sich auf beiden Seiten des Brustbeins, unter dem Brustfleisch. Sie können auch mit ähnlich geformten Stücken aus Hühnerfleisch, meist der Brust, oder manchmal auch nur pulverisiertem Hühnerfleisch hergestellt werden.",
+                "GB": "Chicken fingers, also known as chicken tenders, chicken goujons, chicken strips, tendies or chicken fillets, are chicken meat prepared from the pectoralis minor muscles of the animal. These strips of white meat are located on either side of the breastbone, under the breast meat . They may also be made with similarly shaped pieces cut from chicken meat, usually the breast, or sometimes just pulverized chicken flesh."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_fingers"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken fried rice",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chicken rice"
         },
         {
             "class": "chicken fried steak",
+            "categories": [
+                "beef"
+            ],
+            "related-classes": [],
             "name": {
-                "DE": "",
+                "DE": "Hähnchenbratensteak",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Chicken Fried Steak, auch bekannt als Country Fried Steak, ist ein amerikanisches paniertes Schnitzelgericht, das aus einem Stück Rindfleisch besteht, das mit gewürztem Mehl überzogen und in der Pfanne gebacken wird. Es wird manchmal mit der südlichen Küche der Vereinigten Staaten in Verbindung gebracht. Es wird paniert und mit einer Technik gebraten, die der des gewöhnlicheren gebratenen Huhns ähnelt, also \"chicken fried\".",
+                "GB": "Chicken fried steak, also known as country-fried steak, is an American breaded cutlet dish consisting of a piece of beefsteak coated with seasoned flour and pan-fried. It is sometimes associated with the Southern cuisine of the United States. It is breaded and fried with a technique similar to the more common fried chicken, hence \"chicken fried\"."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_fried_steak"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken marsala",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
             "categories": [],
+            "related-classes": [],
+            "name": {
+                "DE": "Hähnchen Marsala",
+                "GB": "Chicken marsala"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hühner-Marsala ist ein italienisch-amerikanisches Gericht, das aus Hühnerkoteletts, Pilzen, gehacktem Knoblauch oder Schalotten und Marsala-Wein hergestellt wird, und obwohl traditionelle italienische Versionen dieses Gerichtes normalerweise nie mit Pasta serviert werden, servieren einige amerikanische Restaurants, die italienisch-amerikanische Küche servieren, dieses Gericht mit Pasta und gebratenem Knoblauch. Es handelt sich um eine Variation der traditionellen italienischen Scaloppina-Gerichte, von denen es in ganz Italien viele Sorten gibt. Das Gericht stammt aus dem 19. Jahrhundert, als es wahrscheinlich von englischen Familien stammt, die in Westsizilien lebten, wo Marsala-Wein hergestellt wird. Das Huhn wird mit Mehl überzogen, kurz angebraten und dann aus der Pfanne genommen, die dann zu einer Marsala-Reduktionssauce verarbeitet wird. Die Sauce wird hergestellt, indem der Wein auf fast die Konsistenz eines Sirups reduziert und Knoblauch, Zwiebeln oder Schalotten sowie Pilze, Kräuter und möglicherweise andere Zutaten hinzugefügt werden. Die Sauce wird dann über das Huhn gegossen, das in einem Wärmeschrank aufbewahrt wird, und sofort serviert.",
+                "GB": "Chicken marsala is an Italian-American dish made from chicken cutlets, mushrooms, minced garlic or shallots, and Marsala wine, and although traditional Italian versions of this dish are typically never served with pasta, some American based restaurants which serve Italian-American cuisine do serve this dish with pasta and whole roasted garlic. It is a variation of traditional Italian scaloppina dishes, of which there are many varieties throughout Italy. The dish dates to the 19th century, when it most likely originated with English families who lived in western Sicily, where Marsala wine is produced. The chicken is coated in flour, briefly sautéed, and then removed from the pan, which is then used to make a Marsala reduction sauce. The sauce is made by reducing the wine to nearly the consistency of a syrup while adding garlic, onions or shallots, as well as mushrooms, herbs and possibly other ingredients. The sauce is then poured over the chicken, which has been kept in a warming oven, and served immediately."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_marsala"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken noodle soup",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Hühnersuppe mit Nudeln",
+                "GB": "Chicken Noodle Soup"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken nuggets",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chicken-Nuggets",
+                "GB": "Chicken nugget"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Chicken-Nuggets sind mundgerecht portionierte, panierte und frittierte Stücke aus Hähnchenfleisch oder Hähnchenformfleisch. Sie gehören zum Standardsortiment von US-amerikanischen Fastfood-Anbietern wie McDonald’s, Burger King oder Kentucky Fried Chicken, werden aber auch im Lebensmittelhandel als Tiefkühlkost oder Kühlkost angeboten.",
+                "GB": "A chicken nugget is a chicken product made from chicken meat that is breaded or battered, then deep-fried or baked. Fast food restaurants usually fry their nuggets in vegetable oil."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Chicken-Nuggets",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_nugget"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken parmesan",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chicken parmigiana"
         },
         {
             "class": "chicken parmigiana",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Hühnerparmesan",
+                "GB": "Chicken parmigiana"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hühnerparmesan ist ein Gericht, das aus panierter Hühnerbrust mit Tomatensauce und Mozzarella, Parmesan oder Provolone-Käse besteht. Manchmal wird eine Scheibe Schinken oder Speck hinzugefügt. Es ist auch umgangssprachlich in den Vereinigten Staaten als chicken parm und in Australien als parma, parmi oder parmy bekannt.",
+                "GB": "Chicken parmigiana, or chicken parmesan , is a dish that consists of breaded chicken breast covered in tomato sauce and mozzarella, parmesan, or provolone cheese. A slice of ham or bacon is sometimes added. It is also known colloquially in the United States as chicken parm and in Australia as a parma, parmi, or parmy."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_parmigiana"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken piccata",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Hühnchen Piccata",
+                "GB": "Chicken Piccata"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken pie",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Hühner- und Pilztorte",
+                "GB": "Chicken and mushroom pie"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Chicken and Champignon Pie ist ein gewöhnlicher britischer Kuchen, der als eine der beliebtesten Arten von herzhaftem Kuchen in Großbritannien gilt und oft in Fisch- und Chips-Restaurants serviert wird.",
+                "GB": "Chicken and mushroom pie is a common British pie, ranked as one of the most popular types of savoury pie in Great Britain and often served in fish and chips restaurants."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_and_mushroom_pie"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken rice",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken salad",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken sandwich",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken sausage",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken steak",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken strips",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chicken fingers"
         },
         {
             "class": "chicken tenders",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chicken fingers"
         },
         {
             "class": "chicken teriyaki",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken tikka",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chicken tikka masala",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
