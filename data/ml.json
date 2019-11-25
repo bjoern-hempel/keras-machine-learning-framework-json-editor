@@ -4245,200 +4245,148 @@
         },
         {
             "class": "chocolate cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Schokoladenkuchen",
+                "GB": "Chocolate cake"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Als Schokoladenkuchen, auch Schokoladekuchen, bezeichnet man unterschiedliche Kuchen, die mit Kakaoprodukten oder Schokolade zubereitet wurden.",
+                "GB": "Chocolate cake or chocolate gâteau is a cake flavored with melted chocolate, cocoa powder, or both."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schokoladenkuchen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chocolate_cake"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chocolate cheesecake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Schokoladen-Käsekuchen",
+                "GB": "Chocolate-cheese cake"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chocolate chip cookie",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "singular": "chocolate chip cookies"
         },
         {
             "class": "chocolate chip cookies",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Schokoladen Keks",
+                "GB": "Chocolate chip cookie"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ein Schoko-Chip-Cookie ist ein Drop-Cookie, das seinen Ursprung in den Vereinigten Staaten hat und Schokoladensplitter oder Schokoladenhappen als charakteristische Zutat enthält. Um 1938 fügte Ruth Graves Wakefield zerkleinerte Stücke von einem halbsüßen Schokoladenriegel von Nestlé zu einem Keks hinzu.",
+                "GB": "A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips or chocolate morsels as its distinguishing ingredient. Circa 1938, Ruth Graves Wakefield added chopped up bits from a Nestlé semi-sweet chocolate bar into a cookie."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chocolate_chip_cookie"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chocolate croissant",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "pain au chocolat"
         },
         {
             "class": "chocolate cupcake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "cupcake"
         },
         {
             "class": "chocolate fondue",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Schokofondue",
+                "GB": "Chocolate fondue"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chocolate ice cream",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "ice cream"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Schokoladeneiscreme",
+                "GB": "Chocolate ice cream"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schokoladeneis ist Eiscreme mit natürlichem oder künstlichem Schokoladenaroma.",
+                "GB": "Chocolate ice cream is ice cream with natural or artificial chocolate flavoring."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chocolate_ice_cream"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chocolate mousse",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "mousse au chocolat"
         },
         {
             "class": "chocolate pudding",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pudding"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Schokoladenpudding",
+                "GB": "Chocolate pudding"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schokoladenpuddings sind eine Klasse von Desserts mit Schokoladenaromen. Es gibt zwei Haupttypen: ein gekochtes, dann gekühltes Dessert, textuell ein Puddingset mit Stärke, das in den USA, Kanada, Deutschland, Schweden, Polen sowie Ost- und Südostasien gegessen wird, und eine gedämpfte\/gebackene Version, die textural dem Kuchen ähnlich ist und in Großbritannien, Irland, Australien, Deutschland und Neuseeland beliebt ist.",
+                "GB": "Chocolate puddings are a class of desserts with chocolate flavors. There are two main types: a boiled then chilled dessert, texturally a custard set with starch, commonly eaten in the U.S., Canada, Germany, Sweden, Poland, and East and South East Asia; and a steamed\/baked version, texturally similar to cake, popular in the UK, Ireland, Australia, Germany and New Zealand."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chocolate_pudding"
                 },
                 "spoonacular": null
             }
@@ -11226,200 +11174,222 @@
         },
         {
             "class": "moussaka",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "mousse",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            }
+        },
+        {
+            "class": "mousse au chocolat",
+            "categories": [
+                "other dessert"
+            ],
+            "related-classes": [],
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "mozzarella sticks",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
             "categories": [],
+            "related-classes": [],
+            "name": {
+                "DE": "Mousse au Chocolat",
+                "GB": "Mousse au Chocolat"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Mousse au Chocolat ist eine klassische französische Nachspeise aus dunkler Schokolade, Ei, Zucker und Butter.",
+                "GB": "Mousse au Chocolat is a classic French dessert made from dark chocolate, egg, sugar and butter."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Mousse_au_Chocolat",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "muesli",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "muffin",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "muffins",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "mushroom soup",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "mussels",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "naan",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "naan bread",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
@@ -11826,200 +11796,222 @@
         },
         {
             "class": "ossobuco",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "ouzo",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "oysters",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "pad thai",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "paella",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            }
+        },
+        {
+            "class": "pain au chocolat",
+            "categories": [
+                "pastry & bread"
+            ],
+            "related-classes": [],
+            "name": {
+                "DE": "Pain au chocolat",
+                "GB": "Pain au chocolat"
+            },
+            "description": {
+                "DE": "Als Pain au chocolat werden in Frankreich zwei Gebäcke bezeichnet:\n- ein Baguette, das nach dem Backen mit einem Schokoladenriegel gefüllt wird\n- eine Art Schokoladencroissant",
+                "GB": "Pain au chocolat , literally chocolate bread; also known as chocolatine in the south-west part of France and in Canada, is a type of viennoiserie sweet roll consisting of a cuboid-shaped piece of yeast-leavened laminated dough, similar in texture to a puff pastry, with one or two pieces of dark chocolate in the centre."
+            },
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pain_au_chocolat",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pain_au_chocolat"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "pakora",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "pale ale",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "pancake",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "pancakes",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "panini",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
