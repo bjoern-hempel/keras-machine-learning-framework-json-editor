@@ -141,6 +141,32 @@
                         "type": "string",
                         "title": "Duplicate"
                     },
+                    "urls": {
+                        "type": "object",
+                        "title": "URLs",
+                        "properties": {
+                            "wikipedia": {
+                                "type": "object",
+                                "title": "Wikipedia",
+                                "properties": {
+                                    "DE": {
+                                        "type": "string",
+                                        "title": "German",
+                                        "format": "url"
+                                    },
+                                    "GB": {
+                                        "type": "string",
+                                        "title": "English",
+                                        "format": "url"
+                                    }
+                                }
+                            },
+                            "spoonacular": {
+                                "type": "null",
+                                "title": "Spoonacular"
+                            }
+                        }
+                    },
                     "name": {
                         "type": "object",
                         "title": "Name",
@@ -173,32 +199,6 @@
                                 "options": {
                                     "format": "textarea"
                                 }
-                            }
-                        }
-                    },
-                    "urls": {
-                        "type": "object",
-                        "title": "URLs",
-                        "properties": {
-                            "wikipedia": {
-                                "type": "object",
-                                "title": "Wikipedia",
-                                "properties": {
-                                    "DE": {
-                                        "type": "string",
-                                        "title": "German",
-                                        "format": "url"
-                                    },
-                                    "GB": {
-                                        "type": "string",
-                                        "title": "English",
-                                        "format": "url"
-                                    }
-                                }
-                            },
-                            "spoonacular": {
-                                "type": "null",
-                                "title": "Spoonacular"
                             }
                         }
                     }
