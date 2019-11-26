@@ -5231,92 +5231,84 @@
         },
         {
             "class": "crab salad",
-            "categories": [],
+            "categories": [
+                "other salad"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Crab_Louie"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Krabben-Louie-Salat",
+                "GB": "Crab Louie"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Crab Louie salad, also known as Crab Louis salad or the King of Salads, is a type of salad featuring crab meat. The recipe dates back to the early 1900s and originates on the West Coast of the United States.",
+                "GB": "Crab Louie salad, also known as Crab Louis salad or the King of Salads, is a type of salad featuring crab meat. The recipe dates back to the early 1900s and originates on the West Coast of the United States."
             }
         },
         {
             "class": "crawfish",
-            "categories": [],
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Crayfish"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Flusskrebse",
+                "GB": "Crayfish"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Krebse sind Süßwasser-Krebstiere, die an kleine Hummer erinnern. Sie sind auch bekannt als Langusten, Krebse, Süßwasserhummer, Berghummer, Schlammwanzen oder Yabbys. Taxonomisch gesehen sind sie Mitglieder der Überfamilien Astacoidea und Parastacoidea. Sie atmen durch federähnliche Kiemen. Einige Arten kommen in Bächen und Bächen vor, in denen Süßwasser fließt, während andere in Sümpfen, Gräben und Reisfeldern gedeihen. Die meisten Krebse vertragen kein verschmutztes Wasser, obwohl einige Arten wie Procambarus clarkii härter sind. Krebse ernähren sich von lebenden oder sich zersetzenden Tieren und Pflanzen sowie von Geröll.",
+                "GB": "Crayfish are freshwater crustaceans resembling small lobsters . They are also known as crawfish, crawdads, freshwater lobsters, mountain lobsters, mudbugs, or yabbies. Taxonomically, they are members of the superfamilies Astacoidea and Parastacoidea. They breathe through feather-like gills. Some species are found in brooks and streams where fresh water is running, while others thrive in swamps, ditches, and paddy fields. Most crayfish cannot tolerate polluted water, although some species such as Procambarus clarkii are hardier. Crayfish feed on animals and plants, either living or decomposing, and detritus."
             }
         },
         {
             "class": "crayfish",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "crawfish"
         },
         {
             "class": "creamed spinach",
-            "categories": [],
+            "categories": [
+                "other side dish"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Spinat",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Spinach"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Spinat",
+                "GB": "Spinach"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Spinat ist eine grün blühende Pflanze, die in Mittel- und Westasien heimisch ist. Es ist von der Ordnung Caryophyllales, Familie Amaranthaceae, Unterfamilie Chenopodioideae. Seine Blätter sind ein gewöhnliches essbares Gemüse, das entweder frisch oder nach der Lagerung konserviert wird, wobei Konservierungstechniken durch Konserven, Gefrieren oder Dehydrieren verwendet werden. Es kann gekocht oder roh gegessen werden, und der Geschmack ist sehr unterschiedlich; der hohe Oxalatgehalt kann durch Dämpfen reduziert werden.",
+                "GB": "Spinach is a leafy green flowering plant native to central and western Asia. It is of the order Caryophyllales, family Amaranthaceae, subfamily Chenopodioideae. Its leaves are a common edible vegetable consumed either fresh, or after storage using preservation techniques by canning, freezing, or dehydration. It may be eaten cooked or raw, and the taste differs considerably; the high oxalate content may be reduced by steaming."
             }
         },
         {
             "class": "cream sauce",
-            "categories": [],
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "Rahmsauce",
+                    "GB": "Cream sauce"
                 },
                 "spoonacular": null
             },
@@ -5331,62 +5323,50 @@
         },
         {
             "class": "creme brulee",
-            "categories": [],
+            "categories": [
+                "pudding"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cr%C3%A8me_br%C3%BBl%C3%A9e",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cr%C3%A8me_br%C3%BBl%C3%A9e"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Crème brûlée",
+                "GB": "Crème brûlée"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Crème brûlée ist eine Süßspeise aus Eigelb, Sahne und Zucker, die als Dessert in der französischen Küche serviert wird. Sie wird mit Vanille, Zimt, Orangenschale, Zitronenschale, Ingwer oder Mandelmilch aromatisiert. Das Besondere an der Creme ist eine Karamellkruste.",
+                "GB": "Crème brûlée, also known as burnt cream or Trinity cream, is a dessert consisting of a rich custard base topped with a texturally contrasting layer of hardened caramelized sugar. It is normally served slightly chilled; the heat from the caramelizing process tends to warm the custard producing a cool center. The custard base is traditionally flavored with vanilla, but can have a variety of other flavorings. In modern times, it is often topped with berries and other small pieces of fruit and served as Crème brûlée aux fruits."
             }
         },
         {
             "class": "creme caramel",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "flan"
         },
         {
             "class": "crepes",
-            "categories": [],
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cr%C3%AApe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cr%C3%AApe"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Crêpe",
+                "GB": "Crêpe"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Eine Crêpe, seltener auch Krepp geschrieben, ist eine bretonische Form des Eierkuchens, die in ganz Frankreich ein beliebter Imbiss ist und auch in anderen Ländern zu finden ist.",
+                "GB": "A crêpe or crepe is a type of very thin pancake. Crêpes are usually of two types: sweet crêpes and savoury galettes . Crêpes are served with a variety of fillings, from the simplest with only sugar to flambéed crêpes Suzette or elaborate savoury galettes. While crêpes are often associated with Brittany, a region in the northwest of France, their consumption is widespread in France, Belgium, the Netherlands, Canada, and many parts of Europe, North Africa, Lebanon, and Argentina."
             }
         },
         {
