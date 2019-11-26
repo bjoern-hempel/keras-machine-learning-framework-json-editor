@@ -5071,6 +5071,10 @@
         },
         {
             "class": "corn bread",
+            "duplicate": "cornbread"
+        },
+        {
+            "class": "cornbread",
             "categories": [
                 "pastry & bread"
             ],
@@ -5092,423 +5096,297 @@
             }
         },
         {
-            "class": "cornbread",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
-        },
-        {
             "class": "corn chowder",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Corn_chowder"
                 },
                 "spoonacular": null
-            }
-        },
-        {
-            "class": "corned beef hash",
+            },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Maishäcksler",
+                "GB": "Corn chowder"
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
+                "DE": "Maishäcksler ist eine Häckslersuppe, die mit Mais als Hauptbestandteil zubereitet wird. Basisches Maishäckselpulver wird üblicherweise aus Mais, Zwiebeln, Sellerie, Milch oder Sahne und Butter hergestellt. Weitere Zutaten, die manchmal verwendet werden, sind Kartoffeln, Pökelfleisch, Fisch, Meeresfrüchte und Huhn. In den Vereinigten Staaten datieren die Rezepte für Maishäcksler auf mindestens 1884. Maishäcksler wird in den USA in Massenproduktion als Konservenprodukt hergestellt.\n\nÜbersetzt mit www.DeepL.com\/Translator",
+                "GB": "Corn chowder is a chowder soup prepared using corn as a primary ingredient. Basic corn chowder is commonly made of corn, onion, celery, milk or cream, and butter. Additional ingredients sometimes used include potatoes, salt pork, fish, seafood and chicken. In the United States, recipes for corn chowder date to at least as early as 1884. Corn chowder is mass-produced as a canned food in the U.S."
             }
         },
         {
             "class": "corn on the cob",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other side dish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Corn_on_the_cob"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Maiskolben",
+                "GB": "Corn on the cob"
+            },
+            "description": {
+                "DE": "Corn on the cob ist ein kulinarischer Begriff, der für ein gekochtes Ohr aus frisch gepflücktem Mais aus einer Zuckermaissorte verwendet wird. Süßmais ist die häufigste Maissorte, die direkt vom Kolben gegessen wird. Das Ohr wird gepflückt, während sich das Endosperm im \"Milchstadium\" befindet, so dass die Kerne noch empfindlich sind. Maiskolben werden gedämpft oder gekocht, meist ohne ihre grünen Schalen, oder mit ihnen geröstet. Die Schalenblätter werden in jedem Fall vor dem Servieren entfernt.",
+                "GB": "Corn on the cob is a culinary term used for a cooked ear of freshly picked maize from a cultivar of sweet corn. Sweet corn is the most common variety of maize eaten directly off the cob. The ear is picked while the endosperm is in the \"milk stage\" so that the kernels are still tender. Ears of corn are steamed or boiled, usually without their green husks, or roasted with them. The husk leaves are in any case removed before serving."
             }
         },
         {
             "class": "cosmopolitan",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cocktail"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cosmopolitan_(Cocktail)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cosmopolitan_(cocktail)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Cosmopolitan",
+                "GB": "Cosmopolitan"
+            },
+            "description": {
+                "DE": "Der Cosmopolitan ist ein herb-süßer, erfrischender Cocktail, dessen moderne Rezeptur – basierend auf der Grundstruktur eines Sours – aus aromatisiertem Wodka, Orangenlikör, Limetten- und Cranberrysaft besteht. Erstmals erwähnt wird ein Shortdrink dieses Namens in einem Barbuch von 1934, in seiner heutigen Form ist der Cosmopolitan aber erst seit den 1990er Jahren weltweit verbreitet. Er steht sinnbildlich für die moderne, designorientierte Bar, die der Barboom der 1990er Jahre hervorbrachte.",
+                "GB": "A cosmopolitan, or informally a cosmo, is a cocktail made with vodka, triple sec, cranberry juice, and freshly squeezed or sweetened lime juice."
             }
         },
         {
             "class": "country fried steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chicken fried steak"
         },
         {
             "class": "crab",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "crab meat"
         },
         {
             "class": "crab cakes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Crab_Cake",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Crab_cake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Crab Cake",
+                "GB": "Crab cake"
+            },
+            "description": {
+                "DE": "Crab Cake ist ein amerikanisches Gericht, das aus Krabbenfleisch und unterschiedlichen anderen Lebensmitteln besteht, die wahlweise hinzugefügt werden können, wie z. B. Brotkrumen, Milch, Mayonnaise, Eier, Zwiebeln und Gewürze. Bisweilen werden auch Zutaten wie rote oder grüne Paprika oder Radieschen hinzugefügt. Dann wird das Gericht sautiert, gebacken oder gegrillt, bevor es anschließend serviert wird. Crab Cakes werden traditionell mit der Gegend um die Chesapeake Bay assoziiert, insbesondere mit Maryland.",
+                "GB": "A crab cake is a variety of fishcake that is popular in the United States. It is composed of crab meat and various other ingredients, such as bread crumbs, mayonnaise, mustard , eggs, and seasonings, particularly the cake is then sautéed, baked, grilled, deep fried, or broiled, and then served. Crab cakes are traditionally associated with the area surrounding the Chesapeake Bay, in particular the states of Maryland and Virginia."
             }
         },
         {
             "class": "crabcakes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "crab cakes"
         },
         {
             "class": "crab claws",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "crab meat"
         },
         {
             "class": "crab legs",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "crab meat"
         },
         {
             "class": "crab meat",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Crab_meat"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Krebsfleisch",
+                "GB": "Crab meat"
+            },
+            "description": {
+                "DE": "Krebsfleisch oder Krabbenfleisch ist das Fleisch, das in einer Krabbe vorkommt. Es wird in vielen Küchen auf der ganzen Welt verwendet, geschätzt für seinen weichen, zarten und süßen Geschmack. Krebsfleisch ist fettarm und enthält etwa 340 kJ pro 85-Gramm-Dosierung. Braune Krabben, blaue Krabben, blaue Schwimmkrabben und rote Schwimmkrabben gehören zu den kommerziell am meisten erhältlichen Krebsarten weltweit.",
+                "GB": "Crab meat or crabmeat is the meat found within a crab. It is used in many cuisines across the world, prized for its soft, delicate and sweet taste. Crab meat is low in fat and contains around 340 kJ per 85-gram serving. Brown crab , blue crabs , blue swimming crabs , and red swimming crabs are among the most commercially available species of crabmeat globally."
             }
         },
         {
             "class": "crabmeat",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "crab meat"
         },
         {
             "class": "crab salad",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "crawfish",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "crayfish",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "creamed spinach",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "cream sauce",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "creme brulee",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "creme caramel",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "crepes",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
