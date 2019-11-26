@@ -4577,120 +4577,124 @@
         },
         {
             "class": "cioppino",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "stew"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Cioppino",
+                "GB": "Cioppino"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Cioppino ist ein Gericht aus der italo-amerikanischen Küche. Seinen Ursprung hat Cioppino in San Francisco, wobei kulinarische Einflüsse auch aus der Küche rund um Genua stammen können.",
+                "GB": "Cioppino is a fish stew originating in San Francisco, California. It is an Italian-American dish and is related to various regional fish soups and stews of Italian cuisine."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cioppino",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cioppino"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "clam chowder",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Clam Chowder",
+                "GB": "Clam chowder"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Clam Chowder ist eine international bekannte amerikanische Muschelsuppe, die aus großen Venusmuscheln zubereitet wird. Diese Muschelart kommt an der amerikanischen Ostküste vor. Typisch ist die sämige Konsistenz der Suppe, die einem Eintopf ähnelt.",
+                "GB": "Clam chowder is any of several chowder soups containing clams and broth. In addition to clams, common ingredients include diced potatoes, onions, and celery. Other vegetables are not typically used, but small carrot strips or a garnish of parsley might occasionally be added primarily for color. A garnish of bay leaves adds both color and flavor. It is believed that clams were used in chowder because of the relative ease of harvesting them. Clam chowder is usually served with saltine crackers or small, hexagonal oyster crackers."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Clam_Chowder",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Clam_chowder"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "clams",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "club sandwich",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cobbler",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cobb salad",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
@@ -4701,60 +4705,60 @@
         },
         {
             "class": "cocktail",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "coconut cake",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "coconut cream pie",
+            "categories": [],
+            "related-classes": [],
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
