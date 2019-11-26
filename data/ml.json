@@ -4927,126 +4927,116 @@
         },
         {
             "class": "cola",
-            "name": {
-                "DE": "Cola",
-                "GB": "Cola"
-            },
-            "related-classes": [],
             "categories": [
-                "drink"
+                "soft drink"
             ],
-            "description": {
-                "DE": "Cola, auch Kola, ist ein coffein- und kohlensäurehaltiges Erfrischungsgetränk.",
-                "GB": "Cola is a sweetened, carbonated soft drink flavored with vanilla, cinnamon, citrus oils and other flavorings."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Cola",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Cola"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Cola",
+                "GB": "Cola"
+            },
+            "description": {
+                "DE": "Cola, auch Kola, ist ein coffein- und kohlensäurehaltiges Erfrischungsgetränk.",
+                "GB": "Cola is a sweetened, carbonated soft drink flavored with vanilla, cinnamon, citrus oils and other flavorings."
             }
         },
         {
-            "class": "cole slaw",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "class": "coles law",
+            "duplicate": "coleslaw"
         },
         {
             "class": "coleslaw",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other salad"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Krautsalat",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coleslaw"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Krautsalat",
+                "GB": "Coleslaw"
+            },
+            "description": {
+                "DE": "Krautsalat ist ein Salat, der meist aus Weißkraut, seltener aus Blau- bzw. Rotkraut zubereitet wird, hierbei steht Kraut als alternative Bezeichnung für Kohl. Er kann sowohl warm als auch kalt zubereitet werden. Als eine der ältesten Kulturpflanzen in Europa gab es Salat aus Weißkraut vermutlich schon bei den Römern. In manchen Regionen wurde Kopfsalat früher auch als Krautsalat bezeichnet.",
+                "GB": "Coleslaw, also known as cole slaw or slaw, is a salad consisting primarily of finely-shredded raw cabbage with a salad dressing, commonly either vinaigrette or mayonnaise. Coleslaw prepared with vinaigrette may benefit from the long lifespan granted by pickling."
             }
         },
         {
             "class": "collard greens",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "green"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Blattkohl",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Collard_(plant)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Blattkohl",
+                "GB": "Collard"
+            },
+            "description": {
+                "DE": "Blattkohl ist der deutsche Überbegriff für verschiedene Cultivare der Pflanzenart Gemüsekohl . Diese Sorten werden aufgrund ihrer großen, dunklen, prächtigen und essbaren Blätter, aber auch zur Verschönerung des Gartens gezüchtet – hauptsächlich in Brasilien, Portugal, den südlichen Vereinigten Staaten, Afrika, Montenegro, Bosnien und Herzegowina, Südkroatien, Nordspanien und in Indien. Der Blattkohl gehört zu denselben Cultivaren, zu denen auch Grünkohl und Frühkohl gehört, denen er außerdem genetisch stark ähnelt.",
+                "GB": "Collard refers to certain loose-leafed cultivars of Brassica oleracea, the same species as many common vegetables, including cabbage and broccoli . Collard is part of the Acephala Group of the species, which includes kale and spring greens. They are in the same cultivar group owing to their genetic similarity. The name \"collard\" comes from the word \"colewort\" ."
             }
         },
         {
             "class": "compote",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kompott",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Compote"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kompott",
+                "GB": "Compote"
+            },
+            "description": {
+                "DE": "Ein Kompott ist eine Süßspeise, meist aus gekochtem oder eingemachtem Obst. Auch aus Gemüse, wie zum Beispiel Rhabarber, kann Kompott hergestellt werden. Kompottfrüchte werden seit dem 19. Jahrhundert als Obstkonserven im Haushalt und auch industriell hergestellt. Dunstfrüchte bzw. Dunstobst zählen nicht zu den Kompotten.",
+                "GB": "Compote is a dessert originating from medieval Europe, made of whole or pieces of fruit in sugar syrup. Whole fruits are cooked in water with sugar and spices. The syrup may be seasoned with vanilla, lemon or orange peel, cinnamon sticks or powder, cloves, other spices, ground almonds, grated coconut, candied fruit, or raisins. The compote is served either warm or cold."
             }
         },
         {
             "class": "cookie",
-            "name": {
-                "DE": "Keks",
-                "GB": "Biscuit"
-            },
-            "related-classes": [],
             "categories": [
-                "dish"
+                "other dessert"
             ],
-            "description": {
-                "DE": "Ein Keks (aus dem Plural cakes von englisch cake \"Kuchen\") ist ein ursprünglich englisches Gebäckstück.",
-                "GB": "A biscuit is a flour-based baked food product."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Keks",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Biscuit"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Keks",
+                "GB": "Biscuit"
+            },
+            "description": {
+                "DE": "Ein Keks (aus dem Plural cakes von englisch cake \"Kuchen\") ist ein ursprünglich englisches Gebäckstück.",
+                "GB": "A biscuit is a flour-based baked food product."
             }
         },
         {
@@ -5055,62 +5045,50 @@
         },
         {
             "class": "cooler",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "cooler"
         },
         {
             "class": "coq au vin",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "chicken"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Coq_au_Vin",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coq_au_vin"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Coq au Vin",
+                "GB": "Coq au vin"
+            },
+            "description": {
+                "DE": "Coq au Vin ist ein klassisches Geflügelgericht und eines der französischen Nationalgerichte.",
+                "GB": "Coq au vin is a French dish of chicken braised with wine, lardons, mushrooms, and optionally garlic. A red Burgundy wine is typically used, though many regions of France make variants using local wines, such as coq au vin jaune , coq au Riesling , coq au pourpre or coq au violet , coq au Champagne, etc."
             }
         },
         {
             "class": "corn bread",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pastry & bread"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Maisbrot",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cornbread"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Maisbrot",
+                "GB": "Cornbread"
+            },
+            "description": {
+                "DE": "Maisbrot ist ein mit Maismehl hergestelltes Gebäck, das vor allem in den Südstaaten der USA verbreitet ist.",
+                "GB": "Cornbread is any quick bread containing cornmeal, and a Native American cuisine. They are usually leavened by baking powder."
             }
         },
         {
