@@ -4581,6 +4581,13 @@
                 "stew"
             ],
             "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cioppino",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cioppino"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "Cioppino",
                 "GB": "Cioppino"
@@ -4588,13 +4595,6 @@
             "description": {
                 "DE": "Cioppino ist ein Gericht aus der italo-amerikanischen Küche. Seinen Ursprung hat Cioppino in San Francisco, wobei kulinarische Einflüsse auch aus der Küche rund um Genua stammen können.",
                 "GB": "Cioppino is a fish stew originating in San Francisco, California. It is an Italian-American dish and is related to various regional fish soups and stews of Italian cuisine."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cioppino",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cioppino"
-                },
-                "spoonacular": null
             }
         },
         {
@@ -4603,6 +4603,13 @@
                 "soup"
             ],
             "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Clam_Chowder",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Clam_chowder"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "Clam Chowder",
                 "GB": "Clam chowder"
@@ -4610,93 +4617,94 @@
             "description": {
                 "DE": "Clam Chowder ist eine international bekannte amerikanische Muschelsuppe, die aus großen Venusmuscheln zubereitet wird. Diese Muschelart kommt an der amerikanischen Ostküste vor. Typisch ist die sämige Konsistenz der Suppe, die einem Eintopf ähnelt.",
                 "GB": "Clam chowder is any of several chowder soups containing clams and broth. In addition to clams, common ingredients include diced potatoes, onions, and celery. Other vegetables are not typically used, but small carrot strips or a garnish of parsley might occasionally be added primarily for color. A garnish of bay leaves adds both color and flavor. It is believed that clams were used in chowder because of the relative ease of harvesting them. Clam chowder is usually served with saltine crackers or small, hexagonal oyster crackers."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Clam_Chowder",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Clam_chowder"
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "clams",
-            "categories": [],
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hard_clam"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Harte Muschel",
+                "GB": "Hard clam"
+            },
+            "description": {
+                "DE": "Die harte Muschel, auch bekannt als Quahog oder Quahaug, runde Muschel oder Hartschalenmuschel, ist eine essbare Meeresmuschel, die an den Ostküsten Nordamerikas und Mittelamerikas von der Prince Edward Island bis zur Halbinsel Yucatán heimisch ist. Es ist eine von vielen nicht verwandten essbaren Muscheln, die in den Vereinigten Staaten häufig einfach als Muscheln bezeichnet werden, wie im Ausdruck \"Muschelgraben\". Ältere Literaturquellen können den systematischen Namen Venus mercenaria verwenden; diese Art gehört zur Familie der Veneridae, der Venusmuscheln.\n\nÜbersetzt mit www.DeepL.com\/Translator",
+                "GB": "The hard clam, also known as a quahog or quahaug, round clam or hard-shell clam, is an edible marine bivalve mollusc that is native to the eastern shores of North America and Central America from Prince Edward Island to the Yucatán Peninsula. It is one of many unrelated edible bivalves that in the United States are frequently referred to simply as clams, as in the expression \"clam digging\". Older literature sources may use the systematic name Venus mercenaria; this species is in the family Veneridae, the venus clams."
             }
         },
         {
             "class": "club sandwich",
-            "categories": [],
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Club_sandwich"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Club-Sandwich",
+                "GB": "Club sandwich"
+            },
+            "description": {
+                "DE": "Ein Club-Sandwich, auch Clubhaus-Sandwich genannt, ist ein Sandwich aus Brot, gekochtem Geflügel, Schinken oder gebratenem Speck, Salat, Tomaten und Mayonnaise. Sie wird oft in Viertel oder Hälften geschnitten und von Cocktailstäbchen zusammengehalten. Moderne Versionen haben häufig zwei Schichten, die durch eine zusätzliche Brotscheibe getrennt sind.",
+                "GB": "A club sandwich, also called a clubhouse sandwich, is a sandwich of bread , sliced cooked poultry, ham or fried bacon, lettuce, tomato, and mayonnaise. It is often cut into quarters or halves and held together by cocktail sticks. Modern versions frequently have two layers which are separated by an additional slice of bread."
             }
         },
         {
             "class": "cobbler",
-            "categories": [],
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cobbler_(Gericht)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cobbler_(food)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Cobbler",
+                "GB": "Cobbler"
+            },
+            "description": {
+                "DE": "Ein Cobbler ist eine traditionelle Süßspeise, die in der britisch-amerikanischen Kolonialzeit entstand und heute meist als Dessert gereicht wird.",
+                "GB": "Cobbler is a dish consisting of a fruit or savoury filling poured into a large baking dish and covered with a batter, biscuit, or dumpling before being baked. Some cobbler recipes, especially in the American south, resemble a thick-crusted, deep-dish pie with both a top and bottom crust. Cobbler is part of the cuisine of the United Kingdom and United States, and should not be confused with a crumble."
             }
         },
         {
             "class": "cobb salad",
-            "categories": [],
+            "categories": [
+                "green"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cobb_Salad",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cobb_salad"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Cobb Salad",
+                "GB": "Cobb salad"
+            },
+            "description": {
+                "DE": "Cobb Salad ist ein klassischer gemischter Salat der US-amerikanischen Küche.",
+                "GB": "The Cobb salad is a main-dish American garden salad typically made with chopped salad greens , tomato, crisp bacon, boiled, grilled or roasted chicken breast, hard-boiled eggs, avocado, chives, Roquefort cheese, and red-wine vinaigrette."
             }
         },
         {
@@ -4705,245 +4713,212 @@
         },
         {
             "class": "cocktail",
-            "categories": [],
-            "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            }
+            "duplicate": "cocktail"
         },
         {
             "class": "coconut cake",
-            "categories": [],
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coconut_cake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kokosnusskuchen",
+                "GB": "Coconut cake"
+            },
+            "description": {
+                "DE": "Kokosnusskuchen ist ein beliebtes Dessert in der südlichen Region der Vereinigten Staaten. Es handelt sich um einen Kuchen, der mit einer weißen Glasur überzogen und mit Kokosraspeln überzogen ist.",
+                "GB": "Coconut cake is a popular dessert in the Southern region of the United States. It is a cake frosted with a white frosting and covered in coconut flakes."
             }
         },
         {
             "class": "coconut cream pie",
-            "categories": [],
+            "categories": [
+                "torte"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "",
                     "GB": ""
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kokosnuss-Sahnetorte",
+                "GB": "Coconut Cream Pie"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
             }
         },
         {
             "class": "coconut rice",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Kokosnussreis",
+                "GB": "Coconut rice"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "coconut shrimp",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coconut_shrimp"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kokosnussgarnele",
+                "GB": "Coconut shrimp"
+            },
+            "description": {
+                "DE": "Kokosgarnelen sind ein Garnelengericht, das mit Garnelen und Kokosnuss als Hauptbestandteile zubereitet wird. Es kann als knuspriges Gericht mit den Garnelen überzogen und frittiert, gebacken oder gebacken und als gebratenes Gericht mit Kokosmilch und anderen Zutaten zubereitet werden. Er kann zubereitet und am Spieß serviert werden.",
+                "GB": "Coconut shrimp is a shrimp dish prepared using shrimp and coconut as primary ingredients. It can be prepared as a crunchy dish with the shrimp coated and deep fried, pan-fried or baked, and as a sautéed dish using coconut milk and other ingredients. It can be prepared and served on skewers."
             }
         },
         {
             "class": "cod",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "codfish"
         },
         {
             "class": "cod fish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "codfish"
         },
         {
             "class": "codfish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cod_as_food"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kabeljau",
+                "GB": "Cod"
+            },
+            "description": {
+                "DE": "In diesem Artikel geht es um Kabeljau und andere kabeljauähnliche Fische aus der Familie der Gadidae, wie Schellfisch, Seelachs und Wittling, die als Nahrung gelten.",
+                "GB": "This article is about cod and other cod-like fishes from the family of Gadidae, such as haddock, pollock and whiting, regarded as food."
             }
         },
         {
             "class": "coffee",
-            "name": {
-                "DE": "Kaffee",
-                "GB": "Coffee"
-            },
-            "related-classes": [],
             "categories": [
-                "drink",
-                "coffee"
+                "other coffee"
             ],
-            "description": {
-                "DE": "Kaffee oder Kaffeegetränk ist ein schwarzes, psychotropes, koffeinhaltiges Getränk, das aus gerösteten und gemahlenen Kaffeebohnen, den Samen der Frucht der Kaffeepflanze, und heißem Wasser hergestellt wird.",
-                "GB": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Kaffee",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Coffee"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kaffee",
+                "GB": "Coffee"
+            },
+            "description": {
+                "DE": "Kaffee oder Kaffeegetränk ist ein schwarzes, psychotropes, koffeinhaltiges Getränk, das aus gerösteten und gemahlenen Kaffeebohnen, den Samen der Frucht der Kaffeepflanze, und heißem Wasser hergestellt wird.",
+                "GB": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species."
             }
         },
         {
             "class": "coffee beans",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other coffee"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kaffeebohne",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coffee_bean"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kaffeebohne",
+                "GB": "Coffee bean"
+            },
+            "description": {
+                "DE": "Die Kaffeebohne ist der Samen der Kaffeepflanze, mit der das Getränk Kaffee gebrüht wird. Botanisch gesehen ist sie keine Bohne. Das Wort „Kaffeebohne“ ist eine volksetymologische Lehnübersetzung. Die Früchte sind rote, kirschenähnliche Steinfrüchte mit meist zwei Steinkernen. Diese Steinkerne sind die eigentlichen „Kaffeebohnen“. Sie liegen mit ihren abgeflachten Seiten zueinander und weisen in der Mitte dieser Fläche eine Längsfurche, die sogenannte Naht, auf. Eine Sonderform, bei der einer der zwei Kerne verkümmert und sich nur ein einzelner, rundlicher Kern entwickelt, nennt man „Perlbohne“.",
+                "GB": "A coffee bean is a seed of the coffee plant and the source for coffee. It is the pit inside the red or purple fruit often referred to as a cherry. Just like ordinary cherries, the coffee fruit is also a so-called stone fruit. Even though the coffee beans are not technically beans, they are referred to as such because of their resemblance to true beans. The fruits – coffee cherries or coffee berries – most commonly contain two stones with their flat sides together. A small percentage of cherries contain a single seed, instead of the usual two. This is called a \"peaberry\". The peaberry occurs only between 10 and 15% of the time, and it is a fairly common belief that they have more flavour than normal coffee beans. Like Brazil nuts and white rice, coffee beans consist mostly of endosperm."
             }
         },
         {
             "class": "coffee cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coffee_cake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kaffeekuchen",
+                "GB": "Coffee cake"
+            },
+            "description": {
+                "DE": "Kaffeekuchen ist ein Kuchen, der mit Kaffee gewürzt ist oder dazu bestimmt ist, mit Kaffee gegessen zu werden. Britischer Kaffeekuchen ist ein mit Kaffee aromatisierter Schwamm. Die Kuchen werden im Allgemeinen in einer runden Form mit zwei Schichten hergestellt, die durch eine mit Kaffee aromatisierte Butterglasur getrennt sind, die auch die Oberseite des Kuchens bedeckt. Walnüsse sind eine häufige Ergänzung zu Kaffeekuchen. In den Vereinigten Staaten bezieht sich Kaffeekuchen im Allgemeinen auf einen süßen Kuchen, der dazu bestimmt ist, mit Kaffee oder Tee gegessen zu werden.",
+                "GB": "Coffee cake is cake flavored with or intended to be eaten with coffee. British coffee cake is a sponge flavoured with coffee. The cakes are generally made in a circular shape with two layers separated by coffee flavoured butter icing, which also covers the top of the cake. Walnuts are a common addition to coffee cakes. In the United States, coffee cake generally refers to a sweet cake intended to be eaten with coffee or tea ."
             }
         },
         {
             "class": "cognac",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cognac_(Weinbrand)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cognac"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Cognac (Weinbrand)",
+                "GB": "Cognac"
+            },
+            "description": {
+                "DE": "Cognac ist ein Weinbrand aus der französischen Stadt Cognac und dem umliegenden Weinbaugebiet, der aus Weißweinen gewonnen wird. Das Wort Cognac ist eine geschützte Herkunftsbezeichnung.",
+                "GB": "Cognac is a variety of brandy named after the town of Cognac, France. It is produced in the surrounding wine-growing region in the departments of Charente and Charente-Maritime."
             }
         },
         {
@@ -11337,23 +11312,7 @@
         },
         {
             "class": "mussels",
-            "categories": [],
-            "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            }
+            "duplicate": "clams"
         },
         {
             "class": "naan",
