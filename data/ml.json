@@ -4393,175 +4393,172 @@
         },
         {
             "class": "chocolate souffle",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chocolate Souffle",
+                "GB": "Chocolate Souffle"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chowder",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chowder",
+                "GB": "Chowder"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Chowder ist eine amerikanische Bezeichnung für eine dickflüssige Fischsuppe oder eine Suppe mit Muscheln oder anderen Meeresfrüchten, wobei Clam Chowder die bekannteste ist. Mittlerweile wird Chowder auch als Oberbegriff für verschiedene cremige Suppen verwendet, die nur grob geschnittenes Gemüse enthalten und keinen Fisch. Die Basis der Brühe ist immer gepökeltes Schweinefleisch oder Frühstücksspeck. Diese Art der Suppe, die einem Eintopf ähnelt, ist vor allem im Nordosten der USA verbreitet.",
+                "GB": "Chowder is a type of soup or stew often prepared with milk or cream and thickened with broken crackers, crushed ship biscuit, or a roux. Variations of chowder can be seafood or vegetable. Crackers such as oyster crackers or saltines may accompany chowders as a side item, and cracker pieces may be dropped atop the dish. New England clam chowder is typically made with chopped clams and diced potatoes, in a mixed cream and milk base, often with a small amount of butter. Other common chowders include seafood chowder, which includes fish, clams, and many other types of shellfish; lamb or veal chowder made with barley; corn chowder, which uses corn instead of clams; a wide variety of fish chowders; and potato chowder, which is often made with cheese. Fish chowder, corn chowder, lamb chowder and especially clam chowder are popular in the North American regions of New England and Atlantic Canada."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Chowder",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chowder"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chow mein",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chow mein",
+                "GB": "Chow mein"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Chow my sind chinesische gebratene Nudeln mit Gemüse und manchmal Fleisch oder Tofu; der Name ist eine Romanisierung der taishanischen chāu-mèing. Das Gericht ist in der gesamten chinesischen Diaspora beliebt und steht auf den Speisekarten der meisten chinesischen Restaurants im Ausland. Es ist besonders beliebt in Indien, Nepal, Großbritannien und den USA.",
+                "GB": "Chow mein are Chinese stir-fried noodles with vegetables and sometimes meat or tofu; the name is a romanization of the Taishanese chāu-mèing. The dish is popular throughout the Chinese diaspora and appears on the menus of most Chinese restaurants abroad. It is particularly popular in India, Nepal, the UK, and the US."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chow_mein"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "churros",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Churro",
+                "GB": "Churro"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Churros sind ein iberisches Fettgebäck. Die länglichen Krapfen mit sternförmigem Querschnitt werden aus Brandmasse zubereitet, in heißem Öl frittiert und mit Zucker bestreut. Sie werden häufig als Chocolate con Churros serviert und sind auch in Lateinamerika, im Südwesten der USA und in den Philippinen verbreitet .",
+                "GB": "A churro is a fried-dough pastry—predominantly choux—based snack. Churros are traditional in Spain and Portugal, from where they originate, as well as the Philippines and Ibero-America. They are also consumed in the Southwestern United States, France and other areas that have received immigration from Spanish and Portuguese-speaking countries. In Spain, churros can either be thin or long and thick, where they are known as porras in some regions. They are normally eaten for breakfast dipped in champurrado, hot chocolate, dulce de leche or café con leche. Sugar is often sprinkled on top."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Churro",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Churro"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "chutney",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Chutney",
+                "GB": "Chutney"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ein Chutney ist eine würzige, teils süß-saure, mitunter auch scharf-pikante Sauce der indischen Küche. Die Beschaffenheit reicht von flüssig über cremig bis hin zu pastös. Darüber hinaus existieren auch Variationen mit Frucht- oder Gemüsestücken.",
+                "GB": "Chutney is a sauce or a dry base for a sauce, originating from the Indian subcontinent, used with the cuisines of the Indian subcontinent, that can include such forms as a spicy coconut dip, a tomato relish, a ground peanut garnish or a dahi , cucumber, and mint dip."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Chutney",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chutney"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "ciabatta",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pastry & bread"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Ciabatta",
+                "GB": "Ciabatta"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ciabatta ist eine Brotsorte italienischer Herkunft aus Weizenmehl, Salz, Hefe, Wasser und Olivenöl. Übersetzt ins Deutsche bedeutet Ciabatta Pantoffel, was von der üblicherweise flachen, breiten und langgezogenen Form des Brotes herrühren soll. Das Brot wird meist mit Weizensauerteig zusätzlich zur Hefe produziert, was sowohl für die Lockerung als auch das Aroma sorgt.",
+                "GB": "Ciabatta is an Italian white bread made from wheat flour, water, olive oil, salt, and yeast, created in 1982 by a baker in Verona, Veneto, Italy, in response to the popularity of French baguettes. Ciabatta is somewhat elongated, broad, and flat, and is baked in many variations."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ciabatta",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ciabatta"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cider",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sparkling wine"
+            ],
             "related-classes": [],
-            "categories": [],
+            "name": {
+                "DE": "Apfelschaumwein",
+                "GB": "Cider"
+            },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Apfelschaumwein ist eine Bezeichnung für moussierende Apfelweine, die aus verschiedenen Apfelsorten vergoren werden. Im deutschen Sprachraum werden je nach Herstellungsweise auch die französische Bezeichnung Cidre oder die englische Bezeichnung Cider verwendet. Merriam Webster definiert Cider als vergorenen Apfelsaft, der oft durch Karbonisierung oder Fermentation in geschlossenen Containern mit Kohlensäure angereichert wird. Die Wortherkunft ist auf das mittelenglische sidre sowie das anglo-französische und spätlateinische sicera, das griechische sikera und das hebräische shēkhār zurückzuführen. Das Deutsche Wörterbuch und der Duden kennen auch den Begriff Zider für Apfelwein.",
+                "GB": "Cider is an alcoholic beverage made from the fermented juice of apples. Cider is popular in the United Kingdom and the Republic of Ireland and widely available. The UK has the world's highest per capita consumption, as well as its largest cider-producing companies. Cider is also popular in many Commonwealth countries, such as India, Canada, Australia, and New Zealand. Aside from the UK and its former colonies, cider is popular in other European countries including Portugal , France , northern Italy , and northern Spain . Central Europe also has its own types of cider with Rhineland-Palatinate and Hesse producing a particularly tart version known as Apfelwein. In the U.S., varieties of fermented cider are often called hard cider to distinguish alcoholic cider from non-alcoholic apple cider or \"sweet cider\", also made from apples. In Canada, cider cannot be called cider if there are no apples. Furthermore, according to the Food and Drug Regulations in Canada, cider cannot contain less than 2.5% or over 13% absolute alcohol by volume."
             },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Apfelschaumwein",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cider"
                 },
                 "spoonacular": null
             }
         },
         {
             "class": "cinnamon bun",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "cinnamon roll"
         },
         {
             "class": "cinnamon roll",
+            "categories": [
+                "other dessert"
+            ],
+            "related-classes": [],
             "name": {
                 "DE": "Zimtschnecke",
                 "GB": "Cinnamon roll"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
             "description": {
                 "DE": "Eine Zimtschnecke (in Österreich auch Zuckerschnecke genannt, dänisch: Kanelsnegl) ist ein süßes Gebäck, das in Skandinavien und Mitteleuropa, aber auch in ganz Nordamerika (als Cinnamon roll oder brioche à la cannelle) verbreitet ist.",
                 "GB": "A cinnamon roll (also cinnamon bun, cinnamon swirl, cinnamon Danish and cinnamon snail) is a sweet roll served commonly in Northern Europe (mainly in Scandinavia) and North America."
