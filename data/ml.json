@@ -5371,167 +5371,169 @@
         },
         {
             "class": "crisp",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Crisp_(dessert)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Crisp",
+                "GB": "Crisp"
+            },
+            "description": {
+                "DE": "Ein Crisp ist eine Art amerikanisches Dessert, das in der Regel aus einer Art Obst besteht, das mit einer knusprigen Beilage gebacken wird, daher der Name. Der Belag besteht in der Regel aus Butter, Mehl, Hafer, braunem Zucker und meist Gewürzen wie Zimt und\/oder Muskatnuss. Die bekannteste Art von Crisp ist Apfel Crisp, wo die Äpfel mit diesem Belag gebacken werden. Es können jedoch auch viele andere Obstsorten verwendet werden, wie z.B. Kirschen, Birnen, Pfirsiche, Heidelbeeren, etc.",
+                "GB": "A crisp is a type of American dessert, usually consisting of a type of fruit, baked with a crispy topping, hence the name. The topping usually consists of butter, flour, oats, brown sugar and usually spices such as cinnamon and\/or nutmeg. The most familiar type of crisp is apple crisp, where apples are baked with this topping. However, many other kinds of fruit can be used, such as cherries, pears, peaches, blueberries, etc."
             }
         },
         {
             "class": "croque monsieur",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "crostata",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "crostini",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "crudite",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "crumble",
-            "name": {
-                "DE": "Crumble",
-                "GB": "Crumble"
-            },
-            "related-classes": [],
             "categories": [
-                "dish"
+                "undefined"
             ],
-            "description": {
-                "DE": "Crumble (dt.: Krümel) ist eine Nachspeise der englischen und US-amerikanischen Küche.",
-                "GB": "A crumble is a dish that can be made in a sweet or savoury version, although the sweet version is much more common."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Crumble",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Crumble"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Crumble",
+                "GB": "Crumble"
+            },
+            "description": {
+                "DE": "Crumble (dt.: Krümel) ist eine Nachspeise der englischen und US-amerikanischen Küche.",
+                "GB": "A crumble is a dish that can be made in a sweet or savoury version, although the sweet version is much more common."
             }
         },
         {
             "class": "cucumber salad",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "cupcake",
-            "name": {
-                "DE": "Cupcake",
-                "GB": "Cupcake"
-            },
-            "related-classes": [],
             "categories": [
-                "dish",
+                "undefined",
                 "dessert"
             ],
-            "description": {
-                "DE": "Ein Cupcake (amerikanisches Englisch; im britischen Englisch auch fairy cake) ist ein kleiner Kuchen, der in einer tassengroßen Backform gebacken wird und mit einem Guss oder einer Cremehaube versehen ist.",
-                "GB": "A cupcake (also British English: fairy cake; Hiberno-English: bun; Australian English: fairy cake or patty cake) is a small cake designed to serve one person, which may be baked in a small thin paper or aluminum cup."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Cupcake",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Cupcake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Cupcake",
+                "GB": "Cupcake"
+            },
+            "description": {
+                "DE": "Ein Cupcake (amerikanisches Englisch; im britischen Englisch auch fairy cake) ist ein kleiner Kuchen, der in einer tassengroßen Backform gebacken wird und mit einem Guss oder einer Cremehaube versehen ist.",
+                "GB": "A cupcake (also British English: fairy cake; Hiberno-English: bun; Australian English: fairy cake or patty cake) is a small cake designed to serve one person, which may be baked in a small thin paper or aluminum cup."
             }
         },
         {
@@ -5540,22 +5542,22 @@
         },
         {
             "class": "curly fries",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
