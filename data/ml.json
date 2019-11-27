@@ -5482,7 +5482,7 @@
         {
             "class": "crumble",
             "categories": [
-                "undefined"
+                "other dessert"
             ],
             "related-classes": [],
             "urls": {
@@ -5497,18 +5497,20 @@
                 "GB": "Crumble"
             },
             "description": {
-                "DE": "Crumble (dt.: Krümel) ist eine Nachspeise der englischen und US-amerikanischen Küche.",
+                "DE": "Crumble ist eine Nachspeise der englischen und US-amerikanischen Küche.",
                 "GB": "A crumble is a dish that can be made in a sweet or savoury version, although the sweet version is much more common."
             }
         },
         {
             "class": "cucumber salad",
-            "categories": [],
+            "categories": [
+                "green"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "Gurkensalat",
+                    "GB": "Cucumber Salad"
                 },
                 "spoonacular": null
             },
@@ -5524,8 +5526,7 @@
         {
             "class": "cupcake",
             "categories": [
-                "undefined",
-                "dessert"
+                "cake"
             ],
             "related-classes": [],
             "urls": {
@@ -5550,23 +5551,7 @@
         },
         {
             "class": "curly fries",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "french fries"
         },
         {
             "class": "curries",
