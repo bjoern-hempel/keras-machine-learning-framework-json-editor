@@ -455,14 +455,14 @@
             }
         },
         {
-            "category": "chicken",
+            "category": "poultry",
             "parent-categories": [
                 "meat"
             ],
             "related-categories": [],
             "name": {
                 "DE": "Huhn",
-                "GB": "Chicken"
+                "GB": "poultry"
             },
             "description": {
                 "DE": "Huhn ist die häufigste Geflügelart der Welt.",
@@ -1369,7 +1369,7 @@
         {
             "class": "arroz con pollo",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -1808,7 +1808,7 @@
         {
             "class": "bbq chicken",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -1852,7 +1852,7 @@
         {
             "class": "bbq wings",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [
                 "bbq chicken"
@@ -3268,7 +3268,7 @@
         {
             "class": "cashew chicken",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -3644,9 +3644,9 @@
             }
         },
         {
-            "class": "chicken",
+            "class": "poultry",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -3668,7 +3668,7 @@
         {
             "class": "chicken alfredo",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -3690,7 +3690,7 @@
         {
             "class": "chicken and waffles",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -3712,7 +3712,7 @@
         {
             "class": "chicken breast",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -3760,7 +3760,7 @@
         {
             "class": "chicken cordon bleu",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -3920,7 +3920,7 @@
         {
             "class": "chicken parmigiana",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -3942,7 +3942,7 @@
         {
             "class": "chicken piccata",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -3964,7 +3964,7 @@
         {
             "class": "chicken pie",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -4034,7 +4034,7 @@
         {
             "class": "chicken sausage",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -4056,7 +4056,7 @@
         {
             "class": "chicken steak",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -4086,7 +4086,7 @@
         {
             "class": "chicken teriyaki",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -4112,7 +4112,7 @@
         {
             "class": "chicken tikka masala",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "name": {
@@ -5050,7 +5050,7 @@
         {
             "class": "coq au vin",
             "categories": [
-                "chicken"
+                "poultry"
             ],
             "related-classes": [],
             "urls": {
@@ -5833,202 +5833,204 @@
         },
         {
             "class": "duck confit",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Duck_confit"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Enten-Confit",
+                "GB": "Duck confit"
+            },
+            "description": {
+                "DE": "Entenconfit ist ein französisches Gericht, das aus der ganzen Ente zubereitet wird. In der Gascogne, so die Familien, die die Tradition des Entenkonfits fortsetzen, werden alle Entenstücke für die Herstellung der Mahlzeit verwendet. Jedes Teil kann ein bestimmtes Ziel in der traditionellen Küche haben, der Hals wird zum Beispiel in einer belebenden Suppe, dem Garbure, verwendet. Entenconfit gilt als eines der besten französischen Gerichte.",
+                "GB": "Duck confit is a French dish made with the whole duck. In Gascony, according to the families perpetuating the tradition of duck confit, all the pieces of duck are used to produce the meal. Each part can have a specific destination in traditional cooking, the neck being used for example in an invigorating soup, the garbure. Duck confit is considered one of the finest French dishes."
             }
         },
         {
             "class": "dungeness crab",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "egg drop soup",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "egg noodles",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "eggplant parmesan",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "eggplant parmigiana",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "egg roll",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "egg rolls",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "eggrolls",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "egg sandwich",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
