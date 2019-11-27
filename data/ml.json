@@ -5393,62 +5393,68 @@
         },
         {
             "class": "croque monsieur",
-            "categories": [],
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Croque",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Croque_monsieur"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Croque",
+                "GB": "Croque monsieur"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ein Croque ist die französische Variante des Sandwiches. Erstmals nachweisen lässt sich dieser Imbiss auf der Speisekarte von 1910 eines Pariser Cafés. Die erste literarische Erwähnung von „Croques Monsieur“ findet sich in Prousts Auf der Suche nach der verlorenen Zeit von 1918.",
+                "GB": "A croque monsieur is a baked or fried boiled ham and cheese sandwich. The dish originated in French cafés and bars as a quick snack. A croque madame is a variant of the dish topped with a fried egg."
             }
         },
         {
             "class": "crostata",
-            "categories": [],
+            "categories": [
+                "torte"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikiCrostatapedia.org\/wiki\/"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Crostata",
+                "GB": "Crostata"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Eine Crostata ist eine italienische gebackene Torte oder Torte, die in Neapel auch als Coppi und in der Lombardei als Sfogliate bekannt ist. Die früheste bekannte Verwendung von Crostata im modernen Sinne geht auf die Kochbücher Libro de Arte Coquinaria von Martino da Como zurück, die um 1465 veröffentlicht wurden, und Cuoco napolitano, die Ende des 15. Jahrhunderts veröffentlicht wurden und ein Rezept mit dem Titel Crostata de Caso, Pane, etc. enthalten.",
+                "GB": "A crostata is an Italian baked tart or pie, also known as coppi in Naples and sfogliate in Lombardy. The earliest known use of crostata in its modern sense can be traced to the cookbooks Libro de Arte Coquinaria by Martino da Como, published circa 1465, and Cuoco napolitano , published in the late 15th century containing a recipe titled Crostata de Caso, Pane, etc.."
             }
         },
         {
             "class": "crostini",
-            "categories": [],
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Crostini",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Crostino"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Crostini",
+                "GB": "Crostino"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Crostini sind ein Gericht der italienischen Küche.",
+                "GB": "Crostini are an Italian appetizer consisting of small slices of grilled or toasted bread and toppings. The toppings may include a variety of different cheeses, meats, and vegetables, or may be presented more simply with a brush of olive oil and herbs or a sauce."
             }
         },
         {
