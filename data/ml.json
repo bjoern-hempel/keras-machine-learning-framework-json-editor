@@ -5855,52 +5855,40 @@
         },
         {
             "class": "dungeness crab",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "crab meat"
         },
         {
             "class": "egg drop soup",
-            "categories": [],
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Egg_drop_soup"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Eierflockensuppe",
+                "GB": "Egg drop soup"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Eierflockensuppe oder Danhuatang ist eine chinesische Suppe aus zart geschlagenen Eiern in gekochter Hühnerbrühe. Gewürze wie schwarzer Pfeffer oder weißer Pfeffer sowie fein gehackte Frühlingszwiebeln und Tofu sind optional, werden aber häufig in die Suppe gegeben. Die Suppe wird beendet, indem in den letzten Momenten des Kochens ein dünner Strom von geschlagenen Eiern zur kochenden Brühe hinzugefügt wird, wodurch dünne, seidige Stränge oder Flocken von gekochtem Ei entstehen, die in der Suppe schwimmen. Die Ei-Tropfensuppe mit verschiedenen Rezepten ist in verschiedenen ostasiatischen und westlichen Ländern als einfach zuzubereitende Suppe bekannt.",
+                "GB": "Egg drop soup or Danhuatang is a Chinese soup of wispy beaten eggs in boiled chicken broth. Condiments such as black pepper or white pepper, and finely chopped scallions and tofu are optional, but commonly added to the soup. The soup is finished by adding a thin stream of beaten eggs to the boiling broth in the final moments of cooking, creating thin, silken strands or flakes of cooked egg that float in the soup. Egg drop soup using different recipes is known to be a simple-to-prepare soup in different East Asian and Western countries."
             }
         },
         {
             "class": "egg noodles",
-            "categories": [],
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "Eiernudeln",
+                    "GB": "Egg Noodles"
                 },
                 "spoonacular": null
             },
@@ -5915,12 +5903,14 @@
         },
         {
             "class": "eggplant parmesan",
-            "categories": [],
+            "categories": [
+                "casserole"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "Eggplant Parmesan",
+                    "GB": "Eggplant Parmesan"
                 },
                 "spoonacular": null
             },
@@ -5935,92 +5925,48 @@
         },
         {
             "class": "eggplant parmigiana",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "eggplant parmesan"
         },
         {
             "class": "egg roll",
-            "categories": [],
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Egg_roll"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Eierrolle",
+                "GB": "Egg roll"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Eierrollen sind eine Vielzahl von frittierten Vorspeisen, die in amerikanischen chinesischen Restaurants serviert werden. Eine Eierrolle ist eine zylindrische, herzhafte Rolle mit zerkleinertem Kohl, gehacktem Schweinefleisch und anderen Füllungen in einer dick umwickelten Weizenmehlhaut, die in heißem Öl gebraten wird. Das Gericht wird warm serviert und wird in der Regel mit den Fingern gegessen, eingetaucht in Entensauce, Sojasauce, Pflaumensoße oder heißen Senf, oft aus einer Cellophanverpackung. Eierrollen sind ein allgegenwärtiges Merkmal der amerikanisch-chinesischen Küche und werden oft als kostenlose Ergänzung zu amerikanisch-chinesischen Kombinationsplatten in den gesamten Vereinigten Staaten serviert, zusammen mit gebratenem Reis und Glückskeksen.",
+                "GB": "Egg rolls are a variety of deep-fried appetizers served in American Chinese restaurants. An egg roll is a cylindrical, savory roll with shredded cabbage, chopped pork, and other fillings inside a thickly-wrapped wheat flour skin, which is fried in hot oil. The dish is served warm, and is usually eaten with the fingers, dipped in duck sauce, soy sauce, plum sauce, or hot mustard, often from a cellophane packet. Egg rolls are a ubiquitous feature of American Chinese cuisine and are often served as free additions to American Chinese combination platters throughout the United States, along with fried rice and fortune cookies."
             }
         },
         {
             "class": "egg rolls",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "plural": "egg roll"
         },
         {
             "class": "eggrolls",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "egg roll"
         },
         {
             "class": "egg sandwich",
-            "categories": [],
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "Eier Sandwich",
+                    "GB": "Egg Sandwich"
                 },
                 "spoonacular": null
             },
