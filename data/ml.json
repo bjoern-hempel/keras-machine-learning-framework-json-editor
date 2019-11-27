@@ -6151,183 +6151,111 @@
         },
         {
             "class": "falafel",
-            "categories": [],
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Falafel",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Falafel"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Falafel",
+                "GB": "Falafel"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Falafel sind frittierte Bällchen aus pürierten Bohnen oder Kichererbsen, Kräutern und Gewürzen, die vor allem als Imbiss beliebt sind. Das Gericht stammt aus der arabischen Küche.",
+                "GB": "Falafel is a deep-fried ball, or a flat or doughnut-shaped patty, made from ground chickpeas, fava beans, or both. Herbs, spices, and onion relatives are commonly added to the dough. It is a very famous Middle Eastern dish that most likely originated in Egypt. The fritters are now found around the world as part of vegetarian cuisine, and as a form of street food."
             }
         },
         {
             "class": "farfalle",
-            "categories": [],
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Farfalle",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Farfalle"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Farfalle",
+                "GB": "Farfalle"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Farfalle ‚Schmetterlinge‘, sind italienische Nudeln in Schmetterlingsform.",
+                "GB": "Farfalle are a type of pasta\/noodle commonly known as bow-tie pasta or butterfly pasta. The name is derived from the Italian word farfalle . In the Italian city of Modena, farfalle are known as strichetti. A larger variation of farfalle is known as farfalloni, while the miniature version is called farfalline. Farfalle date back to the 16th century in the Lombardy and Emilia-Romagna regions of Northern Italy."
             }
         },
         {
             "class": "farina",
-            "categories": [],
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Farina_(food)"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Farina",
+                "GB": "Farina"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Farina ist der Name für eine Form von gemahlenem Weizen in den Vereinigten Staaten von Amerika. Das Wort \"Farina\" ist lateinisch und bedeutet Essen oder Mehl und das italienische Wort für Mehl. Es wird aus dem Keim und dem Endosperm des Getreides hergestellt, das zu einer feinen Konsistenz gemahlen und anschließend gesiebt wird.",
+                "GB": "Farina is the name given to a form of milled wheat in the United States of America. The word \"farina\" is Latin, meaning meal or flour and the Italian word for flour. It is made from the germ and endosperm of the grain, which is milled to a fine consistency and then sifted."
             }
         },
         {
             "class": "fettuccine",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "fettuccine alfredo"
         },
         {
             "class": "fettuccine alfredo",
-            "categories": [],
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fettuccine_Alfredo"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Fettuccine Alfredo",
+                "GB": "Fettuccine Alfredo"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Fettuccine Alfredo oder Fettuccine al burro ist ein italienisches Nudelgericht aus Fettuccine mit Butter und Parmesankäse. Während der Käse schmilzt, emulgiert er die Flüssigkeiten zu einer glatten und reichen Sauce, die die Pasta umhüllt. Das Gericht ist nach Alfredo di Lelio benannt, der das Gericht Anfang bis Mitte des 20. Jahrhunderts in seinem Restaurant in Rom vorstellte; die \"Zeremonie\" der Zubereitung am Tisch war ein wesentlicher Bestandteil des Geräts.",
+                "GB": "Fettuccine Alfredo or fettuccine al burro is an Italian pasta dish of fettuccine tossed with butter and Parmesan cheese . As the cheese melts, it emulsifies the liquids to form a smooth and rich sauce coating the pasta. The dish is named after Alfredo di Lelio, who featured the dish at his restaurant in Rome in the early to mid 20th century; the \"ceremony\" of preparing it tableside was an integral part of the dish."
             }
         },
         {
             "class": "fettuccini",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "fettuccine alfredo"
         },
         {
             "class": "fettucine",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "fettuccine alfredo"
         },
         {
             "class": "fettucini",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "fettuccine alfredo"
         },
         {
             "class": "fish",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "fish"
         },
         {
             "class": "fish and chips",
