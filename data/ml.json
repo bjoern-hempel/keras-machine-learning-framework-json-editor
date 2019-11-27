@@ -5559,185 +5559,183 @@
         },
         {
             "class": "curry",
-            "name": {
-                "DE": "Curry",
-                "GB": "Curry"
-            },
-            "related-classes": [],
             "categories": [
-                "dish"
+                "curry"
             ],
-            "description": {
-                "DE": "Curry ist die Bezeichnung für Gerichte der südasiatischen, südostasiatischen und japanischen Küche auf der Basis einer sämigen Sauce mit verschiedenen Gewürzen und Zugaben von Fleisch, Fisch oder Gemüse.",
-                "GB": "Curry (plural curries) is a variety of dishes originating in the Indian subcontinent that use a complex combination of spices or herbs, usually including ground turmeric, cumin, coriander, ginger, and fresh or dried chilies."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Curry_(Gericht)",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Curry"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Curry",
+                "GB": "Curry"
+            },
+            "description": {
+                "DE": "Curry ist die Bezeichnung für Gerichte der südasiatischen, südostasiatischen und japanischen Küche auf der Basis einer sämigen Sauce mit verschiedenen Gewürzen und Zugaben von Fleisch, Fisch oder Gemüse.",
+                "GB": "Curry (plural curries) is a variety of dishes originating in the Indian subcontinent that use a complex combination of spices or herbs, usually including ground turmeric, cumin, coriander, ginger, and fresh or dried chilies."
             }
         },
         {
             "class": "curry sauce",
+            "categories": [
+                "sauce & marinade"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "Currysauce",
+                    "GB": "Curry Sauce"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "custard",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Custard_(S%C3%BC%C3%9Fspeise)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Custard"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Custard",
+                "GB": "Custard"
+            },
+            "description": {
+                "DE": "Custard ist ein englischer Küchenbegriff für verschiedene warme oder kalte Zubereitungen, die mit Eiern oder Eigelb hergestellt werden, gemeint sind hauptsächlich Süßspeisen aus Milch mit Eiern. Die englische Küche kennt eine Vielzahl Puddinge mit den verschiedensten Zutaten: Mandeln, Butter, Zitrone usw., die als Arten von Custards betrachtet werden.",
+                "GB": "Custard is a variety of culinary preparations based on milk or cream cooked with egg yolk to thicken it, and sometimes also flour, corn starch, or gelatin. Depending on the recipe, custard may vary in consistency from a thin pouring sauce to the thick pastry cream used to fill éclairs. The most common custards are used in desserts or dessert sauces and typically include sugar and vanilla, however savory custards are also found, e.g. in quiche."
             }
         },
         {
             "class": "daiquiri",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cocktail"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Daiquiri",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Daiquiri"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Daiquiri",
+                "GB": "Daiquiri"
+            },
+            "description": {
+                "DE": "Der Daiquiri ist ein klassischer Cocktail auf Basis von weißem Rum. Der Shortdrink gehört zur großen Gruppe der Sours und wurde nach der kubanischen Siedlung Daiquirí benannt, die etwa 22 Kilometer von Santiago de Cuba entfernt ist.",
+                "GB": "Daiquiri is a family of cocktails whose main ingredients are rum, citrus juice , and sugar or other sweetener."
             }
         },
         {
             "class": "dal",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Dal_(Gericht)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Dal"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Dal",
+                "GB": "Dal"
+            },
+            "description": {
+                "DE": "Dal ist ein Gericht der indischen Küche und der pakistanischen Küche, das vorwiegend aus Hülsenfrüchten, meistens Linsen, aber auch Kichererbsen, Bohnen oder Erbsen zubereitet wird. Durch die lange Kochzeit zerkochen die Hülsenfrüchte zu einer Art Brei, der mit Kreuzkümmel, Koriandersamen, Zwiebeln, Knoblauch, Chilis, Ingwer und anderen Gewürzen kräftig gewürzt wird. Bisweilen werden die Hülsenfrüchte auch frittiert. Dal ist ein Grundnahrungsmittel in Indien.",
+                "GB": "Dal is a term used in the Indian subcontinent for dried, split pulses . The term is also used for various soups prepared from these pulses. These pulses are among the most important staple foods in South Asian countries, and form an important part of the cuisines of the Indian subcontinent."
             }
         },
         {
             "class": "deep dish pizza",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pizza"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Chicago-style_Pizza",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicago-style_pizza"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Chicago-style Pizza",
+                "GB": "Chicago-style pizza"
+            },
+            "description": {
+                "DE": "Als Chicago-style Pizza oder Deep Dish Pizza wird eine aus Chicago stammende US-amerikanische Version der Pizza bezeichnet. Der Boden der Pizza bildet eine Schale mit hohem Rand, die dann mit Käse, Tomaten und Wurst gefüllt wird.",
+                "GB": "Chicago-style pizza is pizza prepared according to several different styles developed in Chicago. The most famous is deep-dish pizza. The pan in which it is baked gives the pizza its characteristically high edge which provides ample space for large amounts of cheese and a chunky tomato sauce. Chicago-style pizza may be prepared in deep-dish style and as a stuffed pizza."
             }
         },
         {
             "class": "deviled eggs",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Russische_Eier",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Deviled_egg"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Russische Eier",
+                "GB": "Deviled egg"
+            },
+            "description": {
+                "DE": "Russische Eier, auch Russisch Ei, sind eine Vorspeise aus hart gekochten Eiern. Sie gehören zur Kalten Küche.",
+                "GB": "Deviled eggs or devilled eggs , also known as stuffed eggs, Russian eggs, or dressed eggs, are hard-boiled chicken eggs that have been shelled, cut in half, and filled with a paste made from the egg yolks mixed with other ingredients such as mayonnaise and mustard. They are generally served cold as a side dish, appetizer or a main course, often for holidays or parties. The dish's origin can be seen in recipes for boiled, seasoned eggs as far back as ancient Rome, where they were traditionally served as a first course. The dish is popular in Europe and in North America."
             }
         },
         {
             "class": "dim sum",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Dim_Sum",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Dim_sum"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Dim Sum",
+                "GB": "Dim sum"
+            },
+            "description": {
+                "DE": "Dim Sum, auch Dimsum sind kleine Gerichte, die meist gedämpft oder frittiert sind.",
+                "GB": "Dim sum is a style of Chinese cuisine. It is prepared as small bite-sized portions of food served in small steamer baskets or on a small plate. Dim sum is commonly viewed as Cantonese, although other varieties exist. Dim sum dishes are usually served with tea and together form a full tea brunch. Due to the Cantonese tradition of enjoying tea with this cuisine, yum cha , which means \"drink tea\" in Cantonese, is also synonymous with dim sum. Dim sum traditionally are served as fully cooked, ready-to-serve dishes. In some Cantonese teahouses, carts with dim sum are served around the restaurant."
             }
         },
         {
             "class": "dinner",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "dinner"
         },
         {
             "class": "dip",
