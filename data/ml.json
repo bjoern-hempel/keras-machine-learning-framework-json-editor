@@ -5459,22 +5459,24 @@
         },
         {
             "class": "crudite",
-            "categories": [],
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Crudit%C3%A9s",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Crudit%C3%A9s"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Crudités",
+                "GB": "Crudités"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Crudités sind verschiedene Sorten frischen Gemüses, das ganz oder portioniert als Vorspeise serviert wird. Ergänzend gibt es üblicherweise Dips oder Relishes, in die die einzelnen Gemüsestücke getunkt und verzehrt werden; bei Crudités handelt es sich um Fingerfood. Seinen Ursprung hat dieses Gericht in Frankreich.",
+                "GB": "Crudités are traditional French appetizers consisting of sliced or whole raw vegetables which are typically dipped in a vinaigrette or other dipping sauce. Examples of crudités include celery sticks, carrot sticks, cucumber sticks, bell pepper strips, broccoli, cauliflower, fennel, and asparagus spears."
             }
         },
         {
