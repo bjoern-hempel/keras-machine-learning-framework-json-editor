@@ -6259,405 +6259,317 @@
         },
         {
             "class": "fish and chips",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Fish_and_Chips",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fish_and_chips"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fish and Chips",
+                "GB": "Fish and chips"
+            },
+            "description": {
+                "DE": "Fish and Chips ist ein Gericht aus in Backteig frittiertem Fischfilet und dicken frittierten Kartoffelstäbchen . Sie gelten als „inoffizielles Nationalgericht“ des Vereinigten Königreiches und sind bis heute ein fester Bestandteil der englischen und schottischen Küche und Esskultur, wenngleich sie in den letzten Jahren an Popularität verloren haben. Chips sind die britische Variante der Pommes frites, sind aber meist dicker als die in Deutschland üblichen Pommes frites und eher weich statt knusprig.",
+                "GB": "Fish and chips is a hot dish consisting of fried fish in batter served with chips. The dish originated in England and is an example of culinary fusion of its two main ingredients, each brought by immigrants. It is a staple meal and a common take-away food in the United Kingdom, Ireland, and numerous other countries, particularly in English-speaking and Commonwealth nations. Fish and chips first appeared in the UK in the 1860s. By 1910 there were more than 25,000 fish and chip shops across the UK, and by the 1930s there were over 35,000, falling to about 10,000 by 2009. The British government safeguarded the supply of fish and chips during World War I and World War II; it was one of the few foods in the UK not subject to rationing."
             }
         },
         {
             "class": "fish burger",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Filet-O-Fish"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fischburger",
+                "GB": "Filet-O-Fish"
+            },
+            "description": {
+                "DE": "Das Filet-O-Fish ist ein Fischsandwich, das von der internationalen Fast-Food-Restaurantkette McDonald's verkauft wird. Es wurde 1962 von Lou Groen, einem McDonald's-Franchisenehmer in Cincinnati, Ohio, als Reaktion auf rückläufige Hamburgerumsätze am Freitag aufgrund der römisch-katholischen Praxis des Verzichts auf Fleisch am Freitag gegründet. Während sich die Fischzusammensetzung des Sandwichs im Laufe der Jahre verändert hat, um Geschmacks- und Versorgungsmängel zu beheben, ist der Rahmen der Zutaten konstant geblieben: ein paniertes Fischfilet, ein gedämpftes Brötchen, Tatarsauce und pasteurisierter amerikanischer Schmelzkäse.",
+                "GB": "The Filet-O-Fish is a fish sandwich sold by the international fast food restaurant chain McDonald's. It was created in 1962 by Lou Groen, a McDonald's franchise owner in Cincinnati, Ohio, in response to falling hamburger sales on Fridays resulting from the Roman Catholic practice of abstaining from meat on Fridays. While the fish composition of the sandwich has changed through the years to satisfy taste and address supply shortcomings, the framework of its ingredients have remained constant; a fried breaded fish fillet, a steamed bun, tartar sauce and pasteurized processed American cheese."
             }
         },
         {
             "class": "fish cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fishcake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fischkuchen",
+                "GB": "Fishcake"
+            },
+            "description": {
+                "DE": "Ein Fischkuchen ist ein kulinarisches Gericht, das aus filetiertem Fisch oder anderen Meeresfrüchten, zerkleinert oder gemahlen, mit einem stärkehaltigen Lebensmittel vermischt und gebraten besteht.",
+                "GB": "A fishcake is a culinary dish consisting of filleted fish or other seafood minced or ground, mixed with a starchy food, and fried."
             }
         },
         {
             "class": "fish cakes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "fish cake"
         },
         {
             "class": "fishcakes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "fish cake"
         },
         {
             "class": "fish & chips",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "fish and chips"
         },
         {
             "class": "fish n chips",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "fish and chips"
         },
         {
             "class": "fish sandwich",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "fish burger"
         },
         {
             "class": "fish stew",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
             "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Fischsuppe",
+                "GB": "Fish Stew"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fish taco",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Fisch Taco",
+                "GB": "Fish Taco"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fish tacos",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "fish taco"
         },
         {
             "class": "flan",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "flank steak",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "flat bread",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "flatbread",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "flatbread pizza",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "flat iron steak",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "flat white",
-            "name": {
-                "DE": "Flat White",
-                "GB": "Flat white"
-            },
-            "related-classes": [],
             "categories": [
-                "drink",
+                "undefined",
                 "coffee"
             ],
-            "description": {
-                "DE": "\"Flat White\" ist eine Bezeichnung für die Zubereitungsvariante eines Cappuccinos, der in der Regel mit Latte Art verziert wird.",
-                "GB": "A flat white is a coffee drink consisting of espresso with microfoam (steamed milk with small, fine bubbles and a glossy or velvety consistency)."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Flat_White",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Flat_white"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Flat White",
+                "GB": "Flat white"
+            },
+            "description": {
+                "DE": "\"Flat White\" ist eine Bezeichnung für die Zubereitungsvariante eines Cappuccinos, der in der Regel mit Latte Art verziert wird.",
+                "GB": "A flat white is a coffee drink consisting of espresso with microfoam (steamed milk with small, fine bubbles and a glossy or velvety consistency)."
             }
         },
         {
             "class": "float",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "flounder",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
