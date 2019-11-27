@@ -6391,87 +6391,79 @@
         },
         {
             "class": "flan",
-            "categories": [],
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cr%C3%A8me_caramel"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Flan",
+                "GB": "Crème caramel"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Crème Karamell, Flan oder Karamellpudding ist ein Pudding-Dessert mit einer Schicht klarer Karamellsauce, kontrastiert mit Crème Brûlée, die mit einer harten Karamellschicht darüber gefüllt ist.",
+                "GB": "Crème caramel , flan, or caramel custard is a custard dessert with a layer of clear caramel sauce, contrasted with crème brûlée which is custard with a hard caramel layer on top."
             }
         },
         {
             "class": "flank steak",
-            "categories": [],
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Flanksteak",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Flank_steak"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Flanksteak",
+                "GB": "Flank steak"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Als Flanksteak bezeichnet man nach US-amerikanischer Teilung ein Teilstück der Bauchlappen des Rindfleischs. Nach französischer Teilung wird es als Bavette de Flanchet bezeichnet.",
+                "GB": "Flank steak is a cut of beef taken from the abdominal muscles or lower chest of the steer. French butchers refer to it as bavette, which means \"bib\". Similarly, it is known in Brazil as fraldinha . The cut is common in Colombia, where it is known as sobrebarriga ."
             }
         },
         {
             "class": "flat bread",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "flatbread"
         },
         {
             "class": "flatbread",
-            "categories": [],
+            "categories": [
+                "pastry & bread"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Flatbread"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Fladenbrot",
+                "GB": "Flatbread"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ein Fladenbrot ist ein Brot, das aus Mehl, Wasser und Salz hergestellt und dann gründlich zu einem flachen Teig gerollt wird. Viele Fladenbrote sind ungesäuert, obwohl einige davon gesäuert sind, wie z.B. Pita-Brot.",
+                "GB": "A flatbread is a bread made with flour, water, and salt, and then thoroughly rolled into flattened dough. Many flatbreads are unleavened, although some are leavened, such as pita bread."
             }
         },
         {
             "class": "flatbread pizza",
-            "categories": [],
+            "categories": [
+                "pizza"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
@@ -6481,8 +6473,8 @@
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Fladenbrot Pizza",
+                "GB": "Flatbread Pizza"
             },
             "description": {
                 "DE": "",
@@ -6491,29 +6483,30 @@
         },
         {
             "class": "flat iron steak",
-            "categories": [],
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Flat_iron_steak"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Flat iron steak",
+                "GB": "Flat iron steak"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Flacheisensteak, Butlersteak oder Austernschneidsteak ist ein Schnitt aus Steak, der mit dem Getreide aus der Schulter des Tieres geschnitten wird. Dies ergibt einen geschmackvollen Schnitt, der etwas zäh ist, da er eine knorrige Faszienmembran enthält, wenn er nicht entfernt wird. Einige Restaurants bieten es auf ihrer Speisekarte an, oft zu einem niedrigeren Preis als die beliebtesten Rib-Eye und Strip Steaks der gleichen Qualität. Dies wird an einigen Stellen verwendet, um einen preiswerteren Schnitt vom gleichen Tier zu verkaufen, zum Beispiel Kobe-Rindfleisch.",
+                "GB": "Flat iron steak , butlers' steak , or oyster blade steak is a cut of steak cut with the grain from the shoulder of the animal. This produces a flavorful cut that is a bit tough because it contains a gristly fascia membrane unless removed. Some restaurants offer it on their menu, often at lower price than the more popular rib-eye and strip steaks of the same grade. This is used, in some places, as a means of selling a less expensive cut from the same animal, for example Kobe beef."
             }
         },
         {
             "class": "flat white",
             "categories": [
-                "undefined",
-                "coffee"
+                "with milk froth"
             ],
             "related-classes": [],
             "urls": {
@@ -6534,42 +6527,46 @@
         },
         {
             "class": "float",
-            "categories": [],
+            "categories": [
+                "other beverage"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ice_cream_float"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ice cream float",
+                "GB": "Ice cream float"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ein Eiscreme-Float oder Eiscreme-Soda, Koks-Float oder Spinne ist ein gekühltes Getränk, das aus Eiscreme besteht, entweder in einem Erfrischungsgetränk oder in einer Mischung aus aromatisiertem Sirup und kohlensäurehaltigem Wasser.",
+                "GB": "An ice cream float or ice cream soda , coke float , or spider , is a chilled beverage that consists of ice cream in either a soft drink or in a mixture of flavored syrup and carbonated water."
             }
         },
         {
             "class": "flounder",
-            "categories": [],
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Flunder",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/European_flounder"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Flunder",
+                "GB": "Flounder"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Flunder ",
+                "GB": "The European flounder is a flatfish of European coastal waters from the White Sea in the north to the Mediterranean and the Black Sea in the south. It has been introduced into the United States and Canada accidentally through transport in ballast water. It is caught and used for human consumption."
             }
         },
         {
