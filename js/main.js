@@ -336,7 +336,8 @@ function startEditor()
                         descriptionEditor.setValue(description);
 
                         if (englishLinkUrl !== null) {
-                            let englishEditor = window.editor.getEditor('root.classes.0.urls.wikipedia.GB');
+                            let classNumber = nameEditor.path.match(/root.classes.([0-9]+)./)[1];
+                            let englishEditor = window.editor.getEditor('root.classes.%s.urls.wikipedia.GB'.replace(/%s/, classNumber));
                             englishEditor.setValue(englishLinkUrl);
                         }
                     }, language === 'DE');
