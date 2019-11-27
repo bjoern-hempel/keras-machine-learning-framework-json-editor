@@ -5739,42 +5739,28 @@
         },
         {
             "class": "dip",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "dipping sauce"
         },
         {
             "class": "dipping sauce",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Dipping_sauce"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Dippingsauce",
+                "GB": "Dipping sauce"
+            },
+            "description": {
+                "DE": "Eine Dip- oder Dip-Sauce ist eine gängige Zutat für viele Arten von Lebensmitteln. Dips werden verwendet, um einem Lebensmittel Geschmack oder Textur hinzuzufügen, wie z.B. Pita-Brot, Knödel, Cracker, zerkleinertes Rohgemüse, Obst, Meeresfrüchte, Fleisch- und Käsewürfel, Kartoffelchips, Tortilla-Chips, Falafel und manchmal sogar ganze Sandwiches im Falle von au jus. Im Gegensatz zu anderen Soßen, anstatt die Sauce auf das Essen aufzutragen, wird das Essen typischerweise in die Sauce gegeben, getaucht oder hinzugefügt.",
+                "GB": "A dip or dipping sauce is a common condiment for many types of food. Dips are used to add flavor or texture to a food, such as pita bread, dumplings, crackers, cut-up raw vegetables, fruits, seafood, cubed pieces of meat and cheese, potato chips, tortilla chips, falafel, and sometimes even whole sandwiches in the case of au jus. Unlike other sauces, instead of applying the sauce to the food, the food is typically put, dipped, or added into the dipping sauce ."
             }
         },
         {
@@ -5787,26 +5773,7 @@
         },
         {
             "class": "donut",
-            "name": {
-                "DE": "Donut",
-                "GB": "Donut"
-            },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "dessert"
-            ],
-            "description": {
-                "DE": "Ein Donut ist ein handtellergroßer amerikanischer\/kanadischer Krapfen aus Hefeteig oder Rührteig (auch Schmalzgebäckkringel oder Lochkrapfen genannt).",
-                "GB": "A doughnut or donut (the latter spelling often seen in American English) is a type of fried dough confection or dessert food."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Donut",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Doughnut"
-                },
-                "spoonacular": null
-            }
+            "duplicate": "doughnut"
         },
         {
             "class": "donuts",
@@ -5814,27 +5781,29 @@
         },
         {
             "class": "double cheeseburger",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "cheeseburger"
         },
         {
             "class": "doughnut",
-            "duplicate": "donut"
+            "categories": [
+                "other dessert"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Donut",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Doughnut"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Donut",
+                "GB": "Doughnut"
+            },
+            "description": {
+                "DE": "Ein Donut ist ein handtellergroßer amerikanischer\/kanadischer Krapfen aus Hefeteig oder Rührteig . Die Form ist entweder ein Torus oder – seltener – ein abgeflachter Ballen, der häufig Schokolade oder eine andere süße Füllung enthält.",
+                "GB": "A doughnut or donut is a type of fried dough confection or dessert food. The doughnut is popular in many countries and is prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty vendors."
+            }
         },
         {
             "class": "doughnuts",
@@ -5842,22 +5811,24 @@
         },
         {
             "class": "drunken noodles",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Drunken_noodles"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Drunken noodles",
+                "GB": "Drunken noodles"
+            },
+            "description": {
+                "DE": "Drunken Nudeln ist ein gerührtes Nudelgericht, das dem phat si-io sehr ähnlich ist, aber ein etwas anderes Geschmacksprofil hat. Auf Thai bedeutet khi mao Trunkenbold. Er wird normalerweise aus Breitreisnudeln, Sojasauce, Fischsauce, Austernsauce, Knoblauch, Fleisch, Meeresfrüchten, Chili, frischen schwarzen Paprikaschoten und heiligem Basilikum hergestellt, was seine unverwechselbare Würze ausmacht. \"Betrunkener gebratener Reis\" oder Khao phat khi mao ist ein ähnliches Gericht.",
+                "GB": "Drunken noodles is a stir fried noodle dish very similar to phat si-io, but with a slightly different flavor profile. In Thai, khi mao means drunkard. It is normally made with broad rice noodles, soy sauce, fish sauce, oyster sauce, garlic, meat, seafood, chili, fresh black pepper pods and holy basil, which give rise to its distinctive spiciness. \"Drunken fried rice\" or khao phat khi mao is a similar dish."
             }
         },
         {
