@@ -53,7 +53,7 @@ function filterText(text)
     return textFiltered;
 }
 
-function loadWikiData(url, callback) {
+function loadWikiData(url, callback, searchEnglishLink = false) {
     $.ajax({
         dataType : 'html',
         url: url,
@@ -77,7 +77,17 @@ function loadWikiData(url, callback) {
                 counter++;
             } while (description === "");
 
-            callback(name, filterText(description));
+            let englishLinkUrl = null;
+            if (searchEnglishLink) {
+                let englishLink = response.find('.interlanguage-link.interwiki-en a');
+
+                /* We do have an english link */
+                if (englishLink.length > 0) {
+                    englishLinkUrl = englishLink.attr('href');
+                }
+            }
+
+            callback(name, filterText(description), englishLinkUrl);
         }
     });
 }
@@ -149,7 +159,8 @@ function setInformation(name, data, dataAll, page, start, max)
     }
 }
 
-function getLabelsArray() {
+function getLabelsArray()
+{
     let labels = [];
 
     $("div.panel > div > div[data-schemapath*='root.classes.'] > h3 > label").each(function (index) {
@@ -163,6 +174,12 @@ function getLabelsArray() {
     });
 
     return labels;
+}
+
+function openInNewTab(url)
+{
+    var win = window.open(url, '_blank');
+    win.focus();
 }
 
 function startEditor()
@@ -214,6 +231,7 @@ function startEditor()
             },
             startval: objData
         });
+        window.editor = editor;
 
         /* Hook up the submit button to log to the console */
         document.getElementById('submit').addEventListener('click',function() {
@@ -296,17 +314,40 @@ function startEditor()
                 $("input[name*='[wikipedia][%s]']".replace(/%s/, language)).dblclick(function (e) {
                     let wikipage = $(e.target).val();
                     let panelElements = $(e.target).parents('div.panel');
-                    let nameElement = $(panelElements[2]).find("input[name*='[name][%s]']".replace(/%s/, language));
-                    let descriptionElement = $(panelElements[2]).find("textarea[name*='[description][%s]']".replace(/%s/, language));
 
-                    loadWikiData(wikipage, function (name, description) {
-                        nameElement.val(name);
-                        descriptionElement.val(description);
-                    });
+                    /* Name of class */
+                    let namePath = $(
+                        $(panelElements[2]).
+                            find("input[name*='[name][%s]']".replace(/%s/, language)).
+                            closest('[data-schemapath]')
+                    ).data('schemapath');
+                    let nameEditor = window.editor.getEditor(namePath);
+
+                    /* Description of class */
+                    let descriptionPath = $(
+                        $(panelElements[2]).
+                            find("textarea[name*='[description][%s]']".replace(/%s/, language)).
+                            closest('[data-schemapath]')
+                    ).data('schemapath');
+                    let descriptionEditor = window.editor.getEditor(descriptionPath);
+
+                    loadWikiData(wikipage, function (name, description, englishLinkUrl) {
+                        nameEditor.setValue(name);
+                        descriptionEditor.setValue(description);
+
+                        if (englishLinkUrl !== null) {
+                            let englishEditor = window.editor.getEditor('root.classes.0.urls.wikipedia.GB');
+                            englishEditor.setValue(englishLinkUrl);
+                        }
+                    }, language === 'DE');
                 });
             });
 
-
+            /* set google opener */
+            $("input[name*='[class]']").dblclick(function (e) {
+                let className = $(e.target).val();
+                openInNewTab('https://www.google.com/search?q=%s'.replace(/%s/, className + '%20food'));
+            });
         });
 
 
