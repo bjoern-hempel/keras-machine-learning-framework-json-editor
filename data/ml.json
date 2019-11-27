@@ -5981,405 +5981,352 @@
         },
         {
             "class": "eggs benedict",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "breakfast"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Eier_Benedict",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Eggs_Benedict"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Eier Benedict",
+                "GB": "Eggs Benedict"
+            },
+            "description": {
+                "DE": "Eier Benedict sind ein US-amerikanisches Frühstücksgericht aus pochierten Eiern auf Toast oder halbierten englischen Muffins mit einer Scheibe angebratenen gekochten Schinkens oder Frühstücksspecks und Sauce Hollandaise. Außer in den Vereinigten Staaten ist das Gericht auch in Großbritannien und anderen Ländern anzutreffen, zudem gehört es oft zum Frühstücks-Standardangebot von internationalen Hotels auf der ganzen Welt.",
+                "GB": "Eggs Benedict is an American breakfast or brunch dish, an open-faced sandwich consisting of two halves of an English muffin topped with a poached egg, bacon or ham, and hollandaise sauce. The dish was first popularized in New York City."
             }
         },
         {
             "class": "eggs florentine",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "eggs benedict"
         },
         {
             "class": "empanada",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Empanada",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Empanada"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Empanada",
+                "GB": "Empanada"
+            },
+            "description": {
+                "DE": "Eine Empanada ist eine gefüllte Teigtasche, die in Spanien, Mittel- und Südamerika sowie auf den Philippinen zubereitet und verzehrt wird.",
+                "GB": "An empanada is a type of baked or fried turnover consisting of pastry and filling, common in Latin American and Filipino cultures. The name comes from the Spanish verb empanar, and literally translates as \"enbreaded\", that is, wrapped or coated in bread. They are made by folding dough over a filling, which may consist of meat, cheese, corn, or other ingredients, and then cooking the resulting turnover, either by baking or frying."
             }
         },
         {
             "class": "empanadas",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "empanada"
         },
         {
             "class": "enchilada",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Enchilada",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Enchilada"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Enchilada",
+                "GB": "Enchilada"
+            },
+            "description": {
+                "DE": "Enchilada ist ein traditionelles mexikanisches Gericht, das je nach Region und Belieben in vielen Varianten zubereitet wird. Es handelt sich dabei um gefüllte, weiche Tortillas aus Maismehl, die mit einer Sauce übergossen werden.",
+                "GB": "An enchilada is a corn tortilla rolled around a filling and covered with a savory sauce. Enchiladas can be filled with a variety of ingredients, including various meats, cheese, beans, potatoes, vegetables or combinations, a variety of sauces can also be used to cover the enchiladas, including chile-based sauces, such as salsa roja, various moles, or cheese-based sauces such as chile con queso. Originating in Mexico, enchiladas are a popular dish throughout Mexico and the American Southwest."
             }
         },
         {
             "class": "enchiladas",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "enchilada"
         },
         {
             "class": "english muffin",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "breakfast"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/English_muffin"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Englischer Muffin",
+                "GB": "English muffin"
+            },
+            "description": {
+                "DE": "Englische Muffins oder Frühstücksmuffins, wie sie in ihrem Ursprung im Vereinigten Königreich bekannt sind, sind ein kleines, rundes, flaches, hefegeheftiges Brot, das normalerweise horizontal geschnitten, geröstet und gebuttert wird. Geröstete englische Muffins, die in den Vereinigten Staaten oft als Frühstücksnahrung verwendet werden, können mit süßen Belägen oder herzhaften Belägen serviert werden. Englische Muffins werden auch als Brot in einer Vielzahl von Frühstückssandwiches verwendet und sind ein wesentlicher Bestandteil von Eggs Benedict und den meisten seiner Varianten.",
+                "GB": "English muffins, or breakfast muffins as they are known in their origin the United Kingdom, are a small, round, flat yeast-leavened bread which is commonly sliced horizontally, toasted, and buttered. Toasted English muffins, which are often used in the United States as a breakfast food, may be served with sweet toppings or savory toppings . English muffins are also used as the bread in a variety of breakfast sandwiches, and are an essential ingredient in Eggs Benedict and most of its variations."
             }
         },
         {
             "class": "entrecote",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Entrec%C3%B4te",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Entrec%C3%B4te"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Entrecôte",
+                "GB": "Entrecôte"
+            },
+            "description": {
+                "DE": "Das Entrecôte ist ein Steak aus dem Zwischenrippenstück des Rinds, ähnlich dem Rib-Eye-Steak bei der englischen Art der Fleischzerlegung.\nJe nach Verwendung hat das Fleisch ein Gewicht von 350 bis 550 Gramm und ist vier bis sechs Zentimeter dick.",
+                "GB": "In French, entrecôte is a premium cut of beef used for steaks."
             }
         },
         {
             "class": "espresso",
-            "name": {
-                "DE": "Espresso",
-                "GB": "Espresso"
-            },
-            "related-classes": [],
             "categories": [
-                "drink",
-                "coffee"
+                "other coffee"
             ],
-            "description": {
-                "DE": "Espresso ist eine aus Mailand stammende Kaffeezubereitungsart, bei der heißes Wasser mit hohem Druck durch sehr fein gemahlenes Kaffeemehl aus gerösteten Kaffeebohnen gepresst wird.",
-                "GB": "Espresso is coffee of Italian origin, brewed by forcing a small amount of nearly boiling water under pressure (expressing) through finely ground coffee beans."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Espresso",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Espresso"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Espresso",
+                "GB": "Espresso"
+            },
+            "description": {
+                "DE": "Espresso   ist eine aus Mailand stammende Kaffeezubereitungsart, bei der heißes Wasser mit hohem Druck durch sehr fein gemahlenes Kaffeemehl aus gerösteten Kaffeebohnen gepresst wird.",
+                "GB": "Espresso , Italian: ) is coffee of Italian origin, brewed by forcing a small amount of nearly boiling water under pressure through finely ground coffee beans. Espresso is generally thicker than coffee brewed by other methods, has a higher concentration of suspended and dissolved solids, and has crema on top . As a result of the pressurized brewing process, the flavors and chemicals in a typical cup of espresso are very concentrated. Espresso is also the base for other drinks such as a caffè latte, cappuccino, caffè macchiato, caffè mocha, flat white, or caffè Americano."
             }
         },
         {
             "class": "fajita",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Fajita",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fajita"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fajita",
+                "GB": "Fajita"
+            },
+            "description": {
+                "DE": "Fajita ist ein Gericht der Tex-Mex-Küche, das in der Originalversion aus gegrilltem und anschließend klein geschnittenem Rindfleisch besteht, das zusammen mit Streifen von grüner Chili auf einer Weizentortilla serviert wird. Fajitas werden mittlerweile auch aus Schweinefleisch oder Huhn zubereitet, seltener auch aus Garnelen. Zu den Beilagen zählen oft saure Sahne, Guacamole, Salsa, Pico de gallo, Käse und Tomaten.",
+                "GB": "A fajita ) in Tex-Mex and Mexican cuisine is any grilled meat that is usually served as a taco on a flour or corn tortilla. The term originally referred to skirt steak, the cut of beef first used in the dish. Popular meats today also include chicken and other cuts of beef, as well as vegetables instead of meat. In restaurants, the meat is usually cooked with onions and bell peppers. Popular condiments include shredded lettuce, sour cream, guacamole, salsa, pico de gallo, shredded cheese, refried beans, and diced tomatoes. Arrachera is a northern Mexican variant of the dish."
             }
         },
         {
             "class": "fajitas",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "fajita"
         },
         {
             "class": "falafel",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "farfalle",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "farina",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fettuccine",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fettuccine alfredo",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fettuccini",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fettucine",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fettucini",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fish",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
