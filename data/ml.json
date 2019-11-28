@@ -7781,204 +7781,186 @@
         },
         {
             "class": "grilled cheese",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "grilled cheese sandwich"
         },
         {
             "class": "grilled cheese sandwich",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cheese_sandwich"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Käsesandwich",
+                "GB": "Cheese sandwich"
+            },
+            "description": {
+                "DE": "Ein Käsesandwich ist ein einfaches Sandwich, das im Allgemeinen mit einer oder mehreren Käsesorten auf jeder Art von Brot, wie z.B. Fladenbrot oder Weizenbrot, hergestellt wird, das auch Aufstriche wie Butter oder Mayonnaise enthalten kann.",
+                "GB": "A cheese sandwich is a basic sandwich generally made with one or more varieties of cheese on any sort of bread, such as flat bread or wheat bread, that may include spreads such as butter or mayonnaise."
             }
         },
         {
             "class": "grilled salmon",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "gravlax"
         },
         {
             "class": "grilled shrimp",
+            "categories": [
+                "fish"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "Gegrillte Garnelen",
+                    "GB": "Grilled Shrimp"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "grissini",
-            "name": {
-                "DE": "Grissini",
-                "GB": "Grissini"
-            },
-            "related-classes": [],
             "categories": [
-                "dish"
+                "pastry & bread"
             ],
-            "description": {
-                "DE": "Grissini sind dünne, mürbe Brotstangen aus Hefeteig.",
-                "GB": "Breadsticks (also known as grissini, grissino or dipping sticks) are generally pencil-sized sticks of crisp, dry baked bread that originated in Italy."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Grissini",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Breadstick"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Grissini",
+                "GB": "Grissini"
+            },
+            "description": {
+                "DE": "Grissini sind dünne, mürbe Brotstangen aus Hefeteig.",
+                "GB": "Breadsticks (also known as grissini, grissino or dipping sticks) are generally pencil-sized sticks of crisp, dry baked bread that originated in Italy."
             }
         },
         {
             "class": "grits",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Grits",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Grits"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Grits",
+                "GB": "Grits"
+            },
+            "description": {
+                "DE": "Grits ist eine Speise aus grobem Grieß oder Grütze aus Mais, die besonders in der amerikanischen Südstaatenküche beliebt ist. Es ist mit Polenta und Grießbrei verwandt.",
+                "GB": "Grits is a food made from a dish of boiled cornmeal. Hominy grits are a type of grits made from hominy – corn that has been treated with an alkali in a process called nixtamalization with the pericarp removed. Grits are often served with other flavorings as a breakfast dish. Grits can be either savory or sweet, with savory seasonings being more common. The dish originated in the Southern United States but now is available nationwide, and is popular as the dinner entrée shrimp and grits, served primarily in the South. Grits should not be confused with boiled ground corn, which makes \"hasty pudding\" or \"mush\" or may be made into polenta using coarse ground corn, or with the \"mush\" made from more finely ground corn meal."
             }
         },
         {
             "class": "grouper",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Zackenbarsche",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Grouper"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Zackenbarsche",
+                "GB": "Grouper"
+            },
+            "description": {
+                "DE": "Pfauen-Zackenbarsch ",
+                "GB": "Groupers are fish of any of a number of genera in the subfamily Epinephelinae of the family Serranidae, in the order Perciformes."
             }
         },
         {
             "class": "guacamole",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Guacamole",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Guacamole"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Guacamole",
+                "GB": "Guacamole"
+            },
+            "description": {
+                "DE": "Guacamole ist ein Avocado-Dip aus der mexikanischen Küche. Das Wort Guacamole stammt von dem Nahuatl-Wort ahuacamolli, was so viel wie „Avocadosauce“ bedeutet, zusammengesetzt aus āhuacatl + molli . Sie ist auch in der Tex-Mex-Küche beliebt und verbreitet.",
+                "GB": "Guacamole , see below for more; informally shortened to guac in North America since the 1980s) is an avocado-based dip, spread, or salad first developed by the Aztecs in present-day Mexico. In addition to its use in modern Mexican cuisine, it has become part of international and American cuisine as a dip, condiment and salad ingredient."
             }
         },
         {
             "class": "guinness",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "dark beer"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Guinness_(Bier)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Guinness"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Guinness (Bier)",
+                "GB": "Guinness"
+            },
+            "description": {
+                "DE": "Guinness ist eine Biermarke aus Irland. Rechteinhaber ist die Brauerei Guinness, die von Arthur Guinness 1759 in Dublin gegründet wurde. Seit 1759 wird Guinness am St. James’s Gate in Dublin und in zahlreichen weiteren Brauereien weltweit gebraut. Je nach Zielland wird ein variiertes Rezept verwendet. Das Guinness Storehouse zeigt die Geschichte und den Herstellungsprozess. Die Guinness-Brauereien gehören alle zum britischen Diageo-Getränkekonzern mit Sitz in London.",
+                "GB": "Guinness is a dark Irish dry stout that originated in the brewery of Arthur Guinness at St. James's Gate, Dublin, Ireland, in 1759. It is one of the most successful beer brands worldwide, brewed in almost 50 countries, and available in over 120. Sales in 2011 amounted to 850 million litres . It is popular with the Irish, both in Ireland and abroad. In spite of declining consumption since 2001, it is still the best-selling alcoholic drink in Ireland where Guinness & Co. Brewery makes almost €2 billion worth of beer annually."
             }
         },
         {
             "class": "gumbo",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "stew"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gumbo",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gumbo"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gumbo",
+                "GB": "Gumbo"
+            },
+            "description": {
+                "DE": "Gumbo ist ein würziges, mit dunkler Mehlschwitze angedicktes Eintopfgericht der US-amerikanischen Südstaatenküche.",
+                "GB": "Gumbo is a stew popular in the U.S. state of Louisiana, and is the official state cuisine. Gumbo consists primarily of a strongly-flavored stock, meat or shellfish, a thickener, and what Louisianians call the \"Holy Trinity\" of vegetables, namely celery, bell peppers, and onions. Gumbo is often categorized by the type of thickener used, whether okra or filé powder . The dish derived its name from Louisiana French, which may have derived the name from a source such as the Choctaw word for filé ."
             }
         },
         {
