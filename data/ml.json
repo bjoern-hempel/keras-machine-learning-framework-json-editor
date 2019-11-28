@@ -7965,102 +7965,94 @@
         },
         {
             "class": "gyro",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "singular": "gyros"
         },
         {
             "class": "gyros",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gyros",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gyro_(food)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gyros",
+                "GB": "Gyro (food)"
+            },
+            "description": {
+                "DE": "Das Gyros bezeichnet eine griechische Zubereitungsart für Fleisch und ist dem türkischen Döner Kebab der äußerlichen Form und Zubereitungsart ähnlich, unterscheidet sich aber wesentlich von ihm darin, dass für die Zubereitung des klassischen Gyros traditionell Fleischstücke vom Schwein verwendet werden.",
+                "GB": "A gyro or gyros is a Greek dish made from meat cooked on a vertical rotisserie. Like shawarma and tacos al pastor, it is derived from the lamb-based doner kebab. In Greece it is now most often pork or chicken, while a mixture of beef and lamb is common in the US and other countries. It is typically served wrapped or stuffed in a pita, along with ingredients such as tomato, onion, and tzatziki sauce."
             }
         },
         {
             "class": "haddock",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schellfisch",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Haddock"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schellfisch",
+                "GB": "Haddock"
+            },
+            "description": {
+                "DE": "Schellfisch ",
+                "GB": "The haddock is a saltwater fish from the family Gadidae, the true cods. It is the only species in the monotypic genus Melanogrammus. It is found in the North Atlantic Ocean and associated seas where it is an important species for fisheries, especially in northern Europe where it is marketed fresh, frozen and smoked; smoked varieties include the Finnan haddie and the Arbroath smokie."
             }
         },
         {
             "class": "hake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Seehecht ",
+                "GB": "Hake"
+            },
+            "description": {
+                "DE": "Der Begriff Seehecht bezieht sich auf Fische in der:\n- Familie Merlucciidae der nördlichen und südlichen Ozeane\n- Familie Phycidae (manchmal Unterfamilie Phycinae in der Familie Gadidae) der nördlichen Ozeane",
+                "GB": "The term hake refers to fish in the:\n- Family Merlucciidae of northern and southern oceans\n- Family Phycidae (sometimes subfamily Phycinae in family Gadidae) of the northern oceans"
             }
         },
         {
             "class": "halibut",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Heilbutt",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Atlantic_halibut"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Heilbutt",
+                "GB": "Atlantic halibut"
+            },
+            "description": {
+                "DE": "Heilbutt ",
+                "GB": "The Atlantic halibut is a flatfish of the family Pleuronectidae. They are demersal fish living on or near sand, gravel or clay bottoms at depths of between 50 and 2,000 m . The halibut is among the largest teleost fish in the world, and is an endangered species due to a slow rate of growth and previous overfishing. Halibut are strong swimmers and are able to migrate long distances. Halibut size is not age-specific, but rather tends to follow a cycle related to halibut abundance."
             }
         },
         {
@@ -8073,63 +8065,51 @@
         },
         {
             "class": "hash",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Haschee",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hash_(food)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Haschee",
+                "GB": "Hash (food)"
+            },
+            "description": {
+                "DE": "Als Haschee werden warme Gerichte aus gekochtem oder gebratenem Hackfleisch oder klein geschnittenem Fleisch oder Fisch in passender Sauce bezeichnet. Ebenso sind Haschees aus rohem oder gekochtem Gemüse üblich. Haschees aus Fleisch werden unter anderem für die Zubereitung von Farcen verwendet.",
+                "GB": "Hash is a culinary dish consisting of chopped up meat, potatoes, and onions fried in a cast iron skillet. The name is derived from French: hacher, meaning \"to chop\". It originated as a way to use up leftovers. By the 1860s in the United States, the reputation of hash as \"humble fare\" became associated with cheap restaurants, which were known as \"hash house\" or \"hashery\"."
             }
         },
         {
             "class": "hash browns",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Hash_Browns",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hash_browns"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Hash Browns",
+                "GB": "Hash browns"
+            },
+            "description": {
+                "DE": "Hash Browns oder Hashed Brown Potatoes sind eine Zubereitungsart für Kartoffeln der nordamerikanischen Küche.",
+                "GB": "Hash browns or hashed browns are a popular American breakfast dish that first started showing up on breakfast menus in New York City in the 1890s, a simple preparation in which potatoes are pan-fried after being shredded, diced, julienned or riced, in the style of a Swiss Rösti. In some regions , hash browns may be listed on restaurant menus as home fries. In some cultures, hash browns or hashed browns can refer to any of these preparations, while in others it may refer to one specific preparation. Hash browns are a staple breakfast food at diners in North America, where they are often fried on a large common cooktop or grill."
             }
         },
         {
             "class": "hashbrowns",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "hash browns"
         },
         {
             "class": "hawaiian pizza",
