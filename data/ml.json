@@ -6659,187 +6659,175 @@
         },
         {
             "class": "flourless chocolate cake",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "chocolate cake"
         },
         {
             "class": "focaccia",
-            "categories": [],
+            "categories": [
+                "pastry & bread"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Focaccia",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Focaccia"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Focaccia",
+                "GB": "Focaccia"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Focaccia , auch Schiacciata oder Crescentina genannt, ist ein ligurisches Fladenbrot aus Hefeteig, das vor dem Backen mit Olivenöl, Salz und eventuell Kräutern und weiteren Zutaten belegt wird. Die Ursprünge der Focaccia gehen ins Altertum zurück. Die Römer nannten sie panis focācius „in der Herdasche gebackenes Brot“ , im Gegensatz zum panis furnācius, dem im Ofen gebackenen Brot. Mitunter wird sie als ein Vorläufer der Pizza angesehen. Focaccia gilt als ligurische Spezialität insbesondere der Metropolitanstadt Genua. Es gibt Varianten in ganz Italien, die jedoch vom ursprünglichen Rezept abweichen.",
+                "GB": "Focaccia is a flat oven-baked Italian bread product similar in style and texture to pizza dough. Focaccia can be used as a side to many meals or as sandwich bread. Focaccia al rosmarino is a common focaccia style in Italian cuisine that may be served as an antipasto, appetizer, table bread, or snack."
             }
         },
         {
             "class": "frank",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "frank"
         },
         {
             "class": "frappe",
-            "categories": [],
+            "categories": [
+                "with milk froth"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Caf%C3%A9_frapp%C3%A9",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Frapp%C3%A9_coffee"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Café frappé",
+                "GB": "Frappé coffee"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Café frappé , meist kurz Frappé genannt, ist ein Kaltgetränk aus durch Schütteln oder Mixen aufgeschäumtem sprühgetrockneten Instantkaffee mit Eiswürfeln.\nEr wird – wie Eiskaffee – meist im Sommer getrunken und ist im mediterranen Raum in Südosteuropa und in Südostasien verbreitet.",
+                "GB": "Frappé coffee is a Greek iced coffee drink made from instant coffee , water and sugar. Accidentally invented by a Nescafe representative in 1957 in Thessaloniki, frappé is sold primarily in Greece and is among the most popular drinks in Greece and Cyprus, and is available at virtually all Greek cafés. The word frappé is French and can be defined as 'chilled in crushed ice'. The frappé has become a hallmark of post-war outdoor Greek coffee culture."
             }
         },
         {
             "class": "frappuccino",
-            "categories": [],
+            "categories": [
+                "with milk froth"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Frappuccino"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Frappuccino",
+                "GB": "Frappuccino"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Frappuccino ist eine geschützte Marke der Starbucks Corporation für eine Linie von eisgekühlten, gemischten Kaffeegetränken. Es besteht aus Kaffee oder Crème-Basis, vermischt mit Eis und anderen verschiedenen Zutaten, meist mit Schlagsahne und aromatisierten Sirupen. Frappuccinos werden auch als abgefüllte Kaffeegetränke in Lebensmittelgeschäften, Convenience Stores und an Automaten verkauft.",
+                "GB": "Frappuccino is a trademarked brand of the Starbucks Corporation for a line of iced, blended coffee drinks. It consists of coffee or crème base, blended with ice and other various ingredients, usually topped with whipped cream and flavored syrups. Frappuccinos are also sold as bottled coffee beverages in grocery stores, convenience stores and from vending machines."
             }
         },
         {
             "class": "french dip",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "french dip sandwich"
         },
         {
             "class": "french dip sandwich",
-            "categories": [],
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/French_dip"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Französisches Dip-Sandwich",
+                "GB": "French dip sandwich"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ein französisches Dip-Sandwich, auch bekannt als Rindfleisch-Dip, ist ein heißes Sandwich aus dünn geschnittenem Roastbeef auf einer \"French Roll\" oder Baguette. Es wird normalerweise einfach serviert, aber eine Variation ist es, mit Schweizer Käse, Zwiebeln und einem Tauchbehälter mit Rindsbrühe aus dem Kochprozess zu kombinieren. Rindfleischbrühe, eine leichte Rindfleischsauce oder Rindfleischconsommé werden manchmal ersetzt. Das Sandwich ist eine amerikanische Erfindung, wobei der Name eher auf den Stil des Brotes als auf irgendeinen französischen Ursprung zu verweisen scheint.",
+                "GB": "A French dip sandwich, also known as a beef dip, is a hot sandwich consisting of thinly sliced roast beef on a \"French roll\" or baguette. It is usually served plain but a variation is to top with Swiss cheese, onions, and a dipping container of beef broth produced from the cooking process . Beef stock, a light beef gravy, or beef consommé is sometimes substituted. The sandwich is an American invention, with the name seeming to refer to the style of bread, rather than any French origin."
             }
         },
         {
             "class": "french fries",
-            "categories": [],
+            "categories": [
+                "potato"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pommes_frites",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/French_fries"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Pommes frites",
+                "GB": "French fries"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Pommes frites Äpfel‘), umgangssprachlich in Deutschland häufig Pommes () oder Fritten genannt, sind frittierte Stäbchen aus Kartoffeln. Ursprünglich in Belgien verbreitet, gibt es sie heute weltweit als Beilage und Imbiss. In Deutschland sind sie mit einem jährlichen Absatz von knapp 300.000 Tonnen eines der beliebtesten Tiefkühlprodukte.",
+                "GB": "French fries, or simply fries , chips , finger chips , or french-fried potatoes, are batonnet or allumette-cut deep-fried potatoes."
             }
         },
         {
             "class": "french onion soup",
-            "categories": [],
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Zwiebelsuppe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/French_onion_soup"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Zwiebelsuppe",
+                "GB": "French onion soup"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Zwiebelsuppe ist eine Gemüsesuppe mit gedünsteten Zwiebeln als Hauptzutat. Sie ist in Varianten in vielen Ländern verbreitet, die bekannteste ist vermutlich die französische oder Pariser Zwiebelsuppe. Aufgrund der sehr preisgünstigen Zutaten war sie lange Zeit vor allem ein Essen der Armen.",
+                "GB": "French onion soup is a type of soup usually based on meat stock and onions, and often served gratinéed with croutons and cheese on top of a large piece of bread. Although ancient in origin, the dish underwent a resurgence of popularity in the 1960s in the United States due to a greater interest in French cuisine. French onion soup is usually served as a starter."
             }
         },
         {
             "class": "french toast",
-            "categories": [],
+            "categories": [
+                "other dessert"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Arme_Ritter",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/French_toast"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Arme Ritter",
+                "GB": "French toast"
+            },
+            "description": {
+                "DE": "Arme Ritter sind eine einfache Speise aus altbackenen Brötchen oder Weißbrotscheiben. Weitere, teils regionale Bezeichnungen sind: Rostige Ritter, Semmelschnitten, Semmelnudeln, Semmelschmarrn, Weckzämmädä, Kartäuserklöße, Weckschnitten, Gebackener Weck, Bavesen, Pofesen, Blinder Fisch sowie in der Deutschschweiz Fotzelschnitten.",
+                "GB": "French toast is a dish made of sliced bread soaked in eggs and milk, then fried. Alternative names and variants include eggy bread, Bombay toast, German toast, gypsy toast, poor knights , torrija and Arme Riddere."
+            }
+        },
+        {
+            "class": "fresh pasta",
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
@@ -6849,612 +6837,524 @@
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Fresh pasta",
+                "GB": "Fresh pasta"
             },
             "description": {
                 "DE": "",
                 "GB": ""
-            }
-        },
-        {
-            "class": "fresh pasta",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fresh tuna",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Thunfisch",
+                "GB": "Fresh Tuna"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fried calamari",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Gebratene Kalamari",
+                "GB": "Fried calamari"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fried chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fried_chicken"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fried chicken",
+                "GB": "Fried chicken"
+            },
+            "description": {
+                "DE": "Südliches gebratenes Huhn, auch einfach als gebratenes Huhn bekannt, ist ein Gericht, das aus Hühnerstücken besteht, die mit einem gewürzten Teig überzogen und gebraten, frittiert oder unter Druck gebraten wurden. Die Panade fügt eine knackige Hülle oder Kruste an der Außenseite des Hähnchens hinzu, während die Säfte im Fleisch erhalten bleiben. Masthühner werden am häufigsten verwendet.",
+                "GB": "Southern fried chicken, also known simply as fried chicken, is a dish consisting of chicken pieces which have been coated in a seasoned batter and pan-fried, deep fried, or pressure fried. The breading adds a crisp coating or crust to the exterior of the chicken while retaining juices in the meat. Broiler chickens are most commonly used."
             }
         },
         {
             "class": "fried egg",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Spiegelei",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fried_egg"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Spiegelei",
+                "GB": "Fried egg"
+            },
+            "description": {
+                "DE": "Spiegeleier , Setzeier, Stierenauge oder Ochsenaugen sind kurz in der Pfanne oder im Ofen gegarte Eier, deren Eiweiß geronnen, das Eigelb aber noch glänzend ist. Fachsprachlich wird unterschieden zwischen Setzeiern als einseitig in der Pfanne gegarten und Spiegeleiern als im Ofen oder in der Pfanne durch Auflegen eines Deckels allseitig gegarten Eiern, bei denen sich ein weißlicher Schleier auf dem Dotter bildet.",
+                "GB": "A fried egg is a cooked dish made from one or more eggs which are removed from their shells and placed into a pan, usually without breaking the yolk, and fried with minimal accompaniment. Fried eggs are traditionally eaten for breakfast in many countries but may also be served at other times of the day."
             }
         },
         {
             "class": "fried eggs",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "fried egg"
         },
         {
             "class": "fried fish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Gebratener Fisch",
+                "GB": "Fried fish"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fried green tomato",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "singular": "fried green tomatoes"
         },
         {
             "class": "fried green tomatoes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fried_green_tomatoes"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gebratene grüne Tomaten",
+                "GB": "Fried green tomatoes"
+            },
+            "description": {
+                "DE": "Gebratene grüne Tomaten sind eine Beilage, die man normalerweise im Süden der Vereinigten Staaten findet, hergestellt aus unreifen Tomaten, die mit Maismehl überzogen und gebraten sind.",
+                "GB": "Fried green tomatoes are a side dish usually found in the Southern United States, made from unripe tomatoes coated with cornmeal and fried."
             }
         },
         {
             "class": "fried mushrooms",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fried_mushrooms"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gebratene Champignons",
+                "GB": "Fried mushrooms"
+            },
+            "description": {
+                "DE": "Gebratene Pilze sind ein Gericht, das durch das Braten oder Frittieren von Speisepilzen zubereitet wird, manchmal nach dem Eintauchen in Teig.",
+                "GB": "Fried mushrooms are a dish made by the frying or deep frying of edible mushrooms, sometimes after dipping them in batter."
             }
         },
         {
             "class": "fried okra",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Fried Okra",
+                "GB": "Fried Okra"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fried pickles",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fried_pickle"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gebratene Pickles",
+                "GB": "Fried pickle"
+            },
+            "description": {
+                "DE": "Frittierte Gurken sind ein Snack, der in den südlichen USA weit verbreitet ist. Sie werden aus frittierten, in Scheiben geschnittenen, zerkleinerten Dillgurken hergestellt.",
+                "GB": "Fried pickles are a snack food found commonly in the Southern U.S.. They are made by deep-frying sliced battered dill pickles."
             }
         },
         {
             "class": "fried potatoes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "fried green tomatoes"
         },
         {
             "class": "fried rice",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fried_rice"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gebratener Reis",
+                "GB": "Fried rice"
+            },
+            "description": {
+                "DE": "Gebratener Reis ist ein Gericht aus gekochtem Reis, das in einem Wok oder einer Pfanne gerührt wurde und normalerweise mit anderen Zutaten wie Eiern, Gemüse, Meeresfrüchten oder Fleisch vermischt wird. Es wird oft allein oder als Beilage zu einem anderen Gericht gegessen. Gebratener Reis ist ein beliebter Bestandteil der ostasiatischen, südostasiatischen und gewissen südasiatischen Küche. Als hausgemachtes Gericht wird gebratener Reis typischerweise mit Zutaten hergestellt, die von anderen Gerichten übrig bleiben, was zu unzähligen Variationen führt. Gebratener Reis, der erstmals während der Sui-Dynastie in China entwickelt wurde, und als solcher können alle gebratenen Reisgerichte ihren Ursprung auf chinesischen gebratenen Reis zurückführen.",
+                "GB": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten by itself or as an accompaniment to another dish. Fried rice is a popular component of East Asian, Southeast Asian and certain South Asian cuisines. As a homemade dish, fried rice is typically made with ingredients left over from other dishes, leading to countless variations. Fried rice first developed during the Sui Dynasty in China and as such all fried rice dishes can trace their origins to Chinese fried rice."
             }
         },
         {
             "class": "fried shrimp",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fried_shrimp"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gebratene Garnelen",
+                "GB": "Fried shrimp"
+            },
+            "description": {
+                "DE": "Gebratene Garnelen sind frittierte Garnelen.",
+                "GB": "Fried shrimp or fried prawn is deep-fried shrimp and prawns."
             }
         },
         {
             "class": "fried squid",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "fried calamari"
         },
         {
             "class": "fried tofu",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Gebratener Tofu",
+                "GB": "Fried Tofu"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fried zucchini",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Gebratene Zucchini",
+                "GB": "Fried Zucchini"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fries",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "french fries"
         },
         {
             "class": "frittata",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Frittata",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Frittata"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Frittata",
+                "GB": "Frittata"
+            },
+            "description": {
+                "DE": "Die Frittata ist ein italienisches Omelett. Sie wird kalt oder warm als Vorspeise oder Hauptgericht serviert oder in kleineren Stücken zum Aperitif gereicht. Ebenfalls bekannt ist die Frittata in den USA durch italienische Einwanderer, sie wird auch in den New Yorker Delis angeboten. Die Frittata wird in der Pfanne gebacken. Grundlage sind geschlagene Eier, in die je nach Geschmack weitere Zutaten gegeben werden. Häufig werden dabei Gemüse wie Zucchini, Zwiebeln oder Pilze und Kräuter verwendet. Da sich Frittata sehr gut zur Resteverwertung eignet, findet man aber auch Varianten mit Fleisch oder Fisch, z. B. mit Garnelen oder Schinken.",
+                "GB": "Frittata is an egg-based Italian dish similar to an omelette or crustless quiche or scrambled eggs, enriched with additional ingredients such as meats, cheeses or vegetables. The word frittata is Italian and roughly translates to \"fried.\""
             }
         },
         {
             "class": "fritter",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "fritter"
         },
         {
             "class": "fritters",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "fritter"
         },
         {
             "class": "frozen margarita",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cocktail"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Frozen Margarita",
+                "GB": "Frozen Margarita"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "frozen yogurt",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "ice cream"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Frozen_Yogurt",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Frozen_yogurt"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Frozen Yogurt",
+                "GB": "Frozen yogurt"
+            },
+            "description": {
+                "DE": "Frozen Yogurt ist ein dem Speiseeis verwandtes Dessert, das hauptsächlich aus Joghurt sowie Milch hergestellt wird. Da statt Sahne Joghurt Verwendung findet, ist der Fettgehalt zumeist deutlich niedriger als bei normalem Speiseeis. Frozen Yogurt wird daher häufig als gesündere Alternative zu herkömmlichem Speiseeis angesehen. Insbesondere in den Vereinigten Staaten hat Frozen Yogurt eine große Popularität erlangt. Es wird einerseits abgepackt über Supermärkte vertrieben, andererseits in speziellen Frozen Yogurt „Stores“ oder „Shops“ angeboten, wo die Herstellung jener von Softeis ähnelt. Es wird dort in der Regel kombiniert mit Toppings verkauft.",
+                "GB": "Frozen yogurt is a frozen dessert made with yogurt and sometimes other dairy and non-dairy products. Usually more tart than ice cream, as well as lower in fat , it is different from ice milk and conventional soft serve. Unlike yogurt, frozen yogurt is not regulated by the U.S. Food and Drug Administration but is regulated by some U.S. states. Frozen yogurt may contain live and active bacteria cultures."
             }
         },
         {
             "class": "fruit platter",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fruit"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Obstplatte",
+                "GB": "Fruit Platter"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "fruit salad",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fruit"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Obstsalat",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fruit_salad"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Obstsalat",
+                "GB": "Fruit salad"
+            },
+            "description": {
+                "DE": "Obstsalat ist eine Speise aus frischen Früchten oder Kompottfrüchten. Zu unterscheiden sind herzhaft pikante Obstsalate und als Süßspeise zubereitete.",
+                "GB": "Fruit salad is a dish consisting of various kinds of fruit, sometimes served in a liquid, either their own juices or a syrup. In different forms, fruit salad can be served as an appetizer, a side salad, or a dessert. When served as an appetizer or dessert, a fruit salad is sometimes known as a fruit cocktail , or fruit cup ."
             }
         },
         {
             "class": "fudge",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fudge"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fudge",
+                "GB": "Fudge"
+            },
+            "description": {
+                "DE": "Fudge ist eine Art Süßigkeiten, die hergestellt wird, indem Zucker, Butter und Milch gemischt, auf die Softballstufe bei 240 °F erhitzt und dann die Mischung während der Abkühlung geschlagen wird, so dass sie eine glatte, cremige Konsistenz erhält. In der Textur fällt diese kristalline Süßigkeit zwischen Fondanten und harten Karamellen.",
+                "GB": "Fudge is a type of sugar candy that is made by mixing sugar, butter and milk, heating it to the soft-ball stage at 240 °F , and then beating the mixture while it cools so that it acquires a smooth, creamy consistency. In texture, this crystalline candy falls in between fondants and hard caramels."
             }
         },
         {
             "class": "fusilli",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Fusilli",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fusilli"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fusilli",
+                "GB": "Fusilli"
+            },
+            "description": {
+                "DE": "Fusilli , im Deutschen häufig Spirelli oder Spiralnudeln genannt, sind Spiralnudeln in Form einer Helix mit einer Länge von ca. 4 cm. Sie werden aus Hartweizengrieß, Wasser und Salz hergestellt.",
+                "GB": "Fusilli are a variety of pasta that are formed into corkscrew or helical shapes. The word fusilli presumably comes from fuso , as traditionally it is \"spun\" by pressing and rolling a small rod over the thin strips of pasta to wind them around it in a corkscrew shape."
             }
         },
         {
             "class": "garlic bread",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Garlic_bread"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Knoblauchbrot",
+                "GB": "Garlic bread"
+            },
+            "description": {
+                "DE": "Knoblauchbrot besteht aus Brot, das mit Knoblauch und Olivenöl oder Butter überzogen ist und zusätzliche Kräuter wie Oregano oder Schnittlauch enthalten kann. Dann wird es entweder gegrillt oder gegrillt, bis es geröstet oder in einem konventionellen oder Brotbackofen gebacken wird.",
+                "GB": "Garlic bread consists of bread , topped with garlic and olive oil or butter and may include additional herbs, such as oregano or chives. It is then either grilled or broiled until toasted or baked in a conventional or bread oven."
             }
         },
         {
             "class": "garlic knots",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Knoblauchknoten",
+                "GB": "Garlic Knots"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
