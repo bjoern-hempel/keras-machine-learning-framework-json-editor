@@ -87,6 +87,28 @@
             }
         },
         {
+            "category": "juice",
+            "parent-categories": [
+                "beverage"
+            ],
+            "related-categories": [],
+            "name": {
+                "DE": "Saft",
+                "GB": "Juice"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            }
+        },
+        {
             "category": "liquor",
             "parent-categories": [
                 "beverage"
@@ -126,6 +148,28 @@
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Erfrischungsgetr%C3%A4nk",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Soft_drink"
+                },
+                "spoonacular": null
+            }
+        },
+        {
+            "category": "sparkling wine",
+            "parent-categories": [
+                "beverage"
+            ],
+            "related-categories": [],
+            "name": {
+                "DE": "Schaumwein",
+                "GB": "Sparkling wine"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
@@ -325,6 +369,28 @@
             }
         },
         {
+            "category": "torte",
+            "parent-categories": [
+                "dessert"
+            ],
+            "related-categories": [],
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            }
+        },
+        {
             "category": "main course",
             "parent-categories": [],
             "related-categories": [],
@@ -455,28 +521,6 @@
             }
         },
         {
-            "category": "poultry",
-            "parent-categories": [
-                "meat"
-            ],
-            "related-categories": [],
-            "name": {
-                "DE": "Huhn",
-                "GB": "poultry"
-            },
-            "description": {
-                "DE": "Huhn ist die häufigste Geflügelart der Welt.",
-                "GB": "Chicken is the most common type of poultry in the world."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_as_food"
-                },
-                "spoonacular": null
-            }
-        },
-        {
             "category": "pork",
             "parent-categories": [
                 "meat"
@@ -494,6 +538,28 @@
                 "wikipedia": {
                     "DE": "",
                     "GB": ""
+                },
+                "spoonacular": null
+            }
+        },
+        {
+            "category": "poultry",
+            "parent-categories": [
+                "meat"
+            ],
+            "related-categories": [],
+            "name": {
+                "DE": "Geflügel",
+                "GB": "Poultry"
+            },
+            "description": {
+                "DE": "Huhn ist die häufigste Geflügelart der Welt.",
+                "GB": "Chicken is the most common type of poultry in the world."
+            },
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_as_food"
                 },
                 "spoonacular": null
             }
@@ -560,6 +626,28 @@
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Pizza",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Pizza"
+                },
+                "spoonacular": null
+            }
+        },
+        {
+            "category": "sushi",
+            "parent-categories": [
+                "meat"
+            ],
+            "related-categories": [],
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             }
@@ -6571,202 +6659,202 @@
         },
         {
             "class": "flourless chocolate cake",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "focaccia",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "frank",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "frappe",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "frappuccino",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "french dip",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "french dip sandwich",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "french fries",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "french onion soup",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "french toast",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
