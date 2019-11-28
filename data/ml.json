@@ -7359,202 +7359,222 @@
         },
         {
             "class": "gazpacho",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gazpacho",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gazpacho"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gazpacho",
+                "GB": "Gazpacho"
+            },
+            "description": {
+                "DE": "Gazpacho bzw. Gaspacho ist eine südspanische und portugiesische Suppe aus ungekochtem Gemüse. Sie stammt aus Andalusien und der Algarve . Im Deutschen ist die spanische Schreibweise mit z üblich, jedoch zumeist mit eingedeutschter Aussprache des z als s-Laut: . Der Duden gibt zum grammatischen Geschlecht an: der oder die Gazpacho.",
+                "GB": "Gazpacho or Andalusian gazpacho is a cold soup made of raw, blended vegetables. A classic of Spanish cuisine, it originated in the southern region of Andalusia. Gazpacho is widely eaten in Spain and Portugal, particularly during hot summers, as it is refreshing and cool."
             }
         },
         {
             "class": "gelato",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "ice cream"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gelato"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gelato",
+                "GB": "Gelato"
+            },
+            "description": {
+                "DE": "Gelato ist ein beliebtes Tiefkühl-Dessert italienischer Herkunft. Es wird in der Regel auf einer Basis von 3,25% Milch und Zucker hergestellt. Es ist im Allgemeinen fettärmer als andere Arten von gefrorenen Desserts. Gelato enthält typischerweise 70% weniger Luft und mehr Geschmack als andere Arten von gefrorenen Desserts, was ihm eine Dichte und Fülle verleiht, die ihn von anderen Eiscremes unterscheidet.",
+                "GB": "Gelato is a popular frozen dessert of Italian origin. It is generally made with a base of 3.25% milk and sugar. It is generally lower in fat than other styles of frozen desserts. Gelato typically contains 70% less air and more flavoring than other kinds of frozen desserts, giving it a density and richness that distinguishes it from other ice creams."
             }
         },
         {
             "class": "gin",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gin",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gin"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gin",
+                "GB": "Gin"
+            },
+            "description": {
+                "DE": "Gin ist eine meist farblose Spirituose mit Wacholder und Hauptbestandteil vieler Cocktails, wie des Martini, des Negroni und des Longdrinks Gin Tonic.",
+                "GB": "Gin is a distilled alcoholic drink that derives its predominant flavour from juniper berries . Gin is one of the broadest categories of spirits, all of various origins, styles, and flavour profiles, that revolve around juniper as a common ingredient."
             }
         },
         {
             "class": "ginger beer",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "helles"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Ingwerbier",
+                "GB": "Ginger beer"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "gingerbread",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Lebkuchen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gingerbread"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Lebkuchen",
+                "GB": "Gingerbread"
+            },
+            "description": {
+                "DE": "Lebkuchen ist ein süßes, kräftig gewürztes, haltbares Gebäck, das in vielfältigen Formen und Varianten vorkommt. In vielen Kulturen ist er ein fester Bestandteil des Weihnachtsgebäcks, nur wenige Sorten werden insbesondere auf Jahrmärkten und Volksfesten ganzjährig angeboten. Die Bäcker zählen Lebkuchen zu den Dauerbackwaren.",
+                "GB": "Gingerbread refers to a broad category of baked goods, typically flavored with ginger, cloves, nutmeg or cinnamon and sweetened with honey, sugar or molasses. Gingerbread foods vary, ranging from a soft, moist loaf cake to something close to a ginger snap."
             }
         },
         {
             "class": "glass noodles",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Glasnudeln",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cellophane_noodles"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Glasnudeln",
+                "GB": "Cellophane noodles"
+            },
+            "description": {
+                "DE": "Glasnudeln sind eine nudelartige Beilage in der ostasiatischen Küche. Sie sind sehr dünn und im gegarten Zustand fast durchsichtig.",
+                "GB": "Cellophane noodles, or fensi , sometimes called glass noodles, are a type of transparent noodle made from starch and water."
             }
         },
         {
             "class": "gnocchi",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Nocken_(Gericht)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gnocchi"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Nocken (Gericht)",
+                "GB": "Gnocchi"
+            },
+            "description": {
+                "DE": "Nocken oder Nockerln, italienisch Gnocchi , sind eiförmige oder spätzleähnlich geformte Teigmassen der süddeutschen und Alpenküche; sie sind aber auch in angrenzenden Ländern bekannt. Die kleinen Klöße oder Schnitten werden hergestellt aus einem Teig aus Mehl, Grieß , gekochten Kartoffeln, Kastanienmehl oder anderen Zutaten wie Kürbis, Spinat und Ricotta, der meist mit Ei gebunden wird. Gelegentlich werden auch Kräuter hinzugefügt. Sie werden in der Regel in Salzwasser gegart und dienen häufig als Suppeneinlage oder Beilage. Wenn sie ein eigenes Gericht darstellen, werden sie gern mit Käse überbacken oder, besonders als Gnocchi in der italienischen Küche, als erster Hauptgang ähnlich wie Nudeln zubereitet.",
+                "GB": "Gnocchi ɒkiˈnoʊki, ˈnɔːki\/ NOH-kee, NAW-, Italian: ; singular gnocco) are a variety of pasta consisting of various thick, small, and soft dough dumplings that may be made from semolina, ordinary wheat flour, egg, cheese, potato, breadcrumbs, cornmeal or similar ingredients, and possibly including flavourings of herbs, vegetables, cocoa or prunes. The dough for gnocchi is most often rolled out before it is cut into small pieces about the size of a wine cork. The little dumplings are then pressed with a fork or a cheese grater to make ridges that can hold sauce. Alternatively, they are simply cut into little lumps. Gnocchi are usually eaten as a replacement for pasta in the first course, but they can also be served as a contorno to some main courses."
             }
         },
         {
             "class": "goulash",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gulasch",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Goulash"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gulasch",
+                "GB": "Goulash"
+            },
+            "description": {
+                "DE": "Gulasch ist ein Ragout ungarischen Ursprungs. Was in allen anderen Ländern „Gulasch“, „Gulyas“ oder „goulash“ heißt, ist jedoch in Ungarn das Pörkölt bzw. Paprikás . Nur in Ungarn ist ein gulyás eine Suppe .",
+                "GB": "Goulash is a stew or soup of meat and vegetables usually seasoned with paprika and other spices. Originating in medieval Hungary, goulash is a common meal predominantly eaten in Central Europe but also in other parts of Europe. It is one of the national dishes of Hungary and a symbol of the country."
             }
         },
         {
             "class": "grand marnier",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Grand_Marnier",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Grand_Marnier"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Grand Marnier",
+                "GB": "Grand Marnier"
+            },
+            "description": {
+                "DE": "Grand Marnier ist eine französische Marke für verschiedene Liköre der Familie Triple Sec\/Curaçao. Curaçao-Liköre werden aus karibischen Bitterorangen hergestellt. Die bekannteste Sorte ist der auf Cognac basierende Cordon Rouge, deren Flaschen mit einem roten Band verziert sind. Sie wurde 1880 von Alexandre Marnier-Lapostolle entwickelt und weist einen Alkoholgehalt von 40 Volumenprozent auf. Grand Marnier kann pur getrunken werden, wird aber auch häufig in Mix-Getränken oder zum Kochen verwendet.",
+                "GB": "Grand Marnier is a French brand of liqueurs. The brand's best-known product is Grand Marnier Cordon Rouge, an orange-flavored liqueur created in 1880 by Alexandre Marnier-Lapostolle. It is made from a blend of Cognac brandy, distilled essence of bitter orange, and sugar. Grand Marnier Cordon Rouge is 40% alcohol ."
             }
         },
         {
             "class": "granita",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "ice cream"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Granita",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Granita"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Granita",
+                "GB": "Granita"
+            },
+            "description": {
+                "DE": "Granita ist eine gefrorene sizilianische Süßspeise mit einer Sorbet-ähnlichen Konsistenz.",
+                "GB": "Granita is a semi-frozen dessert made from sugar, water and various flavorings. Originally from Sicily, it is available throughout Italy in varying forms. It is related to sorbet and Italian ice; however, in most of Sicily, it has a coarser, more crystalline texture. Food writer Jeffrey Steingarten says that \"the desired texture seems to vary from city to city\" on the island; on the west coast and in Palermo, it is at its chunkiest, and in the east it is nearly as smooth as sorbet. This is largely the result of different freezing techniques: the smoother types are produced in a gelato machine, while the coarser varieties are frozen with only occasional agitation, then scraped or shaved to produce separated crystals. Although its texture varies from coarse to smooth, it is always different from that of ice cream, which is creamier, and from that of sorbet, which is more compact; this makes granita distinct and unique."
             }
         },
         {
