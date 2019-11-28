@@ -7579,204 +7579,204 @@
         },
         {
             "class": "granola",
-            "name": {
-                "DE": "Knuspermüsli",
-                "GB": "Granola"
-            },
-            "related-classes": [],
             "categories": [
-                "dish"
+                "other dessert"
             ],
-            "description": {
-                "DE": "Knuspermüsli oder Granola besteht in der Grundform aus mit Zucker oder Honig gebackenen Haferflocken, die als Frühstücksflocken (Müsli), als Snack oder auch als Garnierung zum Beispiel von Speiseeis gegessen werden. Eine weitere häufige Zutat sind Nüsse.",
-                "GB": "Granola is a breakfast food and snack food consisting of rolled oats, nuts, honey or other sweeteners such as brown sugar, and sometimes puffed rice, that is usually baked until it is crisp, toasted and golden brown."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Knusperm%C3%BCsli",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Granola"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Knuspermüsli",
+                "GB": "Granola"
+            },
+            "description": {
+                "DE": "Knuspermüsli oder Granola besteht in der Grundform aus mit Zucker oder Honig gebackenen Haferflocken, die als Frühstücksflocken (Müsli), als Snack oder auch als Garnierung zum Beispiel von Speiseeis gegessen werden. Eine weitere häufige Zutat sind Nüsse.",
+                "GB": "Granola is a breakfast food and snack food consisting of rolled oats, nuts, honey or other sweeteners such as brown sugar, and sometimes puffed rice, that is usually baked until it is crisp, toasted and golden brown."
             }
         },
         {
             "class": "grappa",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Grappa",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Grappa"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Grappa",
+                "GB": "Grappa"
+            },
+            "description": {
+                "DE": "Grappa ist ein aus Italien oder der italienischen Schweiz stammender Tresterbrand. Dieser wird aus den vergorenen alkoholhaltigen Pressrückständen der Weinherstellung, dem Trester, destilliert. Grappa hat einen Mindestalkoholgehalt von 37,5 Volumenprozent. Der Maximalgehalt beträgt für gewöhnlich 60 Volumenprozent, kann aber auch 70 Volumenprozent übersteigen. Die beliebtesten Grappas werden aus den Trestern roter Trauben gewonnen. Durch das Holz von Lagerfässern können Farbe und Geschmack\/Geruch bestimmt werden. So besitzen Grappas aus Kirschholzfässern einen süßeren, die aus Eichenholzfässern einen herberen Geschmack. Eine lange Lagerung in Kastanienholzfässern bringt eine bräunliche Farbe. Da die Schalen von weißen Trauben immer noch Zucker enthalten, werden sie mit Most aufgegossen und abermals vergoren. Der entstandene Wein wird anschließend destilliert. So entstehen Traubenbrände aus weißen Sorten.",
+                "GB": "Grappa is an alcoholic beverage: a fragrant, grape-based pomace brandy of Italian origin that contains 35 to 60 percent alcohol by volume ."
             }
         },
         {
             "class": "gratin",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "gratin"
         },
         {
             "class": "gravlax",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Graved_Lachs",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gravlax"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Graved Lachs",
+                "GB": "Gravlax"
+            },
+            "description": {
+                "DE": "Graved Lachs oder Gravlax bedeutet wörtlich ursprünglich „eingegrabener Lachs“ beziehungsweise sekundär in der heutigen Kochsprache „marinierter Lachs“. Die Methode, den frisch gefangenen Lachs leicht einzusalzen und zwecks Fermentation für einige Wochen oder Monate im Boden zu vergraben, um ihn haltbar zu machen, entwickelten die Skandinavier schon vor Jahrhunderten; das Wort gravlaks kann bis ins Jahr 1348 zurückverfolgt werden.",
+                "GB": "Gravlax or gravlaks is a Nordic dish consisting of raw salmon, cured in salt, sugar, and dill. Gravlax is usually served as an appetizer, sliced thinly and accompanied by hovmästarsås , a dill and mustard sauce, either on bread or with boiled potatoes."
             }
         },
         {
             "class": "gravy",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bratensauce",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gravy"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Bratensauce",
+                "GB": "Gravy"
+            },
+            "description": {
+                "DE": "Als Bratensauce bezeichnet man allgemein eine Sauce, die zu gebratenem oder gegrilltem Fleisch serviert wird. Darunter fallen dunkle Fonds genauso wie Braune Grundsaucen und deren Ableitungen. Ebenso bezeichnet man auch Jus . In der Deutschen Sprache steht Bratensauce für Saucen aus dem Bratensaft, wobei der Begriff sowohl für Jus als auch der Kochflüssigkeit von geschmorten Fleischgerichten steht.",
+                "GB": "Gravy is a sauce often made from the juices of meats that run naturally during cooking and often thickened with wheat flour or corn starch for added texture. The term can refer to a wider variety of sauces. The gravy may be further colored and flavored with gravy salt or gravy browning or ready-made cubes and powders can be used as a substitute for natural meat or vegetable extracts. Canned and instant gravies are also available. Gravy is commonly served with roasts, meatloaf, rice, and mashed potatoes."
             }
         },
         {
             "class": "greek salad",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "green"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Griechischer_Salat",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Greek_salad"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Griechischer Salat",
+                "GB": "Greek salad"
+            },
+            "description": {
+                "DE": "Griechischer Salat, auch Bauernsalat oder Choriatiki , ist eine Vorspeise der griechischen Küche. Er besteht in seiner einfachsten Variante aus Gurken, Tomaten, grünen Paprika, Oliven, Schafskäse und Zwiebeln und ist mit Salz, Pfeffer und Olivenöl angemacht. Oft finden Kräuter wie Oregano, Dill oder Majoran Verwendung, teilweise wird auch mit Essig oder Zitronensaft mariniert.",
+                "GB": "Greek salad or horiatiki salad is a salad in Greek cuisine."
             }
         },
         {
             "class": "greek yogurt",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Griechischer Joghurt",
+                "GB": "Greek Yogurt"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "green curry",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "curry"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kaeng_Khiao_Wan",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Green_curry"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kaeng Khiao Wan",
+                "GB": "Green curry"
+            },
+            "description": {
+                "DE": "Kaeng Khiao Wan ist ein Gericht der klassischen Thai-Küche. Außerhalb Thailands ist es als Grünes Thai-Curry bekannt. Die grüne Farbe des Gerichts rührt von den Zutaten her, die fast ausschließlich grün sind.",
+                "GB": "Green curry is a central Thai variety of curry."
             }
         },
         {
             "class": "green tea",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "green tea"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gr%C3%BCner_Tee",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Green_tea"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Grüner Tee",
+                "GB": "Green tea"
+            },
+            "description": {
+                "DE": "Grüner Tee oder Grüntee ist eine Variante, Tee herzustellen. Die Teeblätter werden im Gegensatz zu schwarzem Tee nicht fermentiert. Wegen der anderen Verarbeitung werden für grünen Tee eher die Blätter von Camellia sinensis gegenüber der Varietät assamica bevorzugt, da sich die kleinblättrige, zartere Sorte besser eignet. Grüner Tee unterscheidet sich von schwarzem Tee unter anderem in der Zubereitung, im Geschmack, den Inhaltsstoffen und Wirkungen des Aufgusses.",
+                "GB": "Green tea is a type of tea that is made from Camellia sinensis leaves and buds that have not undergone the same withering and oxidation process used to make oolong teas and black teas. Green tea originated in China, but its production and manufacture has spread to many other countries in Asia."
             }
         },
         {
             "class": "grilled asparagus",
+            "categories": [
+                "snack, appetizer & starter"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "Gegrillter Spargel",
+                    "GB": "Grilled Asparagus"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
