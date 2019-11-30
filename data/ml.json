@@ -9125,203 +9125,115 @@
         },
         {
             "class": "limoncello",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Limoncello",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Limoncello"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Limoncello",
+                "GB": "Limoncello"
+            },
+            "description": {
+                "DE": "Limoncello ist ein Likör aus Zitronen, der am Golf von Neapel und entlang der Amalfiküste sowie auf Sizilien hergestellt wird. Eine Variante, die in Ligurien hergestellt wird, nennt sich Limoncino. Zur Herstellung werden die Aromen in der Form von ätherischen Ölen aus der Zitronenschale mit Alkohol extrahiert und der aromatisierte Alkohol mit einer Wasser-Zucker-Lösung verdünnt.",
+                "GB": "Limoncello is an Italian lemon liqueur mainly produced in Southern Italy, especially in the region around the Gulf of Naples, the Sorrentine Peninsula and the coast of Amalfi, and islands of Procida, Ischia, and Capri. It is also produced in Calabria, Abruzzo, Basilicata, Apulia, Sicily, Sardinia, Liguria, Menton in France, and the Maltese island of Gozo. In northern Italy, the liqueur is often referred to instead as limoncino. It is also a popular homemade liqueur, with various recipes available online and in print."
             }
         },
         {
             "class": "linguine",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Linguine",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Linguine"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Linguine",
+                "GB": "Linguine"
+            },
+            "description": {
+                "DE": "Linguine oder Linguini ist eine Pasta-Art, die Spaghetti ähnelt, jedoch flach ist.",
+                "GB": "Linguine is a type of pasta similar to fettuccine and trenette but elliptical in section rather than flat. It is about 4 millimetres in width, which is wider than spaghetti but not as wide as fettuccine. The name linguine means \"little tongues\" in Italian, where it is a plural of the feminine linguina. Linguine are also called trenette or bavette. A thinner version of linguine is called linguettine."
             }
         },
         {
             "class": "linguini",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "linguine"
         },
         {
             "class": "liquor",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "liquor"
         },
         {
             "class": "loaded baked potato",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "baked potato"
         },
         {
             "class": "lobster",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lobster"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Hummer",
+                "GB": "Lobster"
+            },
+            "description": {
+                "DE": "Hummer sind eine Familie von großen marinen Krustentieren.",
+                "GB": "Lobsters are a family of large marine crustaceans."
             }
         },
         {
             "class": "lobster roll",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lobster_roll"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Hummerrolle (Sandwich)",
+                "GB": "Lobster roll"
+            },
+            "description": {
+                "DE": "Eine Hummerrolle ist ein Sandwich, das in New England und den kanadischen Maritimes heimisch ist. Es besteht aus Hummerfleisch, das auf einem gegrillten Hot Dog-Brötchen serviert wird, wobei die Öffnung oben und nicht an der Seite liegt. Die Füllung kann auch Butter, Zitronensaft, Salz und schwarzen Pfeffer enthalten, wobei in einigen Teilen Neuenglands Varianten hergestellt werden, die die Butter durch Mayonnaise ersetzen. Andere Versionen können gewürfelten Sellerie oder Schalotte enthalten. Kartoffelchips oder Pommes frites sind die typischen Seiten.",
+                "GB": "A lobster roll is a sandwich native to New England and the Canadian Maritimes. It is made of lobster meat served on a grilled hot dog-style bun with the opening on the top rather than the side. The filling may also contain butter, lemon juice, salt and black pepper, with variants made in some parts of New England replacing the butter with mayonnaise. Other versions may contain diced celery or scallion. Potato chips or french fries are the typical sides."
             }
         },
         {
             "class": "lobsters",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "lobster"
         },
         {
             "class": "lobster tail",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "lobster"
         },
         {
             "class": "lobster tails",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "lobster tail"
         },
         {
             "class": "lo mein",
