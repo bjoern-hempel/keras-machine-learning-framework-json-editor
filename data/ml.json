@@ -9237,402 +9237,280 @@
         },
         {
             "class": "lo mein",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lo_mein"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Lo mein",
+                "GB": "Lo mein"
+            },
+            "description": {
+                "DE": "Lo mein ist ein chinesisches Gericht mit Eiernudeln. Es enthält oft Gemüse und irgendeine Art von Fleisch oder Meeresfrüchten, meist Rindfleisch, Huhn, Schweinefleisch, Garnelen oder Wontons. Es kann auch nur mit Gemüse gegessen werden, bekannt als Trise auf Portugiesisch.",
+                "GB": "Lo mein is a Chinese dish with egg noodles. It often contains vegetables and some type of meat or seafood, usually beef, chicken, pork, shrimp or wontons. It can also be eaten with just vegetables.Known as Trise in Portuguese."
             }
         },
         {
             "class": "long island",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cocktail"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Long_Island_Iced_Tea",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Long_Island_iced_tea"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Long Island Iced Tea",
+                "GB": "Long Island iced tea"
+            },
+            "description": {
+                "DE": "Der Long Island Iced Tea ist ein weit verbreiteter Cocktail auf Basis mehrerer hochprozentiger Spirituosen. Obwohl sein Name dies andeutet, enthält er keinen Tee, sieht aber wegen der enthaltenen Cola wie Eistee aus. Wegen seines Alkoholvolumens zählt der Drink zu den Longdrinks.",
+                "GB": "A Long Island iced tea is a type of alcoholic mixed drink typically made with vodka, tequila, light rum, triple sec, gin, and a splash of cola, which gives the drink the same amber hue as its namesake. A popular version mixes equal parts vodka, gin, rum, triple sec, with ​1 1⁄2 parts sour mix and a splash of cola. Lastly, it is decorated with the lemon and straw, after stirring with bar spoon smoothly."
             }
         },
         {
             "class": "lox",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lox"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Lox",
+                "GB": "Lox"
+            },
+            "description": {
+                "DE": "Lachs ist ein Filet aus Salzlachs. Lachs ist eine Art von Lachsprodukt, das auf einem Bagel mit Frischkäse serviert wird und normalerweise mit Tomaten, geschnittenen Zwiebeln, Gurken und manchmal Kapern garniert ist.",
+                "GB": "Lox is a fillet of brined salmon. Lox is one type of salmon product served on a bagel with cream cheese, and is usually garnished with tomato, sliced onion, cucumbers, and sometimes capers."
             }
         },
         {
             "class": "lump crab",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Crab_meat"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Lump Crab",
+                "GB": "Lump Crab"
+            },
+            "description": {
+                "DE": "Krebsfleisch oder Krabbenfleisch ist das Fleisch, das in einer Krabbe vorkommt. Es wird in vielen Küchen auf der ganzen Welt verwendet, geschätzt für seinen weichen, zarten und süßen Geschmack. Krebsfleisch ist fettarm und enthält etwa 340 kJ pro 85-Gramm-Dosierung. Braune Krabben, blaue Krabben, blaue Schwimmkrabben und rote Schwimmkrabben gehören zu den kommerziell am meisten erhältlichen Krebsarten weltweit.",
+                "GB": "Crab meat or crabmeat is the meat found within a crab. It is used in many cuisines across the world, prized for its soft, delicate and sweet taste. Crab meat is low in fat and contains around 340 kJ per 85-gram serving. Brown crab , blue crabs , blue swimming crabs , and red swimming crabs are among the most commercially available species of crabmeat globally."
             }
         },
         {
             "class": "lunch",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "lunch"
         },
         {
             "class": "mac and cheese",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Macaroni_and_Cheese",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Macaroni_and_cheese"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Macaroni and Cheese",
+                "GB": "Macaroni and cheese"
+            },
+            "description": {
+                "DE": "Macaroni and cheese ist ein vor allem in Nordamerika und Großbritannien verbreitetes Nudelgericht. Dafür werden Makkaroni mit einer Käsesoße vermischt und meist mit geriebenem Käse im Ofen überbacken. Zur genauen Zusammensetzung des Gerichts, der Soße und der zu verwendenden Käsesorten existieren viele Rezepte und Varianten.",
+                "GB": "Macaroni and cheese—also called mac and cheese or mac n cheese in US and Canadian English, macaroni cheese in the United Kingdom—is a dish of English origin, consisting of cooked macaroni pasta and a cheese sauce, most commonly cheddar. It can also incorporate other ingredients, such as breadcrumbs, meat and vegetables."
             }
         },
         {
             "class": "macaron",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Macaron",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Macaron"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Macaron",
+                "GB": "Macaron"
+            },
+            "description": {
+                "DE": "Das Macaron ist ein französisches Baisergebäck aus Mandelmehl, dessen Herkunft bis ins Mittelalter zurückreicht. In Frankreich werden viele Varianten von traditionellen Macarons gebacken, davon ist heute das bunte Macaron in Form einer kleinen Doppelscheibe mit einer Cremeschicht dazwischen am weitesten verbreitet. Seit den 2000er-Jahren gewann diese Macaronvariante auch außerhalb von Frankreich an Beliebtheit. Die Baiserböden des Doppelkekses werden aus Eiweiß, Puderzucker sowie sehr fein gemahlenen Mandeln zubereitet und mit Lebensmittelextrakten gefärbt. Die Füllung dieses etwa drei bis fünf Zentimeter großen Gebäcks besteht gewöhnlich aus Buttercreme, Ganache oder Konfitüre in den verschiedensten Geschmacksrichtungen. Die Füllmasse wird mit einem Dressierbeutel auf den unteren Boden aufgetragen, danach mit einem zweiten Deckel oder Boden bedeckt und schließlich vorsichtig zusammengedrückt.",
+                "GB": "A macaron \nor French macaroon \nis a sweet meringue-based confection made with egg white, icing sugar, granulated sugar, almond meal, and food coloring.\nThere is some variation in whether the term macaron or macaroon is used, and the related coconut macaroon is often confused with the macaron. In English, some bakers have adopted the French spelling of macaron for the meringue-based item to distinguish the two. Stanford professor of linguistics Daniel Jurafsky describes how the two confections have a shared history with macaroni . Jurafsky notes that French words ending with \"-on\" that were borrowed into English in the 16th and 17th centuries are usually spelled with \"-oon\" . In the UK, many bakeries continue to use the term \"macaroon\"."
             }
         },
         {
             "class": "macaroni",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Makkaroni",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Macaroni"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Makkaroni",
+                "GB": "Macaroni"
+            },
+            "description": {
+                "DE": "Makkaroni sind kurze Röhrennudeln, die eine gewölbte Form haben.",
+                "GB": "Macaroni is dry pasta shaped like narrow tubes. Made with durum wheat, macaroni is commonly cut in short lengths; curved macaroni may be referred to as elbow macaroni. Some home machines can make macaroni shapes, but like most pasta, macaroni is usually made commercially by large-scale extrusion. The curved shape is created by different speeds of extrusion on opposite sides of the pasta tube as it comes out of the machine."
             }
         },
         {
             "class": "macaroni and cheese",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "mac and cheese"
         },
         {
             "class": "macaroni & cheese",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "mac and cheese"
         },
         {
             "class": "macarons",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "macaron"
         },
         {
             "class": "macaroon",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "macaron"
         },
         {
             "class": "macaroons",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "macaroon"
         },
         {
             "class": "mac & cheese",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "mac and cheese"
         },
         {
             "class": "macchiato",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "with milk froth"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Latte_macchiato",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Latte_macchiato"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Latte macchiato",
+                "GB": "Latte macchiato"
+            },
+            "description": {
+                "DE": "Latte macchiato ist ein Warmgetränk aus Milch und Espresso, das dem Milchkaffee ähnelt, aber in der Regel mehr Milch enthält und aus stärker gerösteten Bohnen zubereitet wird. In Italien wird in der Regel in ein Glas Milch ein wenig Espresso eingemischt. Inzwischen bekommt man jedoch in stark von Touristen frequentierten Regionen auch die nördlich der Alpen übliche Version mit voneinander getrennten Schichten.",
+                "GB": "Latte macchiato is a coffee beverage; the name means stained or marked milk. Marked as in an espresso stain on the milk used. It is a play on “Espresso macchiato” which is an espresso with a drop or two of milk or cream."
             }
         },
         {
             "class": "mackerel",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Mackerel_as_food"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Makrele",
+                "GB": "Mackerel"
+            },
+            "description": {
+                "DE": "Makrele ist ein wichtiger Speisefisch, der weltweit verzehrt wird. Als öliger Fisch ist er eine reiche Quelle an Omega-3-Fettsäuren. Das Fleisch der Makrele verwöhnt schnell, besonders in den Tropen, und kann zu einer Lebensmittelvergiftung durch Skombroide führen. Dementsprechend sollte es am Tag des Einfangens gegessen werden, es sei denn, es wird ordnungsgemäß gekühlt oder ausgehärtet.",
+                "GB": "Mackerel is an important food fish that is consumed worldwide. As an oily fish, it is a rich source of omega-3 fatty acids. The flesh of mackerel spoils quickly, especially in the tropics, and can cause scombroid food poisoning. Accordingly, it should be eaten on the day of capture, unless properly refrigerated or cured."
             }
         },
         {
             "class": "mac n cheese",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "mac and cheese"
         },
         {
             "class": "madeira",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Madeira_(Wein)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Madeira_wine"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Madeira",
+                "GB": "Madeira wine"
+            },
+            "description": {
+                "DE": "Madeira ist eine geschützte Herkunftsbezeichnung für den Likörwein von der zu Portugal zählenden Insel Madeira. Es handelt sich hierbei um einen aufgespriteten, d. h. mit Branntwein angereicherten Wein. Der Alkoholgehalt liegt je nach Sorte zwischen 17 und 22 %Vol. Madeira ist ein teiloxidierter Wein. Andere oxidierte Weine werden deshalb gern als „madeirisiert“ bezeichnet.",
+                "GB": "Madeira is a fortified wine made on the Portuguese Madeira Islands, off the coast of Africa. Madeira is produced in a variety of styles ranging from dry wines which can be consumed on their own as an aperitif to sweet wines usually consumed with dessert. Cheaper cooking versions are often flavoured with salt and pepper for use in cooking, but these are not fit for consumption as a beverage."
             }
         },
         {
             "class": "mahi mahi",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "mahi-mahi"
         },
         {
             "class": "mahi-mahi",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gemeine_Goldmakrele",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Mahi-mahi"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gemeine Goldmakrele",
+                "GB": "Mahi-mahi"
+            },
+            "description": {
+                "DE": "Der Mahi-Mahi oder gewöhnliche Delphinfisch ist ein oberflächenbewohnender Fisch mit Strahlenflossen, der weltweit in gemäßigten, tropischen und subtropischen Gewässern vor der Küste zu finden ist. Auch Dorado und Delfin genannt, ist es eines von zwei Mitgliedern der Familie Coryphaenidae, das andere ist der Pompano-Delfinfisch. Diese Fische sind am häufigsten in den Gewässern um den Golf von Mexiko, Costa Rica und Hawaii zu finden.",
+                "GB": "The mahi-mahi or common dolphinfish is a surface-dwelling ray-finned fish found in off-shore temperate, tropical, and subtropical waters worldwide. Also widely called dorado and dolphin, it is one of two members of the family Coryphaenidae, the other being the pompano dolphinfish. These fish are most commonly found in the waters around the Gulf of Mexico, Costa Rica, and Hawaii."
             }
         },
         {
