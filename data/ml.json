@@ -11561,405 +11561,334 @@
         },
         {
             "class": "pizza",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "pizza"
         },
         {
             "class": "pizza margherita",
+            "categories": [
+                "pizza"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pizza_Margherita"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "Pizza Margherita",
                 "GB": "Pizza Margherita"
             },
-            "related-classes": [],
-            "categories": [
-                "dish",
-                "pizza"
-            ],
             "description": {
                 "DE": "Pizza Margherita (im Englischen besser bekannt als Margherita-Pizza) ist eine typisch neapolitanische Pizza, hergestellt aus San Marzano-Tomaten, Mozzarella-Käse, frischem Basilikum, Salz und nativem Olivenöl extra.",
                 "GB": "Pizza Margherita (more commonly known in English as Margherita pizza) is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pizza_Margherita"
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "poached egg",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Verlorene_Eier",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Poached_egg"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Verlorene Eier",
+                "GB": "Poached egg"
+            },
+            "description": {
+                "DE": "Verlorene Eier oder pochierte Eier sind Eier, die ohne Schale in knapp siedendem Wasser sanft gegart werden.",
+                "GB": "A poached egg is an egg that has been cooked, outside the shell, by poaching , as opposed to simmering or boiling liquid. This method of preparation is favored for eggs, as it can yield more delicately cooked eggs than cooking at higher temperatures such as with boiling water."
             }
         },
         {
             "class": "poached eggs",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "poached egg"
         },
         {
             "class": "po boy",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Po'_boy"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Po' boy",
+                "GB": "Po' boy"
+            },
+            "description": {
+                "DE": "A po' boy ist ein traditionelles Sandwich aus Louisiana. Es besteht fast immer aus Fleisch, das meist Roastbeef oder gebratene Meeresfrüchte, oft Garnelen, Krebse, Fische, Austern oder Krabben sind. Das Fleisch wird auf New Orleanser Fladenbrot serviert, das für seine knackige Kruste und sein flauschiges Zentrum bekannt ist.",
+                "GB": "A po' boy is a traditional sandwich from Louisiana. It almost always consists of meat, which is usually roast beef or fried seafood, often shrimp, crawfish, fish, oysters or crab. The meat is served on New Orleans French bread, known for its crisp crust and fluffy center."
             }
         },
         {
             "class": "pop",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "pop"
         },
         {
             "class": "popcorn",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Popcorn",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Popcorn"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Popcorn",
+                "GB": "Popcorn"
+            },
+            "description": {
+                "DE": "Popcorn ist ein als Snack dienendes Nahrungsmittel, das durch starkes Erhitzen einer speziellen Maissorte hergestellt wird.",
+                "GB": "Popcorn is a variety of corn kernel which expands and puffs up when heated and the foodstuff produced from the expansion."
             }
         },
         {
             "class": "popcorn shrimp",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "fried shrimp"
         },
         {
             "class": "pops",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Pops",
+                "GB": "Pops"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "pork bun",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Pork Bun",
+                "GB": "Pork Bun"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "pork buns",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "pork bun"
         },
         {
             "class": "pork chop",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pork"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pork_chop"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schweinekotelett",
+                "GB": "Pork chop"
+            },
+            "description": {
+                "DE": "Ein Schweinekotelett ist, wie andere Fleischkoteletts, ein Lendenschnitt, der senkrecht zur Wirbelsäule des Schweins aufgenommen wird und in der Regel eine Rippe oder einen Teil eines Wirbels enthält. Schweinekoteletts werden nicht verarbeitet und sind schlanker als andere Schweinefleischstücke. Koteletts werden in der Regel als Einzelportion serviert.",
+                "GB": "A pork chop, like other meat chops, is a loin cut taken perpendicularly to the spine of the pig and usually containing a rib or part of a vertebra. Pork chops are not processed and are leaner than other cuts of pork. Chops are commonly served as an individual portion."
             }
         },
         {
             "class": "pork chops",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "pork chop"
         },
         {
             "class": "pork fried rice",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pork"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Schweinefleisch mit gebratenem Reis",
+                "GB": "Pork Fried Rice"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "pork ribs",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pork"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Schweinerippchen",
+                "GB": "Pork Ribs"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "pork shoulder",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pork"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schweinekamm",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Boston_butt"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schweinekamm",
+                "GB": "Boston butt"
+            },
+            "description": {
+                "DE": "Der Schweinekamm, auch Hals, Nacken, Kernbraten, Halsgrat oder Schopfbraten genannt, ist die vordere Verlängerung des Kotelettstrangs vom Schwein bis zur vierten oder fünften Rippe. Er ist stark von Fett durchwachsen und daher besonders saftig und aromatisch.",
+                "GB": "Boston butt, or pork butt, is the American name for a cut of pork that comes from the upper part of the shoulder from the front leg and may contain the blade bone. Boston butt is the most common cut used for pulled pork, a staple of barbecue in the southern United States."
             }
         },
         {
             "class": "pork tenderloin",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pork"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pork_tenderloin"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schweinefleisch Filet",
+                "GB": "Pork tenderloin"
+            },
+            "description": {
+                "DE": "Das Schweinefilet, auch Schweinefilet oder Gentleman's Cut genannt, ist ein langer, dünner Schnitt vom Schwein.",
+                "GB": "The pork tenderloin, also called pork fillet or Gentleman's Cut, is a long thin cut of pork."
             }
         },
         {
             "class": "porridge",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "breakfast"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Porridge"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Haferbrei",
+                "GB": "Porridge"
+            },
+            "description": {
+                "DE": "Haferbrei ist ein Lebensmittel, das häufig als Frühstücksflockengericht gegessen wird, hergestellt aus gekochtem Boden, zerdrückter oder gehackter stärkehaltiger Pflanze in Wasser oder Milch. Es wird oft gekocht oder mit zugesetzten Aromen wie Zucker, Honig, Obst oder Sirup serviert, um ein süßes Getreide herzustellen, oder es kann mit Gewürzen und\/oder Gemüse zu einem herzhaften Gericht gemischt werden. Je nach Konsistenz wird er in der Regel heiß in einer Schüssel serviert. Haferbrei oder Hafermehl ist eine der häufigsten Arten von Haferbrei. Gruel ist eine dünnere Version von Haferbrei.",
+                "GB": "Porridge is a food commonly eaten as a breakfast cereal dish, made by boiling ground, crushed or chopped starchy plant in water or milk. It is often cooked or served with added flavorings such as sugar, honey, fruit or syrup to make a sweet cereal, or it can be mixed with spices and\/or vegetables to make a savoury dish. It is usually served hot in a bowl, depending on its consistency. Oat porridge, or oatmeal, is one of the most common types of porridge. Gruel is a thinner version of porridge."
             }
         },
         {
             "class": "port",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Portwein",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Port_wine"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Portwein",
+                "GB": "Port wine"
+            },
+            "description": {
+                "DE": "Portwein , kurz Port genannt, ist ein roter, seltener auch weißer Süßwein. Er stammt aus der Region Alto Douro im portugiesischen Douro-Tal. Namensgebend ist aber die portugiesische Hafenstadt Porto, in die er traditionell nach seiner Produktion zur Reifung, Lagerung und zum internationalen Vertrieb von Peso da Régua aus über den Douro flussabwärts verschifft wurde.",
+                "GB": "Port wine is a Portuguese fortified wine produced with distilled grape spirits exclusively in the Douro Valley in the northern provinces of Portugal. It is typically a sweet, red wine, often served as a dessert wine, though it also comes in dry, semi-dry, and white varieties. Fortified wines in the style of port are also produced outside Portugal, including in Australia, France, South Africa, Canada, India, Argentina, Spain, and the United States. Under European Union Protected Designation of Origin guidelines, only the product from Portugal may be labelled as port or Porto. In the United States, wines labelled \"port\" may come from anywhere in the world, while the names \"Oporto\", \"Porto\", and \"Vinho do Porto\" have been recognized as foreign, non-generic names for port wines originating in Portugal."
             }
         },
         {
             "class": "porter",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "dark beer"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Porter_(Bier)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Porter_(beer)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Porter (Bier)",
+                "GB": "Porter (beer)"
+            },
+            "description": {
+                "DE": "Porter ist ein dunkles, oft tiefschwarzes Bier mit einem malzigen oder gar röstmalzbetonten Geschmack. Traditionell war Porter häufig stark gehopft und daher herb. Heute steht der Begriff für verschiedene Arten von Bier. Im englischen Sprachraum bezeichnet es ein meist obergäriges Bier mit einem Alkoholgehalt von 5 % Vol. In anderen Ländern, so auch in Deutschland, steht „Porter“ für ein teilweise untergäriges, dunkles Starkbier mit 7–9 % Vol. Alkohol. Diese Variante ist vor allem im Ostseeraum populär und wird deswegen im englischen Sprachraum als „baltic porter“ bezeichnet. In Deutschland existierte schon vor dem Ersten Weltkrieg eine süße Portervariante, die noch heute hergestellt wird. Besonders alkoholarme und extraktreiche deutsche Porter wurden auch als Ammen-, Malz-Extrakt- oder Gesundheitsbier beworben.",
+                "GB": "Porter is a dark style of beer developed in London from well-hopped beers made from brown malt. The name was first recorded in the 18th century, and is thought to come from its popularity with street and river porters, who carried objects for others."
             }
         },
         {
