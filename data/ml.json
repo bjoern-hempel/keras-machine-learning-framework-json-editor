@@ -12409,203 +12409,151 @@
         },
         {
             "class": "rangoon",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Crab_Rangoon"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Krabben Rangun",
+                "GB": "Crab Rangoon"
+            },
+            "description": {
+                "DE": "Krabben-Rangoon, manchmal auch Krabbenquasten, Krabben-Rangoonquasten oder Käse-Wontons genannt, sind gefüllte, knackige Knödelvorspeisen, die in amerikanischen chinesischen und in jüngster Zeit thailändischen Restaurants serviert werden.",
+                "GB": "Crab Rangoon, sometimes called crab puffs, crab rangoon puffs, or cheese wontons, are filled crisp dumpling appetizers served in American Chinese and, more recently, Thai restaurants."
             }
         },
         {
             "class": "ratatouille",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "stew"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ratatouille",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ratatouille"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Ratatouille",
+                "GB": "Ratatouille"
+            },
+            "description": {
+                "DE": "Eine Ratatouille ist ein geschmorter Gemüseeintopf der provenzalischen und okzitanischen Küche und gehört dort zu den klassischen Gerichten wie etwa auch der Fischeintopf Bouillabaisse bzw. die passierte Fischsuppe à la Sétoise . Die Ratatouille wird heiß oder kalt gegessen und traditionell als Vorspeise oder Zwischengang gereicht. Zuweilen dient sie als Beilage zu gegrilltem oder gebratenem Fleisch oder Fisch, der ohne Sauce serviert wird.",
+                "GB": "Ratatouille is a French Provençal stewed vegetable dish, originating in Nice, and sometimes referred to as ratatouille niçoise. Recipes and cooking times differ widely, but common ingredients include tomato, garlic, onion, zucchini, aubergine , bell pepper, and some combination of leafy green herbs common to the region."
             }
         },
         {
             "class": "ravioli",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ravioli",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ravioli"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Ravioli",
+                "GB": "Ravioli"
+            },
+            "description": {
+                "DE": "Ravioli sind eine gefüllte Nudelspezialität der italienischen Küche. Sie bestehen im Allgemeinen aus zweilagigen Quadraten, Halbkreisen oder Dreiecken aus Eiernudelteig mit einer feingehackten Füllung aus Fleisch, Fisch, Frischkäse oder Gemüse.",
+                "GB": "Ravioli are a type of pasta comprising a filling enveloped in thin pasta dough. Usually served in broth or with a sauce, they originated as a traditional food in Italian cuisine. Ravioli are commonly square, though other forms are also used, including circular and semi-circular ."
             }
         },
         {
             "class": "raviolis",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "ravioli"
         },
         {
             "class": "red beans and rice",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "beans and rice"
         },
         {
             "class": "redfish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Red_drum"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Red drum",
+                "GB": "Red drum"
+            },
+            "description": {
+                "DE": "Die red drum, auch bekannt als Rotbarsch, Kanalbass, Welpentrommel, Spottailbass oder einfach nur rot, ist ein Wildfisch, der im Atlantik von Massachusetts bis Florida und im Golf von Mexiko von Florida bis Nordmexiko vorkommt. Sie ist die einzige Art in der Gattung Sciaenops.",
+                "GB": "The red drum , also known as redfish, channel bass, puppy drum, spottail bass, or simply red, is a game fish found in the Atlantic Ocean from Massachusetts to Florida and in the Gulf of Mexico from Florida to northern Mexico. It is the only species in the genus Sciaenops."
             }
         },
         {
             "class": "red mullet",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Red Mullet",
+                "GB": "Red Mullet"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "red sauce",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "tomato sauce"
         },
         {
             "class": "red snapper",
+            "categories": [
+                "fish"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "Red Snapper",
+                    "GB": "Red Snapper"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "reduction",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "reduction"
         },
         {
             "class": "red velvet cake",
