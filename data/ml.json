@@ -12077,202 +12077,168 @@
         },
         {
             "class": "pot stickers",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "potstickers"
         },
         {
             "class": "potstickers",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Jiaozi",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Jiaozi"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Jiaozi",
+                "GB": "Jiaozi"
+            },
+            "description": {
+                "DE": "Jiǎozi , in Japan als Gyōza populär, in Korea als Mandu bekannt, ist ein chinesisches Teiggericht, das Maultaschen, osteuropäischen Piroggen und russischen Pelmeni ähnelt.",
+                "GB": "Jiaozi ) are a kind of Chinese dumpling, commonly eaten in China and other parts of East Asia. They are one of the major dishes eaten during the Chinese New Year and year-round in the northern provinces. Though considered part of Chinese cuisine, jiaozi are popular in other parts of Asia and in Western countries."
             }
         },
         {
             "class": "pound cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pound_Cake",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pound_cake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pound Cake",
+                "GB": "Pound cake"
+            },
+            "description": {
+                "DE": "Pound cake ist ein ursprünglich britischer Rührkuchen, der wahrscheinlich um 1600 erfunden wurde. Der Name ergibt sich aus dem Anteil der Zutaten: je ein Pfund Mehl, Zucker, Butter und Eier. Das Rezept und der Begriff wurden ins Deutsche als Pfundkuchen übernommen, auch als Altdeutscher Rührkuchen bekannt. Demselben Prinzip folgen der französische Quatre-quarts und der deutsche Eischwerkuchen, auch Gleichgewichtskuchen genannt. Europäische Auswanderer trugen das Rezept auch in die USA.",
+                "GB": "Pound cake is a type of cake traditionally made with a pound of each of four ingredients: flour, butter, eggs, and sugar. Pound cakes are generally baked in either a loaf pan or a Bundt mold, and served either dusted with powdered sugar, lightly glazed, or sometimes with a coat of icing."
             }
         },
         {
             "class": "prawn",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "shrimp"
         },
         {
             "class": "prawn cocktail",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Prawn_cocktail"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Garnelencocktail",
+                "GB": "Prawn cocktail"
+            },
+            "description": {
+                "DE": "Garnelencocktail, auch bekannt als Garnelencocktail, ist ein Fischgericht, das aus geschälten, gekochten Garnelen in Cocktailsauce besteht, die in einem Glas serviert werden. Es war von den 1960er bis Ende der 1980er Jahre das beliebteste Hors d'œuvre in Großbritannien und den Vereinigten Staaten. Laut dem englischen Lebensmittel-Autor Nigel Slater hat der Garnelen-Cocktail \"den größten Teil des Schauens vom Höhepunkt der Mode bis zum Lacherreichen verbracht\" und wird heute oft mit einer gewissen Ironie serviert.",
+                "GB": "Prawn cocktail, also known as shrimp cocktail, is a seafood dish consisting of shelled, cooked prawns in a cocktail sauce, served in a glass. It was the most popular hors d'œuvre in Great Britain, as well as in the United States, from the 1960s to the late 1980s. According to the English food writer Nigel Slater, the prawn cocktail \"has spent most of see-sawing from the height of fashion to the laughably passé\" and is now often served with a degree of irony."
             }
         },
         {
             "class": "prawns",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "prawn"
         },
         {
             "class": "prime rib",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Hochrippe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Standing_rib_roast"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Hochrippe",
+                "GB": "Standing rib roast"
+            },
+            "description": {
+                "DE": "Die Hochrippe, Hohe Rippe oder Schorrippe ist das Rückenstück des Rinds zwischen der achten und zwölften Rippe. Es liegt zwischen Rindernacken und dem weiter hinten befindlichen Roastbeef. Es wird auch hohes oder rundes Roastbeef genannt, wobei mit letzterem in der klassischen Küche nur das Kernstück gemeint ist. Anatomisch handelt es sich um den hinteren Brustteil des Musculus erector spinae. Die Fehlrippe wird je nach Schnittführung zum Nacken oder zur Hochrippe gerechnet.",
+                "GB": "A standing rib roast, also known as prime rib, is a cut of beef from the primal rib, one of the nine primal cuts of beef. While the entire rib section comprises ribs six through 12, a standing rib roast may contain anywhere from two to seven ribs."
             }
         },
         {
             "class": "prosecco",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sparkling wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Prosecco",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Prosecco"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Prosecco",
+                "GB": "Prosecco"
+            },
+            "description": {
+                "DE": "Prosecco ist eine geschützte Herkunftsbezeichnung für italienische Schaumweine , Perlweine und Stillweine aus Venetien und Friaul-Julisch Venetien. Die Schaum- und Perlweine haben DOC-Denomination. In den Subzonen des Anbaugebiets besitzen die Weine die höhere DOCG-Denomination.",
+                "GB": "Prosecco is an Italian DOC or DOCG wine produced in a large area spanning nine provinces in the Veneto and Friuli Venezia Giulia regions, and named after the village of Prosecco. It is made from the Prosecco grape , but denomination rules allow up to 15% of the wine to be a blend of several other permitted varieties. Prosecco is almost always made in sparkling or semi-sparkling styles , but still white wine is also permitted. Prosecco Superiore is made under two smaller DOCG designations, where only the sparkling spumante style can be labelled superiore: Conegliano Valdobbiadene Prosecco DOCG, which can only be made in the hills between the towns of Conegliano and Valdobbiadene north of Treviso, and the nearby smaller Asolo Prosecco DOCG produced near the town of Asolo."
             }
         },
         {
             "class": "pudding",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pudding"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pudding",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pudding"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pudding",
+                "GB": "Pudding"
+            },
+            "description": {
+                "DE": "Pudding ist im deutschen Sprachraum der umgangssprachliche Ausdruck für eine Süßspeise. In der Küchensprache fällt er unter das Genre der Dessertcreme. Im englischen, besonders britischen Sprachraum steht das Wort für eine Süßspeise beziehungsweise den Nachtisch ganz generell, kann aber auch ein Fleischgericht sein. Gemeinsam ist beiden Varianten, dass die Speise ursprünglich in einer speziellen Form durch Erhitzen in einem kochenden Wasserbad gegart und danach gestürzt wird. Mit dem Begriff Pudding wird im allgemeinen Sprachgebrauch meist eine Süßspeise gemeint, die fachtechnisch ein Flammeri ist.",
+                "GB": "Pudding is a type of food that can be either a dessert or a savoury dish that is part of the main meal."
             }
         },
         {
             "class": "puff pastry",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pastry & bread"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bl%C3%A4tterteig",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Puff_pastry"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Blätterteig",
+                "GB": "Puff pastry"
+            },
+            "description": {
+                "DE": "Blätterteig ist ein mehrlagiger Ziehteig. In den Grundteig aus Mehl, Salz und Wasser wird durch mehrfaches Ausrollen und Zusammenschlagen Ziehfett eingearbeitet. Der Unterschied zu Plunderteig besteht darin, dass für den Grundteig keine Backhefe verwendet wird.",
+                "GB": "Puff pastry, also known as pâte feuilletée, is a flaky light pastry made from a laminated dough composed of dough and butter or other solid fat . The butter is put inside the dough , making a paton which is repeatedly folded and rolled out before baking."
             }
         },
         {
