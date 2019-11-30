@@ -12687,203 +12687,169 @@
         },
         {
             "class": "ribs",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "ribs"
         },
         {
             "class": "rice and beans",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "beans and rice"
         },
         {
             "class": "rice noodles",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Reisnudeln",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Rice_noodles"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Reisnudeln",
+                "GB": "Rice noodles"
+            },
+            "description": {
+                "DE": "Reisnudeln sind nudelartige Lebensmittel, die aus Reismehl hergestellt werden. Die Reisnudeln, meist in spaghettidünner Form, gibt es in verschiedenen Durchmesser und unterschiedlicher Breite. Manchen Sorten wird auch Tapiokamehl oder Maisstärke zugegeben, um die Transparenz zu erhöhen sowie das Aussehen und die Konsistenz zu verbessern. Die Reisnudel ist sehr verbreitet in den verschiedenen Küchen Ostasiens.",
+                "GB": "Rice noodles, or simply rice noodle, are noodles made from rice. The principal ingredients are rice flour and water. Sometimes ingredients such as tapioca or corn starch are added in order to improve the transparency or increase the gelatinous and chewy texture of the noodles."
             }
         },
         {
             "class": "rice pudding",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Milchreis",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Rice_pudding"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Milchreis",
+                "GB": "Rice pudding"
+            },
+            "description": {
+                "DE": "Milchreis, auch Dicker Reis oder Reisbrei, ist eine Süßspeise aus Rundkornreis, der langsam in Milch gekocht wird. Dabei werden im Reis enthaltene kurzkettige Stärkemoleküle gelöst und dicken die Milch ein . Das Ergebnis hat eine sämige, weiche Konsistenz, in der die einzelnen Körner noch erkennbar sind. Der für die Zubereitung verwendete Rundkornreis wird gelegentlich selbst als Milchreis bezeichnet.",
+                "GB": "Rice pudding is a dish made from rice mixed with water or milk and other ingredients such as cinnamon and raisins. Variants are used for either desserts or dinners. When used as a dessert, it is commonly combined with a sweetener such as sugar. Such desserts are found on many continents, especially Asia where rice is a staple. Some variants are thickened only with the rice starch; others include eggs, making them a kind of custard."
             }
         },
         {
             "class": "riesling",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "white wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Riesling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Riesling"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Riesling",
+                "GB": "Riesling"
+            },
+            "description": {
+                "DE": "Zufallskreuzung aus Heunisch × Vitis vinifera subsp. sylvestris × Traminer-Klon",
+                "GB": "Riesling is a white grape variety which originated in the Rhine region. Riesling is an aromatic grape variety displaying flowery, almost perfumed, aromas as well as high acidity. It is used to make dry, semi-sweet, sweet, and sparkling white wines. Riesling wines are usually varietally pure and are seldom oaked. As of 2004, Riesling was estimated to be the world's 20th most grown variety at 48,700 hectares , but in terms of importance for quality wines, it is usually included in the \"top three\" white wine varieties together with Chardonnay and Sauvignon blanc. Riesling is a variety which is highly \"terroir-expressive\", meaning that the character of Riesling wines is greatly influenced by the wine's place of origin."
             }
         },
         {
             "class": "rigatoni",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rigatoni",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Rigatoni"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Rigatoni",
+                "GB": "Rigatoni"
+            },
+            "description": {
+                "DE": "Rigatoni sind röhrenförmige Nudeln verschiedener Länge und Durchmesser aus Italien. Sie sind größer als Penne, und manchmal leicht gebogen, jedoch nicht so stark wie Makkaroni. Rigatoni haben längs Rillen, manchmal in Spiralform, und sind, im Gegensatz zu Penne nicht schräg, sondern rechtwinklig zur Röhrenrichtung abgeschnitten.",
+                "GB": "Rigatoni are a form of tube-shaped pasta of varying lengths and diameters originating in Italy. They are larger than penne and ziti, and sometimes slightly curved, though not as curved as elbow macaroni. Rigatoni characteristically have ridges down their length, sometimes spiraling around the tube, and unlike penne, rigatoni's ends are cut square to the tube walls instead of diagonally."
             }
         },
         {
             "class": "rillettes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rillettes",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Rillettes"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Rillettes",
+                "GB": "Rillettes"
+            },
+            "description": {
+                "DE": "Rillettes oder Rilletten sind ein der deutschen „Pottsuse“ und dem österreichischen Verhackert ähnlicher französischer Brotaufstrich aus im eigenen Saft und Fett gekochtem und konserviertem Fleisch, welche insbesondere in der Gegend um Le Mans hergestellt wird.",
+                "GB": "Rillettes are a preparation of meat similar to pâté. Commonly made from pork, the meat is cubed or chopped, salted heavily and cooked slowly in fat, shredded, and then cooled with enough of the fat to form a paste. They are normally used as spread on bread or toast and served at room temperature."
             }
         },
         {
             "class": "risotto",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Risotto",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Risotto"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Risotto",
+                "GB": "Risotto"
+            },
+            "description": {
+                "DE": "Der oder das Risotto oder süditalienisch ) ist ein norditalienisches Breigericht aus Reis, das in verschiedenen Variationen zubereitet wird. Kennzeichnend für fast alle Zubereitungsarten ist, dass Mittelkornreis und Zwiebeln in Fett angedünstet werden und in Brühe garen, bis das Gericht sämig ist, die Reiskörner aber noch bissfest sind. Je nach Rezept kommen noch Wein, Pilze, Meeresfrüchte, Fleisch, Gemüse, Gewürze und Käse hinzu.",
+                "GB": "Risotto is a northern Italian rice dish cooked with broth until it reaches a creamy consistency. The broth can be derived from meat, fish, or vegetables. Many types of risotto contain butter, onion, white wine, and parmesan cheese. It is one of the most common ways of cooking rice in Italy. Saffron was originally used for flavour and its signature yellow colour."
             }
         },
         {
             "class": "roast beef",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rostbraten",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Roast_beef"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Rostbraten",
+                "GB": "Roast beef"
+            },
+            "description": {
+                "DE": "Original ist Rostbraten eine Wiener Spezialität vom flachen Roastbeef. Allgemein hat sich aber die Zubereitungsart von der Oberschale durchgesetzt, die auch der österreichischen Küche entspricht. Die Fleischscheiben werden plattiert und gebraten, dann mit Jus untergossen und gargeschmort.",
+                "GB": "Roast beef is a dish of beef which is roasted. Essentially prepared as a main meal, the leftovers are often used in sandwiches and sometimes are used to make hash. In the United Kingdom, United States, Canada, Ireland, New Zealand, and Australia, roast beef is one of the meats traditionally served at Sunday dinner, although it is also often served as a cold cut in delicatessen stores, usually in sandwiches. A traditional side dish to roast beef is Yorkshire pudding."
             }
         },
         {
             "class": "roast chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "fried chicken"
         },
         {
             "class": "roasted cauliflower",
