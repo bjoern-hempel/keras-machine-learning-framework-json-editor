@@ -11247,202 +11247,168 @@
         },
         {
             "class": "peking duck",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pekingente_(Gericht)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Peking_duck"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pekingente",
+                "GB": "Peking duck"
+            },
+            "description": {
+                "DE": "Die Pekingente gehört zu den berühmtesten Gerichten der chinesischen Küche. Ihre Herstellung ist sehr aufwendig – sie wird daher meistens in spezialisierten Restaurants zubereitet und verzehrt. Das Rezept für die Pekingente stammt aus der Ming-Dynastie. In Vietnam gibt es eine Variante, die Vịt quay Bắc Kinh genannt wird.",
+                "GB": "Peking duck is a dish from Beijing that has been prepared since the imperial era. The meat is characterized by its thin, crisp skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook. Ducks bred specially for the dish are slaughtered after 65 days and seasoned before being roasted in a closed or hung oven. The meat is often eaten with spring onion, cucumber and sweet bean sauce with pancakes rolled around the fillings. Sometimes pickled radish is also inside, and other sauces can be used."
             }
         },
         {
             "class": "penne",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Penne_(Teigware)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Penne"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Penne (Teigware)",
+                "GB": "Penne"
+            },
+            "description": {
+                "DE": "Penne sind Pasta in Form eines schiefen Zylinders. Penne ist der Plural des italienischen penna, abgeleitet von lateinisch penna , und ist ein Verwandter des englischen Wortes pen = Feder. Die Enden sind ähnlich einem Schreibfederkiel immer schräg angeschnitten.",
+                "GB": "Penne is an extruded type of pasta with cylinder-shaped pieces, their ends cut at a bias. Penne is the plural form of the Italian penna , deriving from Latin penna , and is a cognate of the English word pen. When this format was created, it was intended to imitate the then-ubiquitous fountain pen's steel nibs."
             }
         },
         {
             "class": "penne pasta",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "penne"
         },
         {
             "class": "perch",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Perch"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Barsch",
+                "GB": "Perch"
+            },
+            "description": {
+                "DE": "Barsch ist ein gebräuchlicher Name für Fische der Gattung Perca, Süßwasserwildfische der Familie Percidae. Der Barsch, von dem drei Arten in verschiedenen geografischen Gebieten vorkommen, verleiht einer großen Ordnung von Wirbeltieren ihren Namen: den Perciformes, aus dem Griechischen: πέρκη, was einfach Barsche bedeutet, und der lateinischen Forma, was Form bedeutet. Viele Arten von Süßwasserwildfischen ähneln mehr oder weniger einem Barsch, gehören aber zu verschiedenen Gattungen. Tatsächlich wird die ausschließlich in Salzwasser lebende rote Trommel oft als Rotbarsch bezeichnet, obwohl Barsch per Definition Süßwasserfische sind. Obwohl viele Fische als Barsche bezeichnet werden, um als echte Barsche zu gelten, müssen die Fische aus der Familie der Percidae stammen.",
+                "GB": "Perch is a common name for fish of the genus Perca, freshwater gamefish belonging to the family Percidae. The perch, of which three species occur in different geographical areas, lend their name to a large order of vertebrates: the Perciformes, from the Greek: πέρκη , simply meaning perch, and the Latin forma meaning shape. Many species of freshwater gamefish more or less resemble perch, but belong to different genera. In fact, the exclusively saltwater-dwelling red drum is often referred to as a red perch, though by definition perch are freshwater fish. Though many fish are referred to as perch as a common name, to be considered a true perch, the fish must be of the family Percidae."
             }
         },
         {
             "class": "pesto",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pesto",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pesto"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pesto",
+                "GB": "Pesto"
+            },
+            "description": {
+                "DE": "Das Pesto ist eine ungekochte pastöse Sauce, die in der italienischen Küche meist mit Nudeln vermischt gereicht wird; insbesondere in der Herkunftsregion werden Trofie oder Trenette verwendet. Das bekannteste, Pesto alla genovese, enthält in seiner Ursprungsform Basilikum, vermengt mit Pinienkernen, Knoblauch, Olivenöl, Salz und Käse.",
+                "GB": "Pesto , or to refer to the original dish pesto alla genovese , is a sauce originating in Genoa, the capital city of Liguria, Italy. It traditionally consists of crushed garlic, European pine nuts, coarse salt, basil leaves, hard cheese such as Parmigiano-Reggiano or Pecorino Sardo , all blended with olive oil."
             }
         },
         {
             "class": "pesto sauce",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "pesto"
         },
         {
             "class": "petit fours",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Petit_Four",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Petit_four"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Petit Four",
+                "GB": "Petit four"
+            },
+            "description": {
+                "DE": "Petit Four ist ein klassisches Feingebäck der französischen Küche. Es wird zwischen frischen und trockenen Petits Fours unterschieden.",
+                "GB": "A petit four is a small bite-sized confectionery or savoury appetizer. The name is French, petit four , meaning \"small oven\"."
             }
         },
         {
             "class": "philly cheese steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "philly cheesesteak"
         },
         {
             "class": "philly cheesesteak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cheesesteak",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cheesesteak"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Cheesesteak",
+                "GB": "Cheesesteak"
+            },
+            "description": {
+                "DE": "Das Cheesesteak, auch bekannt als Philadelphia Cheesesteak oder Philly Cheesesteak, ist eine Sandwich-Spezialität aus Philadelphia. Es besteht hauptsächlich aus sehr dünn geschnittenem Steakfleisch , das kurz gebraten und dann mit Käse, meist Provolone, manchmal auch Schmelzkäse, in einem länglichen, weichen Weizenbrötchen serviert wird. Wahlweise wird das Cheesesteak, das angeblich in den 1930er Jahren von den Brüdern Pat und Harry Olivieri im Pat’s King of Steaks erfunden wurde, mit oder ohne glasierte Zwiebeln bzw. grüner Paprika und weiteren Zutaten angeboten.",
+                "GB": "A cheesesteak is a sandwich made from thinly sliced pieces of beefsteak and melted cheese in a long hoagie roll. A popular regional fast food, it has its roots in the U.S. city of Philadelphia, Pennsylvania."
             }
         },
         {
             "class": "pho",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ph%E1%BB%9F",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pho"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Phở",
+                "GB": "Pho"
+            },
+            "description": {
+                "DE": "Pho oder Phở ist eine traditionelle Suppe der vietnamesischen Küche. Eine mögliche Wortherkunft ist die vietnamesische Aussprache für das französische Gericht Pot-au-feu.",
+                "GB": "Phở or pho ) is a Vietnamese soup consisting of broth, rice noodles , herbs, and meat – usually beef , sometimes chicken . Pho is a popular street food in Vietnam and served in restaurants around the world."
             }
         },
         {
