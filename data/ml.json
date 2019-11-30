@@ -8777,205 +8777,166 @@
         },
         {
             "class": "korma",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "curry"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Korma_(Gericht)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Korma"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Korma",
+                "GB": "Korma"
+            },
+            "description": {
+                "DE": "Korma ist ein Gericht, das aus Südasien oder Zentralasien stammt und mit Joghurt, Sahne, Nuss- und Samenpasten oder Kokosmilch zubereitet werden kann. Es ist eine Art Curry.",
+                "GB": "Korma is a dish originated in the Indian subcontinent, consisting of meat or vegetables braised with yogurt or cream, water or stock, and spices to produce a thick sauce or glaze."
             }
         },
         {
             "class": "kung pao chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Kung_Pao_chicken"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kung Pao Huhn",
+                "GB": "Kung Pao chicken"
+            },
+            "description": {
+                "DE": "Kung Pao Huhn, auch als Gong Bao oder Kung Po transkribiert, ist ein würziges, geröstetes chinesisches Gericht, das aus Huhn, Erdnüssen, Gemüse und Chilipfeffer hergestellt wird. Der Klassiker der Sichuaner Küche stammt aus der Sichuan-Provinz im Südwesten Chinas und beinhaltet Sichuan-Pfefferkörner. Obwohl das Gericht in ganz China zu finden ist, gibt es regionale Unterschiede, die typischerweise weniger scharf sind als die Sichuan-Dosierung. Kung Pao Huhn ist auch ein Grundnahrungsmittel der westlichen chinesischen Küche.",
+                "GB": "Kung Pao chicken , also transcribed as Gong Bao or Kung Po, is a spicy, stir-fried Chinese dish made with chicken, peanuts, vegetables , and chili peppers. The classic dish in Sichuan cuisine originated in the Sichuan Province of south-western China and includes Sichuan peppercorns. Although the dish is found throughout China, there are regional variations that are typically less spicy than the Sichuan serving. Kung Pao chicken is also a staple of Westernized Chinese cuisine."
             }
         },
         {
             "class": "lager",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "helles"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Lagerbier",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lager"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Lagerbier",
+                "GB": "Lager"
+            },
+            "description": {
+                "DE": "Als Lager werden im deutschsprachigen Raum verschiedene Biersorten bezeichnet.",
+                "GB": "Lager is a type of beer conditioned at low temperatures. Lagers can be yellow pale, amber, or dark. Pale lager is the most widely consumed and commercially available style of beer. Well-known brands include Pilsner Urquell, Molson Canadian, Miller, Stella Artois, Beck's, Brahma, Budweiser Budvar, Corona, Snow, Tsingtao, Singha, Kirin, Quilmes, Heineken, Kingfisher, Carling, Foster's, Carlsberg, Birra Moretti and Tennents."
             }
         },
         {
             "class": "lamb shanks",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other meat"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Lammkeulen",
+                "GB": "Lamb Shanks"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "langoustine",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "scampi"
         },
         {
             "class": "langoustines",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "langoustine"
         },
         {
             "class": "lasagna",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "lasagne"
         },
         {
             "class": "lasagne",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
             "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Lasagne",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lasagne"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Lasagne",
+                "GB": "Lasagne"
+            },
+            "description": {
+                "DE": "Als Lasagne werden sowohl besonders breite Bandnudeln als auch der mehrere Teigschichten beinhaltende Auflauf bezeichnet.",
+                "GB": "Lasagne are a type of wide, flat pasta, possibly one of the oldest types of pasta. Lasagne, or the singular lasagna, commonly refers to a culinary dish made with stacked layers of pasta alternated with sauces and ingredients such as meats, vegetables and cheese, and sometimes topped with melted grated cheese. Typically, the cooked pasta is assembled with the other ingredients and then baked in an oven. The resulting lasagne casserole is cut into single-serving square portions."
             }
         },
         {
             "class": "lassi",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other beverage"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Lassi",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lassi"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Lassi",
+                "GB": "Lassi"
+            },
+            "description": {
+                "DE": "Lassi {.mw-parser-output .Deva{font-size:calc\/80))}}@media all and {.mw-parser-output .Deva{font-size:100%}}लस्सी .mw-parser-output .Latn{font-family:\"Akzidenz Grotesk\",\"Arial\",\"Avant Garde Gothic\",\"Calibri\",\"Futura\",\"Geneva\",\"Gill Sans\",\"Helvetica\",\"Lucida Grande\",\"Lucida Sans Unicode\",\"Lucida Grande\",\"Stone Sans\",\"Tahoma\",\"Trebuchet\",\"Univers\",\"Verdana\"}lassī, Urdu .mw-parser-output .Arab a,.mw-parser-output a bdi.Arab{text-decoration:none!important}.mw-parser-output .Arab{font-size:120%}لسی) ist die Bezeichnung für ein indisches Joghurtgetränk. Es kommt in Varianten im asiatischen und osteuropäischen Raum vor, z. B. als Ayran in der Türkei und im Nahen Osten.\nMan trinkt Lassi gern zu scharfen Speisen, da es – im Gegensatz zu anderen Getränken – durch den Fettgehalt die Schärfe des Essens mildert und seine Verdaulichkeit erhöht. Lassi ist ein erfrischendes Milch-Mix-Getränk.",
+                "GB": "Lassi is a popular traditional dahi -based drink that originated in the Indian subcontinent. Lassi is a blend of yoghurt, water, spices and sometimes fruit. Namkeen lassi is similar to doogh, while sweet and mango lassis are like milkshakes. Bhang lassi is infused with the drug cannabis in the form of bhang. Chaas is a similar drink of a thinner consistency."
             }
         },
         {
             "class": "latte",
-            "name": {
-                "DE": "Milchkaffee",
-                "GB": "Latte"
-            },
-            "related-classes": [],
             "categories": [
-                "drink",
-                "coffee"
+                "with milk froth"
             ],
-            "description": {
-                "DE": "Milchkaffee ist ein Kaffee mit einem hohen Anteil Milch oder Milchschaum, der in verschiedenen Ländern vor allem morgens getrunken wird.",
-                "GB": "A latte is a coffee drink made with espresso and steamed milk."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Milchkaffee",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Latte"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Milchkaffee (Latte)",
+                "GB": "Latte"
+            },
+            "description": {
+                "DE": "Milchkaffee ist ein Kaffee mit einem hohen Anteil Milch oder Milchschaum, der in verschiedenen Ländern vor allem morgens getrunken wird. Er wird in den Niederlanden auch als koffie verkeerd bezeichnet. In Wien ist mit einem Kaffee verkehrt ein kleiner Mokka mit aufgeschäumter Milch gemeint. In der Schweiz wird Milchkaffee – nach dem Trinkgefäß – Schale genannt.",
+                "GB": "A latte is a coffee drink made with espresso and steamed milk."
             }
         },
         {
