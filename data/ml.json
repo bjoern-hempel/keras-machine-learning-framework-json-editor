@@ -8113,162 +8113,164 @@
         },
         {
             "class": "hawaiian pizza",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pizza"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pizza_Hawaii",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hawaiian_pizza"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pizza Hawaii",
+                "GB": "Hawaiian pizza"
+            },
+            "description": {
+                "DE": "Pizza Hawaii ist eine Variante der Pizza, die aus dem Grundteig mit Tomatensauce, Schinken, Ananas und Käse besteht.",
+                "GB": "Hawaiian pizza is a pizza topped with tomato sauce, cheese, pineapple, and ham. Pineapple as a pizza topping often divides public opinion."
             }
         },
         {
             "class": "herring",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "hoagie",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "hollandaise",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "hollandaise sauce",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "home fries",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "hot and sour soup",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "hot chocolate",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
@@ -8277,24 +8279,24 @@
         },
         {
             "class": "hotdog",
-            "name": {
-                "DE": "Hotdog",
-                "GB": "Hot dog"
-            },
-            "related-classes": [],
             "categories": [
-                "dish"
+                "undefined"
             ],
-            "description": {
-                "DE": "Der Hotdog (englisch für heißer Hund, auch Hot Dog) ist ein Fast-Food-Gericht, das aus einer warmen Brühwurst mit weiteren Zutaten in einem weichen Weizenbrötchen besteht.",
-                "GB": "The hot dog (also spelled hotdog) or dog is a grilled or steamed link-sausage sandwich where the sausage is served in the slit of a partially sliced bun."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Hotdog",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Hot_dog"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Hotdog",
+                "GB": "Hot dog"
+            },
+            "description": {
+                "DE": "Der Hotdog (englisch für heißer Hund, auch Hot Dog) ist ein Fast-Food-Gericht, das aus einer warmen Brühwurst mit weiteren Zutaten in einem weichen Weizenbrötchen besteht.",
+                "GB": "The hot dog (also spelled hotdog) or dog is a grilled or steamed link-sausage sandwich where the sausage is served in the slit of a partially sliced bun."
             }
         },
         {
