@@ -10179,22 +10179,24 @@
         },
         {
             "class": "mousse",
-            "categories": [],
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Mousse",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Mousse"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Mousse",
+                "GB": "Mousse"
+            },
+            "description": {
+                "DE": "Mousse werden Speisen von schaumiger, crèmeartiger Konsistenz genannt, so insbesondere Süßspeisen wie zum Beispiel die Mousse au Chocolat, aber auch Vorspeisen aus püriertem Fleisch oder Gemüse , die durch Beimengung von Schlagsahne, Eischnee oder Gelatine, Aufschlagen und eventuell Kühlen eine schaumige, zartschmelzende Konsistenz erhalten.",
+                "GB": "A mousse is a soft prepared food that incorporates air bubbles to give it a light and airy texture. It can range from light and fluffy to creamy and thick, depending on preparation techniques. A mousse may be sweet or savory."
             }
         },
         {
@@ -10203,120 +10205,112 @@
                 "other dessert"
             ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            }
-        },
-        {
-            "class": "mozzarella sticks",
-            "categories": [],
-            "related-classes": [],
-            "name": {
-                "DE": "Mousse au Chocolat",
-                "GB": "Mousse au Chocolat"
-            },
-            "description": {
-                "DE": "Mousse au Chocolat ist eine klassische französische Nachspeise aus dunkler Schokolade, Ei, Zucker und Butter.",
-                "GB": "Mousse au Chocolat is a classic French dessert made from dark chocolate, egg, sugar and butter."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Mousse_au_Chocolat",
                     "GB": ""
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Mousse Au Chocolat",
+                "GB": "Mousse Au Chocolat"
+            },
+            "description": {
+                "DE": "Mousse au Chocolat ist eine klassische französische Nachspeise aus dunkler Schokolade, Ei, Zucker und Butter.",
+                "GB": "Mousse au Chocolat is a classic French dessert made from dark chocolate, egg, sugar and butter."
+            }
+        },
+        {
+            "class": "mozzarella sticks",
+            "categories": [
+                "snack, appetizer & starter"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
             }
         },
         {
             "class": "muesli",
-            "categories": [],
+            "categories": [
+                "breakfast"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/M%C3%BCsli",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Muesli"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Müsli",
+                "GB": "Muesli"
+            },
+            "description": {
+                "DE": "Müsli ist eine Zubereitung aus Haferflocken und weiteren Produkten auf Getreidebasis sowie Obst beziehungsweise Trockenobst, die mit Milch, Sojamilch, Joghurt oder Fruchtsaft üblicherweise zum Frühstück gegessen wird. Im Gegensatz zum Haferbrei, englisch Porridge, werden die Haferflocken hierbei nicht gekocht, sondern lediglich eingeweicht.",
+                "GB": "Muesli ) is a cold breakfast cereal dish based on rolled oats and ingredients like grains, nuts, seeds and fresh or dried fruits. This mix may be combined with one or more liquids like milk, almond milk, other plant milks, yogurt, or fruit juice and left for a time to soften the oats before being consumed."
             }
         },
         {
             "class": "muffin",
-            "categories": [],
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Muffin",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Muffin"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Muffin",
+                "GB": "Muffin"
+            },
+            "description": {
+                "DE": "Muffin ist die Bezeichnung für zwei verschiedene Gebäckarten. Die US-amerikanischen Muffins sind kleine runde Kuchen, die meistens mit Backpulver hergestellt und in speziellen Backformen gebacken werden. Im Vereinigten Königreich versteht man unter der Bezeichnung ein flaches Hefegebäck, das wie ein Toast verzehrt wird. In den USA werden diese als English Muffins bezeichnet.",
+                "GB": "A muffin is an individual-sized, baked product. It can refer to two distinct items, a part-raised flatbread that is baked and then cooked on a griddle and a cupcake-like quickbread that is chemically leavened and then baked in a mold. While quickbread muffins are often sweetened, there are savory varieties made with ingredients such as corn and cheese. The flatbread is of British or European derivation, and dates from at least the early 18th century, while the quickbread originated in North America during the 19th century. Both are common worldwide today."
             }
         },
         {
             "class": "muffins",
-            "categories": [],
-            "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            }
+            "plural": "muffin"
         },
         {
             "class": "mushroom soup",
-            "categories": [],
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pilzsuppe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cream_of_mushroom_soup"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pilzsuppe",
+                "GB": "Cream of mushroom soup"
+            },
+            "description": {
+                "DE": "Pilzsuppe, in Österreich und Bayern Schwammerlsuppe, ist eine Suppe aus frischen oder getrockneten Speisepilzen, häufig gebunden. Als Grundlage dienen in der Regel Champignons, Pfifferlinge oder Steinpilze, auch gemischte gesammelte nach Saison wie z. B. Maronen, Parasole, Wiesenchampignons und Schopftintlinge.",
+                "GB": "Cream of mushroom soup is a simple type of soup where a basic roux is thinned with cream or milk and then mushrooms and\/or mushroom broth are added. It is well known in North America as a common type of condensed canned soup. Cream of mushroom soup is often used as a base ingredient in casseroles and comfort foods. This use is similar to that of a mushroom-flavored gravy."
             }
         },
         {
@@ -10325,43 +10319,29 @@
         },
         {
             "class": "naan",
-            "categories": [],
+            "categories": [
+                "pastry & bread"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Naan_(Lebensmittel)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Naan"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Naan",
+                "GB": "Naan"
+            },
+            "description": {
+                "DE": "Naan ist eine Brotsorte, die in Südasien , Zentralasien sowie im vorderen Orient meist als Beilage zu heißen Speisen gegessen wird. Naan hat eine flache, fladenartige Form, die man vor dem Backen etwas in die Länge zieht. Der innere Teil ist flach, während der äußere Rand etwas dicker bleibt. Es ähnelt einem Pizzaboden oder geschmacklich auch dem Stockbrot. Leicht zu verwechseln ist Naan mit Kulcha, das allerdings ohne Hefe zubereitet wird.",
+                "GB": "Naan is a leavened, oven-baked flatbread found in the cuisines mainly of Western Asia, South Asia, Central Asia, Myanmar and the Caribbean."
             }
         },
         {
             "class": "naan bread",
-            "categories": [],
-            "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            }
+            "duplicate": "naan"
         },
         {
             "class": "nachos",
