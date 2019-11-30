@@ -12853,603 +12853,465 @@
         },
         {
             "class": "roasted cauliflower",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "vegetable"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Gerösteter Blumenkohl",
+                "GB": "Roasted Cauliflower"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "roasted chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "fried chicken"
         },
         {
             "class": "roasted potatoes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "home fries"
         },
         {
             "class": "roasted turkey",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Gebratene Pute",
+                "GB": "Roasted Turkey"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "roasted vegetables",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "vegetable"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Geröstetes Gemüse",
+                "GB": "Roasted Vegetables"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "roast lamb",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other meat"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Lammbraten",
+                "GB": "Roast Lamb"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "rockfish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "grouper"
         },
         {
             "class": "rock shrimp",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "shrimps"
         },
         {
             "class": "rogan josh",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other meat"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rogan_Josh",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Rogan_josh"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Rogan Josh",
+                "GB": "Rogan josh"
+            },
+            "description": {
+                "DE": "Rogan josh, auch roghan josh, im Persischen ausgesprochen, ist ein stark gewürztes Lammgericht persischer Herkunft und eines der traditionellen Gerichte der Küche Kaschmirs. Roughan bedeutet „geklärte Butter“ oder „Fett“ in persischer Sprache, während juš , die Bedeutung „Intensität“ oder „Leidenschaft“ besitzt und sich letztlich von dem Verb jušidan mit der Bedeutung „erhitzen oder kochen“ herleiten lässt. Rogan josh bedeutet daher frei übersetzt „kochen mit großer Hitze in Öl“. Eine andere Interpretation führt rogan josh auf die Wörter rogan „rote Farbe“ und josh „Leidenschaft“ oder „Hitze“ zurück.",
+                "GB": "Rogan josh , also written roghan josh or roghan ghosht, is an aromatic curried meat dish of Persian or Kashmiri origin. It is made with red meat, traditionally lamb or goat. It is colored and flavored primarily by alkanet flower or root and Kashmiri chilies. It is one of the signature recipes of Kashmiri cuisine."
             }
         },
         {
             "class": "roll",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "roll"
         },
         {
             "class": "rolls",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "rolls"
         },
         {
             "class": "romesco",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Romesco",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Romesco"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Romesco",
+                "GB": "Romesco"
+            },
+            "description": {
+                "DE": "Romesco oder Romescu ist eine würzige, leicht scharfe Sauce aus der Provinz Tarragona in Katalonien. Sie wird aus Tomaten, Knoblauch, Mandeln, Haselnüssen, getrockneten Paprikas, geröstetem Brot, Olivenöl, Weinessig und Wein zubereitet.",
+                "GB": "Romesco is a tomato-based sauce that originated from Tarragona, Catalonia. The fishermen in this area made this sauce to be eaten with fish. It is typically made from any mixture of roasted tomatoes and garlic, toasted almonds, pine nuts, and\/or hazelnuts, olive or sunflower oil, and nyora peppers . Flour or ground stale bread may be used as a thickener or to provide texture."
             }
         },
         {
             "class": "root beer",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "dark beer"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Root_Beer",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Root_beer"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Root Beer",
+                "GB": "Root beer"
+            },
+            "description": {
+                "DE": "Root Beer ist ein in den Vereinigten Staaten und Kanada verbreitetes alkoholfreies, kohlensäurehaltiges Erfrischungsgetränk. Im frankophonen Teil Kanadas wird es als Racinette bezeichnet, obwohl ursprünglich ein anderes Kräutergetränk diesen Namen trug. Ein beliebtes Dessert in den Vereinigten Staaten ist der Root Beer Float, bei dem typischerweise Vanilleeis in Root Beer schwimmt. In älteren deutschen Synchronisationen amerikanischer Filme wird der Begriff Root Beer oft mit „Kräuterbier“ übersetzt.",
+                "GB": "Root beer is a sweet North American beverage traditionally made using the root bark of the sassafras tree Sassafras albidum or the vine of Smilax ornata as the primary flavor. Root beer may be alcoholic or non-alcoholic, most often non-alcoholic. It is naturally free of caffeine but can have caffeine added, and be carbonated or non-carbonated. It usually has a thick and foamy head when poured. Modern, commercially produced root beer is generally sweet, foamy, carbonated, non-alcoholic, and flavored using artificial sassafras flavoring. Sassafras root is still used to flavor traditional root beer, but since sassafras was banned by the U.S. Food and Drug Administration due to the carcinogenicity of its constituent safrole, most commercial recipes do not contain sassafras. Some commercial root beers do use a safrole-free sassafras extract. Major producers include A&W Root Beer, Barq's, Dad's Root Beer, Hires Root Beer, and Mug Root Beer."
             }
         },
         {
             "class": "root beer float",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other beverage"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Root Beer Float",
+                "GB": "Root Beer Float"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "ropa vieja",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ropa_vieja",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ropa_vieja"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Ropa vieja",
+                "GB": "Ropa vieja"
+            },
+            "description": {
+                "DE": "Ropa vieja ist eines der Nationalgerichte Kubas, wird aber auch in anderen lateinamerikanischen und karibischen Staaten wie Panama und Puerto Rico, im US-Bundesstaat Florida oder auf den Kanarischen Inseln gegessen.",
+                "GB": "Ropa vieja is one of the national dishes of Cuba, but is also popular in other areas or parts of the Caribbean such as Puerto Rico and Panama, as well as in Spain and the Philippines. It consists of shredded or pulled stewed beef with vegetables. In the Cuban cuisine of Miami, Florida, it is typical for ropa vieja to have a sweet undertone. While this is traditionally intended to be due to the use of fully ripe red bell peppers, it is not uncommon for recipes to include some quantity of sugar as a means to achieve the correct level of sweetness in the finished dish."
             }
         },
         {
             "class": "roti",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pastry & bread"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Roti"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Roti",
+                "GB": "Roti"
+            },
+            "description": {
+                "DE": "Roti ist ein auf dem indischen Subkontinent heimisches Rundbrot, das aus Vollkornmehl aus Steinmehl, traditionell als Atta bekannt, und Wasser, das zu einem Teig verarbeitet wird, hergestellt wird. Roti wird in den Ländern des Commonwealth konsumiert: Indien, Pakistan, Nepal, Sri Lanka, Indonesien, Somalia, Singapur, Malediven, Thailand, Malaysia und Bangladesch, Teile Afrikas, Fidschis, Mauritius und der Karibik, insbesondere in Trinidad und Tobago, Jamaika, St. Lucia, Guyana und Suriname. Seine charakteristische Eigenschaft ist, dass er ungesäuert ist. Naan vom indischen Subkontinent ist dagegen ebenso wie Kulcha ein Hefebrot: Wie Brote auf der ganzen Welt ist roti eine Grundnahrungsmittelbegleitung zu anderen Lebensmitteln.",
+                "GB": "Roti is a round flatbread native to the Indian subcontinent made from stoneground wholemeal flour, traditionally known as atta, and water that is combined into a dough. Roti is consumed in Commonwealth countries: India, Pakistan, Nepal, Sri Lanka, Indonesia, Somalia, Singapore, Maldives, Thailand, Malaysia and Bangladesh, parts of Africa, Fiji, Mauritius and the Caribbean, particularly in Trinidad and Tobago, Jamaica, St Lucia, Guyana and Suriname. Its defining characteristic is that it is unleavened. Naan from the Indian subcontinent, by contrast, is a yeast-leavened bread, as is kulcha.Like breads around the world, roti is a staple accompaniment to other foods."
             }
         },
         {
             "class": "rotisserie chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Rotisserie Chicken",
+                "GB": "Rotisserie Chicken"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "roulade",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other meat"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Roulade",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Roulade"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Roulade",
+                "GB": "Roulade"
+            },
+            "description": {
+                "DE": "Rouladen sind in der Kochkunst gefüllte Rollen aus dünnen Scheiben Fleisch, Fisch oder Kohlblättern, die in einem Fond oder einer Sauce geschmort werden. In der Konfisserie meint Roulade süße, mit Creme oder Marmelade gefüllte Biskuitrollen oder auch die Scheiben einer Biskuitrolle. Der Konditorbegriff Roulade wird vor allem in Österreich sowie in manchen Gegenden Süddeutschlands und der Schweiz gebraucht. Er wurde im 18.\/19. Jahrhundert aus dem französischen roulade von rouler, „rollen“ entlehnt.",
+                "GB": "A roulade is a dish of filled rolled meat or pastry. Roulade can be savory or sweet. Swiss roll is an example of a sweet roulade. Traditionally found in various European cuisines, the term roulade originates from the French word \"rouler\", meaning \"to roll\"."
             }
         },
         {
             "class": "rum",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rum",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Rum"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Rum",
+                "GB": "Rum"
+            },
+            "description": {
+                "DE": "Rum ist ein alkoholisches Getränk. Er wird aus Melasse des Zuckerrohrs gewonnen, seltener aus frischem Zuckerrohrsaft. Abgewandelte Produkte sind Rum-Verschnitt und Inländer-Rum. Der Mindestalkoholgehalt beträgt 37,5 Volumenprozent.",
+                "GB": "Rum is a distilled alcoholic drink made by fermenting then distilling sugarcane molasses or sugarcane juice. The distillate, a clear liquid, is usually aged in oak barrels. Most rums are produced in Caribbean and American countries, but also in other sugar producing countries, such as the Philippines and India."
             }
         },
         {
             "class": "sablefish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kohlenfisch",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sablefish"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kohlenfisch",
+                "GB": "Sablefish"
+            },
+            "description": {
+                "DE": "Kohlenfisch ",
+                "GB": "The sablefish is one of two members of the fish family Anoplopomatidae and the only species in the genus Anoplopoma. In English, common names for it include sable , butterfish , black cod , blue cod , bluefish , candlefish , coal cod , coalfish , beshow, and skil , although many of these names also refer to other, unrelated, species. In the US, the FDA accepts only \"sablefish\" as the Acceptable Market Name; \"black cod\" is considered a vernacular name and should not be used as a Statement of Identity for this species. The sablefish is found in muddy sea beds in the North Pacific at depths of 300 to 2,700 m and is commercially important to Japan."
             }
         },
         {
             "class": "sake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sake",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sake",
+                "GB": "Sake"
+            },
+            "description": {
+                "DE": "Sake ist ein aus poliertem Reis gebrautes alkoholisches Getränk aus Japan. Das klare oder weißlich-trübe Getränk enthält ca. 15–20 Volumenprozent Alkohol.",
+                "GB": "Sake, also spelled saké , sake is produced by a brewing process more akin to that of beer, where starch is converted into sugars, which ferment into alcohol."
             }
         },
         {
             "class": "salad",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "salad"
         },
         {
             "class": "salad sandwich",
+            "categories": [
+                "fast food"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "Salatsandwich",
+                    "GB": "Salad Sandwich"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "salmon",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Salmon_as_food"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Lachs",
+                "GB": "Salmon as food"
+            },
+            "description": {
+                "DE": "Lachs ist ein häufiges Nahrungsmittel, das als öliger Fisch mit einem hohen Gehalt an Proteinen und Omega-3-Fettsäuren eingestuft wird. In Norwegen - einem der wichtigsten Produzenten von Zucht- und Wildlachs - unterscheiden sich Zuchtlachs und Wildlachs nur geringfügig in Bezug auf Lebensmittelqualität und -sicherheit, wobei Zuchtlachs einen geringeren Gehalt an Umweltkontaminanten aufweist und Wildlachs einen höheren Gehalt an Omega-3-Fettsäuren aufweist.",
+                "GB": "Salmon is a common food classified as an oily fish with a rich content of protein and omega-3 fatty acids. In Norway – a major producer of farmed and wild salmon – farmed and wild salmon differ only slightly in terms of food quality and safety, with farmed salmon having lower content of environmental contaminants, and wild salmon having higher content of omega-3 fatty acids."
             }
         },
         {
             "class": "salmon burger",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Lachsfrikadelle",
+                "GB": "Salmon Burger"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "salmon fillet",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "salmon"
         },
         {
             "class": "salmon salad",
+            "categories": [
+                "other salad"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "Lachssalat",
+                    "GB": "Salmon Salad"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "salmon steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "salmon"
         },
         {
             "class": "salsa",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "salsa"
         },
         {
             "class": "salsa verde",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "salsa"
         },
         {
             "class": "samosa",
