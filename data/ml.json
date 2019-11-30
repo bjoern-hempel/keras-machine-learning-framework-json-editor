@@ -8941,203 +8941,187 @@
         },
         {
             "class": "lava cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chocolate cake"
         },
         {
             "class": "lemonade",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soft drink"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Limonade",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lemonade"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Limonade",
+                "GB": "Lemonade"
+            },
+            "description": {
+                "DE": "Eine Limonade, umgangssprachlich auch kurz Limo , ist ein alkoholfreies, gesüßtes und meist mit Kohlensäure versetztes Erfrischungsgetränk mit oder ohne Fruchtauszügen auf Basis von Wasser. Im ursprünglichen Wortsinn ist Limonade ein Getränk aus mit Wasser verdünntem Zitronensaft.",
+                "GB": "Lemonade can be any variety of sweetened or unsweetened beverages found throughout the world, which are traditionally all characterized by a lemon flavor."
             }
         },
         {
             "class": "lemon meringue pie",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "torte"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Lemon_Meringue_Pie",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lemon_meringue_pie"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Lemon Meringue Pie",
+                "GB": "Lemon meringue pie"
+            },
+            "description": {
+                "DE": "Lemon Meringue Pie ist eine Spezialität aus Großbritannien, die auch in anderen englischsprachigen Ländern wie Nordamerika und Australien verbreitet ist. Sie steht stellvertretend für eine Reihe von Torten auf Zitrusbasis, die in diesen Ländern besonders als Dessert beliebt sind. Der Lemon Meringue Pie ist eine relativ flache Torte mit einer Baiserhaube, deren Hauptbestandteil Lemon Curd ist, eine intensiv aromatische Zitronencreme, deren weitere Bestandteile Butter, Eigelb und Zucker sind und die ebenfalls ein klassisches Rezept der englischen Küche ist.",
+                "GB": "Lemon meringue pie is a type of baked pie, usually served for dessert, made with a crust usually made of shortcrust pastry, lemon custard filling and a fluffy meringue topping. Lemon meringue pie is prepared with a bottom pie crust, with the meringue directly on top of the lemon filling."
             }
         },
         {
             "class": "lemon sole",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Lemon Sole",
+                "GB": "Lemon Sole"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "lemon sorbet",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Zitronensorbet",
+                "GB": "Lemon sorbet"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "lemon tart",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "torte"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Zitronenkuchen",
+                "GB": "Lemon Tart"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "lentils",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Linsengericht",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lentil"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Linsengericht",
+                "GB": "Lentil Dish"
+            },
+            "description": {
+                "DE": "Ein Gericht, zubereitet mit Linsen, z. B. Linsen mit Spätzle, Linseneintopf oder indisches Dal.",
+                "GB": "A dish prepared with lentils, e.g. lentils with spaetzle, lentil stew or Indian dal."
             }
         },
         {
             "class": "lentil soup",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Linsensuppe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lentil_soup"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Linsensuppe",
+                "GB": "Lentil soup"
+            },
+            "description": {
+                "DE": "Linsensuppe ist eine weltweit bekannte Suppe aus gekochten Linsen, die je nach Rezept aus verschiedenfarbigen Linsen hergestellt und dick- oder dünnflüssig sein kann. In der Regel wird auch Gemüse mitgekocht.",
+                "GB": "Lentil soup is a soup based on lentils; it may be vegetarian or include meat, and may use brown, red, yellow or black lentils, with or without the husk. Dehulled yellow and red lentils disintegrate in cooking, making a thick soup. It is a staple food throughout the Middle East."
             }
         },
         {
             "class": "lettuce wrap",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Salat Wrap",
+                "GB": "Lettuce Wrap"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "lettuce wraps",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "lettuce wrap"
         },
         {
             "class": "limoncello",
