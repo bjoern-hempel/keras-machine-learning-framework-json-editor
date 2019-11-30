@@ -10345,202 +10345,186 @@
         },
         {
             "class": "nachos",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Nachos",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Nachos"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Nachos",
+                "GB": "Nachos"
+            },
+            "description": {
+                "DE": "Nachos sind in ihrer einfachsten Form Tortilla-Chips, die mit geschmolzenem Käse übergossen oder überbacken und häufig mit Jalapeños serviert werden. Darüber hinaus sind mittlerweile weitere Garnierungen mit verschiedenen Saucen, Schmand, Guacamole und auch Hackfleisch, Hühnerfleisch usw. üblich. Nachos sind vor allem in den USA beliebt, mittlerweile aber auch in Europa populär.",
+                "GB": "Nachos is a Tex-Mex dish from northern Mexico that consists of heated tortilla chips or totopos covered with melted cheese , often served as a snack or appetizer. More elaborate versions of the dish include other ingredients, and may be substantial enough to serve as a main dish. Ignacio \"Nacho\" Anaya is credited for creating the dish in 1943; the original nachos consisted of fried corn tortilla chips covered with melted cheese and sliced jalapeño peppers."
             }
         },
         {
             "class": "negroni",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cocktail"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Negroni",
+                "GB": "Negroni"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "new potatoes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "potato"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Neue Kartoffeln",
+                "GB": "New Potatoes"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "new york cheesecake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "cheesecake"
         },
         {
             "class": "nicoise salad",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "green"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Salade_ni%C3%A7oise",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Salade_ni%C3%A7oise"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Salade niçoise",
+                "GB": "Salade niçoise"
+            },
+            "description": {
+                "DE": "Der Name Salade niçoise bezeichnet einen Salat, der allgemein der provenzalischen Küche und der Region um Nizza zugerechnet wird. Quellenbelege für diese Auffassung fehlen jedoch, die ältesten bekannten Rezepte stammen aus Paris.",
+                "GB": "Salade niçoise , la salada nissarda in the Niçard dialect of the Occitan language, is a salad that originated in the French city of Nice. It is traditionally made of tomatoes, hard-boiled eggs, Niçoise olives and anchovies or tuna, dressed with olive oil. It has been popular worldwide since the early 20th century, and has been prepared and discussed by many chefs. Delia Smith called it \"one of the best combinations of salad ingredients ever invented\" and Gordon Ramsay said that \"it must be the finest summer salad of all\"."
             }
         },
         {
             "class": "noodle",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Nudel_(Lebensmittel)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Noodle"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Nudel",
+                "GB": "Noodle"
+            },
+            "description": {
+                "DE": "Nudel ist ein Oberbegriff für eine Vielfalt von gegarten Speisen aus einem Teig meist auf der Basis von gemahlenem Getreide, von denen ein großer Teil heute unter Teigwaren eingeordnet wird. Nudeln können verschiedenste Form und Größe aufweisen und mit sehr unterschiedlichen Zutaten hergestellt sein.",
+                "GB": "Noodles are a type of food made from unleavened dough which is rolled flat and cut, stretched or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use."
             }
         },
         {
             "class": "noodle bowl",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Nuddel Bowl",
+                "GB": "Noodle Bowl"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "noodles",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "noodle"
         },
         {
             "class": "nuggets",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Chicken-Nuggets",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_nugget"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Chicken-Nuggets",
+                "GB": "Chicken nugget"
+            },
+            "description": {
+                "DE": "Chicken-Nuggets sind mundgerecht portionierte, panierte und frittierte Stücke aus Hähnchenfleisch oder Hähnchenformfleisch. Sie gehören zum Standardsortiment von US-amerikanischen Fastfood-Anbietern wie McDonald’s, Burger King oder Kentucky Fried Chicken, werden aber auch im Lebensmittelhandel als Tiefkühlkost oder Kühlkost angeboten.",
+                "GB": "A chicken nugget is a chicken product made from chicken meat that is breaded or battered, then deep-fried or baked. Fast food restaurants usually fry their nuggets in vegetable oil."
             }
         },
         {
             "class": "nutella",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Nougatcreme",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chocolate_spread"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Nougatcreme",
+                "GB": "Chocolate spread"
+            },
+            "description": {
+                "DE": "Nougatcreme ist ein süßer Brotaufstrich aus fein zerkleinerten Haselnüssen oder Mandeln, Kakaoprodukten, Zucker und Pflanzenfett. In ihrer Zusammensetzung entspricht sie weitgehend dem Nougat, nur mit dem Unterschied, dass sie zugesetztes Pflanzenfett enthält und dadurch streichfähiger wird. Je nach verwendeter Ölsaat ist die Bezeichnung Nuss-Nougat-Creme oder Mandel-Nougat-Creme üblich.",
+                "GB": "Chocolate spread is a sweet chocolate-flavored paste which is eaten mostly spread on breads and toasts or similar grain items such as waffles, pancakes, muffins, and pitas."
             }
         },
         {
