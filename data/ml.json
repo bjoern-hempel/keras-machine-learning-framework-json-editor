@@ -9977,202 +9977,204 @@
         },
         {
             "class": "miso soup",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Miso-Suppe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Miso_soup"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Miso-Suppe",
+                "GB": "Miso soup"
+            },
+            "description": {
+                "DE": "Miso-Suppe ist ein japanisches Nationalgericht. Die Hauptgeschmacksgeber sind Dashi und Miso . Feste Bestandteile bzw. Suppeneinlagen sind z. B. kleine Tofustücke, Wakame und Frühlingszwiebeln. Je nach Jahreszeit können die Zutaten variieren, sodass auch manchmal Pilze wie Shiitake in der Suppe zu finden sind.",
+                "GB": "Miso soup is a traditional Japanese soup consisting of a stock called \"dashi\" into which softened miso paste is mixed. Many ingredients are added depending on regional and seasonal recipes, and personal preference."
             }
         },
         {
             "class": "mocha",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "with milk froth"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Caff%C3%A8_mocha",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Caff%C3%A8_mocha"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Caffè mocha",
+                "GB": "Caffè mocha"
+            },
+            "description": {
+                "DE": "Ein Caffè mocha ist eine Kaffee-Variation, die aus Espresso, heißer Milch sowie Schokoladensirup oder flüssiger Schokolade zubereitet wird. Das Getränk hat meistens eine Milchschaum- oder Sahnehaube.",
+                "GB": "A caffè mocha , also called mocaccino , is a chocolate-flavored variant of a caffè latte. Other commonly used spellings are mochaccino and also mochachino. The name is derived from the city of Mocha, Yemen, which was one of the centers of early coffee trade."
             }
         },
         {
             "class": "mochi",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Mochi",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Mochi"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Mochi",
+                "GB": "Mochi"
+            },
+            "description": {
+                "DE": "Mochi ist die Bezeichnung für japanische Reiskuchen, die traditionell vor allem zu Neujahr gegessen werden.",
+                "GB": "Mochi is Japanese rice cake made of mochigome, a short-grain japonica glutinous rice, and sometimes other ingredients such as water, sugar, and cornstarch. The rice is pounded into paste and molded into the desired shape. In Japan it is traditionally made in a ceremony called mochitsuki. While also eaten year-round, mochi is a traditional food for the Japanese New Year and is commonly sold and eaten during that time."
             }
         },
         {
             "class": "mocktail",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cocktail"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Mocktail",
+                    "GB": ""
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Mocktail",
+                "GB": "Mocktail"
+            },
+            "description": {
+                "DE": "Ein Mocktail ist eine scherzhafte Wortschöpfung, mit der die alkoholfreie Entsprechung eines bekannten alkoholhaltigen Cocktails bezeichnet wird.",
+                "GB": "A mocktail is a joking word creation that describes the non-alcoholic equivalent of a well-known alcoholic cocktail."
             }
         },
         {
             "class": "mojito",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cocktail"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Mojito",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Mojito"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Mojito",
+                "GB": "Mojito"
+            },
+            "description": {
+                "DE": "Der Mojito ist ein Cocktail aus hellem kubanischen Rum, Limettensaft, Minze, Rohrzucker und Sodawasser. Er gehört zu den bekanntesten Mixgetränken. Aufgrund seines Volumens kann der Mojito zu den Longdrinks gezählt werden.",
+                "GB": "Mojito is a traditional Cuban highball."
             }
         },
         {
             "class": "molten chocolate cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chocolate cake"
         },
         {
             "class": "mongolian beef",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Mongolian_beef"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Mongolisches Rindfleisch",
+                "GB": "Mongolian beef"
+            },
+            "description": {
+                "DE": "Mongolisches Rindfleisch ist ein Gericht, das in chinesischen Restaurants serviert wird und aus geschnittenem Rindfleisch besteht, typischerweise flankiertes Steak, das normalerweise mit Zwiebeln zubereitet wird. Das Rindfleisch wird häufig mit Zwiebeln oder Mischgemüse kombiniert und ist oft nicht scharf. Das Gericht wird oft über gedünstetem Reis oder in den USA über knusprig gebackenen Cellophan-Nudeln serviert.",
+                "GB": "'Mongolian beef is a dish served in Chinese restaurants consisting of sliced beef, typically flank steak, usually made with onions. The beef is commonly paired with scallions or mixed vegetables and is often not spicy. The dish is often served over steamed rice, or in the US, over crispy fried cellophane noodles."
             }
         },
         {
             "class": "monkfish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Seeteufel",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lophius_piscatorius"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Seeteufel",
+                "GB": "Monkfish"
+            },
+            "description": {
+                "DE": "Der Seeteufel (Lophius piscatorius), auch Anglerfisch oder Lotte genannt, ist ein Fisch aus der Ordnung der Armflosser. Er lebt im nordöstlichen Atlantik von der Küste Marokkos bis nach Norwegen und der Südküste Islands, aber auch bei den Azoren, im Mittelmeer, in der Adria, der Ägäis und im Schwarzen Meer. Er hält sich in Tiefen von 20 bis 1000 Metern auf.",
+                "GB": "Lophius piscatorius, commonly known as the angler, is a monkfish in the family Lophiidae. It is found in coastal waters of the northeast Atlantic, from the Barents Sea to the Strait of Gibraltar, the Mediterranean and the Black Sea. Within some of its range, including the Irish Sea, this species comprises a significant commercial fishery."
             }
         },
         {
             "class": "moscato",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "white wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Moscato_d%E2%80%99Asti",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Moscato_d%27Asti"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Moscato d’Asti",
+                "GB": "Moscato d'Asti"
+            },
+            "description": {
+                "DE": "Moscato d’Asti ist ein süßer italienischer Weißwein aus den Provinzen Provinz Asti, Provinz Cuneo und Provinz Alessandria, Piemont. Moscato d’Asti hat seit 1967 den Status einer DOCG, die in der letzten Fassung vom 7. März 2014 datiert. Der Wein dient auch als Grundlage des Schaumweins Asti Spumante, der eine zweite Gärung erfährt. Der Wein ist zum schnellen Genuss gedacht und sollte immer binnen eines Jahres getrunken werden.",
+                "GB": "Moscato d'Asti is a DOCG sparkling white wine made from the Moscato bianco grape and produced mainly in the province of Asti, northwest Italy, and in smaller nearby regions in the provinces of Alessandria and Cuneo. The wine is sweet and low in alcohol, and is considered a dessert wine. A related wine, Asti, is produced in the same area from the same grape."
             }
         },
         {
             "class": "moussaka",
-            "categories": [],
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Moussaka",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Moussaka"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Moussaka",
+                "GB": "Moussaka"
+            },
+            "description": {
+                "DE": "Als Moussaka bezeichnet man verschiedene Gerichte aus Auberginen und Hackfleisch. Andere Bezeichnungen bzw. Schreibweisen sind Mousakás, Musaka und Mousakas.",
+                "GB": "Moussaka is an eggplant- or potato-based dish, often including ground meat, in the Levant, Middle East, and Balkans, with many local and regional variations."
             }
         },
         {
