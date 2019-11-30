@@ -11045,202 +11045,204 @@
         },
         {
             "class": "pasta dish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "pasta"
         },
         {
             "class": "pasta salad",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other salad"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Nudelsalat",
+                    "GB": ""
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Nudelsalat",
+                "GB": "Pasta Salad"
+            },
+            "description": {
+                "DE": "Nudelsalat ist eine Zubereitung der kalten Küche auf Basis von gekochten Nudeln, die besonders auf kalten Buffets, Partys und Grillabenden angeboten wird.",
+                "GB": "Pasta salad is a preparation of the cold kitchen on basis of cooked pasta, which is offered particularly on cold buffets, parties and grill evenings."
             }
         },
         {
             "class": "pasty",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Cornish_Pasty",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pasty"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Cornish Pasty",
+                "GB": "Pasty"
+            },
+            "description": {
+                "DE": "Cornish Pasty ist die Bezeichnung für eine englische Version der Fleischpastete, die mit der Region um Cornwall assoziiert wird. Es handelt sich dabei um eine gefüllte Teigware, deren Füllung typischerweise aus Rindfleisch, Kartoffeln, Steckrüben, Zwiebeln, Salz und Pfeffer besteht. Die Teigtasche ist geformt wie ein „D“, wobei die Kruste, an welcher die Tasche nach dem Befüllen geschlossen wird, an der runden Außenseite verläuft.",
+                "GB": "A pasty is a baked pastry, a traditional variety of which is particularly associated with Cornwall, United Kingdom. It is made by placing an uncooked filling, typically meat and vegetables, on one half of a flat shortcrust pastry circle, folding the pastry in half to wrap the filling in a semicircle and crimping the curved edge to form a seal before baking."
             }
         },
         {
             "class": "pate",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pastete",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/P%C3%A2t%C3%A9"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pastete",
+                "GB": "Pâté"
+            },
+            "description": {
+                "DE": "Pasteten sind feingewürzte Gerichte aus einer Farce aus Fleisch, Wild, Geflügel oder Fisch, die in einer Teighülle gebacken werden.",
+                "GB": "Pâté -TAY, French:  ) is a paste, pie or loaf consisting of a forcemeat that at least contains liver. Common additions include ground meat from pork, poultry, fish or beef, fat, vegetables, herbs, spices and either wine or brandy . Pâté can be served either hot or cold, but it is considered to develop its fullest flavor after a few days of chilling."
             }
         },
         {
             "class": "patty melt",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Patty_melt"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Patty melt",
+                "GB": "Patty melt"
+            },
+            "description": {
+                "DE": "Eine Patty-Schmelze ist ein Burger, der aus einem Hamburger-Patty, geschmolzenem Schweizer Käse und manchmal mit karamellisierten Zwiebeln zwischen zwei Brotscheiben belegt ist. An manchen Orten, insbesondere in den USA, ist eine Patty Melt ein offenes Sandwich, das auf einem einzigen Stück Toast oder zwei Hälften eines Brötchens serviert wird. Es ist unklar, wann die Patty-Schmelze erfunden wurde, aber es gibt Aufzeichnungen darüber, dass sie bereits in den 1940er Jahren kommerziell genutzt wurde. Die Patty Melt ist eine Variante des traditionellen amerikanischen Cheeseburgers, der das Sandwich zu seinen Wurzeln zurückführt, indem er es auf Brot im Vergleich zu einem Brötchen serviert.",
+                "GB": "A patty melt is a burger consisting of a hamburger patty, melted Swiss cheese and sometimes topped with caramelized onions between two slices of bread . In some places, especially in the U.S., a patty melt is an open sandwich, served on a single piece of toast or two halves of a bun. It is unclear when the patty melt was invented, but records exist of them having been commercially served as early as the 1940s. The patty melt is a variant of the traditional American cheeseburger, taking the sandwich back to its roots by serving it on bread versus a bun."
             }
         },
         {
             "class": "pavlova",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "torte"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pavlova",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pavlova_(cake)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pavlova",
+                "GB": "Pavlova"
+            },
+            "description": {
+                "DE": "Pavlova ist eine mit Sahne und Früchten gefüllte Torte aus einer Baisermasse, die sowohl in Australien als auch in Neuseeland als ein Nationalgericht angesehen wird. Beide Länder beanspruchen die Erfindung der Süßspeise für sich. Fest steht, dass die Torte nach der russischen Ballerina Anna Pawlowa benannt wurde, die Ende der 1920er Jahre in beiden Ländern Gastauftritte hatte. Das Oxford English Dictionary nennt Neuseeland als Ursprungsort, weil das älteste bekannte Rezept dieses Namens 1927 dort erschien.",
+                "GB": "Pavlova is a meringue-based dessert named after the Russian ballerina Anna Pavlova. It is a meringue dessert with a crisp crust and soft, light inside, usually topped with fruit and whipped cream. The name is pronounced , or like the name of the dancer, which was ."
             }
         },
         {
             "class": "peanut butter",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "breakfast"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Erdnussbutter",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Peanut_butter"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Erdnussbutter",
+                "GB": "Peanut butter"
+            },
+            "description": {
+                "DE": "Erdnussbutter, auch als Erdnusscreme, Erdnussmus oder Erdnusspaste bezeichnet, ist ein energiereicher Brotaufstrich, dessen Hauptbestandteil gemahlene Erdnüsse sind.",
+                "GB": "Peanut butter is a food paste or spread made from ground dry-roasted peanuts. It often contains additional ingredients that modify the taste or texture, such as salt, sweeteners, or emulsifiers. Peanut butter is popular in many countries. The United States is a leading exporter of peanut butter and itself consumes $800 million of peanut butter annually."
             }
         },
         {
             "class": "peanut butter pie",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "torte"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Erdnussbuttertorte",
+                "GB": "Peanut Butter Pie"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "peanut sauce",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Erdnusssauce",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Peanut_sauce"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Erdnusssauce",
+                "GB": "Peanut sauce"
+            },
+            "description": {
+                "DE": "Erdnusssauce ist eine Sauce auf Basis von Erzeugnissen aus Erdnüssen.",
+                "GB": "Peanut sauce, satay sauce, bumbu kacang, sambal kacang, or pecel is a sauce made from ground roasted or fried peanuts, widely used in cuisines worldwide."
             }
         },
         {
             "class": "pecan pie",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pecan_Pie",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pecan_pie"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pecan Pie",
+                "GB": "Pecan pie"
+            },
+            "description": {
+                "DE": "Pecan Pie ist ein süßer Kuchen aus den USA, der mit Pecannüssen und Maissirup zubereitet wird. Er wird besonders an Feiertagen serviert und gilt als eine Spezialität der Südstaatenküche.",
+                "GB": "Pecan pie is a pie of pecan nuts mixed with a filling of eggs, butter, and sugar . Variations may include white or brown sugar, sugar syrup, molasses, maple syrup, or honey. It is popularly served at holiday meals in the United States and is considered a specialty of Southern U.S. origin. Most pecan pie recipes include salt and vanilla as flavorings. Chocolate and bourbon whiskey are other popular additions to the recipe. Pecan pie is often served with whipped cream, vanilla ice cream, or hard sauce."
             }
         },
         {
