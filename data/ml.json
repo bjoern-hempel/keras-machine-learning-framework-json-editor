@@ -10879,202 +10879,168 @@
         },
         {
             "class": "panini",
-            "categories": [],
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Panino",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Panini_(sandwich)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Panino",
+                "GB": "Panini"
+            },
+            "description": {
+                "DE": "Panini sind ein typisch italienisches Gebäck. Es handelt sich um kleine Brote , jedoch sind sie mit den deutschen Brötchen nur bedingt vergleichbar.",
+                "GB": "A panini or panino is a sandwich made with Italian bread , usually served warmed by grilling or toasting."
             }
         },
         {
             "class": "panino",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "panini"
         },
         {
             "class": "panna cotta",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pudding"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Panna_cotta",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Panna_cotta"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Panna cotta",
+                "GB": "Panna cotta"
+            },
+            "description": {
+                "DE": "Panna cotta ist ein puddingartiges italienisches Dessert, welches aus Rahm bzw. Schlagsahne, Zucker und heutzutage meist auch Gelatine zubereitet wird. Traditionell wird lediglich die Sahne aufgekocht und reduziert, daher auch der Name.",
+                "GB": "Panna cotta is an Italian dessert of sweetened cream thickened with gelatin and molded. The cream may be aromatized with coffee, vanilla, or other flavorings."
             }
         },
         {
             "class": "panzanella",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "green"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Panzanella"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Panzanella",
+                "GB": "Panzanella"
+            },
+            "description": {
+                "DE": "Panzanella oder Panmolle ist ein toskanischer gehackter Salat aus eingeweichtem altem Brot, Zwiebeln und Tomaten, der im Sommer beliebt ist.  Sie enthält oft Gurken, manchmal Basilikum und ist mit Olivenöl und Essig gewürzt. ",
+                "GB": "Panzanella or panmolle is a Tuscan chopped salad of soaked stale bread, onions and tomatoes that is popular in the summer. It often includes cucumbers, sometimes basil and is dressed with olive oil and vinegar."
             }
         },
         {
             "class": "papardelle",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "pasta"
         },
         {
             "class": "pappardelle",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "pasta"
         },
         {
             "class": "paratha",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pastry & bread"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Paratha",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Paratha"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Paratha",
+                "GB": "Paratha"
+            },
+            "description": {
+                "DE": "Ein Paratha ist ein ungesäuertes Fladenbrot, das seinen Ursprung auf dem indischen Subkontinent hat. „Paratha“ ist ein Wortzusammenschluss der Worte parat und atta und bedeutet nach der wörtlichen Übersetzung Schichten aus gebackenem Teig. In Burma ist es unter dem Namen palata bekannt, auf den Malediven kennt man es als farata. Das Paratha ist verwandt mit dem Parotta der südindischen Küche.",
+                "GB": "A paratha is a flatbread that originated in the Indian subcontinent, prevalent throughout areas of India, Sri Lanka, Pakistan, Nepal and Bangladesh where wheat is the traditional staple. Paratha is an amalgamation of the words parat and atta, which literally means layers of cooked dough. Alternative spellings and names include parantha, parauntha, prontha, parontay , porota , palata , porotha , forota and farata ."
             }
         },
         {
             "class": "parfait",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Parfait",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Parfait"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Parfait",
+                "GB": "Parfait"
+            },
+            "description": {
+                "DE": "Als Parfait werden sowohl würzige Pasteten, Terrinen und Sülzen als auch Halbgefrorenes bezeichnet.",
+                "GB": "Parfait ; meaning \"perfect\") is two types of frozen dessert; in France, where the dish originated, parfait is made by boiling cream, egg, sugar and syrup to create a custard-like puree which is not necessarily served in a parfait glass. The American version includes more ingredients like granola, nuts, yogurt and liqueurs made in combination with a topping of fruits or whipped cream that are layered and served in a tall glass. The oldest known recipe dates back to 1892."
             }
         },
         {
             "class": "pasta",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pasta",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pasta"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pasta",
+                "GB": "Pasta"
+            },
+            "description": {
+                "DE": "Pasta ist in der italienischen Küche die Bezeichnung für Teigwaren aus Hartweizengrieß, Kochsalz und Wasser in vielen Größen und Formen.",
+                "GB": "Pasta is a type of Italian food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking. Rice flour, or legumes such as beans or lentils, are sometimes used in place of wheat flour to yield a different taste and texture, or as a gluten-free alternative. Pasta is a staple food of Italian cuisine."
             }
         },
         {
             "class": "pasta carbonara",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Carbonara",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Carbonara"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Carbonara",
+                "GB": "Carbonara"
+            },
+            "description": {
+                "DE": "Carbonara ist ein einfaches Nudelgericht aus Pasta mit Speck, Ei, Pfeffer und Käse aus der italienischen Region Latium. Heute gehört es zu den Klassikern der italienischen Küche.",
+                "GB": "Carbonara is an Italian pasta dish from Rome made with egg, hard cheese, guanciale , and black pepper. The dish arrived at its modern form, with its current name, in the middle of the 20th century."
             }
         },
         {
