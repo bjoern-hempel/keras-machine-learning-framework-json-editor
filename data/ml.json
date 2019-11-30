@@ -11413,203 +11413,151 @@
         },
         {
             "class": "pico de gallo",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pico_de_gallo",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pico_de_gallo"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pico de gallo",
+                "GB": "Pico de gallo"
+            },
+            "description": {
+                "DE": "Pico de gallo ist eine frische Würzsauce aus gehackten Tomaten, Zwiebeln und Chili-Schoten . Der Salsa können aber auch andere Zutaten beigefügt sein, wie Limetten- oder Zitronensaft, Korianderblätter, Avocado, Gurke und Radieschen.",
+                "GB": "Pico de gallo , also called salsa fresca or salsa cruda, is a type of salsa commonly used in Mexican cuisine. It is traditionally made from chopped tomato, onion, Serrano peppers , with salt, lime juice, and cilantro."
             }
         },
         {
             "class": "pide",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "flatbread"
         },
         {
             "class": "pie",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "pie"
         },
         {
             "class": "pierogi",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pirogge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pierogi"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pirogge",
+                "GB": "Pierogi"
+            },
+            "description": {
+                "DE": "Die Pirogge ist eine gefüllte Teigtasche aus Hefe-, Blätter- oder Nudelteig, die in der ostmittel- und osteuropäischen sowie finnischen Küche weit verbreitet ist. Die Art der Herstellung, Füllungen und Bezeichnungen variieren von Region zu Region. Piroggen sind ein beliebter Bestandteil von Festmahlzeiten, werden aber auch von Garküchen, in Polen pierogarnia genannt, als fast food angeboten. Sie können als Vorspeise, Hauptgericht oder Nachtisch gereicht werden.",
+                "GB": "Pierogi are filled dumplings of Central and Eastern European origin, made by wrapping unleavened dough around a savory or sweet filling and cooking in boiling water, or pan-frying. Pierogi which consist of noodle dough and have to be cooked in boiling water are associated with the Central and Eastern European kitchens where they are considered national dishes, especially in Poland. Pierogi-like dumplings are popular in most Central and Eastern European countries as well as in Ashkenazi Jewish and modern-day American cuisines, where they are known under their local names."
             }
         },
         {
             "class": "pilsner",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "helles"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pilsner_Bier",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pilsner"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pilsner Bier",
+                "GB": "Pilsner"
+            },
+            "description": {
+                "DE": "Pilsner Bier, auch Pils oder Bier nach Pilsner Brauart, in der Schweiz Spezialbier, ist ein nach der böhmischen Stadt Pilsen benanntes, untergäriges Bier mit im Vergleich zu anderen Biersorten erhöhtem Hopfengehalt und höchstens 12,5 °P Stammwürzegehalt.\nNach Pilsner Brauart hergestellte Biere bilden heute den Großteil der in Deutschland produzierten und verkauften Biere.",
+                "GB": "Pilsner is a type of pale lager. It takes its name from the Czech city of Pilsen, where it was first produced in 1842 by Bavarian brewer Josef Groll. The world's first blond lager, the original Pilsner Urquell, is still produced there today."
             }
         },
         {
             "class": "pimento cheese",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pimento_cheese"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Piment Käse",
+                "GB": "Pimento cheese"
+            },
+            "description": {
+                "DE": "In der Küche des Südens der Vereinigten Staaten ist Piment ein Brotaufstrich oder ein Genuss aus Käse, Mayonnaise und Pimentos. Er wird auf Brot, Crackern und Gemüse oder in Sandwiches serviert.",
+                "GB": "In the cuisine of the Southern United States, pimento cheese is a spread or relish made with cheese, mayonnaise and pimentos. It is served on bread, crackers and vegetables, or in sandwiches."
             }
         },
         {
             "class": "pina colada",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cocktail"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pi%C3%B1a_Colada",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pi%C3%B1a_colada"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Piña Colada",
+                "GB": "Piña colada"
+            },
+            "description": {
+                "DE": "Die Piña Colada ist ein süßer, cremiger Cocktail aus Rum, Kokosnusscreme und Ananassaft. Sie ist namensgebend für eine ganze Gruppe von Cocktails, den Coladas. Die Piña Colada wurde in den 1950er Jahren populär und gehört zu den weltweit bekanntesten Cocktails. Die alkoholfreie Variante – ohne Rum – wird Virgin Colada, Baby Colada oder Piñita Colada genannt.",
+                "GB": "The piña colada is a sweet cocktail made with rum, cream of coconut or coconut milk, and pineapple juice, usually served either blended or shaken with ice. It may be garnished with either a pineapple wedge, maraschino cherry, or both. \nThere are two versions of the drink's origin, but both say it originated in Puerto Rico."
             }
         },
         {
             "class": "pinot noir",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "red wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pinot_noir",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pinot_noir"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pinot noir",
+                "GB": "Pinot noir"
+            },
+            "description": {
+                "DE": "Pinot noir ist eine bedeutende und meist als hochwertig geltende Rotweinsorte. Sie hat weltweite Verbreitung und Bedeutung erlangt. Der Wein wird gelegentlich als König der Rotweine bezeichnet. Sie ist eine klassische Rotweinqualitätssorte der kühleren Weinbaugebiete wie dem Burgund. Der Pinot noir ist ferner ein wichtiger Verschnittpartner für die Champagner-Erzeugung.",
+                "GB": "Pinot noir is a red wine grape variety of the species Vitis vinifera. The name may also refer to wines created predominantly from pinot noir grapes. The name is derived from the French words for pine and black. The word pine alludes to the grape variety having tightly clustered, pine cone-shaped bunches of fruit."
             }
         },
         {
             "class": "pita",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "flatbread"
         },
         {
             "class": "pita bread",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "flatbread"
         },
         {
             "class": "pizza",
