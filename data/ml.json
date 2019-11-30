@@ -10695,102 +10695,112 @@
         },
         {
             "class": "ossobuco",
-            "categories": [],
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ossobuco",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ossobuco"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Ossobuco",
+                "GB": "Ossobuco"
+            },
+            "description": {
+                "DE": "Ossobuco ist ein traditionelles Schmorgericht der italienischen bzw. speziell der Mailänder Küche, weswegen es manchmal den Zusatz alla milanese trägt. Der Begriff Osso buco bedeutet wörtlich „Knochen mit Loch“, nach dem Hohlknochen, der die im Gericht verwendete Kalbshachse durchzieht.",
+                "GB": "Ossobuco or osso buco is a specialty of Lombard cuisine of cross-cut veal shanks braised with vegetables, white wine and broth. It is often garnished with gremolata and traditionally served with either risotto alla milanese or polenta, depending on the regional variation. The marrow in the hole in the bone, a prized delicacy, is the defining feature of the dish."
             }
         },
         {
             "class": "ouzo",
-            "categories": [],
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ouzo",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ouzo"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Ouzo",
+                "GB": "Ouzo"
+            },
+            "description": {
+                "DE": "Ouzo ist eine griechische Anisspirituose.",
+                "GB": "Ouzo is a dry anise-flavoured aperitif that is widely consumed in Greece and Cyprus. It is made from rectified spirits that have undergone a process of distillation and flavoring. Its taste is similar to other anise liquors like rakı, arak, pastis and sambuca."
             }
         },
         {
             "class": "oysters",
-            "categories": [],
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Austern",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Oyster"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Austern",
+                "GB": "Oyster"
+            },
+            "description": {
+                "DE": "Die Austern (Ostreidae) sind eine Familie der Muscheln (Bivalvia). Der wissenschaftliche Name Ostreidae ist abgeleitet vom Namen der Gattung Ostrea (Plural zu griechisch ὄστρεον ostreon „Muschel“, „Auster“). Man findet Austern rund um die Welt an den Felsen flacher Tidengewässer, es gibt aber auch die Austernzucht.",
+                "GB": "Oyster is the common name for a number of different families of salt-water bivalve molluscs that live in marine or brackish habitats. In some species the valves are highly calcified, and many are somewhat irregular in shape. Many, but not all, oysters are in the superfamily Ostreoidea."
             }
         },
         {
             "class": "pad thai",
-            "categories": [],
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Phat_Thai",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pad_thai"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Phat Thai",
+                "GB": "Pad thai"
+            },
+            "description": {
+                "DE": "Phat Thai oder Pad Thai ist ein traditionelles Nudelgericht der thailändischen Küche. Es besteht hauptsächlich aus Reisbandnudeln , hinzu kommen verquirlte Eier, Fischsauce , Tamarindenpaste, gehackte Knoblauchzehen, Chilipulver, Mungbohnensprossen, kleine getrocknete Krabben, Tofu und wahlweise Fleisch oder Meeresfrüchte. Garniert wird das Gericht mit zerstoßenen Erdnüssen und Korianderblättern, Limette, Frühlingszwiebeln, manchmal auch mit einem Stück Bananenblüte. Zusätzlich kann man mit verschiedenen Gewürzen , die in kleinen Schälchen auf jedem Tisch stehen, je nach Geschmack nachwürzen.",
+                "GB": "Pad thai, or phad thai, is a stir-fried rice noodle dish commonly served as a street food and at most restaurants in Thailand as part of the country's cuisine."
             }
         },
         {
             "class": "paella",
-            "categories": [],
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Paella",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Paella"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Paella",
+                "GB": "Paella"
+            },
+            "description": {
+                "DE": "Eine Paella ist ein spanisches Reisgericht aus der Pfanne und das Nationalgericht der Region Valencia und der spanischen Ostküste. Der Begriff paella kommt aus dem Katalanischen und hat seinen Ursprung im lateinischen Wort patella . Um 1900 adaptierten die Valencianer das Wort Paella für die Metallpfanne, in der ihr Nationalgericht zubereitet wird.\nInzwischen wird der Begriff paella im Spanischen für das Gericht und für die Pfanne verwendet, die ansonsten auch als paellera bezeichnet wird.",
+                "GB": "Paella is a Spanish rice dish originally from Valencia."
             }
         },
         {
@@ -10799,6 +10809,13 @@
                 "pastry & bread"
             ],
             "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pain_au_chocolat",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pain_au_chocolat"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "Pain au chocolat",
                 "GB": "Pain au chocolat"
@@ -10806,94 +10823,59 @@
             "description": {
                 "DE": "Als Pain au chocolat werden in Frankreich zwei Gebäcke bezeichnet:\n- ein Baguette, das nach dem Backen mit einem Schokoladenriegel gefüllt wird\n- eine Art Schokoladencroissant",
                 "GB": "Pain au chocolat , literally chocolate bread; also known as chocolatine in the south-west part of France and in Canada, is a type of viennoiserie sweet roll consisting of a cuboid-shaped piece of yeast-leavened laminated dough, similar in texture to a puff pastry, with one or two pieces of dark chocolate in the centre."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pain_au_chocolat",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pain_au_chocolat"
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "pakora",
-            "categories": [],
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pakora",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pakora"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pakora",
+                "GB": "Pakora"
+            },
+            "description": {
+                "DE": "Pakora, Pakoda oder Bhajia beziehungsweise Bhaji, wörtlich übersetzt \"Fritter\" , ist ein Gericht der indischen Küche und pakistanischen Küche und bezeichnet zum Beispiel Gemüse oder Fleisch, das, von einem Teig aus Kichererbsen umhüllt, in heißem Fett ausgebacken wird.",
+                "GB": "Pakora , also called pakoda, bhaji, is a fried snack , originating from the Indian subcontinent. It is a popular snack across the Indian subcontinent, where it is served in restaurants and sold by street vendors. It is also often found in Indian restaurants as well as South Asian restaurants in the Western world."
             }
         },
         {
             "class": "pale ale",
-            "categories": [],
-            "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            }
+            "duplicate": "ale"
         },
         {
             "class": "pancake",
-            "categories": [],
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Eierkuchen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pancake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Eierkuchen",
+                "GB": "Pancake"
+            },
+            "description": {
+                "DE": "Eierkuchen bzw. Pfannkuchen sind Eierspeisen aus Ei, Milch und Mehl, die in einer Pfanne gebacken werden. Durch ihre Bindung mit Mehl unterscheiden Eierkuchen bzw. Pfannkuchen sich von Omeletts. Bekannteste Vertreter der Eierkuchen sind Pfannkuchen, Crêpes, Kaiserschmarren und Palatschinken. Es gibt süße Pfannkuchen und deftige Eierspeisen . Für die süßen Varianten wird der Zuckeranteil in der Pfannkuchenmasse erhöht.",
+                "GB": "A pancake is a flat cake, often thin and round, prepared from a starch-based batter that may contain eggs, milk and butter and cooked on a hot surface such as a griddle or frying pan, often frying with oil or butter. Archaeological evidence suggests that pancakes were probably the earliest and most widespread cereal food eaten in prehistoric societies."
             }
         },
         {
             "class": "pancakes",
-            "categories": [],
-            "related-classes": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            }
+            "plural": "pancake"
         },
         {
             "class": "panini",
