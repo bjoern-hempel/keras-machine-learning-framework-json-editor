@@ -12243,202 +12243,168 @@
         },
         {
             "class": "pulled pork",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pork"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pulled_Pork",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pulled_pork"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pulled Pork",
+                "GB": "Pulled pork"
+            },
+            "description": {
+                "DE": "Pulled Pork ist ein Gericht des klassischen Barbecues nach nordamerikanischem Vorbild. Als Fleisch finden für gewöhnlich Schweineschulter oder Schweinenacken Verwendung. Zusammen mit Spareribs und Beef Brisket bildet das Pulled Pork die Holy Trinity des Barbecues.",
+                "GB": "Pulled pork is an American barbecue dish, more specifically a dish of the Southern U.S., based on shredded barbecued pork shoulder. It is prototypically slow-smoked over wood ; indoor variations use a slow cooker. The meat is then shredded manually and mixed with a sauce. It may be served on bread or eaten plain."
             }
         },
         {
             "class": "pulled pork sandwich",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Pulled Pork Sandwich",
+                "GB": "Pulled Pork Sandwich"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "pumpkin pie",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pumpkin_Pie",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pumpkin_pie"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pumpkin Pie",
+                "GB": "Pumpkin pie"
+            },
+            "description": {
+                "DE": "Pumpkin Pie ist ein traditioneller Nachtisch der US-Küche, der besonders gern zu Halloween, Thanksgiving und Weihnachten serviert wird.",
+                "GB": "Pumpkin pie is a dessert pie with a spiced, pumpkin-based custard filling. The pumpkin is a symbol of harvest time, and pumpkin pie is often eaten during the fall and early winter. In the United States and Canada, it is usually prepared for Thanksgiving, and other occasions when pumpkin is in season."
             }
         },
         {
             "class": "punch",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other tea"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Punsch",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Punch_(drink)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Punsch",
+                "GB": "Punch"
+            },
+            "description": {
+                "DE": "Als Punsch wird ein alkoholisches, meist heißes Mischgetränk bezeichnet, das ursprünglich aus Indien stammt und aus fünf Zutaten besteht. Die traditionellen Zutaten sind Arrak, Zucker, Zitronen und Tee oder Wasser mit Gewürzen.",
+                "GB": "The term punch refers to a wide assortment of drinks, both non-alcoholic and alcoholic, generally containing fruit or fruit juice. The drink was introduced from India to the United Kingdom in the early seventeenth century, and from there its use spread to other countries. Punch is usually served at parties in large, wide bowls, known as punch bowls."
             }
         },
         {
             "class": "quesadilla",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Quesadilla",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Quesadilla"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Quesadilla",
+                "GB": "Quesadilla"
+            },
+            "description": {
+                "DE": "Die Quesadilla ist eine typisch mexikanische Speise, die auf der Basis einer mexikanischen Tortilla beruht. Im Original wird diese Tortilla mit Käse zubereitet. Dieser wird in die Mitte einer geklappten Tortilla gelegt und anschließend gebacken oder frittiert. In Mexiko-Stadt und Umgebung wird sie mit den verschiedensten Zutaten zubereitet. Eine andere Zubereitungsmöglichkeit ist, rohe Tortilla-Masse zu nehmen, zu füllen und dann in Fett auszubacken. Wichtig ist, dass die Tortilla geklappt und nicht aufgerollt wird.",
+                "GB": "A quesadilla )is a Mexican dish and type of taco, consisting of a tortilla that is filled primarily with cheese, and sometimes meats, beans, vegetables, and spices, and then cooked on a griddle. Traditionally, a corn tortilla is used, but it can also be made with a flour tortilla, particularly in northern Mexico and the United States."
             }
         },
         {
             "class": "quesadillas",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "quesadilla"
         },
         {
             "class": "quiche",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Quiche",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Quiche"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Quiche",
+                "GB": "Quiche"
+            },
+            "description": {
+                "DE": "Eine Quiche ist eine Spezialität der französischen Küche, die ursprünglich aus dem Raum Lothringen stammt. Es handelt sich um einen in einer runden, flachen Form gebackenen herzhaften Mürbeteig mit einer würzigen Füllung bzw. Auflage, die ein Gemisch aus Eiern und Milch enthält.",
+                "GB": "Quiche is a French tart consisting of pastry crust filled with savoury custard and pieces of cheese, meat, seafood or vegetables. The best-known variant is quiche Lorraine, which includes lardons or bacon and usually cheese. Quiche can be served hot or cold. It is popular world-wide."
             }
         },
         {
             "class": "quiche lorraine",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "quiche"
         },
         {
             "class": "rainbow trout",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "trout"
         },
         {
             "class": "ramen",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ramen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ramen"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Ramen",
+                "GB": "Ramen"
+            },
+            "description": {
+                "DE": "Ramen sind – ebenso wie etwa Somen, Soba und Udon – eine eigene Art japanischer Nudeln. Diese Nudeln, vor allem aber auch die daraus hergestellte Nudelsuppe, werden Ramen genannt. Ursprünglich stammt das Gericht aus China, dort bekannt als Lamian , wurde aber im 19. Jahrhundert von der japanischen Küche übernommen und angepasst. In Japan werden Ramen in speziellen Restaurants – den „Ramen-Läden“ bzw. „Ramen-ya“  – verkauft, die sich ausschließlich auf den Verkauf dieser Suppen spezialisiert haben. Außerhalb Japans sind Ramen vor allem als Instantnudelsuppen bekannt.",
+                "GB": "Ramen is a Japanese dish with a translation of \"pulled noodles\". It consists of Chinese wheat noodles served in a meat or fish-based broth, often flavored with soy sauce or miso, and uses toppings such as sliced pork , nori , menma, and scallions. Nearly every region in Japan has its own variation of ramen, such as the tonkotsu ramen of Kyushu and the miso ramen of Hokkaido. Mazemen is the name of a Ramen dish that is not served in a soup, but rather with a sauce , rather like noodles that is served with a sweet and sour sauce."
             }
         },
         {
