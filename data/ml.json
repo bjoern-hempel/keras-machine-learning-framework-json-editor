@@ -8647,202 +8647,132 @@
         },
         {
             "class": "jerk chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Jerk_(cooking)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Jerk Chicken Huhn",
+                "GB": "Jerk Chicken"
+            },
+            "description": {
+                "DE": "Jerk ist eine in Jamaika heimische Kochkunst, bei der Fleisch trocken gerieben oder nass mariniert mit einer heißen Gewürzmischung namens Jamaican Jerk Spice zubereitet wird.",
+                "GB": "Jerk is a style of cooking native to Jamaica, in which meat is dry-rubbed or wet marinated with a hot spice mixture called Jamaican jerk spice."
             }
         },
         {
             "class": "juice",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "juice"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Juice"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Saft",
+                "GB": "Juice"
+            },
+            "description": {
+                "DE": "Saft ist ein Getränk, das aus der Extraktion oder dem Pressen der in Obst und Gemüse enthaltenen natürlichen Flüssigkeit hergestellt wird. Es kann sich auch auf Flüssigkeiten beziehen, die mit Konzentrat oder anderen biologischen Lebensmittelquellen wie Fleisch oder Meeresfrüchten wie Muschelsaft aromatisiert sind. Saft wird häufig als Getränk konsumiert oder als Zutat oder Aromastoff in Lebensmitteln oder anderen Getränken verwendet, wie z.B. für Smoothies. Der Saft entwickelte sich zu einer beliebten Getränkewahl, nachdem die Entwicklung von Pasteurisierungsmethoden seine Konservierung ohne Fermentation ermöglichte. Die größten Fruchtsaftkonsumenten sind Neuseeland und Kolumbien. Der Fruchtsaftkonsum steigt im Durchschnitt mit dem Einkommensniveau des Landes.",
+                "GB": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. Juice is commonly consumed as a beverage or used as an ingredient or flavoring in foods or other beverages, as for smoothies. Juice emerged as a popular beverage choice after the development of pasteurization methods enabled its preservation without using fermentation . The largest fruit juice consumers are New Zealand and Colombia . Fruit juice consumption on average increases with country income level."
             }
         },
         {
             "class": "jumbo shrimp",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "shrimp"
         },
         {
             "class": "kabab",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "kebab"
         },
         {
             "class": "kabob",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "kebab"
         },
         {
             "class": "kabobs",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "kabob"
         },
         {
             "class": "kebab",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Kebab"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kebab",
+                "GB": "Kebab"
+            },
+            "description": {
+                "DE": "Kebabs sind verschiedene gekochte Fleischgerichte, deren Ursprung in der nahöstlichen Küche liegt. Viele Varianten sind auf der ganzen Welt beliebt.",
+                "GB": "Kebabs are various cooked meat dishes, with their origins in Middle Eastern cuisine. Many variants are popular around the world."
             }
         },
         {
             "class": "kebap",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "kebab"
         },
         {
             "class": "key lime pie",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "torte"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Key_Lime_Pie",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Key_lime_pie"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Key Lime Pie",
+                "GB": "Key lime pie"
+            },
+            "description": {
+                "DE": "Key Lime Pie ist ein amerikanisches Dessert aus Limettensaft, Eigelb und gezuckerter Kondensmilch auf einem Tortenboden. Die Baiser-Kruste wird aus Eiklar hergestellt. Der Kuchen ist nach der Echten Limette benannt, die auf Englisch Key Lime heißt, weil sie auf den Florida Keys wächst. Obwohl die Pflanze dorniger und die Frucht durch die dünne Schale weniger lange haltbar ist als die Gewöhnliche Limette, wird sie wegen ihres herberen und aromatischeren Geschmacks verwendet.",
+                "GB": "Key lime pie is an American dessert pie made of Key lime juice, egg yolks, and sweetened condensed milk in a pie crust. The traditional Conch version uses the egg whites to make a meringue topping. The dish is named after the small Key limes that are naturalized throughout the Florida Keys. While their thorns make them less tractable, and their thin, yellow rinds more perishable, Key limes are more tart and more aromatic than the common Persian limes seen year-round at grocery stores in the United States. Key lime juice, unlike regular lime juice, is a pale yellow. The filling in a Key lime pie is also yellow, largely because of the egg yolks."
             }
         },
         {
             "class": "kimchi",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kimchi",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Kimchi"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kimchi",
+                "GB": "Kimchi"
+            },
+            "description": {
+                "DE": "Kimchi nennt man in der koreanischen Küche sowohl die Zubereitung von Gemüse ) durch Milchsäuregärung als auch das auf diese Art fertig zubereitete Gemüse.",
+                "GB": "Kimchi , a staple in Korean cuisine, is a famous traditional side dish of salted and fermented vegetables, such as napa cabbage and Korean radish, made with a widely varying selection of seasonings including gochugaru , spring onions, garlic, ginger, and jeotgal , etc."
             }
         },
         {
