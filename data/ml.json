@@ -8463,202 +8463,186 @@
         },
         {
             "class": "iced coffee",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "ice coffee"
         },
         {
             "class": "iced latte",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other coffee"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Iced Latte",
+                "GB": "Iced Latte"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "iced tea",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "ice tea"
         },
         {
             "class": "ice tea",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other tea"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Eistee",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Iced_tea"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Eistee",
+                "GB": "Iced tea"
+            },
+            "description": {
+                "DE": "Eistee ist ein Kaltgetränk, für das Tee heiß zubereitet und rasch abgekühlt wird, um einen bitteren Geschmack zu vermeiden. Nach traditionellem Rezept handelt es sich um einen Tee aus Schwarztee mit Zitronensaft und Zucker.",
+                "GB": "Iced tea is a form of cold tea. Though usually served in a glass with ice, it can refer to any tea that has been chilled or cooled. It may be sweetened with sugar, syrup and\/or apple slices. Iced tea is also a popular packaged drink and can be mixed with flavored syrup, with multiple common flavors including lemon, raspberry, lime, passion fruit, peach, orange, strawberry, and cherry."
             }
         },
         {
             "class": "ipa",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "dark beer"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/India_Pale_Ale",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/India_pale_ale"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "India Pale Ale",
+                "GB": "India pale ale"
+            },
+            "description": {
+                "DE": "India Pale Ale ist ein helles, stärker eingebrautes Pale Ale.",
+                "GB": "India pale ale is a hoppy beer style within the broader category of pale ale."
             }
         },
         {
             "class": "irish coffee",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other coffee"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Irish_Coffee",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Irish_coffee"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Irish Coffee",
+                "GB": "Irish coffee"
+            },
+            "description": {
+                "DE": "Irish Coffee, in Irland selbst auch Caife Gaelach respektive Gaelic Coffee genannt, ist ein gesüßter Kaffee mit irischem Whiskey und einer Haube aus leicht geschlagener aber noch flüssiger Sahne. Auf Bar- und Cocktailkarten wird Irish Coffee als Hot Drink geführt.",
+                "GB": "Irish coffee is a cocktail consisting of hot coffee, Irish whiskey, and sugar, stirred, and topped with cream. The coffee is drunk through the cream."
             }
         },
         {
             "class": "italian beef",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Italian_beef"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Italienisches Rindfleisch (Sandwich)",
+                "GB": "Italian beef"
+            },
+            "description": {
+                "DE": "Ein italienisches Rindfleisch ist ein Sandwich mit Ursprung in Chicago, das aus dünnen Scheiben gewürztem Roastbeef besteht, gekocht und auf einer langen italienischen Rolle serviert wird. Die Geschichte des Sandwichs reicht mindestens bis in die 1930er Jahre zurück. Das Brot selbst wird nach Wahl des Gastes oft in das Jus getaucht, in dem das Fleisch gekocht wird, und das Sandwich wird typischerweise mit Giardiniera nach Chicagoer Art oder sautierten, grünen italienischen Paprikaschoten abgerundet.\n\nÜbersetzt mit www.DeepL.com\/Translator (kostenlose Version)",
+                "GB": "An Italian beef is a sandwich, originating in Chicago, composed of thin slices of seasoned roast beef, simmered and served au jus on a long Italian-style roll. The sandwich's history dates back at least to the 1930s. The bread itself is, at the diner's preference, often dipped into the jus the meat is cooked in, and the sandwich is typically topped off with Chicago-style giardiniera or sauteed, green Italian sweet peppers ."
             }
         },
         {
             "class": "jam",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "breakfast"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fruit_preserves"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fruchtkonserven",
+                "GB": "Fruit preserves"
+            },
+            "description": {
+                "DE": "Fruchtkonserven sind Zubereitungen aus Obst, Gemüse und Zucker, die oft in Glas- und Maurerdosen gelagert werden.",
+                "GB": "Fruit preserves are preparations of fruits, vegetables and sugar, often stored in glass jam jars and Mason jars."
             }
         },
         {
             "class": "jambalaya",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Jambalaya_(Gericht)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Jambalaya"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Jambalaya (Gericht)",
+                "GB": "Jambalaya"
+            },
+            "description": {
+                "DE": "Jambalaya ist ein auf Langkornreis aufbauendes Gericht, das typisch für die Cajun-Küche und die kreolische Küche in Louisiana ist. Das Gericht leitet sich wahrscheinlich von der spanischen Paella ab, die in der Zeit der spanischen Herrschaft in New Orleans Fuß fasste, ist aber vermutlich auch von afrikanischen und französischen Einflüssen geprägt worden.",
+                "GB": "Jambalaya is a popular Louisiana-origin dish of Spanish, French , and West African influence, consisting mainly of meat and vegetables mixed with rice. Traditionally, the meat always includes sausage of some sort, often a smoked meat such as andouille, along with pork or chicken and seafood, such as crawfish or shrimp. The vegetables are usually a sofrito-like mixture known as the \"holy trinity\" in Cajun cooking, consisting of onion, celery, and green bell pepper, though other vegetables such as okra, carrots, tomatoes, chilis and garlic are also used. After browning and sauteeing the meat and vegetables, rice, seasonings and broth are added and the entire dish is cooked together until the rice is done."
             }
         },
         {
             "class": "jelly",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gelee",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gelatin_dessert"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gelee",
+                "GB": "Gelatin dessert"
+            },
+            "description": {
+                "DE": "Gelee oder Sulz genannt, bezeichnet Lebensmittel mit gallertartiger Konsistenz, die verschieden hergestellt sein können. Fleischgelee aus Fleischbrühe wird zum Beispiel für Sülzen, zum Überglänzen und zur Saucenbindung verwendet, Fruchtgelee aus Fruchtsaft für Konfitüren und Süßspeisen. Chemisch gesehen handelt es sich bei diesen Substanzen um Gele.",
+                "GB": "Jelly is a dessert made with a sweetened and flavored processed collagen product . This kind of dessert is first recorded by Hannah Glasse in her 18th century book The Art of Cookery, appearing in a layer of trifle. Jelly is also featured in the best selling cookbooks of English food writers Eliza Acton and Isabella Beeton in the 19th century."
             }
         },
         {
