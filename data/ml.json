@@ -9681,202 +9681,168 @@
         },
         {
             "class": "mashed potatoes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "mashed potato"
         },
         {
             "class": "massaman curry",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "curry"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kaeng_Masaman",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Massaman_curry"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kaeng Masaman",
+                "GB": "Massaman curry"
+            },
+            "description": {
+                "DE": "Kaeng Masaman ist ein Gericht der südlichen Thai-Küche. Kaeng Masaman wurde von den Thais in Zentralthailand als eines der dort entstandenen Gerichte beansprucht, es ist jedoch in Südthailand weitaus häufiger anzutreffen.",
+                "GB": "Massaman curry ) is a rich, relatively mild Thai curry. Cardamom, cinnamon, cloves, star anise, cumin, bay leaves, nutmeg and mace are combined with more local flavors such as dried chili peppers, cilantro seeds, lemongrass, galangal, white pepper, shrimp paste, shallots and garlic to make massaman curry paste."
             }
         },
         {
             "class": "matcha",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "green tea"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Matcha",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Matcha"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Matcha",
+                "GB": "Matcha"
+            },
+            "description": {
+                "DE": "Matcha ist ein zu Pulver vermahlener Grüntee, der in der japanischen Teezeremonie verwendet wird. Er hat eine intensive grüne Farbe und einen lieblich-süßlichen, in späteren Pflückungen leicht herben Geschmack. Der Tee enthält Catechine sowie Carotine und die Vitamine A, B, C und E.",
+                "GB": "Matcha or macha is finely ground powder of specially grown and processed green tea leaves. It is special in two aspects of farming and processing: the green tea plants for matcha are shade-grown for three to four weeks before harvest, and the stems and veins are removed during processing. During shaded growth, the plant Camellia sinensis produces more theanine and caffeine. The powdered form of matcha is consumed differently from tea leaves or tea bags, and is suspended in a liquid, typically water or milk."
             }
         },
         {
             "class": "meatball",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other meat"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Fleischkl%C3%B6%C3%9Fchen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Meatball"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fleischklößchen",
+                "GB": "Meatball"
+            },
+            "description": {
+                "DE": "Fleischklößchen, auch Fleischbällchen genannt, sind kleine Klöße aus Hackfleisch, die meist als Einlage für Suppen und Saucen verwendet werden.",
+                "GB": "A meatball is ground meat rolled into a small ball, sometimes along with other ingredients, such as bread crumbs, minced onion, eggs, butter, and seasoning. Meatballs are cooked by frying, baking, steaming, or braising in sauce. There are many types of meatballs using different types of meats and spices. The term is sometimes extended to meatless versions based on vegetables or fish; the latter are commonly known as fishballs."
             }
         },
         {
             "class": "meat balls",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "meatball"
         },
         {
             "class": "meatballs",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "meatball"
         },
         {
             "class": "meatloaf",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other meat"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Hackbraten",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Meatloaf"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Hackbraten",
+                "GB": "Meatloaf"
+            },
+            "description": {
+                "DE": "Hackbraten, Wiegebraten, faschierter Braten, falscher Hase oder Heuchelhase ist ein Braten aus Hackfleisch, der in verschiedenen Varianten in vielen Ländern bekannt ist.",
+                "GB": "Meatloaf is a dish of ground meat that has been mixed with other ingredients and formed into the shape of a loaf, then baked or smoked. The final shape is either hand-formed on a flat pan or created by cooking it in a loaf pan. It is usually made with ground beef, although ground lamb, pork, veal, venison, poultry and seafood are also used."
             }
         },
         {
             "class": "melt",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Melt_sandwich"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schmelzsandwich",
+                "GB": "Melt sandwich"
+            },
+            "description": {
+                "DE": "Ein Schmelzsandwich ist eine Art heißes Sandwich, das Brot, Käse und eine Art Füllung wie Fleisch oder Gemüse enthält. Das Sandwich wird dann erhitzt, bis der Käse geschmolzen ist. Es kann als offenes oder geschlossenes Sandwich serviert werden.",
+                "GB": "A melt sandwich is a type of hot sandwich containing bread, cheese and some type of filling such as meat or vegetables. The sandwich is then heated until the cheese is melted. It may be served as an open face sandwich or a closed face one."
             }
         },
         {
             "class": "merlot",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "red wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Merlot",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Merlot"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Merlot",
+                "GB": "Merlot"
+            },
+            "description": {
+                "DE": "Kreuzung aus Magdeleine Noire des Charentes × Cabernet Franc",
+                "GB": "Merlot is a dark blue-colored wine grape variety, that is used as both a blending grape and for varietal wines. The name Merlot is thought to be a diminutive of merle, the French name for the blackbird, probably a reference to the color of the grape. Its softness and \"fleshiness\", combined with its earlier ripening, makes Merlot a popular grape for blending with the sterner, later-ripening Cabernet Sauvignon, which tends to be higher in tannin."
             }
         },
         {
             "class": "mezcal",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Mezcal",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Mezcal"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Mezcal",
+                "GB": "Mezcal"
+            },
+            "description": {
+                "DE": "Der Mezcal, Mescal oder Meskal ist eine mexikanische Spirituose mit typischerweise 40 Vol.-% Alkohol. Mezcal wird aus dem Fruchtfleisch verschiedener Agavenarten hergestellt. Geschmack und Aussehen variieren je nach Art der Agave, der Region sowie der Zubereitung und der Dauer der Lagerung.",
+                "GB": "Mezcal ) is a Mexican distilled alcoholic beverage made from any type of agave. The word mezcal comes from Nahuatl mexcalli , which means \"oven-cooked agave\", from metl and ixcalli ."
             }
         },
         {
