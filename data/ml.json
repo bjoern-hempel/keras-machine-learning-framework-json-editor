@@ -8301,182 +8301,164 @@
         },
         {
             "class": "huevos rancheros",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "breakfast"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Huevos_rancheros"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Huevos rancheros (Ranch-Eier)",
+                "GB": "Huevos rancheros"
+            },
+            "description": {
+                "DE": "Huevos Rancheros ist ein Frühstücksteller, bestehend aus Eiern, die im Stil der traditionellen großen Vormittagsspeise auf ländlichen mexikanischen Bauernhöfen serviert werden.",
+                "GB": "Huevos rancheros is a breakfast dish consisting of eggs served in the style of the traditional large mid-morning fare on rural Mexican farms."
             }
         },
         {
             "class": "hummus",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Hummus",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hummus"
                 },
                 "spoonacular": null
-            }
-        },
-        {
-            "class": "hush puppies",
+            },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hummus",
+                "GB": "Hummus"
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
+                "DE": "Hummus ist eine orientalische Spezialität, die aus pürierten Kichererbsen oder Ackerbohnen, Sesam-Mus , Olivenöl, Zitronensaft, Salz und Gewürzen wie Knoblauch und gelegentlich Kreuzkümmel hergestellt wird.",
+                "GB": "Hummus is a dip or spread made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic. It is popular in the Middle East and Mediterranean, as well as in Middle Eastern cuisine around the globe. It can also be found in most grocery stores in North America and Europe."
             }
         },
         {
             "class": "hushpuppies",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "plural": "hushpuppy"
+        },
+        {
+            "class": "hushpuppy",
+            "categories": [
+                "other side dish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Hushpuppy",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hushpuppy"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Hushpuppy",
+                "GB": "Hushpuppy"
+            },
+            "description": {
+                "DE": "Hushpuppies sind eine typische Beilage der Südstaatenküche . Es handelt sich um frittierte kleine Bälle, die im Allgemeinen aus Maismehl, Eiern, Milch, Backpulver und Zwiebeln bestehen.",
+                "GB": "A hushpuppy is a small, savory, deep-fried round ball made from cornmeal-based batter. Hushpuppies are frequently served as a side dish with seafood and other deep-fried foods."
             }
         },
         {
             "class": "ice coffee",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other coffee"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Eiskaffee",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Iced_coffee"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Eiskaffee",
+                "GB": "Iced coffee"
+            },
+            "description": {
+                "DE": "Ein Eiskaffee ist ein aus Kaffee, Eis und weiteren Zutaten zubereitetes Kaltgetränk, wobei sich die Zubereitung in unterschiedlichen Ländern deutlich unterscheidet.",
+                "GB": "Iced coffee is a type of coffee beverage served chilled, brewed variously with the fundamental division being cold brew – brewing the coffee cold, yielding a different flavour, and not requiring cooling – or brewing normally and then cooling, generally by simply pouring over ice or into ice cold milk. In hot brewing, sweeteners and flavourings are often mixed into the hot coffee before cooling, due to faster dissolution in hot water. Alternatively, syrup may be used, particularly gum syrup."
             }
         },
         {
             "class": "ice cream",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "ice cream"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Speiseeis",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ice_cream"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Speiseeis",
+                "GB": "Ice cream"
+            },
+            "description": {
+                "DE": "Speiseeis, in der Schweiz und Luxemburg die Glace , veraltet Gefrorenes, ist eine Zubereitung aus verschiedenen Zutaten, die durch einen Gefrierprozess in einen festen oder pastenförmigen Zustand gebracht wird. Aus Speiseeis werden Eisspeisen hergestellt.",
+                "GB": "Ice cream is a sweetened frozen food typically eaten as a snack or dessert. It may be made from dairy milk or cream and is flavored with a sweetener, either sugar or an alternative, and any spice, such as cocoa or vanilla. Colourings are usually added, in addition to stabilizers. The mixture is stirred to incorporate air spaces and cooled below the freezing point of water to prevent detectable ice crystals from forming. The result is a smooth, semi-solid foam that is solid at very low temperatures . It becomes more malleable as its temperature increases."
             }
         },
         {
             "class": "icecream",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "ice cream"
         },
         {
             "class": "ice cream cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Eistorte",
+                "GB": "Ice Cream Cake"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "ice cream sandwich",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "ice cream"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ice_cream_sandwich"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Eiscreme-Sandwich",
+                "GB": "Ice cream sandwich"
+            },
+            "description": {
+                "DE": "Ein Eis-Sandwich ist ein gefrorenes Dessert, das aus Eis zwischen zwei Keksen, Waffeln oder Keksen besteht.",
+                "GB": "An ice cream sandwich is a frozen dessert consisting of ice cream between two biscuits, wafers, or cookies."
             }
         },
         {
