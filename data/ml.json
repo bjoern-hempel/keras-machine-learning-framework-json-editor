@@ -11893,202 +11893,186 @@
         },
         {
             "class": "porterhouse steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/T-bone_steak",
+                    "GB": "https:\/\/de.wikipedia.org\/wiki\/Porterhouse-Steak"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "T-bone steak",
+                "GB": "Porterhouse-Steak"
+            },
+            "description": {
+                "DE": "The T-bone and porterhouse are steaks of beef cut from the short loin . Both steaks include a \"T\"-shaped lumbar vertebra with sections of abdominal internal oblique muscle on each side. Porterhouse steaks are cut from the rear end of the short loin and thus include more tenderloin steak, along with a large strip steak. T-bone steaks are cut closer to the front, and contain a smaller section of tenderloin. The smaller portion of a T-bone, when sold alone, is known as a filet mignon, especially if cut from the small forward end of the tenderloin.",
+                "GB": "Das Porterhouse-Steak wird, wie auch das T-Bone-Steak, mit Filet und Knochen aus dem flachen Roastbeef geschnitten. Die beiden sehr ähnlichen Zuschnitte unterscheiden sich hauptsächlich durch die Dicke und den größeren Filet-Anteil beim Porterhouse-Steak."
             }
         },
         {
             "class": "potato gnocchi",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "gnocchi"
         },
         {
             "class": "potato pancake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Potato_pancake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kartoffelpfannkuchen",
+                "GB": "Potato pancake"
+            },
+            "description": {
+                "DE": "Kartoffelpuffer, draniki, deruny, Latkes, Raggmunk oder Boxties sind flach gebratene Pfannkuchen aus geriebenen oder gemahlenen Kartoffeln, Matzenmehl oder Mehl und ein bindender Bestandteil wie Ei oder Apfelmus, oft aromatisiert mit geriebenem Knoblauch oder Zwiebel und Gewürzen. Sie können mit einer Vielzahl von Gewürzen überzogen werden, die von pikant bis süß reichen, oder sie können einfach serviert werden. Das Gericht wird manchmal aus Kartoffelpüree hergestellt, um Pfannkuchenkroketten herzustellen. Einige Variationen können mit Süßkartoffeln gemacht werden.",
+                "GB": "Potato pancakes, draniki, deruny, latkes, raggmunk or boxties are shallow-fried pancakes of grated or ground potato, matza meal or flour and a binding ingredient such as egg or applesauce, often flavored with grated garlic or onion and seasoning. They may be topped with a variety of condiments, ranging from the savory , to the sweet , or they may be served plain. The dish is sometimes made from mashed potatoes to make pancake-shaped croquettes. Some variations may be made with sweet potatoes."
             }
         },
         {
             "class": "potato pancakes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "potato pancake"
         },
         {
             "class": "potato salad",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other salad"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kartoffelsalat",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Potato_salad"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kartoffelsalat",
+                "GB": "Potato salad"
+            },
+            "description": {
+                "DE": "Kartoffelsalat wird aus gekochten Kartoffeln und weiteren Zutaten hergestellt. Grundsätzlich lassen sich die Zubereitungsarten mit und ohne Mayonnaise unterscheiden. In Süddeutschland und Österreich ist der Ausdruck Erdäpfelsalat verbreitet, die schweizerdeutsche Bezeichnung ist Härdöpfelsalat.",
+                "GB": "Potato salad is a dish made from boiled potatoes and a variety of other ingredients. It is generally considered a side dish, as it usually accompanies the main course. Potato salad is widely believed to have originated in Germany from where it spread widely throughout Europe and later to European colonies. American potato salad most likely originated from recipes brought to the U.S. by way of German and European immigrants during the nineteenth century. American-style potato salad is served cold or at room temperature. Ingredients often include mayonnaise or a mayonnaise-like substitute , herbs, and vegetables ."
             }
         },
         {
             "class": "potato skins",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Potato_skins"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kartoffelschalen",
+                "GB": "Potato skins"
+            },
+            "description": {
+                "DE": "Kartoffelschalen sind ein Snack oder eine Vorspeise aus ungeschälten Kartoffelhälften, ausgehöhlt und mit Speck, Cheddarkäse und Schalotten bekleidet. Sie sind häufig auf den Speisekarten von Freizeitrestaurants wie dem T.G.I. Friday's zu finden, das dafür bekannt ist, sie zu bedienen. Während diese Snacks häufig in Restaurants gegessen werden, werden sie auch zu Hause zubereitet.",
+                "GB": "Potato skins are a snack food or appetizer made of unpeeled potato halves, hollowed and dressed with bacon, cheddar cheese and green onions. They are commonly found on the menus of casual dining restaurants such as T.G.I. Friday's, which is known for serving them. While commonly eaten in restaurants, these snacks are also commonly made at home."
             }
         },
         {
             "class": "potato soup",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kartoffelsuppe",
+                    "GB": ""
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kartoffelsuppe",
+                "GB": "Potato Soup"
+            },
+            "description": {
+                "DE": "Kartoffelsuppe ist eine Suppe der traditionellen deutschen und österreichischen Küche. Ihre Hauptzutat sind Kartoffeln. Ist die Konsistenz relativ dickflüssig, spricht man von einem Eintopf.",
+                "GB": "Potato soup is a soup of traditional German and Austrian cuisine. Its main ingredient is potatoes. If the consistency is relatively thick, it is called a stew."
             }
         },
         {
             "class": "potato wedges",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "potato"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Kartoffelspalten",
+                "GB": "Potato Wedges"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "pot pie",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pot_pie"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Topfkuchen",
+                "GB": "Pot pie"
+            },
+            "description": {
+                "DE": "Ein Topfkuchen ist eine Art Fleischkuchen mit einer oberen Kuchenkruste, manchmal auch einer unteren Kuchenkruste, bestehend aus Blätterteig. Der Begriff wird in Nordamerika verwendet. Pot Pies können mit einer Vielzahl von Füllungen hergestellt werden, darunter Geflügel, Rindfleisch, Meeresfrüchte oder pflanzliche Füllungen, und können sich auch durch die Art der Kruste unterscheiden. In den Vereinigten Staaten ist Hühnertopfkuchen eine der beliebtesten Arten von Topfkuchen und kann sowohl in Bezug auf die Zubereitung als auch auf die Zutaten stark variieren.",
+                "GB": "A pot pie is a type of meat pie with a top pie crust, sometimes a bottom pie crust, consisting of flaky pastry. The term is used in North America. Pot pies may be made with a variety of fillings including poultry, beef, seafood, or plant-based fillings, and may also differ in the types of crust. In the United States, chicken pot pie is one of the most popular types of pot pies and it can vary significantly in terms of both preparation and ingredients."
             }
         },
         {
             "class": "pot roast",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pot_roast"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schmorbraten",
+                "GB": "Pot roast"
+            },
+            "description": {
+                "DE": "Schmorbraten ist ein geschmortes Rindfleisch, das durch Bräunen eines bratengroßen Rindfleischstücks hergestellt wird, bevor das Fleisch langsam in einer abgedeckten Schale, manchmal mit Gemüse, in oder über der Flüssigkeit gekocht wird. Härtere Schnitte wie Futtersteak, knochenloses Futtersteak, kurze Rippen und 7-Knochen-Braten sind beliebte Schnitte für diese Technik. Während die Zähigkeit der Fasern sie für das Braten im Ofen ungeeignet macht, zartes Fleisch wird langsam gekocht, da die Flüssigkeit einen Teil ihres Geschmacks mit dem Rindfleisch austauscht. Das Ergebnis ist zartes, saftiges Fleisch und eine reichhaltige Flüssigkeit, die sich für die Soße eignet.",
+                "GB": "Pot roast is a braised beef dish made by browning a roast-sized piece of beef before slow cooking the meat in a covered dish, sometimes with vegetables, in or over liquid. Tougher cuts such as chuck steak, boneless chuck steak, short ribs and 7-bone roast are popular cuts for this technique. While the toughness of the fibers makes them unsuitable for oven roasting, slow cooking tenderizes the meat as the liquid exchanges some of its flavor with the beef. The result is tender, succulent meat and a rich liquid that lends itself to gravy."
             }
         },
         {
