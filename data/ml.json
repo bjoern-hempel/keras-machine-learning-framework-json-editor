@@ -12557,202 +12557,132 @@
         },
         {
             "class": "red velvet cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "torte"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Roter Samtkuchen",
+                "GB": "Red Velvet Cake"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "red velvet cupcake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "cupcake"
         },
         {
             "class": "red wine",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "red wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rotwein",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Red_wine"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Rotwein",
+                "GB": "Red wine"
+            },
+            "description": {
+                "DE": "Rotwein ist ein aus blauen Weintrauben hergestellter Wein. Neben der Art der verwendeten Trauben unterscheidet er sich auch im Herstellungsprozess vom Weißwein oder Roséwein. Ein Rotwein entsteht durch Mazeration oder Digestion. Neben der alkoholischen Gärung des farblosen Safts der Beere werden bestimmte Komponenten aus den festen Bestandteilen der Maische herausgelöst. Die festen Bestandteile der Beerenmaische setzen sich aus der Schale der Beeren, den Kernen sowie eventuell dem Stielgerüst der Traube zusammen. Beim klassischen Herstellungsprozess erfolgt das Herauslösen der erwünschten Komponenten während der Maischegärung, deren Dauer individuell bestimmt werden kann. Eine andere Methode greift auf die Maischeerhitzung vor der Vergärung zurück.",
+                "GB": "Red wine is a type of wine made from dark-colored grape varieties. The actual color of the wine can range from intense violet, typical of young wines, through to brick red for mature wines and brown for older red wines. The juice from most purple grapes is greenish-white, the red color coming from anthocyan pigments present in the skin of the grape; exceptions are the relatively uncommon teinturier varieties, which produce a red-colored juice. Much of the red-wine production process therefore involves extraction of color and flavor components from the grape skin. It is a delicacy around the world."
             }
         },
         {
             "class": "reuben",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "reuben sandwich"
         },
         {
             "class": "reuben sandwich",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Reuben_sandwich"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Reuben sandwich",
+                "GB": "Reuben sandwich"
+            },
+            "description": {
+                "DE": "Das Ruben-Sandwich ist ein amerikanisches gegrilltes Sandwich aus Corned Beef, Schweizer Käse, Sauerkraut und russischem Dressing, gegrillt zwischen Roggenbrotscheiben. Es wird mit Delikatessen nach koscherer Art in Verbindung gebracht, aber es ist nicht koscher, weil es sowohl Fleisch als auch Käse enthält.",
+                "GB": "The Reuben sandwich is an American grilled sandwich composed of corned beef, Swiss cheese, sauerkraut, and Russian dressing, grilled between slices of rye bread. It is associated with kosher-style delicatessens, but it is not kosher, because it contains both meat and cheese."
             }
         },
         {
             "class": "rib eye",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "rib eye steak"
         },
         {
             "class": "rib eye steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Rib_eye_steak"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Rib eye steak",
+                "GB": "Rib eye steak"
+            },
+            "description": {
+                "DE": "Das Rippenauge oder Ribeye ist ein Rindfleischsteak aus dem Rippenbereich. Der Rippenabschnitt von Rindfleisch erstreckt sich von den Rippen sechs bis zwölf. Ribeye Steaks bestehen hauptsächlich aus dem Longissimus dorsi Muskel, enthalten aber auch den Komplexus- und Spinalismus.",
+                "GB": "The rib eye or ribeye is a beef steak from the rib section. The rib section of beef spans from ribs six through twelve. Ribeye steaks are mostly composed of the longissimus dorsi muscle but also contain the complexus and spinalis muscles."
             }
         },
         {
             "class": "rib-eye steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "rib eye steak"
         },
         {
             "class": "ribeye steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "rib eye steak"
         },
         {
             "class": "ribollita",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ribollita",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ribollita"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Ribollita",
+                "GB": "Ribollita"
+            },
+            "description": {
+                "DE": "Ribollita ist eine bäuerliche Gemüsesuppe der toskanischen Küche.",
+                "GB": "Ribollita is a famous Tuscan bread soup, a hearty potage made with bread and vegetables. There are many variations but the main ingredients always include leftover bread, cannellini beans, lacinato kale, cabbage, and inexpensive vegetables such as carrot, beans, chard, celery, potatoes and onion. Its name literally means \"reboiled\"."
             }
         },
         {
