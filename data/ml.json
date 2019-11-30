@@ -10529,203 +10529,169 @@
         },
         {
             "class": "oatmeal",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "breakfast"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Oatmeal"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Haferflocken",
+                "GB": "Oatmeal"
+            },
+            "description": {
+                "DE": "Hafermehl ist eine Art grobes Mehl, das aus geschälten Haferkörnern hergestellt wird, die entweder gemahlen, stahlgeschnitten oder gewalzt wurden. Mehltafrika wird auch als \"Weißhafer\" bezeichnet. Stahlhackhafer sind bekannt als \"grobes Haferflocken\", \"irisches Haferflocken\" oder \"Stecknadelkopfhafer\". Haferflocken können entweder dick oder dünn sein und können als \"altmodisch\", \"schnell\" oder \"sofort\" kategorisiert werden, abhängig von der Garzeit, die um die Größe des Hafers verkürzt wird, dem Vorkochen und manchmal dem Zusatz von Enzymen.",
+                "GB": "Oatmeal is a type of coarse flour made of hulled oat grains that have either been milled , steel-cut, or rolled. Ground oats are also called \"white oats\". Steel-cut oats are known as \"coarse oatmeal\", \"Irish oatmeal\" or \"pinhead oats\". Rolled oats can be either thick or thin, and may be categorized as \"old-fashioned\", \"quick\", or \"instant\", depending on the cooking time, which is shortened by the size of the oats, precooking, and sometimes the addition of enzymes."
             }
         },
         {
             "class": "omelet",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "omelette"
         },
         {
             "class": "omelette",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beverage"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Omelette"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Omelette",
+                "GB": "Omelette"
+            },
+            "description": {
+                "DE": "In der Küche ist ein Omelett oder Omelett ein Gericht aus geschlagenen Eiern, die in einer Pfanne mit Butter oder Öl gebraten werden. Es ist durchaus üblich, dass das Omelett um Füllungen wie Käse, Schnittlauch, Gemüse, Pilze, Fleisch oder eine Kombination davon gefaltet wird. Ganze Eier oder Eiweiß werden geschlagen, manchmal mit einer kleinen Menge Milch, Sahne oder Wasser.",
+                "GB": "In cuisine, an omelette or omelet is a dish made from beaten eggs fried with butter or oil in a frying pan . It is quite common for the omelette to be folded around fillings such as cheese, chives, vegetables, mushrooms, meat , or some combination of the above. Whole eggs or egg whites are beaten, sometimes with a small amount of milk, cream, or water."
             }
         },
         {
             "class": "omlette",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "omelette"
         },
         {
             "class": "onion rings",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Zwiebelringe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Onion_ring"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Zwiebelringe",
+                "GB": "Onion ring"
+            },
+            "description": {
+                "DE": "Zwiebelringe entstehen aus quer zur Wuchsrichtung in Scheiben geschnittenen Zwiebeln, deren konzentrische Schalen auf leichten Druck leicht ringförmig auseinanderfallen. Sie werden roh, gedünstet oder gebraten vielseitig in der Küche verwendet, z. B. für Marinaden, Zwiebelrostbraten und gebratene Leber.",
+                "GB": "An onion ring is a form of appetizer or side dish commonly found in the United States, Canada, United Kingdom, Ireland, Australia, New Zealand, South Africa, and some parts of Asia, mainland Europe, and Latin America. They generally consist of a cross-sectional \"ring\" of onion dipped in batter or bread crumbs and then deep fried; a variant is made with onion paste. While typically served as a side dish, onion rings are often eaten by themselves. The cooking process decomposes propanethial oxide in the onion into the sweet-smelling and tasting bispropenyl disulfide, responsible for the slightly sweet taste of onion rings."
             }
         },
         {
             "class": "orange chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Orange_chicken"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Orange Chicken",
+                "GB": "Orange Chicken"
+            },
+            "description": {
+                "DE": "Orange Chicken ist ein chinesisches Gericht amerikanischer Herkunft.",
+                "GB": "Orange chicken is a Chinese dish of U.S. origin."
             }
         },
         {
             "class": "orange juice",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "juice"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Orangensaft",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Orange_juice"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Orangensaft",
+                "GB": "Orange juice"
+            },
+            "description": {
+                "DE": "Orangensaft oder Apfelsinensaft ist ein Fruchtsaft, der durch Auspressen von Orangen hergestellt wird. Umgangssprachlich wird er oft als O-Saft bezeichnet. Orangensaft ist der meistgetrunkene Saft der Welt und steht für 50 % des Gesamtkonsums an Fruchtsäften. Weltweit werden pro Jahr rund 12 Mrd. Liter Orangensaft konsumiert, also fast 2 Liter pro Kopf der Weltbevölkerung.",
+                "GB": "Orange juice is a liquid extract of the orange tree fruit, produced by squeezing or reaming oranges. It comes in several different varieties, including blood orange, navel oranges, valencia orange, clementine, and tangerine. As well as variations in oranges used, some varieties include differing amounts of juice vesicles, known as \"pulp\" in American English, and \" bits\" in British English. These vesicles contain the juice of the orange and can be left in or removed during the manufacturing process. How juicy these vesicles are depend upon many factors, such as species, variety, and season. In American English, the beverage name is often abbreviated as \"OJ\"."
             }
         },
         {
             "class": "orecchiette",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Orecchiette",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Orecchiette"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Orecchiette",
+                "GB": "Orecchiette"
+            },
+            "description": {
+                "DE": "Orecchiette sind eine Pasta-Art, die aus Apulien in Italien stammt. Man nennt sie daher auch Orecchiette pugliesi. Sie sind das Symbol der Stadt Bari, werden jedoch in allen Teilen Apuliens verzehrt und sind wie ein Nationalgericht.",
+                "GB": "Orecchiette are a pasta typical of Apulia, a region of Southern Italy. Their name comes from their shape, which resembles a small ear."
             }
         },
         {
             "class": "oreo",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Oreo",
+                "GB": "Oreo"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "osso buco",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "ossobuco"
         },
         {
             "class": "ossobuco",
