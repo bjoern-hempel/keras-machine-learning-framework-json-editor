@@ -9515,82 +9515,90 @@
         },
         {
             "class": "mai tai",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cocktail"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Mai_Tai",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Mai_Tai"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Mai Tai",
+                "GB": "Mai Tai"
+            },
+            "description": {
+                "DE": "Mai Tai ist ein weltweit beliebter Rum-Cocktail und Longdrink, seine klassischen Bestandteile sind Rum, Limettensaft, Orangenlikör und Mandelsirup . Der Name bezieht sich in veränderter Schreibweise auf das tahitianische Adjektiv maita'i „gut“.",
+                "GB": "The Mai Tai is a cocktail based on rum, Curaçao liqueur, orgeat syrup, and lime juice, associated with Polynesian-style settings."
             }
         },
         {
             "class": "malta",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Maltesische_K%C3%BCche",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Maltese_cuisine"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Maltesische Küche",
+                "GB": "Maltese cuisine"
+            },
+            "description": {
+                "DE": "Die maltesische Küche gehört zu den mediterranen Küchen und wurde deutlich von der englischen sowie der italienischen Küche beeinflusst. Die verwendeten Gewürze sind der nordafrikanischen Küche entlehnt. Da Fleisch auf der Felseninsel rar ist, werden vorwiegend Gemüse und Fisch verwendet. Im Sommer und Herbst zur Fangzeit der Goldmakrele , findet man auf Malta diesen dort Lampuki genannten Fisch auf vielen Speisekarten. Die Goldmakrele ist der Nationalfisch Maltas und wurde von 1986 bis 2007 auf Malteser 10-Cent-Münzen geprägt. Die beliebtesten Fleischgerichte der Inseln werden aus Kaninchen zubereitet.",
+                "GB": "Maltese cuisine reflects Maltese history; it shows strong Italian and British influences as well as Spanish, French, Maghrebin, Provençal, and other Mediterranean cuisines. Having to import most of its foodstuffs, being positioned along important trade routes, and having to cater for the resident foreign powers who ruled the islands, opened Maltese cuisine to outside influences. The traditional Maltese stewed rabbit is often identified as the national dish."
             }
         },
         {
             "class": "mango sorbet",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Mangosorbet",
+                "GB": "Mango Sorbet"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "margarita",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cocktail"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Margarita",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Margarita"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Margarita",
+                "GB": "Margarita"
+            },
+            "description": {
+                "DE": "Die Margarita ist ein Cocktail auf der Basis von Tequila . Der Shortdrink variiert die klassische Grundstruktur eines Sours , indem der Zucker durch Triple Sec, einen Orangenlikör, ersetzt wird.",
+                "GB": "A margarita is a cocktail consisting of tequila, orange liqueur, and lime juice often served with salt on the rim of the glass. The drink is served shaken with ice , blended with ice , or without ice . Although it has become acceptable to serve a margarita in a wide variety of glass types, ranging from cocktail and wine glasses to pint glasses and even large schooners, the drink is traditionally served in the eponymous margarita glass, a stepped-diameter variant of a cocktail glass or champagne coupe."
             }
         },
         {
@@ -9599,102 +9607,76 @@
         },
         {
             "class": "marmalade",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "jam"
         },
         {
             "class": "marsala",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Marsala",
+                "GB": "Marsala"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "martini",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cocktail"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Martini_(Cocktail)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Martini_(cocktail)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Martini",
+                "GB": "Martini"
+            },
+            "description": {
+                "DE": "Der Martini ist ein klassischer Cocktail. Als trockener, herber und stark alkoholischer Shortdrink zählt er zu den Aperitifs und besteht in der Regel aus Gin und trockenem französischen Wermut , seltener aus Wodka und Wermut . Der Cocktail ist nicht mit der gleichnamigen italienischen Wermut-Marke der Firma Martini & Rossi zu verwechseln.",
+                "GB": "The martini is a cocktail made with gin and vermouth, and garnished with an olive or a lemon twist. Over the years, the martini has become one of the best-known mixed alcoholic beverages."
             }
         },
         {
             "class": "mash",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "mashed potato"
         },
         {
             "class": "mashed potato",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "potato"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kartoffelp%C3%BCree",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Mashed_potato"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kartoffelpüree",
+                "GB": "Mashed potato"
+            },
+            "description": {
+                "DE": "Kartoffelpüree, Kartoffelbrei, Kartoffelmus oder Kartoffelstampf, in Ostösterreich Erdäpfelpüree, schweizerhochdeutsch Kartoffelstock, ist ein Brei aus gekochten, zerdrückten und verrührten Kartoffeln sowie anderen Zutaten. Kartoffelpüree dient üblicherweise als Beilage.",
+                "GB": "Mashed potato or mashed potatoes , colloquially known as mash , is a dish prepared by mashing boiled, peeled or unpeeled potatoes. Milk, butter, salt and pepper are frequently used in preparation and it is frequently whipped at the end. The dish is usually a side dish to meat and\/or vegetables. The dish, particularly when using unpeeled potatoes and with a chunkier texture, may be known as smashed potatoes."
             }
         },
         {
