@@ -9847,205 +9847,133 @@
         },
         {
             "class": "michelada",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cocktail"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Michelada",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Michelada"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Michelada",
+                "GB": "Michelada"
+            },
+            "description": {
+                "DE": "Als Michelada bezeichnet man ein aus Mexiko stammendes Biermischgetränk.",
+                "GB": "A Michelada is a Mexican cerveza preparada made with beer, lime juice, assorted sauces , spices, tomato juice, and chili peppers. It is served in a chilled, salt-rimmed glass. There are numerous variations of this beverage throughout Mexico and Latin America."
             }
         },
         {
             "class": "migas",
-            "name": {
-                "DE": "Migas",
-                "GB": "Migas"
-            },
-            "related-classes": [],
             "categories": [
-                "dish"
+                "other main course"
             ],
-            "description": {
-                "DE": "Migas oder Migas de Pastor sind ein spanisches und portugiesisches traditionelles Bauern- bzw. Hirtengericht, bei dem altes Weißbrot als Beilage oder eigenständiges Hauptgericht verwertet wird.",
-                "GB": "Migas is a dish in Spanish and Portuguese cuisines."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Migas",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Migas"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Migas",
+                "GB": "Migas"
+            },
+            "description": {
+                "DE": "Migas oder Migas de Pastor sind ein spanisches und portugiesisches traditionelles Bauern- bzw. Hirtengericht, bei dem altes Weißbrot als Beilage oder eigenständiges Hauptgericht verwertet wird.",
+                "GB": "Migas is a dish in Spanish and Portuguese cuisines."
             }
         },
         {
             "class": "milk",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other beverage"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Milch",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Milk"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Milch",
+                "GB": "Milk"
+            },
+            "description": {
+                "DE": "Milch ist eine weiße, trübe Emulsion bzw. kolloidale Dispersion von Proteinen, Milchzucker und Milchfett in Wasser. Der Mensch nutzt die Milch vieler domestizierter Tiere als Nahrungsmittel, insbesondere als Getränk. Gebildet wird sie in den Milchdrüsen von Säugetieren, die damit ihre Neugeborenen nähren.",
+                "GB": "Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals before they are able to digest other types of food. Early-lactation milk contains colostrum, which carries the mother's antibodies to its young and can reduce the risk of many diseases. It contains many other nutrients including protein and lactose. Interspecies consumption of milk is not uncommon, particularly among humans, many of whom consume the milk of other mammals."
             }
         },
         {
             "class": "milk shake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "milkshake"
         },
         {
             "class": "milkshake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other beverage"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Milchshake",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Milkshake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Milchshake",
+                "GB": "Milkshake"
+            },
+            "description": {
+                "DE": "Ein Milchshake ist ein Getränk, für das Milch mit Speiseeis, Obst , Schokolade oder Aromen wie Vanille in einem Mixer verquirlt wird. Ein Milchshake wird meist erst unmittelbar vor dem Trinken zubereitet, um zu vermeiden, dass sich die unterschiedlich schweren Bestandteile wieder trennen.",
+                "GB": "A milkshake is a sweet, cold beverage that is usually made from milk, ice cream or ice milk, and flavorings or sweeteners such as butterscotch, caramel sauce, chocolate syrup, or fruit syrup."
             }
         },
         {
             "class": "milkshakes",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "milkshake"
         },
         {
             "class": "minestrone",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Minestrone",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Minestrone"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Minestrone",
+                "GB": "Minestrone"
+            },
+            "description": {
+                "DE": "Minestrone ist eine gehaltvolle Suppe aus Italien.",
+                "GB": "Minestrone is a thick soup of Italian origin made with vegetables, often with the addition of pasta or rice, sometimes both. Common ingredients include beans, onions, celery, carrots, stock, and tomatoes."
             }
         },
         {
             "class": "minestrone soup",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "minestrone"
         },
         {
             "class": "mini burger",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "slider"
         },
         {
             "class": "mini burgers",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "mini burger"
         },
         {
             "class": "miso soup",
