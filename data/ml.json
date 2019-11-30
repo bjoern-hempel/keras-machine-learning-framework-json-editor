@@ -8135,142 +8135,138 @@
         },
         {
             "class": "herring",
-            "categories": [],
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Herring_as_food"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hering",
+                "GB": "Herring"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Heringe sind Wildfischfutter, die meist zur Familie der Clupeidae gehören, aber auch ein wichtiges Nahrungsmittel für den Menschen sind. Hering bewegt sich oft in großen Schulen in der Nähe von Fischereibänken und in der Nähe der Küste. Die häufigsten und kommerziell wichtigsten Arten gehören zur Gattung Clupea, die vor allem in flachen, gemäßigten Gewässern des Nordpazifiks und des Nordatlantiks, einschließlich der Ostsee, sowie vor der Westküste Südamerikas vorkommt. Es werden drei Arten von Clupea unterschieden: Das Haupttaxi, der Atlantische Hering, macht mehr als die Hälfte des weltweiten kommerziellen Fangs von Heringen aus.\n\nÜbersetzt mit www.DeepL.com\/Translator (kostenlose Version)",
+                "GB": "Herring are forage fish in the wild, mostly belonging to the family Clupeidae, but they are also an important food for humans. Herring often move in large schools around fishing banks and near the coast. The most abundant and commercially important species belong to the genus Clupea, found particularly in shallow, temperate waters of the North Pacific and North Atlantic Oceans, including the Baltic Sea, as well as off the west coast of South America. Three species of Clupea are recognized; the main taxon, the Atlantic herring, accounts for over half the world's commercial capture of herrings."
             }
         },
         {
             "class": "hoagie",
-            "categories": [],
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hoagie_roll"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "U-Boot-Sandwich",
+                "GB": "Hoagie roll"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Eine Hoagie-Rolle oder U-Boot-Sandwich ist eine Art lange flache Rolle, die zur Zubereitung von Hoagie-Sandwiches verwendet wird. Ein Teil des Hoagie-Rollteiges wird vor dem Backen fermentiert. Hoagie-Rollen werden manchmal geröstet, bevor sie zur Zubereitung eines Sandwichs verwendet werden.",
+                "GB": "A hoagie roll or hero roll is a type of long flat roll used to prepare hoagie sandwiches. Some hoagie roll dough is fermented prior to baking. Hoagie rolls are sometimes toasted before being used to prepare a sandwich."
             }
         },
         {
             "class": "hollandaise",
-            "categories": [],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "hollandaise sauce"
         },
         {
             "class": "hollandaise sauce",
-            "categories": [],
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Holl%C3%A4ndische_Sauce",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hollandaise_sauce"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Holländische Sauce",
+                "GB": "Hollandaise sauce"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Holländische Sauce, auch oft Sauce hollandaise genannt, ist eine helle, aufgeschlagene Buttersauce und eine der Grundsaucen der klassischen französischen Küche. Sie wird meist zu Fisch, Meeresfrüchten und Gemüse gereicht.",
+                "GB": "Hollandaise sauce , formerly also called Dutch sauce, is an emulsion of egg yolk, melted butter, and lemon juice . It is usually seasoned with salt, and either white pepper or cayenne pepper."
             }
         },
         {
             "class": "home fries",
-            "categories": [],
+            "categories": [
+                "potato"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Home_fries"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Home fries",
+                "GB": "Home fries"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Pommes frites, Pommes frites, amerikanische Pommes frites, Bratkartoffeln, Gebackene Kartoffelstäbchen oder Bistro-Kartoffeln sind eine Art grundlegendes Kartoffelgericht, das aus in Stücke geschnittenen, geschnittenen, gekeilten oder gewürfelten Kartoffeln hergestellt wird, die manchmal ungeschält sind und durch Kochen, Backen, Dämpfen oder Mikrowelle geparkt worden sein können. Sie werden manchmal als Ersatz für Rösti verwendet.",
+                "GB": "Home fries , house fries , American fries , fried potatoes , Gebackene Kartoffelstäbchen , or bistro potatoes are a type of basic potato dish made by pan- or skillet-frying chunked, sliced, wedged or diced potatoes that are sometimes unpeeled and may have been par-cooked by boiling, baking, steaming, or microwaving. They are sometimes served as a substitute for hash browns."
             }
         },
         {
             "class": "hot and sour soup",
-            "categories": [],
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sauer-scharf-Suppe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hot_and_sour_soup"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Sauer-scharf-Suppe",
+                "GB": "Hot and sour soup"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Sauer-scharf-Suppe oder Pekingsuppe ist eine Einlaufsuppe der chinesischen Küche.",
+                "GB": "Hot and sour soup is a variety of soups from several Asian culinary traditions. In all cases, the soup contains ingredients to make it both spicy and sour."
             }
         },
         {
             "class": "hot chocolate",
-            "categories": [],
+            "categories": [
+                "other beverage"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kakao_(Getr%C3%A4nk)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hot_chocolate"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Kakao (Getränk)",
+                "GB": "Hot chocolate"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Als Kakao bezeichnet man eine Gruppe von Getränken, die mit kakaohaltigen Produkten auf Basis von Wasser und\/oder Milch zubereitet werden. Je nach Zubereitungsart und gewünschter Süße wird hierzu Kakaopulver, Schokolade, ein kakao- bzw. schokoladehaltiges Instantpulver oder eine Art Sirup verwendet mit verschiedenen Zuckergehalten. Das Endprodukt wird sowohl als Heißgetränk als auch kalt getrunken.",
+                "GB": "Hot chocolate, also known as drinking chocolate, cocoa, and as chocolate tea in Nigeria, is a heated drink consisting of shaved chocolate, melted chocolate or cocoa powder, heated milk or water, and usually a sweetener. Hot chocolate may be topped with whipped cream or marshmallows. Hot chocolate made with melted chocolate is sometimes called drinking chocolate, characterized by less sweetness and a thicker consistency."
             }
         },
         {
@@ -8280,7 +8276,7 @@
         {
             "class": "hotdog",
             "categories": [
-                "undefined"
+                "fast food"
             ],
             "related-classes": [],
             "urls": {
@@ -8295,8 +8291,8 @@
                 "GB": "Hot dog"
             },
             "description": {
-                "DE": "Der Hotdog (englisch für heißer Hund, auch Hot Dog) ist ein Fast-Food-Gericht, das aus einer warmen Brühwurst mit weiteren Zutaten in einem weichen Weizenbrötchen besteht.",
-                "GB": "The hot dog (also spelled hotdog) or dog is a grilled or steamed link-sausage sandwich where the sausage is served in the slit of a partially sliced bun."
+                "DE": "Der Hotdog ist ein Fast-Food-Gericht, das aus einer warmen Brühwurst mit weiteren Zutaten in einem weichen Weizenbrötchen besteht.",
+                "GB": "The hot dog or dog is a grilled or steamed link-sausage sandwich where the sausage is served in the slit of a partially sliced bun. It can also refer to the sausage itself. The sausage used is the wiener or frankfurter . The names of these sausages also commonly refer to their assembled sandwiches. Hot dog preparation and condiments vary regionally in the US. Typical condiments include mustard, ketchup, mayonnaise, relish, and cheese sauce, and common garnishes include onions, sauerkraut, jalapeños, chili, grated cheese, coleslaw, and olives. Hot dog variants include the corn dog and pigs in a blanket. The hot dog's cultural traditions include the Nathan's Hot Dog Eating Contest and the Oscar Mayer Wienermobile."
             }
         },
         {
