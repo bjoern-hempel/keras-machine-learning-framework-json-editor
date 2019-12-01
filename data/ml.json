@@ -13499,185 +13499,162 @@
         },
         {
             "class": "scallops",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kammmuscheln",
+                    "GB": ""
                 },
                 "spoonacular": null
-            }
-        },
-        {
-            "class": "schnitzel",
+            },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Kammmuscheln",
+                "GB": "Scallops"
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
+                "DE": "Kammmuscheln",
+                "GB": "Scallops"
             }
         },
         {
             "class": "scone",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
             "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Scone_(Geb%C3%A4ck)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Scone"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Scone (Gebäck)",
+                "GB": "Scone"
+            },
+            "description": {
+                "DE": "Ein Scone ist ein von den britischen Inseln stammendes Gebäck, das oft zur Tea Time gereicht wird.",
+                "GB": "A scone is a British baked good, usually made of wheat, or oatmeal with baking powder as a leavening agent and baked on sheet pans. A scone is often slightly sweetened and occasionally glazed with egg wash. The scone is a basic component of the cream tea. It differs from teacakes and other types of sweets that are made with yeast."
             }
         },
         {
             "class": "scones",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "scone"
         },
         {
             "class": "scotch",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Scotch_whisky"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schottischer Whisky",
+                "GB": "Scotch whisky"
+            },
+            "description": {
+                "DE": "Scotch Whisky ist Malt Whisky oder Grain Whisky aus Schottland. Schottischer Whisky muss in einer gesetzlich vorgeschriebenen Weise hergestellt werden.",
+                "GB": "Scotch whisky is malt whisky or grain whisky made in Scotland. Scotch whisky must be made in a manner specified by law."
             }
         },
         {
             "class": "scramble",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "scrambled eggs"
         },
         {
             "class": "scrambled eggs",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/R%C3%BChrei",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Scrambled_eggs"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Rührei",
+                "GB": "Scrambled eggs"
+            },
+            "description": {
+                "DE": "Rührei, in Österreich meist Eierspeise oder Eierschmalz genannt, ist ein einfaches Gericht aus Eiern, die in einer Pfanne gegart werden.",
+                "GB": "Scrambled eggs is a dish made from eggs stirred or beaten together in a pan while being gently heated, typically with salt, butter and sometimes other ingredients."
             }
         },
         {
             "class": "sea bass",
-            "name": {
-                "DE": "Seebarsch",
-                "GB": "Sea bass"
-            },
-            "related-classes": [],
             "categories": [
-                "dish",
                 "fish"
             ],
-            "description": {
-                "DE": "Der Europäische Wolfsbarsch oder auch Seebarsch (Dicentrarchus labrax) ist ein Fisch aus der Familie der Wolfsbarsche (Moronidae).",
-                "GB": "The European bass (Dicentrarchus labrax) is a primarily ocean-going fish native to the waters off Europe's western and southern and Africa's northern coasts, though it can also be found in shallow coastal waters and river mouths during the summer months."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Europ%C3%A4ischer_Wolfsbarsch",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/European_bass"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Seebarsch",
+                "GB": "Sea bass"
+            },
+            "description": {
+                "DE": "Der Europäische Wolfsbarsch oder auch Seebarsch (Dicentrarchus labrax) ist ein Fisch aus der Familie der Wolfsbarsche (Moronidae).",
+                "GB": "The European bass (Dicentrarchus labrax) is a primarily ocean-going fish native to the waters off Europe's western and southern and Africa's northern coasts, though it can also be found in shallow coastal waters and river mouths during the summer months."
+            }
+        },
+        {
+            "class": "schnitzel",
+            "categories": [
+                "other meat"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Schnitzel",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Schnitzel",
+                "GB": "Schnitzel"
+            },
+            "description": {
+                "DE": "Ein Schnitzel ist eine dünne Scheibe Fleisch, die in Fett gebraten wird. Das Fleisch wird in der Regel durch Schlagen mit einem Fleischklopfer verdünnt. Am häufigsten wird das Fleisch vor dem Braten paniert. Das panierte Schnitzel aus Österreich ist in vielen Ländern beliebt und wird aus Kalbfleisch, Schweinefleisch, Huhn, Hammelfleisch, Rindfleisch oder Pute hergestellt. Es ist sehr ähnlich wie das Tellerschnitzel in Frankreich, Tonkatsu in Japan und die Milanesa von Italien, Mexiko, Uruguay, Argentinien und Brasilien.",
+                "GB": "A schnitzel is a thin slice of meat fried in fat. The meat is usually thinned by pounding with a meat tenderizer. Most commonly, the meats are breaded before frying. Originating in Austria, the breaded schnitzel is popular in many countries and made using veal, pork, chicken, mutton, beef, or turkey. It is very similar to the dish escalope in France, tonkatsu in Japan, and the milanesa of Italy, Mexico, Uruguay, Argentina, and Brazil."
             }
         },
         {
             "class": "sea bream",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Meerbrassen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sparidae"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Meerbrassen",
+                "GB": "Sparidae"
+            },
+            "description": {
+                "DE": "Zweibindenbrasse ",
+                "GB": "The Sparidae are a family of fish in the order Perciformes, commonly called sea breams and porgies. The sheepshead, scup, and red seabream are species in this family. Most sparids are deep-bodied compressed fish with a small mouth separated by a broad space from the eye, a single dorsal fin with strong spines and soft rays, a short anal fin, long pointed pectoral fins and rather large firmly attached scales. They are found in shallow temperate and tropical waters and are bottom-dwelling carnivores."
             }
         },
         {
@@ -13686,22 +13663,22 @@
         },
         {
             "class": "seafood salad",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
