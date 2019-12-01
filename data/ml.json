@@ -13847,442 +13847,370 @@
         },
         {
             "class": "shiraz",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "shiraz"
         },
         {
             "class": "shortbread",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pastry & bread"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Shortbread",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Shortbread"
                 },
                 "spoonacular": null
-            }
-        },
-        {
-            "class": "short ribs",
+            },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Shortbread",
+                "GB": "Shortbread"
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
-        },
-        {
-            "class": "shot",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
+                "DE": "Shortbread ist ein schottisches süßes Mürbeteiggebäck. Das klassische Rezept besteht aus einem Teil Zucker, zwei Teilen Butter und drei Teilen Mehl .",
+                "GB": "Shortbread is a traditional Scottish biscuit usually made from one part white sugar, two parts butter, and three parts plain wheat flour. Other ingredients like ground rice or cornflour are sometimes added to alter the texture. Modern recipes also often deviate from the original by splitting the sugar into equal parts granulated and icing sugar and many add a portion of salt."
             }
         },
         {
             "class": "shredded chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "shredded chicken",
+                "GB": "shredded chicken"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "shrimp",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Shrimp_and_prawn_as_food"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Garnelen",
+                "GB": "Shrimp and prawn as food"
+            },
+            "description": {
+                "DE": "Garnelen und Garnelen sind wichtige Arten von Meeresfrüchten, die weltweit verzehrt werden. Obwohl Garnelen und Garnelen zu verschiedenen Unterordnungen von Decapoda gehören, sind sie im Aussehen sehr ähnlich und die Begriffe werden oft austauschbar in der kommerziellen Landwirtschaft und der Wildfischerei verwendet. In der jüngsten Aquakulturliteratur wird unterschieden, die den Begriff \"Garnele\" zunehmend nur für die Süßwasserformen der Palaemoniden und \"Garnele\" für die marinen Penaeiden verwendet.",
+                "GB": "Shrimp and prawn are important types of seafood that are consumed worldwide. Although shrimp and prawns belong to different suborders of Decapoda, they are very similar in appearance and the terms are often used interchangeably in commercial farming and wild fisheries. A distinction is drawn in recent aquaculture literature, which increasingly uses the term \"prawn\" only for the freshwater forms of palaemonids and \"shrimp\" for the marine penaeids."
             }
         },
         {
             "class": "shrimp and grits",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "breakfast"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Shrimp_and_grits"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Garnelen und Körner",
+                "GB": "Shrimp and grits"
+            },
+            "description": {
+                "DE": "Garnelen und Splitter sind ein traditionelles Gericht im Lowcountry der Küstenstaaten South Carolina und Georgia. Es ist ein traditionelles Frühstücksessen, obwohl viele es eher als Mittag- oder Abendessen betrachten. Andernorts werden die Körner von gebratenen Wels oder Lachskroketten begleitet.",
+                "GB": "Shrimp and grits is a traditional dish in the Lowcountry of coastal South Carolina and Georgia. It is a traditional breakfast dish, though many consider it more of a lunch or supper dish. Elsewhere, grits are accompanied by fried catfish or salmon croquettes."
             }
         },
         {
             "class": "shrimp cocktail",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Garnelencocktail",
+                "GB": "Shrimp Cocktail"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "shrimp roll",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Prawn_roll"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Garnelenrolle",
+                "GB": "Prawn roll"
+            },
+            "description": {
+                "DE": "Eine Garnelenrolle ist ein Sandwichartikel, der in Gebieten Australiens erhältlich ist, wo die Garnelenfischerei eine wichtige Branche ist. Sie werden typischerweise aus einer weichen, weißen Rolle von etwa 15 cm Länge hergestellt, gefüllt mit einem Dutzend oder mehr geschälten Garnelen, Salat und Remoulade, Thousand Island oder Cocktailsauce.",
+                "GB": "A prawn roll is a sandwich item available in areas of Australia, where prawn fishing is a major industry. They typically are made using a soft white roll approximately six inches long, stuffed with a dozen or more peeled prawns, lettuce and remoulade, Thousand Island or cocktail-style sauce."
             }
         },
         {
             "class": "shrimps",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Shrimp_and_prawn_as_food"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Garnelen ",
+                "GB": "Shrimp and prawn"
+            },
+            "description": {
+                "DE": "Garnelen und Garnelen sind wichtige Arten von Meeresfrüchten, die weltweit verzehrt werden. Obwohl Garnelen und Garnelen zu verschiedenen Unterordnungen von Decapoda gehören, sind sie im Aussehen sehr ähnlich und die Begriffe werden oft austauschbar in der kommerziellen Landwirtschaft und der Wildfischerei verwendet. In der jüngsten Aquakulturliteratur wird unterschieden, die den Begriff \"Garnele\" zunehmend nur für die Süßwasserformen der Palaemoniden und \"Garnele\" für die marinen Penaeiden verwendet.",
+                "GB": "Shrimp and prawn are important types of seafood that are consumed worldwide. Although shrimp and prawns belong to different suborders of Decapoda, they are very similar in appearance and the terms are often used interchangeably in commercial farming and wild fisheries. A distinction is drawn in recent aquaculture literature, which increasingly uses the term \"prawn\" only for the freshwater forms of palaemonids and \"shrimp\" for the marine penaeids."
             }
         },
         {
             "class": "shrimp scampi",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "shrimp"
         },
         {
             "class": "sirloin",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "sirloin steak"
         },
         {
             "class": "sirloin steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sirloin-Steak",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sirloin_steak"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sirloin-Steak",
+                "GB": "Sirloin steak"
+            },
+            "description": {
+                "DE": "Das Sirloin-Steak ist ein sehr großes, mageres Steak aus dem hinteren Ende des flachen Roastbeefs mit Knochen, jedoch ohne Filet. Es wird vier bis sechs Zentimeter dick geschnitten und wiegt bis zu zwei Kilogramm. Es unterscheidet sich vom Rumpsteak nur durch sein Gewicht.",
+                "GB": "The sirloin steak is cut from the sirloin where the T-bone, porterhouse, and club steaks are cut. The sirloin is actually divided into several types of steak. The top sirloin is the most prized of these and is specifically marked for sale under that name. The bottom sirloin, which is less tender and much larger, is typically marked for sale simply as \"sirloin steak\". The bottom sirloin, in turn, connects to the sirloin tip roast."
             }
         },
         {
             "class": "skate",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Skate_(fish)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Skate",
+                "GB": "Skate"
+            },
+            "description": {
+                "DE": "Schlittschuhe sind Knorpelfische der Familie Rajidae in der Überordnung Batoidea der Rochen. Es wurden mehr als 150 Arten beschrieben, in 17 Gattungen. Softnoseschlittschuhe und Pygmäenschlittschuhe wurden früher als Unterfamilien von Rajidae behandelt, werden aber heute als eigenständige Familien betrachtet. Alternativ wird der Name \"Skate\" verwendet, um sich auf die gesamte Ordnung der Rajiformes zu beziehen.",
+                "GB": "Skates are cartilaginous fish belonging to the family Rajidae in the superorder Batoidea of rays. More than 150 species have been described, in 17 genera. Softnose skates and pygmy skates were previously treated as subfamilies of Rajidae , but are now considered as distinct families. Alternatively, the name \"skate\" is used to refer to the entire order of Rajiformes ."
             }
         },
         {
             "class": "skewers",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other meat"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Fleischspie%C3%9F",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Skewer"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fleischspieß",
+                "GB": "Skewer"
+            },
+            "description": {
+                "DE": "Der Ausdruck Fleischspieß bezeichnet auf Holz- oder Metallspieße gesteckte Fleischstücke, die in dieser Form gegart werden. Man unterscheidet einfache Fleischspieße und mechanische Drehspieße .",
+                "GB": "A skewer is a thin metal or wood stick used to hold pieces of food together. The word may sometimes be used as a metonym, to refer to the entire food item served on a skewer, as in \"chicken skewers\". Skewers are used while grilling or roasting meats and fish, and in other culinary applications."
             }
         },
         {
             "class": "skirt steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kronfleisch",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Skirt_steak"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kronfleisch",
+                "GB": "Skirt steak"
+            },
+            "description": {
+                "DE": "Als Kronfleisch wird vor allem in Bayern und Österreich küchensprachlich das Muskelfleisch im Zwerchfell bezeichnet. Nach Herings Lexikon der Küche wird es auf das Zwerchfell des Rinds eingegrenzt.",
+                "GB": "Skirt steak is a cut of beef steak from the plate. It is long, flat, and prized for its flavor rather than tenderness. It is not to be confused with flank steak, a generally similar adjacent cut nearer the animal's rear quarter."
             }
         },
         {
             "class": "slaw",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "green"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Krautsalat",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coleslaw"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Krautsalat",
+                "GB": "Coleslaw"
+            },
+            "description": {
+                "DE": "Krautsalat ist ein Salat, der meist aus Weißkraut, seltener aus Blau- bzw. Rotkraut zubereitet wird, hierbei steht Kraut als alternative Bezeichnung für Kohl. Er kann sowohl warm als auch kalt zubereitet werden. Als eine der ältesten Kulturpflanzen in Europa gab es Salat aus Weißkraut vermutlich schon bei den Römern. In manchen Regionen wurde Kopfsalat früher auch als Krautsalat bezeichnet.",
+                "GB": "Coleslaw , also known as cole slaw or slaw, is a salad consisting primarily of finely-shredded raw cabbage with a salad dressing, commonly either vinaigrette or mayonnaise. Coleslaw prepared with vinaigrette may benefit from the long lifespan granted by pickling."
             }
         },
         {
             "class": "slider",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Slider_(sandwich)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Slider",
+                "GB": "Slider (sandwich)"
+            },
+            "description": {
+                "DE": "Ein Schieberegler ist ein amerikanischer Begriff für ein dampfgegrilltes Sandwich, typischerweise etwa 2 Zoll breit, das aus einem Bund besteht. Der Begriff bezieht sich in erster Linie auf kleine Hamburger, wird aber manchmal verwendet, um jedes kleine Sandwich mit einer Schieberolle zu beschreiben.",
+                "GB": "A slider is an American term for a steam-grilled sandwich, typically around 2 inches across, made with a bun. The term primarily refers to small hamburgers, but is sometimes used to describe any small sandwich made with a slider roll."
             }
         },
         {
             "class": "sliders",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "slider"
         },
         {
             "class": "sloppy joe",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sloppy_Joe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sloppy_joe"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sloppy Joe",
+                "GB": "Sloppy joe"
+            },
+            "description": {
+                "DE": "Ein Sloppy Joe ist ein ursprünglich US-amerikanischer Imbiss, bei dem eine Hackfleischsauce, ähnlich einem Hamburger, auf einem Brötchen serviert wird.",
+                "GB": "A sloppy joe is a sandwich consisting of ground beef or pork, onions, tomato sauce or ketchup, Worcestershire sauce, and other seasonings, served on a hamburger bun. The dish originated in the United States during the early 20th century."
             }
         },
         {
             "class": "smoked chicken",
+            "categories": [
+                "poultry"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "Geräuchertes Hähnchen",
+                    "GB": "Smoked Chicken"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "smoked fish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Smoked_fish"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Geräucherter Fisch",
+                "GB": "Smoked fish"
+            },
+            "description": {
+                "DE": "Räucherfisch ist ein Fisch, der durch Rauchen geheilt wurde. Lebensmittel wurden im Laufe der Geschichte von Menschen geraucht. Ursprünglich geschah dies als Konservierungsmittel. In jüngerer Zeit wird Fisch durch Kühlung und Gefrieren leicht konserviert, und das Räuchern von Fisch erfolgt im Allgemeinen aufgrund des einzigartigen Geschmacks und der Geschmacksrichtung, die durch das Räuchern vermittelt werden.",
+                "GB": "Smoked fish is fish that has been cured by smoking. Foods have been smoked by humans throughout history. Originally this was done as a preservative. In more recent times fish is readily preserved by refrigeration and freezing and the smoking of fish is generally done for the unique taste and flavour imparted by the smoking process."
             }
         },
         {
