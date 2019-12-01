@@ -15967,202 +15967,150 @@
         },
         {
             "class": "tuna melt",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Thunfisch Toast",
+                "GB": "Tuna Melt"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "tuna roll",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "sushi"
         },
         {
             "class": "tuna salad",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other salad"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tuna_salad"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Thunfischsalat",
+                "GB": "Tuna salad"
+            },
+            "description": {
+                "DE": "Thunfischsalat beginnt mit einer Mischung aus zwei Hauptzutaten: Thunfisch und Mayonnaise. Der verwendete Thunfisch wird in der Regel vorgekocht, konserviert und in Wasser oder Öl verpackt. Zu den Zutaten, die oft hinzugefügt werden, gehören vor allem Gurken, Sellerie, Genuss und Zwiebeln. Wenn die Mischung auf Brot gelegt wird, ergibt sie ein Thunfischsalat-Sandwich. Thunfischsalat wird auch regelmäßig allein oder auf Crackern, Salat, Tomaten oder Avocado serviert. Gehackte gekochte Eier können hinzugefügt werden. Relish verleiht einen pikanten Geschmack, benötigt aber im Gegensatz zu gewöhnlich hinzugefügtem Gemüse kein Hacken. Als gesündere Alternative zu Mayonnaise, Hummus oder Avocadopüree und einem Schuss Zitronensaft kann man bei der Zubereitung von Thunfischsalat verwenden.",
+                "GB": "Tuna salad starts with a blend of two main ingredients: tuna and mayonnaise. The tuna used is usually pre-cooked, canned, and packaged in water or oil. Pickles, celery, relish, and onion are foremost among the ingredients that are often added. When the mixture is placed on bread, it makes a tuna salad sandwich. Tuna salad is also regularly served by itself, or on top of crackers, lettuce, tomato, or avocado. Chopped boiled eggs may be added. Relish adds a piquant flavor yet, unlike commonly added vegetables, requires no chopping. As a healthier alternative to mayonnaise, hummus or mashed avocado and a squeeze of lemon juice can be used in the preparation of tuna salad."
             }
         },
         {
             "class": "tuna steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "tuna"
         },
         {
             "class": "turbot",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Steinbutt",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Turbot"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Steinbutt",
+                "GB": "Turbot"
+            },
+            "description": {
+                "DE": "Ein gut getarnter Steinbutt",
+                "GB": "The turbot is a species of flatfish in the family Scophthalmidae. It is a demersal fish native to marine or brackish waters of the North Atlantic, Baltic Sea and the Mediterranean Sea."
             }
         },
         {
             "class": "turkey burger",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chicken burger"
         },
         {
             "class": "tzatziki",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tsatsiki",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tzatziki"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tsatsiki",
+                "GB": "Tzatziki"
+            },
+            "description": {
+                "DE": "Tsatsiki ist eine Vorspeise der griechischen Küche aus griechischem Joghurt , Gurken, Olivenöl und Knoblauch.",
+                "GB": "Tzatziki, cacık or tarator is a dip, soup, or sauce found in the cuisines of Southeast Europe and the Middle East. It is made of salted strained yogurt or diluted yogurt mixed with cucumbers, garlic, salt, olive oil, sometimes with vinegar or lemon juice, and herbs such as dill, mint, parsley and thyme. It is generally served as a cold appetizer or a side dish."
             }
         },
         {
             "class": "vanilla ice cream",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "ice cream"
         },
         {
             "class": "vegetable soup",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gem%C3%BCsesuppe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Vegetable_soup"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gemüsesuppe",
+                "GB": "Vegetable soup"
+            },
+            "description": {
+                "DE": "Gemüsesuppe ist eine Suppe aus klein geschnittenem, bunt gemischtem Gemüse in einer meist klaren Brühe. Anders als ähnlich zusammengesetzte Eintöpfe ist sie von eher dünnflüssiger Konsistenz und die Gemüse bleiben bissfest. Fleisch enthält sie nicht oder nur in kleiner Menge. Serviert wird Gemüsesuppe häufig als Vorspeise.",
+                "GB": "Vegetable soup is a common soup prepared using vegetables and leaf vegetables as primary ingredients. It dates to ancient history, and is a mass-produced food product in contemporary times."
             }
         },
         {
             "class": "vindaloo",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "stew"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Vindalho",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Vindaloo"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Vindalho",
+                "GB": "Vindaloo"
+            },
+            "description": {
+                "DE": "Vindalho ist ein beliebtes, scharfes indisches Gericht. Es entstand in Goa, das 450 Jahre lang die Hauptstadt der Kolonie Portugiesisch-Indien war. Die Portugiesen brachten eine typische Zubereitungsart für Schweinefleisch mit: das Marinieren in Wein, Knoblauch und Gewürzen, auf Portugiesisch Carne em vinha de alhos.",
+                "GB": "Vindaloo or vindalho is an Indian curry dish popular in the region of Goa, Vasai, the surrounding Konkan, Kerala and many other parts of India. It is known globally in its British Indian form as a staple of curry house and Indian restaurant menus, often regarded as a fiery, spicy dish, even though it may not necessarily be the spiciest dish available. They are usually made with pork although they can be made with any kind of meat including beef, mutton, chicken etc."
             }
         },
         {
