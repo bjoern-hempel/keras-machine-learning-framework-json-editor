@@ -16299,203 +16299,97 @@
         },
         {
             "class": "white fish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "whitefish"
         },
         {
             "class": "whitefish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Whitefish_(fisheries_term)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Weißfisch",
+                "GB": "Whitefish"
+            },
+            "description": {
+                "DE": "Weißfisch oder Weißfisch ist ein Fischereibegriff für mehrere Arten von Grundfischen mit Flossen, insbesondere Atlantikkabeljau, Wittling, Schellfisch, Seehecht, Seelachs und andere. Weißfisch ist auch der Name mehrerer Arten von atlantischen Süßwasserfischen.",
+                "GB": "Whitefish or white fish is a fisheries term for several species of demersal fish with fins, particularly Atlantic cod , whiting , haddock , hake , pollock , and others. Whitefish is also the name of several species of Atlantic freshwater fish."
             }
         },
         {
             "class": "white wine",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "white wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Wei%C3%9Fwein",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/White_wine"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Weißwein",
+                "GB": "White wine"
+            },
+            "description": {
+                "DE": "Weißwein ist ein Wein, der durch die alkoholische Gärung von Weintrauben entsteht. Die Farbe der Beerenhaut kann dabei sowohl hellgelb, gelbgrün, grün, grau, graurot und rot sein. Das Fruchtfleisch enthält nur wenig Farbstoffe. Mit Ausnahme der Färbertraube, einer Rotweinsorte, befinden sich die farbgebenden Pigmente ausschließlich in der Beerenschale. Durch das frühzeitige Abpressen des Beerensafts wird eine Extraktion der Bestandteile der Beerenschale weitgehend vermieden. Dadurch erzielt ein Winzer die strohgelbe bis goldgelbe Farbe des Weins. Die große Vielfalt der Weißweine ergibt sich aus dem Zusammenspiel der verfügbaren Rebsorten, diversen Verfahren in der Weinherstellung sowie verschiedenen Restzuckergehalten.",
+                "GB": "White wine is a wine that is fermented without skin contact. The colour can be straw-yellow, yellow-green, or yellow-gold. It is produced by the alcoholic fermentation of the non-coloured pulp of grapes, which may have a skin of any colour. White wine has existed for at least 2500 years."
             }
         },
         {
             "class": "whole fish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "whole fish"
         },
         {
             "class": "wiener",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "wiener"
         },
         {
             "class": "wine",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "wine"
         },
         {
             "class": "wings",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "chicken wings"
         },
         {
             "class": "won ton",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "wonton"
         },
         {
             "class": "wonton",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Wan_Tan",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Wonton"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Wan Tan",
+                "GB": "Wonton"
+            },
+            "description": {
+                "DE": "Wan Tan, auch Wantan oder Huntun sind Teigtaschen aus der chinesischen Küche. Die allgemein populäre Schreibweise „Wan Tan“ hat ihren Ursprung im Kantonesischen und spiegelt die Verwendung englischer Schreibkonvention wider, während die Bezeichnung „Huntun“ hingegen sich aus dem Hochchinesischen ableitet.",
+                "GB": "A wonton is a type of Chinese dumpling commonly found across regional styles of Chinese cuisine."
             }
         },
         {
             "class": "wontons",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "wonton"
         },
         {
             "class": "wonton soup",
