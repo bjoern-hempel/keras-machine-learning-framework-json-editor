@@ -15357,203 +15357,133 @@
         },
         {
             "class": "tapenade",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tapenade",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tapenade"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tapenade",
+                "GB": "Tapenade"
+            },
+            "description": {
+                "DE": "Die Tapenade ist eine aus der südfranzösischen Küche stammende Olivenpaste. Hauptbestandteile sind entsteinte Oliven, Anchovis und Kapern . Sie wird als Brotaufstrich oder Dipsauce verwendet.",
+                "GB": "Tapenade is a Provençal name for a dish consisting of puréed or finely-chopped olives, capers, and anchovies. Its name comes from the Provençal word for capers, tapenas . It is a popular food in the south of France, where it generally is eaten as an hors d'œuvre spread on bread, but sometimes it is used to stuff poultry for a main course."
             }
         },
         {
             "class": "taquitos",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "taco"
         },
         {
             "class": "tart",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tarte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tart"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tarte",
+                "GB": "Tart"
+            },
+            "description": {
+                "DE": "Tarte bezeichnet in der französischen Küche einen Kuchen aus einer speziellen Art von Mürbeteig, der in der Regel völlig ohne Zugabe von Salz oder Zucker, also geschmacksneutral, hergestellt wird. Er kann sowohl herzhaft als auch süß belegt sein. Er wird in speziellen flachen runden Backformen mit geriffeltem Rand, manchmal auch in einer Springform gebacken. Es gibt verschiedene würzige Varianten mit Gemüse, teilweise auch Fleisch oder Fisch, die in der Regel mit einer Sahne-Ei-Masse übergossen werden. Die herzhaften Tartes können eine Hauptmahlzeit sein.",
+                "GB": "A tart is a baked dish consisting of a filling over a pastry base with an open top not covered with pastry. The pastry is usually shortcrust pastry; the filling may be sweet or savoury, though modern tarts are usually fruit-based, sometimes with custard. Tartlet refers to a miniature tart; an example would be egg tarts. The categories of \"tart\", \"flan\", \"quiche\", and \"pie\" overlap, with no sharp distinctions."
             }
         },
         {
             "class": "tartelette",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "tart"
         },
         {
             "class": "tarte tatin",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tarte_Tatin",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tarte_Tatin"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tarte Tatin",
+                "GB": "Tarte Tatin"
+            },
+            "description": {
+                "DE": "Tarte Tatin, in Paris auch tarte du chef oder tarte des demoiselles Tatin genannt, ist ein traditioneller französischer Apfelkuchen, der meist als Dessert gereicht wird. Typisch für die Tarte Tatin ist eine Karamellschicht, die beim Backen auf dem Kupfer- oder Keramikboden der Tarteform entsteht.",
+                "GB": "The tarte Tatin , named after the hotel serving it as its signature dish, is a pastry in which the fruit is caramelised in butter and sugar before the tart is baked. It originated in France but has spread to other countries over the years."
             }
         },
         {
             "class": "tartine",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Open_sandwich"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Offenes Sandwich",
+                "GB": "Open sandwich"
+            },
+            "description": {
+                "DE": "Ein offenes Sandwich, auch bekannt als offenes\/offenes Sandwich, Brotbasis, Brotplatte oder Tartine, besteht aus einer oder mehreren Brotscheiben mit einem oder mehreren Nahrungsmitteln darauf.",
+                "GB": "An open sandwich, also known as an open-face\/open-faced sandwich, bread baser, bread platter or tartine, consists of one or more slices of bread with one or more food items on top."
             }
         },
         {
             "class": "tartlet",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "tart"
         },
         {
             "class": "tarts",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "tart"
         },
         {
             "class": "tater tots",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "potato"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tater_tots"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tater tots",
+                "GB": "Tater tots"
+            },
+            "description": {
+                "DE": "Tater tots oder nur tots . Sie zeichnen sich durch ihre kompakte zylindrische Form und ihr knackiges Äußeres aus. Der Begriff ist eine eingetragene Marke von Ore-Ida, wird aber oft als Oberbegriff verwendet.",
+                "GB": "Tater tots or just tots. They are recognized by their compact cylindrical shape and crispy exterior. The term is a registered trademark of Ore-Ida , but it is often used as a generic term."
             }
         },
         {
             "class": "t-bone steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "porterhouse steak"
         },
         {
             "class": "tea",
