@@ -13663,7 +13663,9 @@
         },
         {
             "class": "seafood salad",
-            "categories": [],
+            "categories": [
+                "other salad"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
@@ -13673,8 +13675,8 @@
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Meeresfrüchtesalat",
+                "GB": "Seafood Salad"
             },
             "description": {
                 "DE": "",
@@ -13683,182 +13685,164 @@
         },
         {
             "class": "sea scallops",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Seemuscheln",
+                "GB": "Sea Scallops"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "sesame chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sesame_chicken"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sesamhuhn",
+                "GB": "Sesame chicken"
+            },
+            "description": {
+                "DE": "Sesamhuhn ist ein Gericht, das häufig in chinesischen Restaurants in den Vereinigten Staaten zu finden ist. Das Gericht ähnelt dem Huhn von General Tso, aber der Geschmack des Hühners auf chinesischer Basis ist eher süß als würzig.",
+                "GB": "Sesame chicken is a dish commonly found in Chinese restaurants throughout the United States. The dish is similar to General Tso's chicken but the taste of the Chinese-based chicken is sweet rather than spicy."
             }
         },
         {
             "class": "shake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "milkshake"
         },
         {
             "class": "shakshuka",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schakschuka",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Shakshouka"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schakschuka",
+                "GB": "Shakshouka"
+            },
+            "description": {
+                "DE": "Schakschuka ist eine Spezialität der nordafrikanischen und israelischen Küche. Das Gericht wird aus pochierten Eiern in einer Sauce aus Tomaten, Chilischoten und Zwiebeln zubereitet.",
+                "GB": "Shakshouka is a dish of eggs poached in a sauce of tomatoes, chili peppers and garlic, and commonly spiced with cumin, paprika, cayenne pepper and nutmeg. Although the dish has existed in Mediterranean and Middle Eastern regions, its more recent egg and vegetable-based form originated in the Maghreb region of North Africa ."
             }
         },
         {
             "class": "shawarma",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schawarma",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Shawarma"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schawarma",
+                "GB": "Shawarma"
+            },
+            "description": {
+                "DE": "Schawarma ist ein Fleischgericht der arabischen Küche, das sich über den Nahen Osten hinaus auch in Europa und anderen Teilen der Welt verbreitet hat.",
+                "GB": "Shawarma is a dish in Middle Eastern cuisine consisting of meat cut into thin slices, stacked in a cone-like shape, and roasted on a slowly-turning vertical rotisserie or spit. Originally made of lamb or mutton, today's shawarma may also be chicken, turkey, beef, or veal. Thin slices are shaved off the cooked surface as it continuously rotates. Shawarma is one of the world's most popular street foods, especially in Egypt and the countries of the Levant, the Arabian Peninsula, and beyond."
             }
         },
         {
             "class": "shellfish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schalentier",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Shellfish"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schalentier",
+                "GB": "Shellfish"
+            },
+            "description": {
+                "DE": "Schalentiere oder Schaltiere ist eine veraltete Bezeichnung für Schalenweichtiere, einen Unterstamm der Weichtiere. Sie gehören seit der Altsteinzeit zu den Nahrungsmitteln. Ihre Schalen werden in sogenannten Køkkenmøddingern gefunden.",
+                "GB": "Shellfish is a colloquial and fisheries term for exoskeleton-bearing aquatic invertebrates used as food, including various species of molluscs, crustaceans, and echinoderms. Although most kinds of shellfish are harvested from saltwater environments, some are found in freshwater. In addition, a few species of land crabs are eaten, for example Cardisoma guanhumi in the Caribbean. Shellfish are among the most common food allergens."
             }
         },
         {
             "class": "shells",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "shellfish"
         },
         {
             "class": "shepherd's pie",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other meat"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Shepherd's_pie"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Shepherd's pie",
+                "GB": "Shepherd's pie"
+            },
+            "description": {
+                "DE": "Shepherd's Pie oder Cottage Pie ist ein Fleischkuchen mit einer Kruste oder einem Belag aus Kartoffelpüree.",
+                "GB": "Shepherd's pie or cottage pie is a meat pie with a crust or topping of mashed potato."
             }
         },
         {
             "class": "sherry",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sherry",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sherry"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sherry",
+                "GB": "Sherry"
+            },
+            "description": {
+                "DE": "Sherry ist ein spanischer verstärkter Weißwein aus Andalusien, der einem speziellen Reifeprozess unterzogen wurde. Der Begriff „Sherry“ rührt vom maurischen Namen Sherish für den heutigen Ort Jerez de la Frontera her. Sherry wurde im 18. und 19. Jahrhundert durch englische Handelshäuser weltweit bekannt gemacht.",
+                "GB": "Sherry is a fortified wine made from white grapes that are grown near the city of Jerez de la Frontera in Andalusia, Spain. Sherry is produced in a variety of styles made primarily from the Palomino grape, ranging from light versions similar to white table wines, such as Manzanilla and Fino, to darker and heavier versions that have been allowed to oxidise as they age in barrel, such as Amontillado and Oloroso. Sweet dessert wines are also made from Pedro Ximenez or Moscatel grapes, and are sometimes blended with Palomino-based sherries."
             }
         },
         {
