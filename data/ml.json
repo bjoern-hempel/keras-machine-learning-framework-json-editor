@@ -16393,142 +16393,102 @@
         },
         {
             "class": "wonton soup",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Wonton Suppe",
+                "GB": "Wonton Soup"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "yakitori",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Yakitori",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Yakitori"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Yakitori",
+                "GB": "Yakitori"
+            },
+            "description": {
+                "DE": "Yakitori 鳥, wörtlich: Gegrilltes Geflügel) ist die japanische Variante gegrillter Fisch-, Fleisch- und Gemüse-Spießchen.",
+                "GB": "Yakitori is a Japanese type of skewered chicken. Its preparation involves skewering the meat with kushi , a type of skewer typically made of steel, bamboo, or similar materials. Afterwards, they are grilled over a charcoal fire. During or after cooking, the meat is typically seasoned with tare sauce or salt. The term is sometimes used informally for kushiyaki in general."
             }
         },
         {
             "class": "yellow fin tuna",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "tuna"
         },
         {
             "class": "yellowfin tuna",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "tuna"
         },
         {
             "class": "yoghurt",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "yogurt"
         },
         {
             "class": "yogurt",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Joghurt",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Yogurt"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Joghurt",
+                "GB": "Yogurt"
+            },
+            "description": {
+                "DE": "Joghurt ist ein Nahrungsmittel, das aus durch Milchsäurebakterien verdickter Milch hergestellt ist. Es wird als Naturjoghurt ohne Zusätze sowie mit Zusätzen wie Zucker oder Obstbestandteilen in verschiedenen Geschmacksrichtungen vermarktet. Naturjoghurt hat in seiner originären Substanz einen säuerlichen Geschmack.",
+                "GB": "Yogurt , also spelled yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk. The bacteria used to make yogurt are known as yogurt cultures. The fermentation of lactose by these bacteria produces lactic acid, which acts on milk protein to give yogurt its texture and characteristic tart flavor. Cow's milk is commonly available worldwide and, as such, is the milk most commonly used to make yogurt. Milk from water buffalo, goats, ewes, mares, camels, and yaks is also used to produce yogurt where available locally. The milk used may be homogenized or not, even pasteurized or raw. Each type of milk produces substantially different results."
             }
         },
         {
             "class": "yorkshire pudding",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other side dish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Yorkshire_Pudding",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Yorkshire_pudding"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Yorkshire Pudding",
+                "GB": "Yorkshire pudding"
+            },
+            "description": {
+                "DE": "Yorkshire Pudding ist ein Backwerk, das in der englischen Küche als Beilage zu Steaks, Roastbeef und anderen gebratenen Fleischgerichten gereicht wird.",
+                "GB": "Yorkshire pudding is a common English side dish consisting of a baked pudding made from batter consisting of eggs, flour, and milk or water. It is a versatile food that can be served in numerous ways depending on the choice of ingredients, the size of the pudding, and the accompanying components of the dish. As a first course, it can be served with onion gravy. For a main course, it may be served with beef and gravy, and is part of the traditional Sunday roast, but can also be filled with foods, such as bangers and mash to make a meal."
             }
         }
     ],
