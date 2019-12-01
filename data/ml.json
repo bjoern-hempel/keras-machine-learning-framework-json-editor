@@ -13315,202 +13315,186 @@
         },
         {
             "class": "samosa",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Samosa",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Samosa"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Samosa",
+                "GB": "Samosa"
+            },
+            "description": {
+                "DE": "Samosas sind gefüllte Teigtaschen aus Pakistan und Indien.",
+                "GB": "A samosa is a fried or baked pastry with a savoury filling, such as spiced potatoes, onions, peas, meat, or lentils. It may take different forms, including triangular, cone, or half-moon shapes, depending on the region. The Indian style, often accompanied by a chutney, is probably the most widely-known of a broad family of recipes from Africa to China, which have origins in medieval times or earlier. Samosas are a popular entrée, appetizer, or snack in the local cuisines of the Indian subcontinent, Western Asia, Southeast Asia, the Mediterranean, and Africa. Due to emigration and cultural diffusion from these areas, samosas in today's world are also often prepared in other regions."
             }
         },
         {
             "class": "sandwich",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sandwich",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sandwich"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sandwich",
+                "GB": "Sandwich"
+            },
+            "description": {
+                "DE": "Ein Sandwich ist eine ursprünglich englische, heute international verbreitete Zwischenmahlzeit. Sie besteht aus zwei oder mehr dünnen Brotscheiben, zwischen denen sich ein beliebiger würziger Belag wie kalter Braten, Schinken, Thunfisch, Käse, Eier-, Gurken- oder Tomatenscheiben, auch kombiniert, befindet. Für klassische Sandwiches wird meist ungeröstetes Toastbrot ohne Rinde verwendet, die belegten Scheiben werden diagonal zu Dreiecken geschnitten.",
+                "GB": "A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper for another food type. The sandwich began as a portable finger food in the Western world, though over time it has become prevalent worldwide. The 3rd of November marks the National Sandwich Day."
             }
         },
         {
             "class": "sandwiches",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "sandwich"
         },
         {
             "class": "sangria",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sangr%C3%ADa",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sangria"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sangría",
+                "GB": "Sangria"
+            },
+            "description": {
+                "DE": "Sangría ist eine in Spanien und Portugal gesetzlich geschützte Bezeichnung für ein aromatisiertes Wein-Mischgetränk. Das bowlenähnliche Getränk wird aus Rotwein, Fruchtstücken und Fruchtsaft hergestellt und oft auch mit Spirituosen gemischt. Sangría wird kalt in Glaskaraffen gereicht oder, wenn es heiß ist, auch mit Wasser verdünnt getrunken. Sangría ist in Spanien ein einfaches Party-Getränk, ähnlich der Bowle in Deutschland oder dem Punsch in Großbritannien. Da Sangría eine einfach zuzubereitende Bowle ist, gibt es viele Varianten.",
+                "GB": "Sangria is an alcoholic beverage from Spain."
             }
         },
         {
             "class": "sardine",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sardines_as_food"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sardinen",
+                "GB": "Sardines"
+            },
+            "description": {
+                "DE": "Sardinen oder Sardinen sind nährstoffreiche, kleine, ölige Fische, die vom Menschen häufig konsumiert werden und als Futterfische von größeren Fischarten, Seevögeln und Meeressäugern. Sardinen sind eine Quelle für Omega-3-Fettsäuren. Sie werden gewöhnlich in Dosen serviert, aber frische werden oft gegrillt, eingelegt oder geräuchert.",
+                "GB": "Sardines or pilchards are a nutrient-rich, small, oily fish widely consumed by humans and as forage fish by larger fish species, seabirds and marine mammals. Sardines are a source of omega-3 fatty acids. They are commonly served in cans, but fresh ones are often grilled, pickled, or smoked."
             }
         },
         {
             "class": "sardines",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "sardine"
         },
         {
             "class": "satay",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Satay",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Satay"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Satay",
+                "GB": "Satay"
+            },
+            "description": {
+                "DE": "Satay ist ein Grillgericht, das ursprünglich aus Indonesien stammt, aber in vielen Ländern Südostasiens beliebt ist wie etwa Malaysia, Singapur, Vietnam und Thailand. In der Zeit der Kolonialisierung ist das Gericht auch in die niederländische Küche gelangt. Die japanische Variante nennt sich Yakitori. Satay bedeutet auf Indonesisch einfach so viel wie „Fleisch, das auf Bambusspießchen über Holzfeuer gegrillt wird“.",
+                "GB": "Satay , or sate in Indonesian spelling, is a Indonesian dish of seasoned, skewered and grilled meat, served with a sauce. It is a dish from Indonesia, and popular in Malaysia, Singapore, Thailand, and Brunei. Satay may consist of diced or sliced chicken, goat, mutton, beef, pork, fish, other meats, or tofu; the more authentic version uses skewers from the midrib of the coconut palm frond, although bamboo skewers are often used. These are grilled or barbecued over a wood or charcoal fire, then served with various spicy seasonings. Satay can be served in various sauces, however most often they are served in a combination of soy and peanut sauce. Hence, peanut sauce is often called satay sauce."
             }
         },
         {
             "class": "sausage gravy",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sausage_Gravy",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sausage_gravy"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sausage Gravy",
+                "GB": "Sausage gravy"
+            },
+            "description": {
+                "DE": "Sausage gravy oder Country gravy ist eine traditionelle Sauce der Südstaatenküche der USA und wird dort vor allem zum American Breakfast serviert. Zur Zubereitung wird gehacktes gewürztes Schweinefleisch scharf angebraten, beiseite gestellt und das in der Pfanne verbliebene Fett zur Zubereitung einer Mehlschwitze verwendet. Dann wird analog zur Zubereitung einer Béchamelsauce mit Milch abgelöscht, die Sauce unter Rühren aufgekocht, das angebratene Fleisch wieder hinzugegeben und die Sauce mit Salz, Pfeffer und weiteren Gewürzen abgeschmeckt.",
+                "GB": "Sausage gravy is a traditional Southern breakfast dish in the United States. After loose pork sausage is cooked in a pan and removed, a roux is formed by browning flour in the residual fat. Milk and seasonings, such as salt and pepper, are added to create a moderately thick gravy, to which the cooked sausage is added. Occasionally, ingredients such as cayenne pepper or a spicy sausage are used to make a spicier gravy."
             }
         },
         {
             "class": "sausage roll",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other meat"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sausage_roll",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sausage_roll"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sausage roll",
+                "GB": "Sausage roll"
+            },
+            "description": {
+                "DE": "Sausage roll ist ein herzhafter Imbiss aus Schweinebrät in Blätterteig. Im Münsterland ist dieser Imbiss als Münsterländer Wurstbrötchen und in den Niederlanden als Saucijzenbroodje bekannt.",
+                "GB": "A sausage roll is a British savoury pastry snack, popular in Commonwealth nations and beyond. They are sold at retail outlets and are also available from bakeries as a take-away food. A miniature version can be served as buffet or party food."
             }
         },
         {
             "class": "sauvignon blanc",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "white wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sauvignon_Blanc",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sauvignon_blanc"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sauvignon Blanc",
+                "GB": "Sauvignon blanc"
+            },
+            "description": {
+                "DE": "Zufallskreuzung aus Traminer × Chenin Blanc",
+                "GB": "Sauvignon blanc is a green-skinned grape variety that originates from the Bordeaux region of France. The grape most likely gets its name from the French words sauvage and blanc due to its early origins as an indigenous grape in South West France. It is possibly a descendant of Savagnin. Sauvignon blanc is planted in many of the world's wine regions, producing a crisp, dry, and refreshing white varietal wine. The grape is also a component of the famous dessert wines from Sauternes and Barsac. Sauvignon blanc is widely cultivated in France, Chile, Romania, Canada, Australia, New Zealand, South Africa, the states of Washington and California in the US. Some New World Sauvignon blancs, particularly from California, may also be called \"Fumé Blanc\", a marketing term coined by Robert Mondavi in reference to Pouilly-Fumé."
             }
         },
         {
