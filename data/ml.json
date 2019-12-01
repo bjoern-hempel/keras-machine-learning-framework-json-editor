@@ -3829,25 +3829,7 @@
         },
         {
             "class": "chicken cordon bleu",
-            "categories": [
-                "poultry"
-            ],
-            "related-classes": [],
-            "name": {
-                "DE": "Hühnchen cordon bleu",
-                "GB": "Chicken cordon bleu"
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            }
+            "duplicate": "stuffed chicken"
         },
         {
             "class": "chicken curry",
@@ -8139,25 +8121,7 @@
         },
         {
             "class": "hoagie",
-            "categories": [
-                "fast food"
-            ],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hoagie_roll"
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "U-Boot-Sandwich",
-                "GB": "Hoagie roll"
-            },
-            "description": {
-                "DE": "Eine Hoagie-Rolle oder U-Boot-Sandwich ist eine Art lange flache Rolle, die zur Zubereitung von Hoagie-Sandwiches verwendet wird. Ein Teil des Hoagie-Rollteiges wird vor dem Backen fermentiert. Hoagie-Rollen werden manchmal geröstet, bevor sie zur Zubereitung eines Sandwichs verwendet werden.",
-                "GB": "A hoagie roll or hero roll is a type of long flat roll used to prepare hoagie sandwiches. Some hoagie roll dough is fermented prior to baking. Hoagie rolls are sometimes toasted before being used to prepare a sandwich."
-            }
+            "duplicate": "sub"
         },
         {
             "class": "hollandaise",
@@ -14859,203 +14823,187 @@
         },
         {
             "class": "strip steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Club-Steak",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Strip_steak"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Club-Steak",
+                "GB": "Strip steak"
+            },
+            "description": {
+                "DE": "Das Club-Steak ist ein Steak des Roastbeefs und damit Teilstück des Hinterviertels zwischen der Hochrippe und der Hüfte vom Rind.",
+                "GB": "The strip steak is a cut of beef steaks from the short loin from a cow. It consists of a muscle that does little work, the longissimus, making the meat particularly tender, although not as tender as the nearby psoas major or tenderloin. Unlike the tenderloin, the longissimus is a sizable muscle, allowing it to be cut into larger portions."
             }
         },
         {
             "class": "stromboli",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Stromboli_(food)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Stromboli",
+                "GB": "Stromboli"
+            },
+            "description": {
+                "DE": "Stromboli ist eine Art Umsatz, gefüllt mit verschiedenen italienischen Käsesorten (typischerweise Mozzarella) und Wurstwaren (typisches italienisches Fleisch wie Salami, Capocollo und Bresaola) oder Gemüse. Der verwendete Teig ist entweder italienischer Brotteig oder Pizzateig.",
+                "GB": "Stromboli is a type of turnover filled with various Italian cheeses and cold cuts or vegetables. The dough used is either Italian bread dough or pizza dough."
             }
         },
         {
             "class": "strudel",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Strudel_(Gericht)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Strudel"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Strudel",
+                "GB": "Strudel"
+            },
+            "description": {
+                "DE": "Ein Strudel ist eine Mehlspeise aus einer gefüllten und gebackenen oder gekochten Teigrolle. Sie ist auf dem Gebiet des Habsburgerreiches entstanden, fand später Einzug in die jeweils nachfolgenden Nationalküchen und ist mittlerweile international verbreitet. Das älteste überlieferte Rezept stammt aus einer als Koch Puech betitelten Handschrift aus dem Jahr 1696, die sich in der Wienbibliothek im Rathaus befindet.",
+                "GB": "A strudel is a type of layered pastry with a filling that is usually sweet. It became popular in the 18th century throughout the Habsburg Empire. Strudel is part of Austrian cuisine but also common in the other Central European cuisines."
             }
         },
         {
             "class": "stuffed chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Gefülltes Hähnchen",
+                "GB": "Stuffed Chicken"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "stuffed mushrooms",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Gefüllte Pilze",
+                "GB": "Stuffed Mushrooms"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "stuffed peppers",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "vegetable"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gef%C3%BCllte_Paprika",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Stuffed_peppers"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gefüllte Paprika",
+                "GB": "Stuffed peppers"
+            },
+            "description": {
+                "DE": "Gefüllte Paprika sind ein traditionelles Gericht der österreichischen, ungarischen, russischen und Balkanküche und stammen vermutlich aus dem pannonischen Raum.",
+                "GB": "Stuffed peppers is a dish that exists in different names and forms around the world. It consists of hollowed or halved peppers , filled with any of a variety of fillings, often including meat, vegetables, cheese, rice, or sauce. They are usually assembled by filling the cavities of the peppers and then cooking."
             }
         },
         {
             "class": "stuffed shrimp",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Gefüllte Garnelen",
+                "GB": "Stuffed Shrimp"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "stuffing",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "stuffing"
         },
         {
             "class": "sub",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Submarine_sandwich"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "U-Boot-Sandwich",
+                "GB": "Submarine sandwich"
+            },
+            "description": {
+                "DE": "Ein U-Boot-Sandwich, auch bekannt als U-Boot, Hoagie, Held oder Mühle, ist eine Art Sandwich, das aus einer Länge von Brot oder Brötchen besteht, die in Längsrichtung geteilt und mit einer Vielzahl von Fleisch, Käse, Gemüse und Gewürzen gefüllt ist. Das Sandwich hat keinen standardisierten Namen, mit über einem Dutzend Variationen, die auf der ganzen Welt verwendet werden.",
+                "GB": "A submarine sandwich, also known as a sub, hoagie, hero, or grinder, is a type of sandwich consisting of a length of bread or roll split lengthwise and filled with a variety of meats, cheeses, vegetables, and condiments. The sandwich has no standardized name, with over a dozen variations used around the world."
             }
         },
         {
             "class": "subs",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "sub"
         },
         {
             "class": "summer rolls",
