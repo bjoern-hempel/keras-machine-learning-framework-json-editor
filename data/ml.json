@@ -14588,7 +14588,7 @@
         {
             "class": "spring roll",
             "categories": [
-                "other main course"
+                "snack, appetizer & starter"
             ],
             "related-classes": [],
             "urls": {
@@ -15007,202 +15007,168 @@
         },
         {
             "class": "summer rolls",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sommerrolle",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/G%E1%BB%8Fi_cu%E1%BB%91n"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sommerrolle",
+                "GB": "Summer Roll"
+            },
+            "description": {
+                "DE": "Eine Sommerrolle ist eine Vorspeise der vietnamesischen Küche. Sie ähnelt der in weiten Teilen Südostasiens verbreiteten und je nach Land unterschiedlich zubereiteten Frühlingsrolle, wird aber nicht frittiert.",
+                "GB": "Gỏi cuốn, Vietnamese spring roll, fresh spring roll or cold roll, is a Vietnamese dish traditionally consisting of pork, prawn, vegetables, bún , and other ingredients wrapped in Vietnamese bánh tráng . Like other spring roll dishes, they are believed to have an origin in China and were introduced to Vietnam by Chinese immigrants although the gỏi cuốn has been modified to suit local tastes."
             }
         },
         {
             "class": "sundae",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "ice cream"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sundae"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Eisbecher",
+                "GB": "Sundae"
+            },
+            "description": {
+                "DE": "Der Eisbecher ist ein Eisdessert. Es besteht typischerweise aus einer oder mehreren Kugeln Eiscreme, die mit Sauce oder Sirup überzogen sind, und in einigen Fällen aus anderen Belägen wie Streuseln, Schlagsahne, Marshmallows, Erdnüssen, Maraschinokirschen oder anderen Früchten.",
+                "GB": "The sundae is an ice cream dessert. It typically consists of one or more scoops of ice cream topped with sauce or syrup, and in some cases other toppings including sprinkles, whipped cream, marshmallows, peanuts, maraschino cherries, or other fruits ."
             }
         },
         {
             "class": "sushi",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sushi",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sushi"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sushi",
+                "GB": "Sushi"
+            },
+            "description": {
+                "DE": "Sushi ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie rohen oder geräucherten Fisch, rohe Meeresfrüchte, Nori , Gemüse, Tofuvarianten und Ei. Die Zusammenstellung variiert nach Art und Rezept. Sushi wird in mundgerechten Stücken optisch ansprechend zubereitet serviert.",
+                "GB": "Sushi is a Japanese dish of prepared vinegared rice , usually with some sugar and salt, accompanying a variety of ingredients , such as seafood, vegetables, and occasionally tropical fruits. Styles of sushi and its presentation vary widely, but the one key ingredient is \"sushi rice\", also referred to as shari , or sumeshi ."
             }
         },
         {
             "class": "sushi roll",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "sushi"
         },
         {
             "class": "sushi rolls",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "sushi roll"
         },
         {
             "class": "sweet and sour chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Süß-saueres Hähnchen",
+                "GB": "Sweet And Sour Chicken"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "sweet and sour pork",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pork"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Süß-saueres Schweinefleisch",
+                "GB": "Sweet And Sour Pork"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "sweet potato fries",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "french fries"
         },
         {
             "class": "sweet tea",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other tea"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Süßer Tee",
+                "GB": "Sweet Tee"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "swordfish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schwertfisch",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Swordfish"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schwertfisch",
+                "GB": "Swordfish"
+            },
+            "description": {
+                "DE": "Der Schwertfisch (Xiphias gladius) ist ein großer, räuberisch lebender Knochenfisch, der weltweit in gemäßigt warmen bis tropischen Meeren anzutreffen ist. Er lebt im offenen Ozean, nähert sich nur wenig den Küsten und ernährt sich von anderen Fischen und von Kopffüßern.",
+                "GB": "Swordfish , also known as broadbills in some countries, are large, highly migratory, predatory fish characterized by a long, flat, pointed bill. They are a popular sport fish of the billfish category, though elusive. Swordfish are elongated, round-bodied, and lose all teeth and scales by adulthood. These fish are found widely in tropical and temperate parts of the Atlantic, Pacific, and Indian Oceans, and can typically be found from near the surface to a depth of 550 m . They commonly reach 3 m in length, and the maximum reported is 4.55 m in length and 650 kg in weight."
             }
         },
         {
