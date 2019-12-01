@@ -13814,6 +13814,28 @@
             "duplicate": "shiraz"
         },
         {
+            "class": "shortcake",
+            "categories": [
+                "other dessert"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Shortcake"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Kurzer Kuchen",
+                "GB": "Shortcake"
+            },
+            "description": {
+                "DE": "Kurzer Kuchen ist ein süßer Kuchen oder Keks. Das früheste Rezept für Mürbeteig ist in einem englischen Kochbuch von 1588.",
+                "GB": "Shortcake is a sweet cake or biscuit . The earliest recipe for shortcake is in an English cookbook from 1588."
+            }
+        },
+        {
             "class": "shortbread",
             "categories": [
                 "pastry & bread"
@@ -14675,203 +14697,165 @@
         },
         {
             "class": "steak sandwich",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Steak_sandwich"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Steak-Sandwich",
+                "GB": "Steak sandwich"
+            },
+            "description": {
+                "DE": "Ein Steak-Sandwich ist ein Sandwich, das mit Steak zubereitet wird, das gegrillt, gebraten, gegrillt, gegrillt oder mit Stahlrosten oder Gitterrosten angebraten und dann auf Brot oder einem Brötchen serviert wird. Steak-Sandwiches werden manchmal mit Käse, Zwiebeln, Pilzen, Paprika, Tomaten und in einigen Fällen Spiegelei, Krautsalat und Pommes frites serviert.",
+                "GB": "A steak sandwich is a sandwich prepared with steak that has been broiled, fried, grilled, barbecued or seared using steel grates or gridirons, then served on bread or a roll. Steak sandwiches are sometimes served with toppings of cheese, onions, mushrooms, peppers, tomatoes, and in some instances fried eggs, coleslaw, and french fries."
             }
         },
         {
             "class": "stew",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "stew"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Stew"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Eintopf",
+                "GB": "Stew"
+            },
+            "description": {
+                "DE": "Ein Eintopf ist eine Kombination aus festen Lebensmittelzutaten, die in Flüssigkeit gekocht und in der entstehenden Sauce serviert werden. Die Zutaten in einem Eintopf können jede Kombination von Gemüse und Fleisch beinhalten, insbesondere zäheres Fleisch, das sich für das langsame Kochen eignet, wie z.B. Rindfleisch. Geflügel, Würstchen und Meeresfrüchte werden ebenfalls verwendet. Während Wasser als Kochflüssigkeit verwendet werden kann, ist auch Brühe üblich. Gewürze und Aromen können ebenfalls hinzugefügt werden. Eintöpfe werden typischerweise bei relativ niedriger Temperatur gekocht, so dass sich die Aromen vermischen können.",
+                "GB": "A stew is a combination of solid food ingredients that have been cooked in liquid and served in the resultant gravy. Ingredients in a stew can include any combination of vegetables and may include meat, especially tougher meats suitable for slow-cooking, such as beef. Poultry, sausages, and seafood are also used. While water can be used as the stew-cooking liquid, stock is also common. Seasoning and flavourings may also be added. Stews are typically cooked at a relatively low temperature , allowing flavours to mingle."
             }
         },
         {
             "class": "sticky toffee pudding",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pudding"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sticky_toffee_pudding"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Klebriger Toffee-Pudding",
+                "GB": "Sticky toffee pudding"
+            },
+            "description": {
+                "DE": "Klebriger Toffee-Pudding ist ein englisches Dessert, das aus einem sehr feuchten Biskuitkuchen besteht, der mit einer Toffeesauce überzogen ist und oft mit Vanillepudding oder Vanilleeis serviert wird. Eine beliebte Variante mit Datteln, bekannt als klebriger Dattelpudding in Australien und Neuseeland, wird von verschiedenen britischen Experten als moderne Variante eines britischen Klassikers angesehen, neben Brot- und Butterpudding, Marmeladen-Rolyly-Poly und gefleckten Schwanz-Puddings.",
+                "GB": "Sticky toffee pudding is an English dessert consisting of a very moist sponge cake, covered in a toffee sauce and often served with a vanilla custard or vanilla ice-cream. A popular variation using dates, known as a sticky date pudding in Australia and New Zealand, is considered a modern take on a British classic by various British experts, alongside bread and butter pudding, jam roly-poly and spotted dick puddings."
             }
         },
         {
             "class": "stir fry",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Stir_frying"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Rührbraten",
+                "GB": "Stir frying"
+            },
+            "description": {
+                "DE": "Das Rührbraten ist eine chinesische Kochtechnik, bei der die Zutaten in einer kleinen Menge sehr heißem Öl unter Rühren in einem Wok gebraten werden. Die Technik hat ihren Ursprung in China und hat sich in den letzten Jahrhunderten in andere Teile Asiens und des Westens ausgebreitet.",
+                "GB": "Stir frying is a Chinese cooking technique in which ingredients are fried in a small amount of very hot oil while being stirred in a wok. The technique originated in China and in recent centuries has spread into other parts of Asia and the West."
             }
         },
         {
             "class": "stockfish",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Stockfisch",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Stockfish"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Stockfisch",
+                "GB": "Stockfish"
+            },
+            "description": {
+                "DE": "Stockfisch ist durch Lufttrocknung haltbar gemachter Fisch – vor allem Kabeljau , auch Seelachs, Schellfisch und Leng. Vor der Trocknung werden die Köpfe und Eingeweide der Fische entfernt.",
+                "GB": "Stockfish is unsalted fish, especially cod, dried by cold air and wind on wooden racks on the foreshore. The drying of food is the world's oldest known preservation method, and dried fish has a storage life of several years. The method is cheap and effective in suitable climates; the work can be done by the fisherman and family, and the resulting product is easily transported to market."
             }
         },
         {
             "class": "stout",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "dark beer"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Stout",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Stout"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Stout",
+                "GB": "Stout"
+            },
+            "description": {
+                "DE": "Das Stout ist ein meist schwarzes, obergäriges Bier mit einem Alkoholgehalt von 3 % bis 10 % und einer cremefarbenen Schaumkrone. Es wird gelegentlich auch mit besonders stark gerösteter unvermälzter Gerste und mit Gerstenmalz gebraut.",
+                "GB": "Stout is a dark, top-fermented beer with a number of variations, including dry stout, Baltic porter, milk stout, and imperial stout."
             }
         },
         {
             "class": "strawberry cheesecake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "cheesecake"
         },
         {
             "class": "strawberry ice cream",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "ice cream"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Strawberry_ice_cream"
                 },
                 "spoonacular": null
-            }
-        },
-        {
-            "class": "strawberry shortcake",
+            },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Erdbeereis",
+                "GB": "Strawberry ice cream"
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
+                "DE": "Erdbeereis ist ein Geschmack von Eiscreme, hergestellt mit Erdbeer- oder Erdbeeraroma. Es wird durch Einmischen von frischen Erdbeeren oder Erdbeeraromen mit den Eiern, Sahne, Vanille und Zucker für die Herstellung von Eiscreme hergestellt. Das meiste Erdbeereis ist rosa oder hellrot gefärbt. Das Erdbeereis stammt mindestens aus dem Jahr 1813, als es bei der zweiten Einweihung von James Madison serviert wurde. Neben Vanille- und Schokoladeneis ist Erdbeere eines der drei Geschmacksrichtungen im neapolitanischen Eis. Variationen von Erdbeereis sind Erdbeer-Käsekucheneis und Erdbeer-Welligeis, das Vanilleeis mit einem Band aus Erdbeermarmelade oder Sirup ist. Einige Eiscreme-Sandwiches sind nach neapolitanischer Art zubereitet und beinhalten Erdbeereis.",
+                "GB": "Strawberry ice cream is a flavor of ice cream made with strawberry or strawberry flavoring. It is made by blending in fresh strawberries or strawberry flavoring with the eggs, cream, vanilla and sugar used to make ice cream. Most strawberry ice cream is colored pink or light red. Strawberry ice cream dates back at least to 1813, when it was served at the second inauguration of James Madison. Along with vanilla and chocolate ice cream, strawberry is one of the three flavors in Neapolitan ice cream. Variations of strawberry ice cream include strawberry cheesecake ice cream and strawberry ripple ice cream, which is vanilla ice cream with a ribbon of strawberry jam or syrup. Some ice cream sandwiches are prepared neapolitan-style, and include strawberry ice cream."
             }
         },
         {
             "class": "striploin",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "strip steak"
         },
         {
             "class": "strip steak",
