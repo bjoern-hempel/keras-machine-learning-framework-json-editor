@@ -2423,25 +2423,7 @@
         },
         {
             "class": "bolognese",
-            "categories": [
-                "sauce & marinade"
-            ],
-            "related-classes": [],
-            "name": {
-                "DE": "Ragù alla bolognese",
-                "GB": "Bolognese sauce"
-            },
-            "description": {
-                "DE": "Ragù alla bolognese ist eine Hackfleischsauce, die vorwiegend mit Pasta kombiniert wird.",
-                "GB": "Bolognese sauce is a meat-based sauce in Italian cuisine, typical of the city of Bologna."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rag%C3%B9_alla_bolognese",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bolognese_sauce"
-                },
-                "spoonacular": null
-            }
+            "duplicate": "spaghetti bolognese"
         },
         {
             "class": "boquerone",
@@ -11761,25 +11743,7 @@
         },
         {
             "class": "pork ribs",
-            "categories": [
-                "pork"
-            ],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "Schweinerippchen",
-                "GB": "Pork Ribs"
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            }
+            "duplicate": "spare rips"
         },
         {
             "class": "pork shoulder",
@@ -14363,403 +14327,351 @@
         },
         {
             "class": "souffle",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Souffl%C3%A9",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Souffl%C3%A9"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Soufflé",
+                "GB": "Soufflé"
+            },
+            "description": {
+                "DE": "Ein Soufflé bzw. Soufflee ist eine leichte Eierspeise bzw. ein Auflauf , deren luftige Größe aus der Verbindung der Brandmasse mit dem geschlagenen Eiklar entsteht.",
+                "GB": "A soufflé is a baked egg-based dish which originated in early eighteenth-century France. It is made with egg yolks and beaten egg whites combined with various other ingredients and served as a savory main dish or sweetened as a dessert. The word soufflé is the past participle of the French verb souffler which means \"to blow\", \"to breathe\", \"to inflate\" or \"to puff\"."
             }
         },
         {
             "class": "soup",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Suppe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Soup"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Suppe",
+                "GB": "Soup"
+            },
+            "description": {
+                "DE": "Suppe bezeichnet eine flüssige bis dünnbreiige Speise, die auf Grundlage eines Fonds und weiteren Zutaten hergestellt werden kann. Den meist als Vorspeise servierten Suppen werden oft zusätzlich Suppeneinlagen beigefügt. Es wird im Allgemeinen zwischen klaren und gebundenen, auch warmen und kalten Suppen unterschieden. Sie werden nach Herstellungsprinzipien, Rohstoffen oder der Herkunft eingeteilt.",
+                "GB": "Soup is a primarily liquid food, generally served warm or hot , that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth. Soups are similar to stews, and in some cases there may not be a clear distinction between the two; however, soups generally have more liquid than stews."
             }
         },
         {
             "class": "sourdough bread",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pastry & bread"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sourdough"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sauerteigbrot",
+                "GB": "Sourdough Bread"
+            },
+            "description": {
+                "DE": "",
+                "GB": "Sourdough bread is made by the fermentation of dough using naturally occurring lactobacilli and yeast. Sourdough bread has a more sour taste and better inherent keeping qualities than breads made with baker's yeast, due to the lactic acid produced by the lactobacilli."
             }
         },
         {
             "class": "souvlaki",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pork"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Souvlaki",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Souvlaki"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Souvlaki",
+                "GB": "Souvlaki"
+            },
+            "description": {
+                "DE": "Souvláki ist ein Grillgericht der griechischen Küche.",
+                "GB": "Souvlaki , plural souvlakia, is a popular Greek fast food consisting of small pieces of meat and sometimes vegetables grilled on a skewer. It is usually eaten straight off the skewer while still hot. It can be served with pita bread, fried potatoes, lemon, and sauces, but the souvlaki itself is eaten on its own, with the side dishes eaten subsequently. The meat usually used in Greece and Cyprus is pork, although chicken, beef, and lamb may also be used. In other countries , souvlaki may be made with meats such as lamb, beef, chicken, and sometimes fish."
             }
         },
         {
             "class": "spaghetti",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Spaghetti",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Spaghetti"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Spaghetti",
+                "GB": "Spaghetti"
+            },
+            "description": {
+                "DE": "Spaghetti , italienische Standardaussprache , sind eine Form von Teigwaren und Nudeln aus Hartweizen mit rundem Querschnitt, etwa zwei Millimeter Durchmesser und etwa 25 cm Länge. In den deutschsprachigen Raum gelangten die Spaghetti aus Italien.",
+                "GB": "Spaghetti is a long, thin, solid, cylindrical pasta. It is a staple food of traditional Italian cuisine. Like other pasta, spaghetti is made of milled wheat and water and sometimes enriched with vitamins and minerals. Italian spaghetti is typically made from durum wheat semolina. Usually the pasta is white because refined flour is used, but whole wheat flour may be added. Spaghettoni is a thicker form of spaghetti, while capellini is a very thin spaghetti."
             }
         },
         {
             "class": "spaghetti alla carbonara",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "pasta carbonara"
         },
         {
             "class": "spaghetti and meatballs",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Spaghetti_and_meatballs"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Spaghetti und Fleischbällchen",
+                "GB": "Spaghetti and meatballs"
+            },
+            "description": {
+                "DE": "Spaghetti und Fleischbällchen oder Spaghetti mit Fleischbällchen ist ein italienisch-amerikanisches Gericht, bestehend aus Spaghetti, Tomatensauce und Fleischbällchen.",
+                "GB": "Spaghetti and meatballs or spaghetti with meatballs is an Italian-American dish consisting of spaghetti, tomato sauce and meatballs."
             }
         },
         {
             "class": "spaghetti bolognese",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "",
                 "GB": ""
             },
-            "related-classes": [],
-            "categories": [],
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "spaghetti carbonara",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "pasta carbonara"
         },
         {
             "class": "spaghettini",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "spaghetti"
         },
         {
             "class": "spare ribs",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pork"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Spareribs",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Spare_ribs"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Spareribs",
+                "GB": "Spare ribs"
+            },
+            "description": {
+                "DE": "Sparerib ist das englische Wort für Schälrippchen und bezeichnet im ursprünglichen Sinn nur die Rippen aus dem Schweinebauch. Zusammen mit Pulled Pork und Beef Brisket bilden die Spareribs die Holy Trinity des Barbecues nach nordamerikanischem Vorbild.",
+                "GB": "Spare ribs are a variety of pork ribs cooked and eaten in various cuisines around the world. They are cut from the lower portion of \nthe pig specifically the belly and breastbone, behind the shoulder, and include 11 to 13 long bones. There is a covering of meat on top of the bones and also between them. Spare ribs are distinguished from short ribs, which are beef."
             }
         },
         {
             "class": "sparkling wine",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sparkling wine"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schaumwein",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sparkling_wine"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schaumwein",
+                "GB": "Sparkling wine"
+            },
+            "description": {
+                "DE": "Schaumwein ist der Oberbegriff für weinhaltige Getränke in Flaschen, die aufgrund ihres Gehalts an Kohlenstoffdioxid unter Druck stehen. Der Überdruck durch das gelöste Kohlenstoffdioxid muss bei 20 °C mindestens 3 bar betragen. Im Unterschied dazu haben Perlweine nur einen Überdruck von 1 bis 2,5 bar. Die Alkoholherkunft ist in Deutschland im Gesetz zur Besteuerung von Schaumwein und Zwischenerzeugnissen und in Österreich im Schaumweinsteuergesetz 1995 geregelt.",
+                "GB": "Sparkling wine is a wine with significant levels of carbon dioxide in it, making it fizzy. While the phrase commonly refers to champagne, EU countries legally reserve that term for products exclusively produced in the Champagne region of France. Sparkling wine is usually either white or rosé, but there are examples of red sparkling wines such as the Italian Brachetto, Bonarda and Lambrusco, Spanish wine Cava, Australian sparkling Shiraz, and Azerbaijani \"Pearl of Azerbaijan\" made from Madrasa grapes. The sweetness of sparkling wine can range from very dry brut styles to sweeter doux varieties ."
             }
         },
         {
             "class": "spinach dip",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Spinatdip",
+                "GB": "Spinach Dip"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "spirits",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Spirituose",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Liquor"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Spirituose",
+                "GB": "Spirit"
+            },
+            "description": {
+                "DE": "Eine Spirituose „Geistiges“) oder geistiges Getränk, umgangssprachlich auch Schnaps oder abwertend Fusel genannt, ist eine alkoholische Flüssigkeit, die zum menschlichen Genuss bestimmt ist, besondere organoleptische Eigenschaften besitzt und nach aktuellem EU-Recht einen Mindestalkoholgehalt von 15 % Vol. aufweist; bei Eierlikör genügen 14 % Vol. Früher war auch die Bezeichnung Branntwein üblich, die noch heute in einigen Gesetzen verwendet wird. Die Gewinnung der alkoholischen Basis erfolgt durch Brennen natürlicher, vergorener, pflanzlicher Erzeugnisse.",
+                "GB": "An alcoholic liquid which is intended for human consumption, has special organoleptic properties and, according to current EU law, has a minimum alcohol content of 15 % vol.; 14 % vol. is sufficient for egg liqueur. In the past, the term brandy was also used, which is still used today in some laws. The alcoholic basis is obtained by distilling natural, fermented vegetable products."
             }
         },
         {
             "class": "sponge cake",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "cake"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Biskuitmasse",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sponge_cake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Biskuitmasse",
+                "GB": "Sponge cake"
+            },
+            "description": {
+                "DE": "Die Biskuitmasse ist eine lockere Masse aus geschlagenem Ei, Zucker und wenig Mehl, die für feines Gebäck und Torten verwendet wird. Ein flacher Biskuitboden, der aus Biskuitmasse auf einem Backblech mit Rand gebacken wird, nennt man Kapsel, diese verwendet man zur Herstellung von Desserts .",
+                "GB": "Sponge cake is a light cake made with eggs, flour and sugar, sometimes leavened with baking powder. Sponge cakes, leavened with beaten eggs, originated during the Renaissance, possibly in Spain. The sponge cake is thought to be one of the first of the non-yeasted cakes, and the earliest attested sponge cake recipe in English is found in a book by the English poet Gervase Markham, The English Huswife, Containing the Inward and Outward Virtues Which Ought to Be in a Complete Woman . Still, the cake was much more like a cookie: thin and crispy. Sponge cakes became the cake recognized today when bakers started using beaten eggs as a rising agent in the mid-18th century. The Victorian creation of baking powder by English food manufacturer Alfred Bird in 1843 enabled the sponge to rise higher than cakes made previously, resulting in the Victoria Sponge."
             }
         },
         {
             "class": "spring roll",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Fr%C3%BChlingsrolle",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Spring_roll"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Frühlingsrolle",
+                "GB": "Spring roll"
+            },
+            "description": {
+                "DE": "Frühlingsrollen sind eine Vorspeise der asiatischen Küche aus speziellen Teigblättern mit einer Vielzahl unterschiedlicher Füllungen. Einige Varianten werden im Wok frittiert. Die nichtfrittierte Variante wird meist als Glücks- oder Sommerrolle bezeichnet. Frühlingsrollen sind in China, Taiwan, Thailand, Korea, Vietnam, Singapur, Malaysia, Indonesien, Japan und auf den Philippinen verbreitet.",
+                "GB": "Spring rolls are a large variety of filled, rolled appetizers or dim sum found in East Asian, South Asian, and Southeast Asian cuisine. The name is a literal translation of the Chinese chūn juǎn . The kind of wrapper, fillings, and cooking technique used, as well as the name, vary considerably within this large area, depending on the region's culture."
             }
         },
         {
             "class": "spring rolls",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "spring roll"
         },
         {
             "class": "squid ink pasta",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Tintenfisch Nudeln",
+                "GB": "Squid Ink Pasta"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "steak",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "beef"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Steak",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Steak"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Steak",
+                "GB": "Steak"
+            },
+            "description": {
+                "DE": "Ein Steak ist eine zum Kurzbraten oder Grillen geeignete Rindfleischscheibe. Steaks, die von anderen Tier- und Fleischarten stammen, tragen einen entsprechenden Hinweis in ihrer Bezeichnung . Auch quer zur Wirbelsäule geschnittene Scheiben von größeren, festfleischigen Fischen wie Schwertfisch, Thunfisch, Hai oder Lachs werden als Steaks bezeichnet .",
+                "GB": "A steak is a meat generally sliced across the muscle fibers, potentially including a bone. Exceptions, in which the meat is sliced parallel to the fibers, include the skirt steak cut from the plate, the flank steak cut from the abdominal muscles, and the silverfinger steak cut from the loin and includes three rib bones. In a larger sense, fish steaks, ground meat steaks, pork steak, and many more varieties of steak are known."
             }
         },
         {
             "class": "steaks",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "steak"
         },
         {
             "class": "steak sandwich",
