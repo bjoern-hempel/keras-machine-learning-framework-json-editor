@@ -15173,202 +15173,186 @@
         },
         {
             "class": "taco",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fast food"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Taco",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Taco"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Taco",
+                "GB": "Taco"
+            },
+            "description": {
+                "DE": "Ein Taco ist ein Fast-Food-Gericht der mexikanischen Küche, das sich in ganz Nord- und Mittelamerika großer Beliebtheit erfreut. Es besteht aus einer Tortilla aus Weizen oder Mais, die nach Belieben mit vielen Zutaten gefüllt werden kann.",
+                "GB": "A taco is a traditional Mexican dish consisting of a small hand-sized corn or wheat tortilla topped with a filling. The tortilla is then folded around the filling and eaten by hand. A taco can be made with a variety of fillings, including beef, pork, chicken, seafood, vegetables, and cheese, allowing great versatility and variety. They are often garnished with various condiments, such as salsa, guacamole, or sour cream, and vegetables, such as lettuce, onion, tomatoes, and chiles. Tacos are a common form of antojitos, or Mexican street food, which have spread around the world."
             }
         },
         {
             "class": "tacos",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "taco"
         },
         {
             "class": "taco salad",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other salad"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Taco_salad"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Taco-Salat",
+                "GB": "Taco salad"
+            },
+            "description": {
+                "DE": "Ein Taco-Salat ist ein Tex-Mex-Gericht, das Zutaten für Tex-Mex-Tacos kombiniert. Das Gericht stammt aus Texas in den 1960er Jahren.",
+                "GB": "A taco salad is a Tex-Mex dish that combines ingredients used in Tex-Mex tacos. The dish originated in Texas during the 1960s."
             }
         },
         {
             "class": "tagine",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tajine",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tajine"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tajine",
+                "GB": "Tajine"
+            },
+            "description": {
+                "DE": "Die Tajine, Tagine oder auch Taschiin bezeichnet in der nordafrikanischen Küche sowohl ein rundes, aus Lehm gebranntes Schmorgefäß mit gewölbtem oder spitzem Deckel als auch das darin gekochte Gericht.",
+                "GB": "A tajine or tagine ʒiːntɑːˈ-tæˈʒiːn\/; Moroccan Arabic: طجين‎, romanized: ṭažin, from Arabic: طاجن‎, romanized: ṭājun; Standard Moroccan Tamazight: ⵜⴰⵊⵉⵏ, romanized: tajin) is a Maghrebi dish which is named after the earthenware pot in which it is cooked. It is also called maraq or marqa."
             }
         },
         {
             "class": "tagliatelle",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tagliatelle",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tagliatelle"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tagliatelle",
+                "GB": "Tagliatelle"
+            },
+            "description": {
+                "DE": "Tagliatelle sind eine Variante von Bandnudeln. Sie gelten als klassische Pasta aus der Region Emilia-Romagna in Italien. Die einzelne Nudel ist wie ein langes flaches Band geformt, den Fettuccine ähnlich, aber mit typischerweise ungefähr 5–10 mm etwas breiter. Um Tagliatelle von Hand herstellen zu können, muss man den Teig so ausrollen, dass dabei keine Löcher, Risse oder Unterschiede in der Stärke entstehen.",
+                "GB": "Tagliatelle ) and tagliolini are a traditional type of pasta from the Emilia-Romagna and Marche regions of Italy. Individual pieces of tagliatelle are long, flat ribbons that are similar in shape to fettuccine and are typically about 6.5 to 10 mm wide. Tagliatelle can be served with a variety of sauces, though the classic is a meat sauce or Bolognese sauce. Tagliolini is another variety of tagliatelle that is long and cylindrical in shape, not long and flat."
             }
         },
         {
             "class": "takoyaki",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tako-yaki",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Takoyaki"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tako-yaki",
+                "GB": "Takoyaki"
+            },
+            "description": {
+                "DE": "Takoyaki ist ein kleines warmes Gericht aus Kansai. In eine etwa pflaumengroße Teigkugel wird ein Stückchen Oktopusarm eingelassen. Zum Garen benutzt man ein spezielles Brateisen mit 16 oder mehr runden Vertiefungen, ähnlich einem einseitigen Waffeleisen. Das Wenden erfordert ein wenig Geschick, um eine ansprechend runde Form zu erhalten. Die oft acht Takoyaki pro Portion werden je nach Geschmack mit einer Sauce ähnlich der Okonomiyaki-Sauce und wahlweise mit Mayonnaise garniert. Auf die Sauce kommt dann oft noch Aonori und Katsuobushi .",
+                "GB": "Takoyaki is a ball-shaped Japanese snack or appetizer made of a wheat flour-based batter and cooked in a special molded pan. It is typically filled with minced or diced octopus , tempura scraps , pickled ginger , and green onion . The balls are brushed with takoyaki sauce and mayonnaise, and then sprinkled with green laver and shavings of dried bonito. There are many variations to the takoyaki recipe, for example, ponzu , goma-dare or vinegared dashi."
             }
         },
         {
             "class": "tamale",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tamale_(Gericht)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tamale"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tamale",
+                "GB": "Tamale"
+            },
+            "description": {
+                "DE": "Eine Tamale oder Tamal ist ein traditionelles zentralamerikanisches Gericht, bestehend aus Masa , der mit Fleisch, Käse oder anderen Zutaten gefüllt und in Pflanzenblätter eingehüllt gedämpft wird. Die Zubereitung durch Mayas und Azteken Mitte des letzten Jahrtausends ist nachgewiesen.",
+                "GB": "A tamale is a traditional Mesoamerican dish, probably from modern-day Mexico, made of masa or dough , which is steamed in a corn husk or banana leaf. The wrapping can either be discarded prior to eating, or be used as a plate, the tamale eaten from within. Tamales can be filled with meats, cheeses, fruits, vegetables, chilies or any preparation according to taste, and both the filling and the cooking liquid may be seasoned."
             }
         },
         {
             "class": "tamales",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "tamale"
         },
         {
             "class": "tandoori chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tandoori_chicken"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tandoori Huhn",
+                "GB": "Tandoori chicken"
+            },
+            "description": {
+                "DE": "Tandoori Huhn ist ein Hühnergericht, das durch Braten von Hühnern zubereitet wird, die in Joghurt und Gewürzen in einem Tandoor, einem zylindrischen Lehmofen, mariniert sind. Das Gericht stammt aus dem indischen Subkontinent und ist in vielen anderen Teilen der Welt beliebt.",
+                "GB": "Tandoori chicken is a chicken dish prepared by roasting chicken marinated in yoghurt and spices in a tandoor, a cylindrical clay oven. The dish originated from the Indian subcontinent and is popular in many other parts of the world."
             }
         },
         {
             "class": "tapas",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tapa_(Gericht)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tapas"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tapa",
+                "GB": "Tapas"
+            },
+            "description": {
+                "DE": "Eine Tapa ist ein kleines Appetithäppchen, das in Tapas-Bars üblicherweise zu Wein, jedoch auch zu Bier gereicht wird. Tapas entsprechen den im östlichen Mittelmeerraum und im Nahen Osten gebräuchlichen Mezedes.",
+                "GB": "A tapa is an appetizer or snack in Spanish cuisine and translates to small portion of any kind of Spanish cuisine."
             }
         },
         {
