@@ -14215,202 +14215,150 @@
         },
         {
             "class": "smoked haddock",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "haddock"
         },
         {
             "class": "smoked salmon",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "salmon"
         },
         {
             "class": "smoked trout",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "trout"
         },
         {
             "class": "smoothie",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other beverage"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Smoothie",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Smoothie"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Smoothie",
+                "GB": "Smoothie"
+            },
+            "description": {
+                "DE": "Smoothies ist eine aus dem Amerikanischen stammende Bezeichnung für kalte Mixgetränke aus Obst und optional Milchprodukten, die frisch zubereitet oder als Fertigprodukte verkauft werden.",
+                "GB": "A smoothie is a thick and creamy beverage made from pureed raw fruit, vegetables, and sometimes dairy products , typically using a blender. Smoothies may be made using other ingredients, such as water, crushed ice, fruit juice, sweeteners , whey powder, plant milk, nuts, nut butter, seeds, tea, chocolate, herbal supplements, or nutritional supplements. A smoothie containing dairy products is similar to a milkshake, though the latter typically contains less fruit and often uses ice cream or frozen yogurt."
             }
         },
         {
             "class": "smoothies",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "smoothie"
         },
         {
             "class": "s'mores",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/S%E2%80%99More",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/S%27more"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "S’More",
+                "GB": "S'more"
+            },
+            "description": {
+                "DE": "Ein S’More ist ein Lagerfeuer-Snack in den USA und Kanada. Er besteht aus einem Stück schmelzender Schokolade und einem gerösteten Marshmallow eingebettet in zwei Graham Cracker. In den USA wird jährlich am 10. August der National S’Mores Day gefeiert.",
+                "GB": "A s'more is a campfire treat popular in the United States, Mexico, and Canada, consisting of a marshmallow and a layer of chocolate placed between two pieces of graham cracker or cookie."
             }
         },
         {
             "class": "snapper",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Schnapper",
+                "GB": "Snapper"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "soda",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soft drink"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Erfrischungsgetr%C3%A4nk",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Soft_drink"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Erfrischungsgetränk",
+                "GB": "Soft drink"
+            },
+            "description": {
+                "DE": "Als Erfrischungsgetränke produziert die Lebensmittelindustrie verschiedene Kaltgetränke, die meist kohlensäurehaltig und süß-sauer aromatisiert sind.",
+                "GB": "A soft drink is a drink that usually contains carbonated water , a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute , or some combination of these. Soft drinks may also contain caffeine, colorings, preservatives, and\/or other ingredients."
             }
         },
         {
             "class": "sole",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sole_(fish)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Seezunge",
+                "GB": "Sole"
+            },
+            "description": {
+                "DE": "Seezunge ist ein Fisch, der zu mehreren Familien gehört. Im Allgemeinen sind sie Mitglieder der Familie Soleidae, aber außerhalb Europas wird der Name Seezunge auch für verschiedene andere ähnliche Plattfische verwendet, insbesondere für andere Mitglieder der einzigen Unterordnung Soleoidei sowie für Mitglieder der Flunderfamilie. In der europäischen Küche gibt es mehrere Arten, die als echte Sohlen angesehen werden können, aber die gewöhnliche oder Dover-Sohle Solea solea, die oft einfach als Sohle bezeichnet wird, ist die geschätzteste und am weitesten verbreitete.",
+                "GB": "Sole is a fish belonging to several families. Generally speaking, they are members of the family Soleidae, but, outside Europe, the name sole is also applied to various other similar flatfish, especially other members of the sole suborder Soleoidei as well as members of the flounder family. In European cookery, there are several species which may be considered true soles, but the common or Dover sole Solea solea, often simply called the sole, is the most esteemed and most widely available."
             }
         },
         {
             "class": "sorbet",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "ice cream"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sorbet",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sorbet"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sorbet",
+                "GB": "Sorbet"
+            },
+            "description": {
+                "DE": "Sorbet , veraltet auch Scherbett, ist die Bezeichnung für ein eiskaltes Getränk oder eine halb gefrorene Speise aus Fruchtsaft, Fruchtpüree und Zucker. Es gibt auch Sorbets, die statt Fruchtsaft Champagner oder Wein enthalten. Klassisch ist das Zitronensorbet.",
+                "GB": "Sorbet , or sherbet, is a frozen dessert made from sugar-sweetened water with flavoring – typically fruit juice, fruit purée, wine, liqueur or honey."
             }
         },
         {
