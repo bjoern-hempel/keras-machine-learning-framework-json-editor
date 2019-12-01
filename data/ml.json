@@ -12057,25 +12057,7 @@
         },
         {
             "class": "prawn cocktail",
-            "categories": [
-                "fish"
-            ],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Prawn_cocktail"
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "Garnelencocktail",
-                "GB": "Prawn cocktail"
-            },
-            "description": {
-                "DE": "Garnelencocktail, auch bekannt als Garnelencocktail, ist ein Fischgericht, das aus geschälten, gekochten Garnelen in Cocktailsauce besteht, die in einem Glas serviert werden. Es war von den 1960er bis Ende der 1980er Jahre das beliebteste Hors d'œuvre in Großbritannien und den Vereinigten Staaten. Laut dem englischen Lebensmittel-Autor Nigel Slater hat der Garnelen-Cocktail \"den größten Teil des Schauens vom Höhepunkt der Mode bis zum Lacherreichen verbracht\" und wird heute oft mit einer gewissen Ironie serviert.",
-                "GB": "Prawn cocktail, also known as shrimp cocktail, is a seafood dish consisting of shelled, cooked prawns in a cocktail sauce, served in a glass. It was the most popular hors d'œuvre in Great Britain, as well as in the United States, from the 1960s to the late 1980s. According to the English food writer Nigel Slater, the prawn cocktail \"has spent most of see-sawing from the height of fashion to the laughably passé\" and is now often served with a degree of irony."
-            }
+            "duplicate": "shrimp cocktail"
         },
         {
             "class": "prawns",
@@ -12881,7 +12863,7 @@
         },
         {
             "class": "rock shrimp",
-            "duplicate": "shrimps"
+            "duplicate": "shrimp"
         },
         {
             "class": "rogan josh",
@@ -13896,17 +13878,17 @@
             "urls": {
                 "wikipedia": {
                     "DE": "",
-                    "GB": ""
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Prawn_cocktail"
                 },
                 "spoonacular": null
             },
             "name": {
                 "DE": "Garnelencocktail",
-                "GB": "Shrimp Cocktail"
+                "GB": "Shrimp cocktail"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Garnelencocktail, auch bekannt als Garnelencocktail, ist ein Fischgericht, das aus geschälten, gekochten Garnelen in Cocktailsauce besteht, die in einem Glas serviert werden. Es war von den 1960er bis Ende der 1980er Jahre das beliebteste Hors d'œuvre in Großbritannien und den Vereinigten Staaten. Laut dem englischen Lebensmittel-Autor Nigel Slater hat der Garnelen-Cocktail \"den größten Teil des Schauens vom Höhepunkt der Mode bis zum Lacherreichen verbracht\" und wird heute oft mit einer gewissen Ironie serviert.",
+                "GB": "Prawn cocktail, also known as shrimp cocktail, is a seafood dish consisting of shelled, cooked prawns in a cocktail sauce, served in a glass. It was the most popular hors d'œuvre in Great Britain, as well as in the United States, from the 1960s to the late 1980s. According to the English food writer Nigel Slater, the prawn cocktail \"has spent most of see-sawing from the height of fashion to the laughably passé\" and is now often served with a degree of irony."
             }
         },
         {
@@ -13933,25 +13915,7 @@
         },
         {
             "class": "shrimps",
-            "categories": [
-                "fish"
-            ],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Shrimp_and_prawn_as_food"
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "Garnelen ",
-                "GB": "Shrimp and prawn"
-            },
-            "description": {
-                "DE": "Garnelen und Garnelen sind wichtige Arten von Meeresfrüchten, die weltweit verzehrt werden. Obwohl Garnelen und Garnelen zu verschiedenen Unterordnungen von Decapoda gehören, sind sie im Aussehen sehr ähnlich und die Begriffe werden oft austauschbar in der kommerziellen Landwirtschaft und der Wildfischerei verwendet. In der jüngsten Aquakulturliteratur wird unterschieden, die den Begriff \"Garnele\" zunehmend nur für die Süßwasserformen der Palaemoniden und \"Garnele\" für die marinen Penaeiden verwendet.",
-                "GB": "Shrimp and prawn are important types of seafood that are consumed worldwide. Although shrimp and prawns belong to different suborders of Decapoda, they are very similar in appearance and the terms are often used interchangeably in commercial farming and wild fisheries. A distinction is drawn in recent aquaculture literature, which increasingly uses the term \"prawn\" only for the freshwater forms of palaemonids and \"shrimp\" for the marine penaeids."
-            }
+            "plural": "shrimp"
         },
         {
             "class": "shrimp scampi",
@@ -15487,203 +15451,169 @@
         },
         {
             "class": "tea",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other tea"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tee",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tea"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tee",
+                "GB": "Tea"
+            },
+            "description": {
+                "DE": "Tee im eigentlichen Sinne ist ein heißes Aufgussgetränk, das in der Hauptsache aus den Blättern und Blattknospen der Teepflanze zubereitet wird. Einige Spezialtees enthalten auch Stängel . Tee ist ein Genussmittel.",
+                "GB": "Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world. There are many different types of tea; some, like Darjeeling and Chinese greens, have a cooling, slightly bitter, and astringent flavour, while others have vastly different profiles that include sweet, nutty, floral or grassy notes. Tea has a stimulating effect in humans primarily due to its caffeine content."
             }
         },
         {
             "class": "tempura",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tempura",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tempura"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tempura",
+                "GB": "Tempura"
+            },
+            "description": {
+                "DE": "Tempura, auch Tenpura, ist eine Zubereitungsvariante frittierter Speisen in der japanischen Küche. Mit einem Teigmantel aus Mehl, Ei und Eiswasser versehen werden diverse Fisch-, Pilz- und Gemüsesorten sowie Sprösslinge und junge Blätter in heißem Öl schnell ausgebacken.",
+                "GB": "Tempura is a Japanese dish usually consisting of seafood or vegetables that have been battered and deep fried. The dish was influenced by fritter-cooking techniques introduced by the Portuguese residing in Nagasaki in the 16th century. The name \"tempura\" originates from the Latin phrase quatuor anni tempora, which refers to the Ember Days, during which no meat is consumed."
             }
         },
         {
             "class": "tempura shrimp",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Tempura-Garnele",
+                "GB": "Tempura Shrimp"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "tequila",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tequila",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tequila"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tequila",
+                "GB": "Tequila"
+            },
+            "description": {
+                "DE": "Tequila ist eine Form der Spirituose Mezcal, eines Agaven-Brands aus Mexiko. Tequila ist der bekannteste Mezcal und wird in der Umgebung der Stadt Tequila im mexikanischen Bundesstaat Jalisco und in vier weiteren Staaten aus dem Herzen der blauen Agave gewonnen. Dieses Herz wurde von den Einheimischen „Das Haus des Mondes“ genannt, was in der Indigenensprache Nahuatl „Mezcal“ heißt. Für gewöhnlich beträgt der Alkoholgehalt zwischen 38 und 40, bei einigen Tequilas auch bis zu 50 Volumenprozent Alkohol.",
+                "GB": "Tequila ) is a distilled beverage made from the blue agave plant, primarily in the area surrounding the city of Tequila 65 km northwest of Guadalajara, and in the Jaliscan Highlands of the central western Mexican state of Jalisco. Tequila is a type of mezcal, and the regions of production overlap for the two drinks. The distinction is that tequila must use only blue agave plants rather than any type of agave. Tequila is commonly served neat in Mexico and as a shot with salt and lime around the world."
             }
         },
         {
             "class": "teriyaki chicken",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Teriyaki Huhn",
+                "GB": "Teriyaki Chicken"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "thai beef salad",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other salad"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Thailändischer Rindfleischsalat",
+                "GB": "Thai Beef Salad"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "thai curry",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "curry"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Thai_curry"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Thai Curry",
+                "GB": "Thai Curry"
+            },
+            "description": {
+                "DE": "Thai Curry bezieht sich sowohl auf Gerichte der thailändischen Küche, die mit verschiedenen Arten von Currypaste zubereitet werden, als auch auf die Pasten selbst. Ein thailändisches Currygericht wird aus Currypaste, Kokosmilch oder Wasser, Fleisch, Meeresfrüchten, Gemüse oder Obst und Kräutern hergestellt. Curries in Thailand unterscheiden sich hauptsächlich von den Curries in der indischen Küche durch die Verwendung von Zutaten wie Kräutern und aromatischen Blättern über eine Mischung von Gewürzen.",
+                "GB": "Thai curry refers both to dishes in Thai cuisine that are made with various types of curry paste and to the pastes themselves. A Thai curry dish is made from curry paste, coconut milk or water, meat, seafood, vegetables or fruit, and herbs. Curries in Thailand mainly differ from the curries in Indian cuisine in their use of ingredients such as herbs and aromatic leaves over a mix of spices."
             }
         },
         {
             "class": "thai green curry",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "thai curry"
         },
         {
             "class": "tiger prawn",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "shrimp"
         },
         {
             "class": "tiger prawns",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "tiger prawn"
         },
         {
             "class": "tilapia",
