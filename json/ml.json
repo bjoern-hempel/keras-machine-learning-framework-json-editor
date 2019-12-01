@@ -7,7 +7,7 @@
             "title": "Categories",
             "uniqueItems": true,
             "options": {
-                "collapsed": true
+                "collapsed": false
             },
             "items": {
                 "type": "object",
@@ -33,6 +33,32 @@
                             "type": "string",
                             "title": "Related Category",
                             "$ref": "categories.json"
+                        }
+                    },
+                    "urls": {
+                        "type": "object",
+                        "title": "URLs",
+                        "properties": {
+                            "wikipedia": {
+                                "type": "object",
+                                "title": "Wikipedia",
+                                "properties": {
+                                    "DE": {
+                                        "type": "string",
+                                        "title": "German",
+                                        "format": "url"
+                                    },
+                                    "GB": {
+                                        "type": "string",
+                                        "title": "English",
+                                        "format": "url"
+                                    }
+                                }
+                            },
+                            "spoonacular": {
+                                "type": "null",
+                                "title": "Spoonacular"
+                            }
                         }
                     },
                     "name": {
@@ -69,32 +95,6 @@
                                 }
                             }
                         }
-                    },
-                    "urls": {
-                        "type": "object",
-                        "title": "URLs",
-                        "properties": {
-                            "wikipedia": {
-                                "type": "object",
-                                "title": "Wikipedia",
-                                "properties": {
-                                    "DE": {
-                                        "type": "string",
-                                        "title": "German",
-                                        "format": "url"
-                                    },
-                                    "GB": {
-                                        "type": "string",
-                                        "title": "English",
-                                        "format": "url"
-                                    }
-                                }
-                            },
-                            "spoonacular": {
-                                "type": "null",
-                                "title": "Spoonacular"
-                            }
-                        }
                     }
                 }
             }
@@ -104,6 +104,9 @@
             "format": "grid",
             "title": "Classes",
             "uniqueItems": true,
+            "options": {
+                "collapsed": true
+            },
             "items": {
                 "type": "object",
                 "title": "Class",

@@ -53,7 +53,7 @@ function filterText(text)
     return textFiltered;
 }
 
-function loadWikiData(url, callback, searchEnglishLink = false) {
+function loadWikiData(url, callback, searchEnglishLink = false, typeName = 'classes') {
     $.ajax({
         dataType : 'html',
         url: url,
@@ -87,7 +87,7 @@ function loadWikiData(url, callback, searchEnglishLink = false) {
                 }
             }
 
-            callback(name, filterText(description), englishLinkUrl);
+            callback(name, filterText(description), englishLinkUrl, typeName);
         }
     });
 }
@@ -187,10 +187,10 @@ function startEditor()
     /* Default parameter for category and class */
     let defaultPageCategory = 1;
     let defaultStartCategory = 0;
-    let defaultMaxCategories = 10;
+    let defaultMaxCategories = 100;
     let defaultPageClass = 1;
     let defaultStartClass = 0;
-    let defaultMaxClasses = 10;
+    let defaultMaxClasses = 1;
 
     /* Read url */
     let url = new URL(window.location.href);
@@ -331,16 +331,24 @@ function startEditor()
                     ).data('schemapath');
                     let descriptionEditor = window.editor.getEditor(descriptionPath);
 
-                    loadWikiData(wikipage, function (name, description, englishLinkUrl) {
+                    loadWikiData(wikipage, function (name, description, englishLinkUrl, typeName) {
                         nameEditor.setValue(name);
                         descriptionEditor.setValue(description);
 
                         if (englishLinkUrl !== null) {
-                            let classNumber = nameEditor.path.match(/root.classes.([0-9]+)./)[1];
-                            let englishEditor = window.editor.getEditor('root.classes.%s.urls.wikipedia.GB'.replace(/%s/, classNumber));
+                            let classNumberReplace = 'root.%s.([0-9]+).'.replace(/%s/, typeName);
+                            let classNumberRegex = new RegExp(classNumberReplace);
+                            let classNumber = nameEditor.path.match(classNumberRegex)[1];
+
+                            let englishEditor = window.editor.getEditor(
+                                'root.%typeName.%classNumber.urls.wikipedia.GB'.
+                                    replace(/%typeName/, typeName).
+                                    replace(/%classNumber/, classNumber)
+                            );
+
                             englishEditor.setValue(englishLinkUrl);
                         }
-                    }, language === 'DE');
+                    }, language === 'DE', 'categories');
                 });
             });
 

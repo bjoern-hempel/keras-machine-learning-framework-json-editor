@@ -4,20 +4,20 @@
             "category": "beverage",
             "parent-categories": [],
             "related-categories": [],
-            "name": {
-                "DE": "Getränk",
-                "GB": "Drink (Beverage)"
-            },
-            "description": {
-                "DE": "Getränk (Kollektivum zu Trank; veraltet Trunk) ist ein Sammelbegriff für zum Trinken zubereitete Flüssigkeiten.",
-                "GB": "A drink (or beverage) is a liquid intended for human consumption."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Getr%C3%A4nk",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Drink"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Getränk",
+                "GB": "Drink"
+            },
+            "description": {
+                "DE": "Getränk ist ein Sammelbegriff für zum Trinken zubereitete Flüssigkeiten. Getränke werden entweder zum Stillen von Durst und damit zur Wasseraufnahme des Körpers, als Nahrungsmittel oder auch als reine Genussmittel aufgenommen. Die englische Entsprechung Drink wird im deutschen Sprachgebrauch auch als Oberbegriff für Cocktails sowie für Einzelportionen von Spirituosen verwendet. Mit Mixgetränk sind ebenfalls oft Cocktails gemeint, Mischgetränk deutet auf die Zubereitung aus verschiedenen Einzelflüssigkeiten wie bei Milchshakes oder Biermischgetränken.",
+                "GB": "A drink is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, coffee, tea, hot chocolate, juice and soft drinks. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the drug ethanol, have been part of human culture for more than 8,000 years."
             }
         },
         {
@@ -26,20 +26,64 @@
                 "beverage"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Bier",
-                "GB": "Beer"
-            },
-            "description": {
-                "DE": "Bier ist ein Getränk, das durch Gärung aus stärkehaltigen Stoffen gewonnen und nicht destilliert wird.",
-                "GB": "Beer is one of the oldest and most widely consumed alcoholic drinks in the world."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Bier",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Beer"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Bier",
+                "GB": "Beer"
+            },
+            "description": {
+                "DE": "Bier ist ein Getränk, das durch Gärung aus stärkehaltigen Stoffen gewonnen und nicht destilliert wird. Bei der Herstellung des meist kohlensäurehaltigen Getränks werden oft Hopfen oder andere Würzstoffe zugesetzt, etwa Früchte, Kräuter wie Grut oder andere Gewürze.",
+                "GB": "Beer is one of the oldest and most widely consumed alcoholic drinks in the world. It is also the third most popular drink overall after water and tea. Beer is brewed from cereal grains—most commonly from malted barley, though wheat, maize , and rice are also used. During the brewing process, fermentation of the starch sugars in the wort produces ethanol and carbonation in the resulting beer. Most modern beer is brewed with hops, which add bitterness and other flavours and act as a natural preservative and stabilizing agent. Other flavouring agents such as gruit, herbs, or fruits may be included or used instead of hops. In commercial brewing, the natural carbonation effect is often removed during processing and replaced with forced carbonation."
+            }
+        },
+        {
+            "category": "dark beer",
+            "parent-categories": [
+                "beer"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Dunkelbier",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Dunkel"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Dunkelbier",
+                "GB": "Dunkel"
+            },
+            "description": {
+                "DE": "Biere gibt es in unterschiedlichen Farbschattierungen von weißlich-gelb bis schwarz. Der Einfachheit halber wird oft grob zwischen hellen und dunklen Bieren unterschieden, wobei die Grenze zwischen dunkelgelb und hellbraun im Bereich der Bernsteinfarben liegt, aber nicht genau festliegt.",
+                "GB": "Dunkel, or Dunkles, is a word used for several types of dark German lager. Dunkel is the German word meaning dark, and dunkel beers typically range in color from amber to dark reddish brown. They are characterized by their smooth malty flavor. In informal terms, such as when ordering at a bar, \"dunkel\" is likely to mean whatever dark beer the bar has on tap, or sells most of; in much of north and western Germany, especially near Düsseldorf, this may be altbier."
+            }
+        },
+        {
+            "category": "helles",
+            "parent-categories": [
+                "beer"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Helles",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Helles"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Helles",
+                "GB": "Helles"
+            },
+            "description": {
+                "DE": "Helles, auch Helles Lager, Münchner Helles, Bayrisch Hell oder Hellbier ist eine untergärige, hellgelbe und schwach gehopfte Biersorte.",
+                "GB": "Helles or Hell is a traditional German pale lager beer, produced chiefly in Southern Germany, particularly Munich. The German word hell can be translated as \"bright\", \"light\", or \"pale\"."
             }
         },
         {
@@ -48,20 +92,20 @@
                 "beverage"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Cocktail",
-                "GB": "Cocktail"
-            },
-            "description": {
-                "DE": "Ein Cocktail ist ein alkoholisches Mischgetränk. Typischerweise bestehen Cocktails aus zwei oder mehr Zutaten, darunter mindestens einer Spirituose.",
-                "GB": "A cocktail is an alcoholic mixed drink, which is either a combination of spirits, or one or more spirits mixed with other ingredients such as fruit juice, flavored syrup, or cream."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Cocktail",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Cocktail"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Cocktail",
+                "GB": "Cocktail"
+            },
+            "description": {
+                "DE": "Ein Cocktail ist ein alkoholisches Mischgetränk. Typischerweise bestehen Cocktails aus zwei oder mehr Zutaten, darunter mindestens einer Spirituose. Sie werden mit Eis im Cocktail-Shaker, Rührglas oder direkt im Cocktailglas einzeln frisch zubereitet, in einem passenden Glas angerichtet und sofort serviert und getrunken. Üblicherweise ist jedes Cocktail-Rezept mit einem einprägsamen Namen versehen. Einige Cocktails sind international bekannt und werden von Barkeepern weltweit gemixt.",
+                "GB": "A cocktail is an alcoholic mixed drink, which is either a combination of spirits, or one or more spirits mixed with other ingredients such as fruit juice, flavored syrup, or cream. There are various types of cocktails, based on the number and kind of ingredients added. The origins of the cocktail are debated."
             }
         },
         {
@@ -70,20 +114,64 @@
                 "beverage"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Kaffee",
-                "GB": "Coffee"
-            },
-            "description": {
-                "DE": "Kaffee oder Kaffeegetränk ist ein schwarzes, psychotropes, koffeinhaltiges Getränk, das aus gerösteten und gemahlenen Kaffeebohnen, den Samen der Frucht der Kaffeepflanze, und heißem Wasser hergestellt wird.",
-                "GB": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Kaffee",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Coffee"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kaffee",
+                "GB": "Coffee"
+            },
+            "description": {
+                "DE": "Kaffee oder Kaffeegetränk ist ein schwarzes, psychotropes, koffeinhaltiges Getränk, das aus gerösteten und gemahlenen Kaffeebohnen, den Samen der Frucht der Kaffeepflanze, und heißem Wasser hergestellt wird.",
+                "GB": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean. Coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, Indian subcontinent, and Africa. The two most commonly grown are C. arabica and C. robusta. Once ripe, coffee berries are picked, processed, and dried. Dried coffee seeds are roasted to varying degrees, depending on the desired flavor. Roasted beans are ground and then brewed with near-boiling water to produce the beverage known as coffee."
+            }
+        },
+        {
+            "category": "coffee with milk froth",
+            "parent-categories": [
+                "coffee"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Kaffee mit Milchschaum",
+                "GB": "Coffee With Milk Froth"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "other coffee",
+            "parent-categories": [
+                "coffee"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Anderer Kaffee",
+                "GB": "Other Coffee"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
             }
         },
         {
@@ -92,20 +180,20 @@
                 "beverage"
             ],
             "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Juice"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "Saft",
                 "GB": "Juice"
             },
             "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
+                "DE": "Saft ist ein Getränk, das aus der Extraktion oder dem Pressen der in Obst und Gemüse enthaltenen natürlichen Flüssigkeit hergestellt wird. Es kann sich auch auf Flüssigkeiten beziehen, die mit Konzentrat oder anderen biologischen Lebensmittelquellen wie Fleisch oder Meeresfrüchten wie Muschelsaft aromatisiert sind. Saft wird häufig als Getränk konsumiert oder als Zutat oder Aromastoff in Lebensmitteln oder anderen Getränken verwendet, wie z.B. für Smoothies. Der Saft entwickelte sich zu einer beliebten Getränkewahl, nachdem die Entwicklung von Pasteurisierungsmethoden seine Konservierung ohne Fermentation ermöglichte. Die größten Fruchtsaftkonsumenten sind Neuseeland und Kolumbien. Der Fruchtsaftkonsum steigt im Durchschnitt mit dem Einkommensniveau des Landes.",
+                "GB": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. Juice is commonly consumed as a beverage or used as an ingredient or flavoring in foods or other beverages, as for smoothies. Juice emerged as a popular beverage choice after the development of pasteurization methods enabled its preservation without using fermentation . The largest fruit juice consumers are New Zealand and Colombia . Fruit juice consumption on average increases with country income level."
             }
         },
         {
@@ -114,20 +202,42 @@
                 "beverage"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Likör",
-                "GB": "Liqueur"
-            },
-            "description": {
-                "DE": "Liköre sind aromatische Spirituosen mit relativ hohem Zuckergehalt (mindestens 100 Gramm pro Liter).",
-                "GB": "A liqueur is an alcoholic drink composed of distilled spirits and additional flavorings such as sugar, fruits, herbs, and spices."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Lik%C3%B6r",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Liqueur"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Likör",
+                "GB": "Liqueur"
+            },
+            "description": {
+                "DE": "Liköre sind aromatische Spirituosen mit relativ hohem Zuckergehalt . Der Alkoholgehalt liegt normalerweise bei 15 bis 35 % Vol, es gibt aber auch stärkere und schwächere Liköre, zum Beispiel Chartreuse verte mit 55 % Vol oder Aperol mit 11 oder 15 % Vol.",
+                "GB": "A liqueur is an alcoholic drink composed of distilled spirits and additional flavorings such as sugar, fruits, herbs, and spices. Often served with or after dessert, they are typically heavily sweetened and un-aged beyond a resting period during production, when necessary, for their flavors to mingle."
+            }
+        },
+        {
+            "category": "other beverage",
+            "parent-categories": [
+                "beverage"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Anderes Getränk",
+                "GB": "Other Beverage"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
             }
         },
         {
@@ -136,42 +246,20 @@
                 "beverage"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Erfrischungsgetränk",
-                "GB": "Soft drink"
-            },
-            "description": {
-                "DE": "Als Erfrischungsgetränke (englisch soft drink, eingedeutscht Softdrink, in Abgrenzung zu alkoholhaltigen hard drinks) produziert die Lebensmittelindustrie verschiedene Kaltgetränke, die meist kohlensäurehaltig und süß-sauer aromatisiert sind.",
-                "GB": "A soft drink (see § Terminology for other names) is a drink that usually contains carbonated water (although some lemonades are not carbonated), a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute (in the case of diet drinks), or some combination of these."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Erfrischungsgetr%C3%A4nk",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Soft_drink"
                 },
                 "spoonacular": null
-            }
-        },
-        {
-            "category": "sparkling wine",
-            "parent-categories": [
-                "beverage"
-            ],
-            "related-categories": [],
+            },
             "name": {
-                "DE": "Schaumwein",
-                "GB": "Sparkling wine"
+                "DE": "Erfrischungsgetränk",
+                "GB": "Soft drink"
             },
             "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
+                "DE": "Als Erfrischungsgetränke produziert die Lebensmittelindustrie verschiedene Kaltgetränke, die meist kohlensäurehaltig und süß-sauer aromatisiert sind.",
+                "GB": "A soft drink is a drink that usually contains carbonated water , a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute , or some combination of these. Soft drinks may also contain caffeine, colorings, preservatives, and\/or other ingredients."
             }
         },
         {
@@ -180,20 +268,20 @@
                 "beverage"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Tee",
-                "GB": "Tea"
-            },
-            "description": {
-                "DE": "Tee im eigentlichen Sinne ist ein heißes Aufgussgetränk, das in der Hauptsache aus den Blättern und Blattknospen (buds) der Teepflanze zubereitet wird.",
-                "GB": "Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub (bush) native to East Asia."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Tee",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Tea"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tee",
+                "GB": "Tea"
+            },
+            "description": {
+                "DE": "Tee im eigentlichen Sinne ist ein heißes Aufgussgetränk, das in der Hauptsache aus den Blättern und Blattknospen der Teepflanze zubereitet wird. Einige Spezialtees enthalten auch Stängel . Tee ist ein Genussmittel.",
+                "GB": "Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world. There are many different types of tea; some, like Darjeeling and Chinese greens, have a cooling, slightly bitter, and astringent flavour, while others have vastly different profiles that include sweet, nutty, floral or grassy notes. Tea has a stimulating effect in humans primarily due to its caffeine content."
             }
         },
         {
@@ -202,60 +290,170 @@
                 "beverage"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Wein",
-                "GB": "Wine"
-            },
-            "description": {
-                "DE": "Wein ist ein alkoholisches Getränk aus dem vergorenen Saft der Beeren der Edlen Weinrebe.",
-                "GB": "Wine is an alcoholic drink made from fermented grapes."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Wein",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Wine"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Wein",
+                "GB": "Wine"
+            },
+            "description": {
+                "DE": "Wein ist ein alkoholisches Getränk aus dem vergorenen Saft der Beeren der Edlen Weinrebe. Wein ist ein Genussmittel. Durch spezifische önologische Ausbaumethoden kommt es bei der Lagerung zu zahlreichen biochemischen Reifeprozessen, die sehr vielfältig sein können und auch dazu führen, dass manche Weine jahrzehntelang reifen und haltbar sind.",
+                "GB": "Wine is an alcoholic drink made from fermented grapes, and the five countries with the largest wine-producing regions are in Italy, Spain, France, the United States, and China. Yeast consumes the sugar in the grapes and converts it to ethanol, carbon dioxide, and heat. Different varieties of grapes and strains of yeasts produce different styles of wine. These variations result from the complex interactions between the biochemical development of the grape, the reactions involved in fermentation, the terroir, and the production process. Many countries enact legal appellations intended to define styles and qualities of wine. These typically restrict the geographical origin and permitted varieties of grapes, as well as other aspects of wine production. Wines not made from grapes include rice wine and fruit wines such as plum, cherry, pomegranate, currant and elderberry."
+            }
+        },
+        {
+            "category": "other wine",
+            "parent-categories": [
+                "wine"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Anderer Wein",
+                "GB": "Other Wine"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "red wine",
+            "parent-categories": [
+                "wine"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rotwein",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Red_wine"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Rotwein",
+                "GB": "Red wine"
+            },
+            "description": {
+                "DE": "Rotwein ist ein aus blauen Weintrauben hergestellter Wein. Neben der Art der verwendeten Trauben unterscheidet er sich auch im Herstellungsprozess vom Weißwein oder Roséwein. Ein Rotwein entsteht durch Mazeration oder Digestion. Neben der alkoholischen Gärung des farblosen Safts der Beere werden bestimmte Komponenten aus den festen Bestandteilen der Maische herausgelöst. Die festen Bestandteile der Beerenmaische setzen sich aus der Schale der Beeren, den Kernen sowie eventuell dem Stielgerüst der Traube zusammen. Beim klassischen Herstellungsprozess erfolgt das Herauslösen der erwünschten Komponenten während der Maischegärung, deren Dauer individuell bestimmt werden kann. Eine andere Methode greift auf die Maischeerhitzung vor der Vergärung zurück.",
+                "GB": "Red wine is a type of wine made from dark-colored grape varieties. The actual color of the wine can range from intense violet, typical of young wines, through to brick red for mature wines and brown for older red wines. The juice from most purple grapes is greenish-white, the red color coming from anthocyan pigments present in the skin of the grape; exceptions are the relatively uncommon teinturier varieties, which produce a red-colored juice. Much of the red-wine production process therefore involves extraction of color and flavor components from the grape skin. It is a delicacy around the world."
+            }
+        },
+        {
+            "category": "rosé wine",
+            "parent-categories": [
+                "wine"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ros%C3%A9wein",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ros%C3%A9"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Roséwein",
+                "GB": "Rosé"
+            },
+            "description": {
+                "DE": "Roséweine sind sehr hellfarbige Weine aus roten Trauben, die wie Weißwein hergestellt werden. Die Beeren dürfen dabei nicht oder nur wenige Stunden auf der Maische liegen. Je nach Intensität des Kontaktes mit den Beerenhäuten ist der Roséwein unterschiedlich stark gefärbt; das Farbspektrum reicht von lachsfarben bis zu kirschrot. Billige Roséweine von außerhalb der EU können auch aus weißen und roten Weinen gemischt sein. In Deutschland ist der Marktanteil in den letzten Jahren von 2 auf 8 % gestiegen.",
+                "GB": "A rosé , also labelled rosado in Portuguese and Spanish-speaking countries and rosato in Italy, is a type of wine that incorporates some of the color from the grape skins, but not enough to qualify it as a red wine. It may be the oldest known type of wine, as it is the most straightforward to make with the skin contact method. The pink color can range from a pale \"onion-skin\" orange to a vivid near-purple, depending on the grape varieties used and winemaking techniques."
+            }
+        },
+        {
+            "category": "sparkling wine",
+            "parent-categories": [
+                "wine"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schaumwein",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sparkling_wine"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Schaumwein",
+                "GB": "Sparkling wine"
+            },
+            "description": {
+                "DE": "Schaumwein ist der Oberbegriff für weinhaltige Getränke in Flaschen, die aufgrund ihres Gehalts an Kohlenstoffdioxid unter Druck stehen. Der Überdruck durch das gelöste Kohlenstoffdioxid muss bei 20 °C mindestens 3 bar betragen. Im Unterschied dazu haben Perlweine nur einen Überdruck von 1 bis 2,5 bar. Die Alkoholherkunft ist in Deutschland im Gesetz zur Besteuerung von Schaumwein und Zwischenerzeugnissen und in Österreich im Schaumweinsteuergesetz 1995 geregelt.",
+                "GB": "Sparkling wine is a wine with significant levels of carbon dioxide in it, making it fizzy. While the phrase commonly refers to champagne, EU countries legally reserve that term for products exclusively produced in the Champagne region of France. Sparkling wine is usually either white or rosé, but there are examples of red sparkling wines such as the Italian Brachetto, Bonarda and Lambrusco, Spanish wine Cava, Australian sparkling Shiraz, and Azerbaijani \"Pearl of Azerbaijan\" made from Madrasa grapes. The sweetness of sparkling wine can range from very dry brut styles to sweeter doux varieties ."
+            }
+        },
+        {
+            "category": "white wine",
+            "parent-categories": [
+                "wine"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Wei%C3%9Fwein",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/White_wine"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Weißwein",
+                "GB": "White wine"
+            },
+            "description": {
+                "DE": "Weißwein ist ein Wein, der durch die alkoholische Gärung von Weintrauben entsteht. Die Farbe der Beerenhaut kann dabei sowohl hellgelb, gelbgrün, grün, grau, graurot und rot sein. Das Fruchtfleisch enthält nur wenig Farbstoffe. Mit Ausnahme der Färbertraube, einer Rotweinsorte, befinden sich die farbgebenden Pigmente ausschließlich in der Beerenschale. Durch das frühzeitige Abpressen des Beerensafts wird eine Extraktion der Bestandteile der Beerenschale weitgehend vermieden. Dadurch erzielt ein Winzer die strohgelbe bis goldgelbe Farbe des Weins. Die große Vielfalt der Weißweine ergibt sich aus dem Zusammenspiel der verfügbaren Rebsorten, diversen Verfahren in der Weinherstellung sowie verschiedenen Restzuckergehalten.",
+                "GB": "White wine is a wine that is fermented without skin contact. The colour can be straw-yellow, yellow-green, or yellow-gold. It is produced by the alcoholic fermentation of the non-coloured pulp of grapes, which may have a skin of any colour. White wine has existed for at least 2500 years."
             }
         },
         {
             "category": "breakfast",
             "parent-categories": [],
             "related-categories": [],
-            "name": {
-                "DE": "Frühstück",
-                "GB": "Breakfast"
-            },
-            "description": {
-                "DE": "Das Frühstück ist die in der Regel morgens zu sich genommene erste Mahlzeit des Tages.",
-                "GB": "Breakfast is the first meal of a day."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Fr%C3%BChst%C3%BCck",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Breakfast"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Frühstück",
+                "GB": "Breakfast"
+            },
+            "description": {
+                "DE": "Das Frühstück ist die in der Regel morgens zu sich genommene erste Mahlzeit des Tages.",
+                "GB": "Breakfast is the first meal of a day. The word in English refers to breaking the fasting period of the previous night. There is a strong likelihood for one or more \"typical\", or \"traditional\", breakfast menus to exist in most places, but their composition varies widely from place to place, and has varied over time, so that globally a very wide range of preparations and ingredients are now associated with breakfast."
             }
         },
         {
             "category": "dessert",
             "parent-categories": [],
             "related-categories": [],
-            "name": {
-                "DE": "Nachspeise",
-                "GB": "Dessert"
-            },
-            "description": {
-                "DE": "Mit Dessert bezeichnet man im deutschen Sprachraum den Nachtisch bzw. eine Nachspeise.",
-                "GB": "Dessert is a course that concludes a meal."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Dessert",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Dessert"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Dessert",
+                "GB": "Dessert"
+            },
+            "description": {
+                "DE": "Mit Dessert bezeichnet man im deutschen Sprachraum den Nachtisch bzw. eine Nachspeise. Es steht traditionell am Ende eines Menüs als Speisenfolge.",
+                "GB": "Dessert is a course that concludes a meal. The course usually consists of sweet foods, such as confections dishes or fruit, and possibly a beverage such as dessert wine or liqueur; however, in the United States it may include coffee, cheeses, nuts, or other savory items regarded as a separate course elsewhere. In some parts of the world, such as much of central and western Africa, and most parts of China, there is no tradition of a dessert course to conclude a meal."
             }
         },
         {
@@ -264,20 +462,20 @@
                 "dessert"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kuchen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cake"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kuchen",
+                "GB": "Cake"
+            },
+            "description": {
+                "DE": "Der Kuchen gehört zu den feinen Backwaren. Es handelt sich um ein zumeist süßes Backwerk. Man unterscheidet vor allem nach der Art der Herstellung Blechkuchen sowie Kuchen, die in einer Backform gebacken werden. Im Gegensatz zu einer Torte wird ein Belag oder eine Füllung nicht nach dem Backen zugesetzt, sondern mitgebacken. Umgangssprachlich wird dieser Unterschied nicht immer strikt eingehalten, es werden also auch gewisse Kuchen als Torten bezeichnet . Zum Teil wird der Kuchen nach dem Backen glasiert. Herzhafte Kuchen sind Zwiebelkuchen, Flammkuchen, Speckkuchen und Quiche.",
+                "GB": "Cake is a form of sweet food made from flour, sugar, and other ingredients, that is usually baked. In their oldest forms, cakes were modifications of bread, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies."
             }
         },
         {
@@ -286,64 +484,20 @@
                 "dessert"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Speiseeis",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Ice_cream"
                 },
                 "spoonacular": null
-            }
-        },
-        {
-            "category": "pudding",
-            "parent-categories": [
-                "dessert"
-            ],
-            "related-categories": [],
+            },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Speiseeis",
+                "GB": "Ice cream"
             },
             "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            }
-        },
-        {
-            "category": "soup dessert",
-            "parent-categories": [
-                "dessert"
-            ],
-            "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
+                "DE": "Speiseeis, in der Schweiz und Luxemburg die Glace , veraltet Gefrorenes, ist eine Zubereitung aus verschiedenen Zutaten, die durch einen Gefrierprozess in einen festen oder pastenförmigen Zustand gebracht wird. Aus Speiseeis werden Eisspeisen hergestellt.",
+                "GB": "Ice cream is a sweetened frozen food typically eaten as a snack or dessert. It may be made from dairy milk or cream and is flavored with a sweetener, either sugar or an alternative, and any spice, such as cocoa or vanilla. Colourings are usually added, in addition to stabilizers. The mixture is stirred to incorporate air spaces and cooled below the freezing point of water to prevent detectable ice crystals from forming. The result is a smooth, semi-solid foam that is solid at very low temperatures . It becomes more malleable as its temperature increases."
             }
         },
         {
@@ -352,20 +506,64 @@
                 "dessert"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "",
                     "GB": ""
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Anderes Dessert",
+                "GB": "Other Dessert"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "pudding",
+            "parent-categories": [
+                "dessert"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pudding",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pudding"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Pudding",
+                "GB": "Pudding"
+            },
+            "description": {
+                "DE": "Pudding ist im deutschen Sprachraum der umgangssprachliche Ausdruck für eine Süßspeise. In der Küchensprache fällt er unter das Genre der Dessertcreme. Im englischen, besonders britischen Sprachraum steht das Wort für eine Süßspeise beziehungsweise den Nachtisch ganz generell, kann aber auch ein Fleischgericht sein. Gemeinsam ist beiden Varianten, dass die Speise ursprünglich in einer speziellen Form durch Erhitzen in einem kochenden Wasserbad gegart und danach gestürzt wird. Mit dem Begriff Pudding wird im allgemeinen Sprachgebrauch meist eine Süßspeise gemeint, die fachtechnisch ein Flammeri ist.",
+                "GB": "Pudding is a type of food that can be either a dessert or a savoury dish that is part of the main meal."
+            }
+        },
+        {
+            "category": "soup dessert",
+            "parent-categories": [
+                "dessert"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Suppe (Dessert)",
+                "GB": "Soup (Dessert)"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
             }
         },
         {
@@ -374,40 +572,62 @@
                 "dessert"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Torte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Torte"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Torte",
+                "GB": "Torte"
+            },
+            "description": {
+                "DE": "Eine Torte ist eine feine Backware. Sie besteht aus einem vorher gebackenen Tortenboden, der je nach Rezept mit Creme gefüllt oder Obst belegt wird. Anschließend kann die Torte noch mit Tortenguss, Creme oder auch einer Glasur überzogen und weiter verziert werden. Bisweilen wird in Rezepten für die Torte der französische Ausdruck Tarte verwendet, der aber auch Backwaren bezeichnet, die der Definition eines Kuchens entsprechen. Törtchen haben prinzipiell dieselbe Zusammensetzung wie Torten, jedoch einen deutlich geringeren Durchmesser.",
+                "GB": "A torte is a rich, usually multilayered, cake that is filled with whipped cream, buttercreams, mousses, jams, or fruits."
             }
         },
         {
             "category": "main course",
             "parent-categories": [],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Hauptgericht",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Main_course"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Hauptgericht",
+                "GB": "Main course"
+            },
+            "description": {
+                "DE": "Als Hauptgericht, auch Hauptspeise oder Hauptgang, bezeichnet man das Gericht, das in einer Reihe von Gängen, dem sogenannten Menü, die zentrale und dominierende Stelle einnimmt. In der Regel wird das Hauptgericht warm zubereitet und serviert.",
+                "GB": "The main course is the featured or primary dish in a meal consisting of several courses. It usually follows the entrée course."
+            }
+        },
+        {
+            "category": "casserole",
+            "parent-categories": [
+                "main course"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Auflauf_(Speise)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Casserole"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Auflauf",
+                "GB": "Casserole"
+            },
+            "description": {
+                "DE": "Ein Auflauf ist ein im Backofen gegartes, salzig oder süß abgeschmecktes Gericht.",
+                "GB": "A casserole is a large, deep pan used both in the oven and as a serving vessel. The word is also used for the food cooked and served in such a vessel, and, if so, the cookware itself is called a \"casserole dish\" or \"casserole pan\". \"Casserole\" should not be confused with the word cacerola, which is Spanish for \"cooking pot\"."
             }
         },
         {
@@ -416,20 +636,20 @@
                 "main course"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Curry_(Gericht)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Curry"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Curry",
+                "GB": "Curry"
+            },
+            "description": {
+                "DE": "Curry ist die Bezeichnung für Gerichte der südasiatischen, südostasiatischen und japanischen Küche auf der Basis einer sämigen Sauce mit verschiedenen Gewürzen und Zugaben von Fleisch, Fisch oder Gemüse.",
+                "GB": "Curry is a variety of dishes originating in the Indian subcontinent that use a complex combination of spices or herbs, usually including ground turmeric, cumin, coriander, ginger, and fresh or dried chilies. Curry is generally prepared in a sauce. Curry dishes prepared in the southern states of India, where the word also originated, may be spiced with leaves from the curry tree."
             }
         },
         {
@@ -438,20 +658,20 @@
                 "main course"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Fast_Food",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fast_food"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fast Food",
+                "GB": "Fast food"
+            },
+            "description": {
+                "DE": "Der Anglizismus Fast Food steht in der Gastronomie für in Massenproduktion hergestellte, standardisierte Speisen, die für den schnellen Verzehr gedacht sind. Gegensatz ist das Slow Food.",
+                "GB": "Fast food is a type of mass-produced food designed for commercial resale and with a strong priority placed on \"speed of service\" versus other relevant factors involved in culinary science. Fast food was originally created as a commercial strategy to accommodate the larger numbers of busy commuters, travelers and wage workers who often did not have the time to sit down at a public house or diner and wait for their meal. By making speed of service the priority, this ensured that customers with strictly limited time were not inconvenienced by waiting for their food to be cooked on-the-spot . For those with no time to spare, fast food became a multibillion-dollar industry. In 2018, the fast food industry was worth an estimated $570 billion globally."
             }
         },
         {
@@ -460,20 +680,20 @@
                 "main course"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Speisefisch",
-                "GB": "Fish as food"
-            },
-            "description": {
-                "DE": "Speisefische sind Fischarten, die zum menschlichen Verzehr geeignet sind.",
-                "GB": "Many species of fish are consumed as food in virtually all regions around the world."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Speisefisch",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Fish_as_food"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Speisefisch",
+                "GB": "Fish as food"
+            },
+            "description": {
+                "DE": "Speisefische sind Fischarten, die zum menschlichen Verzehr geeignet sind. Nach dem Lebensraum wird zwischen Süßwasserfisch und Salzwasserfisch unterschieden. Einige Fischarten kommen sowohl in Salz- als auch in Süßwasser vor, beispielsweise Aal und Lachs.",
+                "GB": "Many species of fish are consumed as food in virtually all regions around the world. Fish has been an important source of protein and other nutrients for humans throughout history."
             }
         },
         {
@@ -482,20 +702,20 @@
                 "main course"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Fleisch",
-                "GB": "Meat"
-            },
-            "description": {
-                "DE": "Fleisch bezeichnet im Allgemeinen Weichteile von Mensch und Tieren.",
-                "GB": "Meat is animal flesh that is eaten as food."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Fleisch",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Meat"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fleisch",
+                "GB": "Meat"
+            },
+            "description": {
+                "DE": "Fleisch bezeichnet im Allgemeinen Weichteile von Mensch und Tieren. Im Besonderen steht der Begriff für Teile von Säugetieren und Vögeln, die zur Ernährung des Menschen genutzt werden. Dazu zählen neben Muskelgewebe mit Fett- und Bindegewebe auch Sehnen sowie bestimmte innere Organe. Im Weiteren wird Fleisch auch zur Bezeichnung für die als Nahrungsmittel genutzten Weichteile wechselwarmer Tiere wie Fische, Krebse, Muscheln und Schnecken verwendet; verbreitet sind Wortzusammensetzungen wie Krebsfleisch oder Muschelfleisch.",
+                "GB": "Meat is animal flesh that is eaten as food. Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle. This eventually led to their use in meat production on an industrial scale with the aid of slaughterhouses."
             }
         },
         {
@@ -504,64 +724,20 @@
                 "meat"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Rindfleisch",
-                "GB": "Beef"
-            },
-            "description": {
-                "DE": "Als Rindfleisch bezeichnet man im deutschsprachigen Raum allgemein das Fleisch verschiedener Hausrindrassen, das nach der Schlachtung von Tieren aus der Rinderproduktion erzeugt wird.",
-                "GB": "Beef is the culinary name for meat from cattle, particularly skeletal muscle."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Rindfleisch",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Beef"
                 },
                 "spoonacular": null
-            }
-        },
-        {
-            "category": "pork",
-            "parent-categories": [
-                "meat"
-            ],
-            "related-categories": [],
+            },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Rindfleisch",
+                "GB": "Beef"
             },
             "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
-            }
-        },
-        {
-            "category": "poultry",
-            "parent-categories": [
-                "meat"
-            ],
-            "related-categories": [],
-            "name": {
-                "DE": "Geflügel",
-                "GB": "Poultry"
-            },
-            "description": {
-                "DE": "Huhn ist die häufigste Geflügelart der Welt.",
-                "GB": "Chicken is the most common type of poultry in the world."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Chicken_as_food"
-                },
-                "spoonacular": null
+                "DE": "Als Rindfleisch bezeichnet man im deutschsprachigen Raum allgemein das Fleisch verschiedener Hausrindrassen, das nach der Schlachtung von Tieren aus der Rinderproduktion erzeugt wird. In der Warenkunde wird auch das Fleisch von Wildrindern hinzugezählt, während dies in der Speisenlehre zum Wildfleisch gerechnet wird. Mit Rind kann auch die Gattungsgruppe der Bovini gemeint sein, zu der neben den Eigentlichen Rindern auch Büffel und Bisons gehören.",
+                "GB": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients."
             }
         },
         {
@@ -570,108 +746,64 @@
                 "meat"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "",
                     "GB": ""
                 },
                 "spoonacular": null
-            }
-        },
-        {
-            "category": "pasta",
-            "parent-categories": [
-                "main course"
-            ],
-            "related-categories": [],
+            },
             "name": {
-                "DE": "Pasta",
-                "GB": "Pasta"
+                "DE": "Anderes Fleisch",
+                "GB": "Other Meat"
             },
             "description": {
-                "DE": "Pasta (Italienisch für Teig) ist in der italienischen Küche die Bezeichnung für Teigwaren aus Hartweizengrieß, Kochsalz und Wasser in vielen Größen und Formen.",
-                "GB": "Pasta is a type of Italian food typically made from an unleavened dough of durum wheat flour (semolina) mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pasta",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pasta"
-                },
-                "spoonacular": null
+                "DE": "",
+                "GB": ""
             }
         },
         {
-            "category": "pizza",
-            "parent-categories": [
-                "main course"
-            ],
-            "related-categories": [],
-            "name": {
-                "DE": "Pizza",
-                "GB": "Pizza"
-            },
-            "description": {
-                "DE": "Pizza ist ein vor dem Backen würzig belegtes Fladenbrot aus einfachem Hefeteig aus der italienischen Küche.",
-                "GB": "Pizza is a savory dish of Italian origin, consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (anchovies, olives, meat, etc.) baked at a high temperature, traditionally in a wood-fired oven."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pizza",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pizza"
-                },
-                "spoonacular": null
-            }
-        },
-        {
-            "category": "sushi",
+            "category": "pork",
             "parent-categories": [
                 "meat"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schweinefleisch",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pork"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Schweinefleisch",
+                "GB": "Pork"
+            },
+            "description": {
+                "DE": "Schweinefleisch ist ein Sammelbegriff für die zum Verzehr geeigneten Teile des Hausschweins. In Europa und Ostasien ist Schweinefleisch die am häufigsten gegessene Fleischart.",
+                "GB": "Pork is the culinary name for the meat of a domestic pig . It is the most commonly consumed meat worldwide, with evidence of pig husbandry dating back to 5000 BC."
             }
         },
         {
-            "category": "vegetable",
+            "category": "poultry",
             "parent-categories": [
-                "main course"
+                "meat"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Gemüse",
-                "GB": "Vegetable"
-            },
-            "description": {
-                "DE": "Gemüse ist heute ein Sammelbegriff für essbare Pflanzenteile wild wachsender oder in Kultur genommener Pflanzen.",
-                "GB": "Vegetables are parts of plants that are consumed by humans or other animals as food."
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gem%C3%BCse",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Vegetable"
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gefl%C3%BCgel",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Poultry"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Geflügel",
+                "GB": "Poultry"
+            },
+            "description": {
+                "DE": "Geflügel ist der Oberbegriff für alle Vogelarten, die als Nutztiere oder Haustiere gezüchtet werden und zum menschlichen Verzehr geeignet sind. Teilweise wird der Begriff synonym für Haus- oder Nutzgeflügel verwendet, manchmal schließt er auch Federwild, Wildvögel, die gezielt zum Verzehr gejagt werden, mit ein. Je nach Nutzung werden Vögel auch in Wirtschaftsgeflügel, Rassegeflügel und Ziergeflügel oder Fettgeflügel, Magergeflügel und Wildgeflügel unterschieden.",
+                "GB": "Poultry are domesticated birds kept by humans for their eggs, their meat or their feathers. These birds are most typically members of the superorder Galloanserae , especially the order Galliformes ."
             }
         },
         {
@@ -680,60 +812,148 @@
                 "main course"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "",
                     "GB": ""
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Anderes Hauptgericht",
+                "GB": "Other Main Course"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "pasta",
+            "parent-categories": [
+                "main course"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pasta",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pasta"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Pasta",
+                "GB": "Pasta"
+            },
+            "description": {
+                "DE": "Pasta ist in der italienischen Küche die Bezeichnung für Teigwaren aus Hartweizengrieß, Kochsalz und Wasser in vielen Größen und Formen.",
+                "GB": "Pasta is a type of Italian food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking. Rice flour, or legumes such as beans or lentils, are sometimes used in place of wheat flour to yield a different taste and texture, or as a gluten-free alternative. Pasta is a staple food of Italian cuisine."
+            }
+        },
+        {
+            "category": "pizza",
+            "parent-categories": [
+                "main course"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pizza",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pizza"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Pizza",
+                "GB": "Pizza"
+            },
+            "description": {
+                "DE": "Pizza ist ein vor dem Backen würzig belegtes Fladenbrot aus einfachem Hefeteig aus der italienischen Küche. Die heutige international verbreitete Variante mit Tomatensauce und Käse als Basis stammt vermutlich aus Neapel.",
+                "GB": "Pizza is a savory dish of Italian origin, consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients baked at a high temperature, traditionally in a wood-fired oven. A small pizza is sometimes called a pizzetta."
+            }
+        },
+        {
+            "category": "sushi",
+            "parent-categories": [
+                "main course"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sushi",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sushi"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Sushi",
+                "GB": "Sushi"
+            },
+            "description": {
+                "DE": "Sushi ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie rohen oder geräucherten Fisch, rohe Meeresfrüchte, Nori , Gemüse, Tofuvarianten und Ei. Die Zusammenstellung variiert nach Art und Rezept. Sushi wird in mundgerechten Stücken optisch ansprechend zubereitet serviert.",
+                "GB": "Sushi is a Japanese dish of prepared vinegared rice , usually with some sugar and salt, accompanying a variety of ingredients , such as seafood, vegetables, and occasionally tropical fruits. Styles of sushi and its presentation vary widely, but the one key ingredient is \"sushi rice\", also referred to as shari , or sumeshi ."
+            }
+        },
+        {
+            "category": "vegetable",
+            "parent-categories": [
+                "main course"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gem%C3%BCse",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Vegetable"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Gemüse",
+                "GB": "Vegetable"
+            },
+            "description": {
+                "DE": "Gemüse ist heute ein Sammelbegriff für essbare Pflanzenteile wild wachsender oder in Kultur genommener Pflanzen. Meist handelt es sich um Blätter, Knollen, Stängel oder Wurzeln von ein- oder zweijährigen krautigen Pflanzen, die roh, gekocht oder konserviert genossen werden. Im Gegensatz zu Pflanzen oder Pflanzenteilen, die vor allem wegen ihrer Reservestoffe genutzt werden und deshalb die Grundkost in der Ernährung des Menschen darstellen, wird Gemüse vor allem wegen seines Gehalts an Vitaminen, Mineralstoffen und sekundären Pflanzenstoffen als Beikost verzehrt. Gemüse ist geschmacksgebend und kalorienarm. Zudem hat Gemüse aufgrund seines hohen Gehalts an Ballaststoffen eine wichtige Funktion für die Verdauung.",
+                "GB": "Vegetables are parts of plants that are consumed by humans or other animals as food. The original meaning is still commonly used and is applied to plants collectively to refer to all edible plant matter, including the flowers, fruits, stems, leaves, roots, and seeds. The alternate definition of the term vegetable is applied somewhat arbitrarily, often by culinary and cultural tradition. It may exclude foods derived from some plants that are fruits, flowers, nuts, and cereal grains, but include savoury fruits such as tomatoes and courgettes, flowers such as broccoli, and seeds such as pulses."
             }
         },
         {
             "category": "pastry & bread",
             "parent-categories": [],
             "related-categories": [],
-            "name": {
-                "DE": "Brot und Gebäck",
-                "GB": "Bread"
-            },
-            "description": {
-                "DE": "Brot ist ein traditionelles Nahrungsmittel, das aus einem Teig aus gemahlenem Getreide (Mehl), Wasser, einem Triebmittel und meist weiteren Zutaten gebacken wird.",
-                "GB": "Bread is a staple food prepared from a dough of flour and water, usually by baking."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Brot",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Bread"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Brot",
+                "GB": "Bread"
+            },
+            "description": {
+                "DE": "Brot ist ein traditionelles Nahrungsmittel, das aus einem Teig aus gemahlenem Getreide , Wasser, einem Triebmittel und meist weiteren Zutaten gebacken wird. Es zählt zu den Grundnahrungsmitteln und wird als solches jährlich am 16. Oktober mit dem Welttag des Brotes als internationaler Aktionstag gefeiert.",
+                "GB": "Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture."
             }
         },
         {
             "category": "salad",
             "parent-categories": [],
             "related-categories": [],
-            "name": {
-                "DE": "Salat",
-                "GB": "Salad"
-            },
-            "description": {
-                "DE": "Ein Salat als Speise ist eine Zubereitung, die ursprünglich und vorwiegend aus rohen Salatpflanzen hergestellt wird.",
-                "GB": "A salad is a dish consisting of a mixture of small pieces of food, usually vegetables or fruit."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Salat_(Speise)",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Salad"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Salat",
+                "GB": "Salad"
+            },
+            "description": {
+                "DE": "Ein Salat ist eine Speise der Kalten Küche und wird entweder als Vorspeise, Sättigungsbeilage, als Hauptspeise oder Dessert gereicht. Salate können pikant oder fruchtig sein und werden fast immer kalt serviert . Zum Anmachen von Salaten werden Salatsaucen verwendet. Traditionelle Mayonnaise-Ableitungen werden zunehmend von den energiereduzierten Dressings verdrängt. Innerhalb eines Menüs nehmen Salate weniger die Stelle eines Extragangs ein, sondern vielmehr als Beilage sowie als Vorspeise oder Zwischengericht.",
+                "GB": "A salad is a dish consisting of a mixture of small pieces of food, usually vegetables or fruit. However, different varieties of salad may contain virtually any type of ready-to-eat food. Salads are typically served at room temperature or chilled, with notable exceptions such as south German potato salad which can be served warm."
             }
         },
         {
@@ -742,86 +962,86 @@
                 "salad"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Antipasto",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Antipasto"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Antipasto",
+                "GB": "Antipasto"
+            },
+            "description": {
+                "DE": "Antipasto ist die italienische Bezeichnung für „Vorspeise“. Die Antipasti der italienischen Küche bestehen aus kleinen Gerichten als Auftakt eines mehrgängigen Menüs. Typisch sind luftgetrockneter Aufschnitt wie Schinken oder Salami, begleitet von gebratenem, in Olivenöl eingelegtem Gemüse wie Auberginen, Zucchini, Paprika, Pilzen oder frischem Gemüse oder Obst, marinierte Fische und Meeresfrüchte sowie pikant belegte, geröstete Brotscheiben.",
+                "GB": "Antipasto is the traditional first course of a formal Italian meal. Typical ingredients of a traditional antipasto include cured meats, olives, peperoncini, mushrooms, anchovies, artichoke hearts, various cheeses , pickled meats, and vegetables in oil or vinegar."
             }
         },
         {
-            "category": "bound",
+            "category": "bound salad",
             "parent-categories": [
                 "salad"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "",
                     "GB": ""
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Bound Salad",
+                "GB": "Gebundener Salat"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
             }
         },
         {
-            "category": "fruit",
+            "category": "fruit salad",
             "parent-categories": [
                 "salad"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Obstsalat",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fruit_salad"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Obstsalat",
+                "GB": "Fruit salad"
+            },
+            "description": {
+                "DE": "Obstsalat ist eine Speise aus frischen Früchten oder Kompottfrüchten. Zu unterscheiden sind herzhaft pikante Obstsalate und als Süßspeise zubereitete.",
+                "GB": "Fruit salad is a dish consisting of various kinds of fruit, sometimes served in a liquid, either their own juices or a syrup. In different forms, fruit salad can be served as an appetizer, a side salad, or a dessert. When served as an appetizer or dessert, a fruit salad is sometimes known as a fruit cocktail , or fruit cup ."
             }
         },
         {
-            "category": "green",
+            "category": "green salad",
             "parent-categories": [
                 "salad"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Salat_(Speise)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Salad"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Grüner Salat",
+                "GB": "Green Salad"
+            },
+            "description": {
+                "DE": "Ein Salat ist eine Speise der Kalten Küche und wird entweder als Vorspeise, Sättigungsbeilage, als Hauptspeise oder Dessert gereicht. Salate können pikant oder fruchtig sein und werden fast immer kalt serviert . Zum Anmachen von Salaten werden Salatsaucen verwendet. Traditionelle Mayonnaise-Ableitungen werden zunehmend von den energiereduzierten Dressings verdrängt. Innerhalb eines Menüs nehmen Salate weniger die Stelle eines Extragangs ein, sondern vielmehr als Beilage sowie als Vorspeise oder Zwischengericht.",
+                "GB": "A salad is a dish consisting of a mixture of small pieces of food, usually vegetables or fruit. However, different varieties of salad may contain virtually any type of ready-to-eat food. Salads are typically served at room temperature or chilled, with notable exceptions such as south German potato salad which can be served warm."
             }
         },
         {
@@ -830,126 +1050,126 @@
                 "salad"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "",
                     "GB": ""
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Anderer Salat",
+                "GB": "Green Salad"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
             }
         },
         {
-            "category": "wurst",
+            "category": "wurst salad",
             "parent-categories": [
                 "salad"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Wurstsalat",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Wurstsalat"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Wurstsalat",
+                "GB": "Wurstsalat"
+            },
+            "description": {
+                "DE": "Wurstsalat ist ein mit Essig, Öl und Zwiebeln sauer angemachter Salat aus Wurst, meist Brühwurst wie Lyoner, Stadtwurst oder Regensburger. Er ist eine traditionelle Zwischenmahlzeit in Süddeutschland, dem Elsass, der Schweiz und in Österreich, wo er, aus Knackwurst oder Extrawurst zubereitet, auch Saure Wurst und Essigwurst genannt wird.",
+                "GB": "Wurstsalat is a tart sausage salad prepared with distilled white vinegar, oil and onions. A variation of the recipe adds stripes of pickled gherkin. It is normally made from a sort of boiled sausage like Lyoner, stadtwurst, Regensburger Wurst or extrawurst. It is a traditional snack in southern Germany, Alsace, Switzerland and Austria, where in Austria it is called Saure Wurst."
             }
         },
         {
             "category": "sauce & marinade",
             "parent-categories": [],
             "related-categories": [],
-            "name": {
-                "DE": "Sauce",
-                "GB": "Sauce"
-            },
-            "description": {
-                "DE": "Sauce oder Soße ist eine flüssig bis sämig gebundene, würzende Beigabe zu warmen und kalten Gerichten, Salaten und Desserts.",
-                "GB": "In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Sauce",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Sauce"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Sauce",
+                "GB": "Sauce"
+            },
+            "description": {
+                "DE": "Sauce oder Soße ist eine flüssig bis sämig gebundene, würzende Beigabe zu warmen und kalten Gerichten, Salaten und Desserts.",
+                "GB": "In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish. Sauce is a French word taken from the Latin salsa, meaning salted. Possibly the oldest recorded European sauce is garum, the fish sauce used by the Ancient Romans; while doubanjiang, the Chinese soy bean paste is mentioned in Rites of Zhou in the 3rd century BC."
             }
         },
         {
             "category": "side dish",
             "parent-categories": [],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Beilage_(Speise)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Side_dish"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Beilage",
+                "GB": "Side dish"
+            },
+            "description": {
+                "DE": "Als Beilagen bezeichnet man Bestandteile von Gerichten. Sie geben einem Gericht neben der Zubereitungsart den bestimmenden Charakter. Typische Beilagen werden als Garnitur bezeichnet.",
+                "GB": "A side dish, sometimes referred to as a side order, side item, or simply a side, is a food item that accompanies the entrée or main course at a meal."
             }
         },
         {
-            "category": "beans",
+            "category": "beans side dish",
             "parent-categories": [
                 "side dish"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bohne",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bean"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Bohne",
+                "GB": "Bean"
+            },
+            "description": {
+                "DE": "Als Bohne bezeichnet man sowohl die runden, teils länglichen oder nierenförmigen Samen als auch die sie umgebende Hülse mitsamt den eingeschlossenen Samen und ebenfalls die gesamte solche Samen bildende Pflanze aus der Familie der Hülsenfrüchtler . Es gibt zahlreiche Gattungen und Arten von Pflanzen mit unterschiedlicher Herkunft und unterschiedlichen Eigenschaften und Verwendungszwecken, die alle als Bohnen bezeichnet werden. Verschiedene Bohnen sind bedeutende Nutzpflanzen. Die wichtigsten Bohnen in Mitteleuropa sind die Samen der Gartenbohne .",
+                "GB": "A bean is a seed of one of several genera of the flowering plant family Fabaceae, which are used for human or animal food."
             }
         },
         {
-            "category": "coleslaw",
+            "category": "coleslaw side dish",
             "parent-categories": [
                 "side dish"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Krautsalat",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coleslaw"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Krautsalat",
+                "GB": "Coleslaw"
+            },
+            "description": {
+                "DE": "Krautsalat ist ein Salat, der meist aus Weißkraut, seltener aus Blau- bzw. Rotkraut zubereitet wird, hierbei steht Kraut als alternative Bezeichnung für Kohl. Er kann sowohl warm als auch kalt zubereitet werden. Als eine der ältesten Kulturpflanzen in Europa gab es Salat aus Weißkraut vermutlich schon bei den Römern. In manchen Regionen wurde Kopfsalat früher auch als Krautsalat bezeichnet.",
+                "GB": "Coleslaw , also known as cole slaw or slaw, is a salad consisting primarily of finely-shredded raw cabbage with a salad dressing, commonly either vinaigrette or mayonnaise. Coleslaw prepared with vinaigrette may benefit from the long lifespan granted by pickling."
             }
         },
         {
@@ -958,42 +1178,42 @@
                 "side dish"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "",
                     "GB": ""
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Grüne Beilage",
+                "GB": "Green Side Dish"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
             }
         },
         {
-            "category": "mushrooms",
+            "category": "mushrooms side dish",
             "parent-categories": [
                 "side dish"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Fruchtk%C3%B6rper",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Mushroom"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Fruchtkörper",
+                "GB": "Mushroom"
+            },
+            "description": {
+                "DE": "Fruchtkörper sind die Fortpflanzungsorgane mehrzelliger Pilze. Sie entsprechen dem, was man gemeinhin als „Pilz“ bezeichnet. Biologen verstehen unter einem Pilz den gesamten Organismus, also auch die Teile, die meist im Substrat oder Boden verborgen sind und als Myzel bezeichnet werden. Vergleicht man Pilze mit höheren Pflanzen, so entsprechen die Fruchtkörper der Pilze den Blüten der Pflanzen. Der Fruchtkörper wird auch als Sporocarp bezeichnet, weil in ihm die für die geschlechtliche Vermehrung notwendigen Meiosporen gebildet werden. Er besteht aus verzweigten, mehr oder weniger miteinander verwachsenen Hyphen, welche die sporenbildenden Strukturen ausbilden und daher auch als generative Hyphen bezeichnet werden. Wenn die Umweltbedingungen günstig sind – besonders Temperatur, Feuchtigkeit und Nährstoffangebot – können sie schnell heranwachsen. Früher war die Fruchtkörperform ein sehr wichtiges Kriterium für die systematische Einteilung der Pilze, neuere molekularbiologische Untersuchungen haben aber gezeigt, dass die Fruchtkörpermorphologie wenig über die Verwandtschaftsverhältnisse eines Pilzes aussagt.",
+                "GB": "A mushroom, or toadstool, is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground, on soil, or on its food source."
             }
         },
         {
@@ -1002,86 +1222,86 @@
                 "side dish"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "",
                     "GB": ""
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Andere Beilage",
+                "GB": "Other Side Dish"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
             }
         },
         {
-            "category": "pasta",
+            "category": "pasta side dish",
             "parent-categories": [
                 "side dish"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pasta",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pasta"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Pasta",
+                "GB": "Pasta"
+            },
+            "description": {
+                "DE": "Pasta ist in der italienischen Küche die Bezeichnung für Teigwaren aus Hartweizengrieß, Kochsalz und Wasser in vielen Größen und Formen.",
+                "GB": "Pasta is a type of Italian food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking. Rice flour, or legumes such as beans or lentils, are sometimes used in place of wheat flour to yield a different taste and texture, or as a gluten-free alternative. Pasta is a staple food of Italian cuisine."
             }
         },
         {
-            "category": "potato",
+            "category": "potato side dish",
             "parent-categories": [
                 "side dish"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kartoffel",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Potato"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kartoffel",
+                "GB": "Potato"
+            },
+            "description": {
+                "DE": "Blüten der Kartoffel ",
+                "GB": "The potato is a root vegetable native to the Americas, a starchy tuber of the plant Solanum tuberosum, and the plant itself, a perennial in the family Solanaceae."
             }
         },
         {
-            "category": "squash",
+            "category": "squash side dish",
             "parent-categories": [
                 "side dish"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/K%C3%BCrbisse",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cucurbita"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Kürbisse",
+                "GB": "Squash"
+            },
+            "description": {
+                "DE": "Patisson-Pflanze ",
+                "GB": "Cucurbita is a genus of herbaceous vines in the gourd family, Cucurbitaceae, also known as cucurbits, native to the Andes and Mesoamerica. Five species are grown worldwide for their edible fruit, variously known as squash, pumpkin, or gourd depending on species, variety, and local parlance, and for their seeds. Other kinds of gourd, also called bottle-gourds, are native to Africa and belong to the genus Lagenaria, which is in the same family and subfamily as Cucurbita but in a different tribe. These other gourds are used as utensils or vessels, and their young fruits are eaten much like those of Cucurbita species."
             }
         },
         {
@@ -1090,46 +1310,53 @@
                 "side dish"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gem%C3%BCse",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Vegetable"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Gemüse",
+                "GB": "Vegetable"
+            },
+            "description": {
+                "DE": "Gemüse ist heute ein Sammelbegriff für essbare Pflanzenteile wild wachsender oder in Kultur genommener Pflanzen. Meist handelt es sich um Blätter, Knollen, Stängel oder Wurzeln von ein- oder zweijährigen krautigen Pflanzen, die roh, gekocht oder konserviert genossen werden. Im Gegensatz zu Pflanzen oder Pflanzenteilen, die vor allem wegen ihrer Reservestoffe genutzt werden und deshalb die Grundkost in der Ernährung des Menschen darstellen, wird Gemüse vor allem wegen seines Gehalts an Vitaminen, Mineralstoffen und sekundären Pflanzenstoffen als Beikost verzehrt. Gemüse ist geschmacksgebend und kalorienarm. Zudem hat Gemüse aufgrund seines hohen Gehalts an Ballaststoffen eine wichtige Funktion für die Verdauung.",
+                "GB": "Vegetables are parts of plants that are consumed by humans or other animals as food. The original meaning is still commonly used and is applied to plants collectively to refer to all edible plant matter, including the flowers, fruits, stems, leaves, roots, and seeds. The alternate definition of the term vegetable is applied somewhat arbitrarily, often by culinary and cultural tradition. It may exclude foods derived from some plants that are fruits, flowers, nuts, and cereal grains, but include savoury fruits such as tomatoes and courgettes, flowers such as broccoli, and seeds such as pulses."
             }
         },
         {
             "category": "snack, appetizer & starter",
             "parent-categories": [],
             "related-categories": [],
-            "name": {
-                "DE": "Vorspeise",
-                "GB": "Entrée (starter)"
-            },
-            "description": {
-                "DE": "Pasta (Italienisch für Teig) ist in der italienischen Küche die Bezeichnung für Teigwaren aus Hartweizengrieß, Kochsalz und Wasser in vielen Größen und Formen.",
-                "GB": "An entrée (starter) in modern French table service and that of much of the English-speaking world (apart from the United States and parts of Canada) is a dish served before the main course of a meal."
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pasta",
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Vorspeise",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Entr%C3%A9e"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Vorspeise",
+                "GB": "Entrée"
+            },
+            "description": {
+                "DE": "Eine Vorspeise ist eine kleine Speise, die vor dem Hauptgericht verzehrt wird und den Appetit anregen und den größten Hunger dämpfen soll. Der Begriff Vorspeise kommt aus der klassischen Speisenfolge. Man unterscheidet grob zwischen warmen und kalten Vorspeisen. Im klassischen Menü kommt der erste Gang aus der kalten Küche, die warme Vorspeise, ursprünglich das Voressen, stellt das Bindeglied zwischen Suppe und Fisch- bzw. Hauptgang.",
+                "GB": "An entrée in modern French table service and that of much of the English-speaking world is a dish served before the main course of a meal. Outside North America, it is generally synonymous with the terms hors d'oeuvre, appetizer or starter. It may be the first dish served, or it may follow a soup or other small dish or dishes. In the United States and parts of Canada, the term entrée refers to the main dish or the only dish of the meal."
             }
         },
         {
             "category": "soup & stew",
             "parent-categories": [],
             "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "Suppe und Eintopf",
                 "GB": "Soup & Stew"
@@ -1137,13 +1364,6 @@
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "",
-                    "GB": ""
-                },
-                "spoonacular": null
             }
         },
         {
@@ -1152,20 +1372,20 @@
                 "soup & stew"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Suppe",
-                "GB": "Soup"
-            },
-            "description": {
-                "DE": "Suppe bezeichnet eine flüssige bis dünnbreiige Speise, die auf Grundlage eines Fonds und weiteren Zutaten hergestellt werden kann.",
-                "GB": "Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, or water."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Suppe",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Soup"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Suppe",
+                "GB": "Soup"
+            },
+            "description": {
+                "DE": "Suppe bezeichnet eine flüssige bis dünnbreiige Speise, die auf Grundlage eines Fonds und weiteren Zutaten hergestellt werden kann. Den meist als Vorspeise servierten Suppen werden oft zusätzlich Suppeneinlagen beigefügt. Es wird im Allgemeinen zwischen klaren und gebundenen, auch warmen und kalten Suppen unterschieden. Sie werden nach Herstellungsprinzipien, Rohstoffen oder der Herkunft eingeteilt.",
+                "GB": "Soup is a primarily liquid food, generally served warm or hot , that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth. Soups are similar to stews, and in some cases there may not be a clear distinction between the two; however, soups generally have more liquid than stews."
             }
         },
         {
@@ -1174,20 +1394,20 @@
                 "soup & stew"
             ],
             "related-categories": [],
-            "name": {
-                "DE": "Eintopf",
-                "GB": "Stew"
-            },
-            "description": {
-                "DE": "Als Eintopf werden allgemein sättigende Suppen oft bäuerlichen Ursprungs bezeichnet, die als vollständige Mahlzeit dienen.",
-                "GB": "A stew is a combination of solid food ingredients that have been cooked in liquid and served in the resultant gravy."
-            },
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Eintopf",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Stew"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Eintopf",
+                "GB": "Stew"
+            },
+            "description": {
+                "DE": "Als Eintopf werden allgemein sättigende Suppen oft bäuerlichen Ursprungs bezeichnet, die als vollständige Mahlzeit dienen. Typische Hauptzutaten sind Hülsenfrüchte wie Erbsen, Bohnen oder Linsen, Gemüse wie Kohl, Steckrüben, Möhren oder Kartoffeln, auch Getreideprodukte wie Graupen, Brot oder Nudeln, in Wasser oder Brühe gegart. Hinzu kommen je nach Rezept und Möglichkeit zum Beispiel Lauch, Sellerie und Zwiebeln, Fleisch, Wurst oder Speck . Die unterschiedliche Garzeit der verschiedenen Zutaten wird bei der Zubereitung berücksichtigt.",
+                "GB": "A stew is a combination of solid food ingredients that have been cooked in liquid and served in the resultant gravy. Ingredients in a stew can include any combination of vegetables and may include meat, especially tougher meats suitable for slow-cooking, such as beef. Poultry, sausages, and seafood are also used. While water can be used as the stew-cooking liquid, stock is also common. Seasoning and flavourings may also be added. Stews are typically cooked at a relatively low temperature , allowing flavours to mingle."
             }
         }
     ],
@@ -1198,6 +1418,13 @@
                 "pasta"
             ],
             "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Agnolotti",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Agnolotti"
+                },
+                "spoonacular": null
+            },
             "name": {
                 "DE": "Agnolotti",
                 "GB": "Agnolotti"
@@ -1205,13 +1432,6 @@
             "description": {
                 "DE": "Agnolotti sind eine italienische Pastasorte, und zwar gefüllte Teigtäschchen aus der Region Piemont.",
                 "GB": "Agnolotti is a type of pasta typical of the Piedmont region of Italy, made with small pieces of flattened pasta dough, folded over a filling of roasted meat or vegetables."
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Agnolotti",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Agnolotti"
-                },
-                "spoonacular": null
             }
         },
         {
@@ -3088,7 +3308,7 @@
         {
             "class": "caesar salad",
             "categories": [
-                "green"
+                "green salad"
             ],
             "related-classes": [],
             "name": {
@@ -4042,7 +4262,7 @@
         {
             "class": "chicken salad",
             "categories": [
-                "green"
+                "green salad"
             ],
             "related-classes": [],
             "name": {
@@ -4740,7 +4960,7 @@
         {
             "class": "cobb salad",
             "categories": [
-                "green"
+                "green salad"
             ],
             "related-classes": [],
             "urls": {
@@ -5001,10 +5221,10 @@
         },
         {
             "class": "coles law",
-            "duplicate": "coleslaw"
+            "duplicate": "coleslaw side dish"
         },
         {
-            "class": "coleslaw",
+            "class": "coleslaw side dish",
             "categories": [
                 "other salad"
             ],
@@ -5018,7 +5238,7 @@
             },
             "name": {
                 "DE": "Krautsalat",
-                "GB": "Coleslaw"
+                "GB": "coleslaw side dish"
             },
             "description": {
                 "DE": "Krautsalat ist ein Salat, der meist aus Weißkraut, seltener aus Blau- bzw. Rotkraut zubereitet wird, hierbei steht Kraut als alternative Bezeichnung für Kohl. Er kann sowohl warm als auch kalt zubereitet werden. Als eine der ältesten Kulturpflanzen in Europa gab es Salat aus Weißkraut vermutlich schon bei den Römern. In manchen Regionen wurde Kopfsalat früher auch als Krautsalat bezeichnet.",
@@ -5028,7 +5248,7 @@
         {
             "class": "collard greens",
             "categories": [
-                "green"
+                "green salad"
             ],
             "related-classes": [],
             "urls": {
@@ -5043,7 +5263,7 @@
                 "GB": "Collard"
             },
             "description": {
-                "DE": "Blattkohl ist der deutsche Überbegriff für verschiedene Cultivare der Pflanzenart Gemüsekohl . Diese Sorten werden aufgrund ihrer großen, dunklen, prächtigen und essbaren Blätter, aber auch zur Verschönerung des Gartens gezüchtet – hauptsächlich in Brasilien, Portugal, den südlichen Vereinigten Staaten, Afrika, Montenegro, Bosnien und Herzegowina, Südkroatien, Nordspanien und in Indien. Der Blattkohl gehört zu denselben Cultivaren, zu denen auch Grünkohl und Frühkohl gehört, denen er außerdem genetisch stark ähnelt.",
+                "DE": "Blattkohl ist der deutsche Überbegriff für verschiedene Cultivare der Pflanzenart Gemüsekohl. Diese Sorten werden aufgrund ihrer großen, dunklen, prächtigen und essbaren Blätter, aber auch zur Verschönerung des Gartens gezüchtet – hauptsächlich in Brasilien, Portugal, den südlichen Vereinigten Staaten, Afrika, Montenegro, Bosnien und Herzegowina, Südkroatien, Nordspanien und in Indien. Der Blattkohl gehört zu denselben Cultivaren, zu denen auch Grünkohl und Frühkohl gehört, denen er außerdem genetisch stark ähnelt.",
                 "GB": "Collard refers to certain loose-leafed cultivars of Brassica oleracea, the same species as many common vegetables, including cabbage and broccoli . Collard is part of the Acephala Group of the species, which includes kale and spring greens. They are in the same cultivar group owing to their genetic similarity. The name \"collard\" comes from the word \"colewort\" ."
             }
         },
@@ -5556,7 +5776,7 @@
         {
             "class": "cucumber salad",
             "categories": [
-                "green"
+                "green salad"
             ],
             "related-classes": [],
             "urls": {
@@ -6724,7 +6944,7 @@
         {
             "class": "french fries",
             "categories": [
-                "potato"
+                "potato side dish"
             ],
             "related-classes": [],
             "urls": {
@@ -7636,7 +7856,7 @@
         {
             "class": "greek salad",
             "categories": [
-                "green"
+                "green salad"
             ],
             "related-classes": [],
             "urls": {
@@ -8152,7 +8372,7 @@
         {
             "class": "home fries",
             "categories": [
-                "potato"
+                "potato side dish"
             ],
             "related-classes": [],
             "urls": {
@@ -9606,7 +9826,7 @@
         {
             "class": "mashed potato",
             "categories": [
-                "potato"
+                "potato side dish"
             ],
             "related-classes": [],
             "urls": {
@@ -10336,7 +10556,7 @@
         {
             "class": "new potatoes",
             "categories": [
-                "potato"
+                "potato side dish"
             ],
             "related-classes": [],
             "urls": {
@@ -10362,7 +10582,7 @@
         {
             "class": "nicoise salad",
             "categories": [
-                "green"
+                "green salad"
             ],
             "related-classes": [],
             "urls": {
@@ -10874,7 +11094,7 @@
         {
             "class": "panzanella",
             "categories": [
-                "green"
+                "green salad"
             ],
             "related-classes": [],
             "urls": {
@@ -11940,7 +12160,7 @@
         {
             "class": "potato wedges",
             "categories": [
-                "potato"
+                "potato side dish"
             ],
             "related-classes": [],
             "urls": {
@@ -14016,7 +14236,7 @@
         {
             "class": "slaw",
             "categories": [
-                "green"
+                "green salad"
             ],
             "related-classes": [],
             "urls": {
@@ -14028,7 +14248,7 @@
             },
             "name": {
                 "DE": "Krautsalat",
-                "GB": "Coleslaw"
+                "GB": "coleslaw side dish"
             },
             "description": {
                 "DE": "Krautsalat ist ein Salat, der meist aus Weißkraut, seltener aus Blau- bzw. Rotkraut zubereitet wird, hierbei steht Kraut als alternative Bezeichnung für Kohl. Er kann sowohl warm als auch kalt zubereitet werden. Als eine der ältesten Kulturpflanzen in Europa gab es Salat aus Weißkraut vermutlich schon bei den Römern. In manchen Regionen wurde Kopfsalat früher auch als Krautsalat bezeichnet.",
@@ -15426,7 +15646,7 @@
         {
             "class": "tater tots",
             "categories": [
-                "potato"
+                "potato side dish"
             ],
             "related-classes": [],
             "urls": {
@@ -16160,7 +16380,7 @@
         {
             "class": "waffle fries",
             "categories": [
-                "potato"
+                "potato side dish"
             ],
             "related-classes": [],
             "urls": {
