@@ -16115,85 +16115,90 @@
         },
         {
             "class": "vin santo",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Vin_Santo",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Vin_Santo"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Vin Santo",
+                "GB": "Vin Santo"
+            },
+            "description": {
+                "DE": "Vin Santo oder Vino Santo ist ein klassischer Süß- oder Dessertwein aus den italienischen Regionen Toskana, Marken, Umbrien, Emilia-Romagna, Veneto und dem Trentino. Die Weinspezialität entsteht nach traditioneller Methode aus luftgetrockneten, teilrosinierten Trauben der weißen Rebsorten Trebbiano und Malvasia. Unter Verwendung von mindestens 50 % der roten Rebsorte Sangiovese entsteht die roséfarbene Variante Occhio di Pernice . Der Begriff „Vin santo“ klingt, als würde er heiliger Wein oder Messwein bedeuten. Der Name könnte sich auch von der griechischen Insel Santorin ableiten, die schon in der Antike der bekannteste Ursprung für Süßweine war. Auch heute wird dort ein Wein ähnlichen Namens produziert, der als Ursprungsbezeichnung Schutz genießt.",
+                "GB": "Vin Santo is a style of Italian dessert wine. Traditional in Tuscany, these wines are often made from white grape varieties such as Trebbiano and Malvasia, though Sangiovese may be used to produce a rosé style known as \"Occhio di Pernice\" or eye of the partridge. The wines may also be described as straw wines since they are often produced by drying the freshly harvested grapes on straw mats in a warm and well ventilated area of the house. Though technically a dessert wine, a Vin Santo can vary in sweetness levels from bone dry to extremely sweet. While the style is believed to have originated in Tuscany, examples of Vin Santo can be found throughout Italy and it is an authorised style of wine for several Denominazione di origine controllata and Indicazione geografica tipica ."
             }
         },
         {
             "class": "vodka",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Wodka",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Vodka"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Wodka",
+                "GB": "Vodka"
+            },
+            "description": {
+                "DE": "Wodka ist eine meist farblose Spirituose mit einem Alkoholgehalt von idealerweise 40 Volumenprozent. Er zeichnet sich besonders durch seinen fast neutralen Geschmack und das Fehlen jeglicher Fuselöle, künstlicher Aromen oder anderer fermentierter Stoffe aus. Er wird entweder pur getrunken oder in Cocktails vermischt.",
+                "GB": "Vodka is a clear distilled alcoholic beverage originating in Poland and Russia. It is composed primarily of water and ethanol, but sometimes with traces of impurities and flavorings. Traditionally it is made by distilling the liquid from cereal grains or potatoes that have been fermented, though some modern brands use fruits or sugar as the base."
             }
         },
         {
             "class": "waffle fries",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "potato"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Waffelpommes",
+                "GB": "Waffle Fries"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "waffle",
-            "name": {
-                "DE": "Waffel",
-                "GB": "Waffle"
-            },
-            "related-classes": [],
             "categories": [
-                "dish",
-                "dessert"
+                "other dessert"
             ],
-            "description": {
-                "DE": "Waffeln sind in ihrer einfachsten Form (Oblate) ein aus Mehl und Wasser bestehendes, flaches Feingebäck, das zwischen zwei heißen Eisen (Waffeleisen) gebacken wird.",
-                "GB": "A waffle is a dish made from leavened batter or dough that is cooked between two plates that are patterned to give a characteristic size, shape, and surface impression."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Waffel",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Waffle"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Waffel",
+                "GB": "Waffle"
+            },
+            "description": {
+                "DE": "Waffeln sind in ihrer einfachsten Form (Oblate) ein aus Mehl und Wasser bestehendes, flaches Feingebäck, das zwischen zwei heißen Eisen (Waffeleisen) gebacken wird.",
+                "GB": "A waffle is a dish made from leavened batter or dough that is cooked between two plates that are patterned to give a characteristic size, shape, and surface impression."
             }
         },
         {
@@ -16202,104 +16207,94 @@
         },
         {
             "class": "water",
-            "name": {
-                "DE": "Mineralwasser",
-                "GB": "Mineral water"
-            },
-            "related-classes": [],
             "categories": [
-                "drink"
+                "other beverage"
             ],
-            "description": {
-                "DE": "Mineralwasser ist nach der deutschen Mineral- und Tafelwasserverordnung bzw. der österreichischen Mineralwasser- und Quellwasserverordnung ein Grundwasser mit besonderen Eigenschaften.",
-                "GB": "Mineral water is water from a mineral spring that contains various minerals, such as salts and sulfur compounds."
-            },
+            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Mineralwasser",
                     "GB": "https:\/\/en.wikipedia.org\/wiki\/Mineral_water"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Mineralwasser",
+                "GB": "Mineral water"
+            },
+            "description": {
+                "DE": "Mineralwasser ist nach der deutschen Mineral- und Tafelwasserverordnung bzw. der österreichischen Mineralwasser- und Quellwasserverordnung ein Grundwasser mit besonderen Eigenschaften.",
+                "GB": "Mineral water is water from a mineral spring that contains various minerals, such as salts and sulfur compounds."
             }
         },
         {
             "class": "watermelon salad",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fruit"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Wassermelonensalat",
+                "GB": "Watermelon Salad"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "whiskey",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "whisky"
         },
         {
             "class": "whisky",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "liquor"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Whisky",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Whisky"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Whisky",
+                "GB": "Whisky"
+            },
+            "description": {
+                "DE": "Whisky ist eine durch Destillation aus Getreidemaische gewonnene und im Holzfass gereifte Spirituose.",
+                "GB": "Whisky or whiskey is a type of distilled alcoholic beverage made from fermented grain mash. Various grains are used for different varieties, including barley, corn, rye, and wheat. Whisky is typically aged in wooden casks, generally made of charred white oak."
             }
         },
         {
             "class": "whitebait",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Whitebait"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Whitebait",
+                "GB": "Whitebait"
+            },
+            "description": {
+                "DE": "Whitebait ist ein Sammelbegriff für die unreife Fischbrut, typischerweise zwischen 1 und 2 Zoll lang. Solche Jungfische reisen oft gemeinsam in Schulen entlang der Küste und bewegen sich in Mündungen und manchmal auch auf Flüssen, wo sie leicht mit feinmaschigen Fischernetzen gefangen werden können. Whitebaiting ist die Aktivität des Fangs von Whitebait.",
+                "GB": "Whitebait is a collective term for the immature fry of fish, typically between 1 and 2 inches long. Such young fish often travel together in schools along the coast, and move into estuaries and sometimes up rivers where they can be easily caught with fine meshed fishing nets. Whitebaiting is the activity of catching whitebait."
             }
         },
         {
