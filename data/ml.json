@@ -285,6 +285,72 @@
             }
         },
         {
+            "category": "black tea",
+            "parent-categories": [
+                "tea"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "green tea",
+            "parent-categories": [
+                "tea"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "other tea",
+            "parent-categories": [
+                "tea"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
             "category": "wine",
             "parent-categories": [
                 "beverage"
@@ -3518,7 +3584,7 @@
             ],
             "related-classes": [],
             "name": {
-                "DE": "",
+                "DE": "Carne Asada",
                 "GB": "Carne Asada"
             },
             "description": {
@@ -3584,7 +3650,7 @@
             ],
             "related-classes": [],
             "name": {
-                "DE": "",
+                "DE": "Auflauf",
                 "GB": "Casserole"
             },
             "description": {
@@ -3627,7 +3693,9 @@
         },
         {
             "class": "catfish",
-            "categories": [],
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
             "name": {
                 "DE": "Wels",
@@ -3679,7 +3747,7 @@
             "related-classes": [],
             "name": {
                 "DE": "Ceviche",
-                "GB": ""
+                "GB": "Ceviche"
             },
             "description": {
                 "DE": "Ceviche ist ein Fischgericht der peruanischen Küche, das in weiten Teilen Lateinamerikas verbreitet ist.",
@@ -4123,7 +4191,9 @@
         },
         {
             "class": "chicken marsala",
-            "categories": [],
+            "categories": [
+                "poultry"
+            ],
             "related-classes": [],
             "name": {
                 "DE": "Hähnchen Marsala",
@@ -5579,14 +5649,14 @@
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "Rahmsauce",
-                    "GB": "Cream sauce"
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Rahmsauce",
+                "GB": "Cream sauce"
             },
             "description": {
                 "DE": "",
@@ -5781,14 +5851,14 @@
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "Gurkensalat",
-                    "GB": "Cucumber Salad"
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Gurkensalat",
+                "GB": "Cucumber Salad"
             },
             "description": {
                 "DE": "",
@@ -5859,14 +5929,14 @@
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "Currysauce",
-                    "GB": "Curry Sauce"
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Currysauce",
+                "GB": "Curry Sauce"
             },
             "description": {
                 "DE": "",
@@ -6159,14 +6229,14 @@
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "Eiernudeln",
-                    "GB": "Egg Noodles"
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Eiernudeln",
+                "GB": "Egg Noodles"
             },
             "description": {
                 "DE": "",
@@ -6181,14 +6251,14 @@
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "Eggplant Parmesan",
-                    "GB": "Eggplant Parmesan"
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Eggplant Parmesan",
+                "GB": "Eggplant Parmesan"
             },
             "description": {
                 "DE": "",
@@ -6237,14 +6307,14 @@
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "Eier Sandwich",
-                    "GB": "Egg Sandwich"
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Eier Sandwich",
+                "GB": "Egg Sandwich"
             },
             "description": {
                 "DE": "",
@@ -6617,7 +6687,9 @@
         },
         {
             "class": "fish stew",
-            "categories": [],
+            "categories": [
+                "stew"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
@@ -6778,7 +6850,7 @@
         {
             "class": "flat white",
             "categories": [
-                "with milk froth"
+                "coffee with milk froth"
             ],
             "related-classes": [],
             "urls": {
@@ -6874,7 +6946,7 @@
         {
             "class": "frappe",
             "categories": [
-                "with milk froth"
+                "coffee with milk froth"
             ],
             "related-classes": [],
             "urls": {
@@ -6896,7 +6968,7 @@
         {
             "class": "frappuccino",
             "categories": [
-                "with milk froth"
+                "coffee with milk froth"
             ],
             "related-classes": [],
             "urls": {
@@ -7412,7 +7484,7 @@
         {
             "class": "fruit platter",
             "categories": [
-                "fruit"
+                "fruit salad"
             ],
             "related-classes": [],
             "urls": {
@@ -7434,7 +7506,7 @@
         {
             "class": "fruit salad",
             "categories": [
-                "fruit"
+                "fruit salad"
             ],
             "related-classes": [],
             "urls": {
@@ -7949,14 +8021,14 @@
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "Gegrillter Spargel",
-                    "GB": "Grilled Asparagus"
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Gegrillter Spargel",
+                "GB": "Grilled Asparagus"
             },
             "description": {
                 "DE": "",
@@ -8001,14 +8073,14 @@
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "Gegrillte Garnelen",
-                    "GB": "Grilled Shrimp"
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Gegrillte Garnelen",
+                "GB": "Grilled Shrimp"
             },
             "description": {
                 "DE": "",
@@ -9043,7 +9115,9 @@
         },
         {
             "class": "lasagne",
-            "categories": [],
+            "categories": [
+                "casserole"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
@@ -9086,7 +9160,7 @@
         {
             "class": "latte",
             "categories": [
-                "with milk froth"
+                "coffee with milk froth"
             ],
             "related-classes": [],
             "urls": {
@@ -9586,7 +9660,7 @@
         {
             "class": "macchiato",
             "categories": [
-                "with milk froth"
+                "coffee with milk froth"
             ],
             "related-classes": [],
             "urls": {
@@ -10166,7 +10240,7 @@
         {
             "class": "mocha",
             "categories": [
-                "with milk froth"
+                "coffee with milk froth"
             ],
             "related-classes": [],
             "urls": {
@@ -10401,8 +10475,8 @@
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Mozzarella Sticks",
+                "GB": "Mozzarella Sticks"
             },
             "description": {
                 "DE": "",
@@ -12667,14 +12741,14 @@
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "Red Snapper",
-                    "GB": "Red Snapper"
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Red Snapper",
+                "GB": "Red Snapper"
             },
             "description": {
                 "DE": "",
@@ -13347,14 +13421,14 @@
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "Salatsandwich",
-                    "GB": "Salad Sandwich"
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Salatsandwich",
+                "GB": "Salad Sandwich"
             },
             "description": {
                 "DE": "",
@@ -13417,14 +13491,14 @@
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "Lachssalat",
-                    "GB": "Salmon Salad"
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Lachssalat",
+                "GB": "Salmon Salad"
             },
             "description": {
                 "DE": "",
@@ -13651,7 +13725,9 @@
         },
         {
             "class": "scone",
-            "categories": [],
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
@@ -14311,14 +14387,14 @@
             "related-classes": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "Geräuchertes Hähnchen",
-                    "GB": "Smoked Chicken"
+                    "DE": "",
+                    "GB": ""
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Geräuchertes Hähnchen",
+                "GB": "Smoked Chicken"
             },
             "description": {
                 "DE": "",
@@ -14633,7 +14709,9 @@
         },
         {
             "class": "spaghetti bolognese",
-            "categories": [],
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
             "urls": {
                 "wikipedia": {
@@ -14643,8 +14721,8 @@
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Spaghetti Bolognese",
+                "GB": "Spaghetti Bolognese"
             },
             "description": {
                 "DE": "",
@@ -16450,7 +16528,7 @@
         {
             "class": "watermelon salad",
             "categories": [
-                "fruit"
+                "fruit salad"
             ],
             "related-classes": [],
             "urls": {
