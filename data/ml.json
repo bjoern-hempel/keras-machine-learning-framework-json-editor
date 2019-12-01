@@ -15617,402 +15617,352 @@
         },
         {
             "class": "tilapia",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tilapia"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tilapia",
+                "GB": "Tilapia"
+            },
+            "description": {
+                "DE": "Tilapia ist der gebräuchliche Name für fast hundert Arten von Buntbarschen aus den Stämmen Coelotilapin, Coptodonin, Heterotilapin, Oeochromin, Pelmatolapin und Tilapiin, wobei die wirtschaftlich wichtigsten Arten in Coptodonini und Oreochromini vorkommen. Tilapia sind hauptsächlich Süßwasserfische, die in flachen Bächen, Teichen, Flüssen und Seen leben und weniger häufig im Brackwasser vorkommen. In der Vergangenheit waren sie für die handwerkliche Fischerei in Afrika von großer Bedeutung, und sie gewinnen in der Aquakultur und Aquaponik zunehmend an Bedeutung. Tilapia kann zu einer problematischen invasiven Art in neuen Warmwasserlebensräumen wie Australien werden, sei es absichtlich oder versehentlich eingeführt, aber im Allgemeinen nicht in gemäßigten Klimazonen, da sie nicht in kaltem Wasser überleben können.",
+                "GB": "Tilapia is the common name for nearly a hundred species of cichlid fish from the coelotilapine, coptodonine, heterotilapine, oreochromine, pelmatolapiine and tilapiine tribes , with the economically most important species placed in Coptodonini and Oreochromini. Tilapia are mainly freshwater fish inhabiting shallow streams, ponds, rivers, and lakes, and less commonly found living in brackish water. Historically, they have been of major importance in artisanal fishing in Africa, and they are of increasing importance in aquaculture and aquaponics. Tilapia can become a problematic invasive species in new warm-water habitats such as Australia, whether deliberately or accidentally introduced, but generally not in temperate climates due to their inability to survive in cold water."
             }
         },
         {
             "class": "tiramisu",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tiramisu",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tiramisu"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tiramisu",
+                "GB": "Tiramisu"
+            },
+            "description": {
+                "DE": "Das Tiramisu ist ein Dessert aus der italienischen Region Venetien, das weit über seinen Entstehungsort hinaus bekannt wurde.\nTiramisu besteht aus abwechselnden Schichten von Löffelbiskuits und einer Creme aus Mascarpone, Eigelb und Zucker. Die Löffelbiskuits werden mit kaltem Espresso beträufelt, der mit Marsala oder Amaretto, alternativ auch mit Weinbrand oder einem anderen alkoholischen Getränk aromatisiert werden kann. Das Dessert wird geschichtet und dann mehrere Stunden gekühlt, so dass es fest wird. Vor dem Servieren wird die abschließende Cremeschicht mit reichlich Kakaopulver bestäubt.",
+                "GB": "Tiramisu is a coffee-flavoured Italian dessert. It is made of ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, flavoured with cocoa. The recipe has been adapted into many varieties of cakes and other desserts. Its origins are often disputed among Italian regions Friuli Venezia Giulia and Veneto."
             }
         },
         {
             "class": "toast",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Toastbrot",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Toast"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Toastbrot",
+                "GB": "Toast"
+            },
+            "description": {
+                "DE": "Das Toastbrot oder der Toast oder das Röstbrot ist ein feinporiges Kastenweißbrot mit dünner Kruste, das häufig vor dem Verzehr scheibenweise geröstet wird, heute üblicherweise mit einem Toaster. Nicht nur das klassisch gewordene Kastenweißbrot, sondern fast jedes Brot kann, früher als Bähschnitte bezeichnet, getoastet werden, entwickelt aber je nach Sorte ein unterschiedlich ausgeprägtes Röstaroma.",
+                "GB": "Toast is a form of bread that has been browned by exposure to radiant heat. This browning is the result of a Maillard reaction, altering the flavor of the bread and making it firmer so that it is easier to spread toppings on it. Toasting is a common method of making stale bread more palatable. Bread is often toasted using a toaster, but toaster ovens are also used. Though many types of bread can be toasted the most commonly used is \"sliced bread\", referring to bread that is already sliced and bagged upon purchase and may be white, brown, multigrain, etc."
             }
         },
         {
             "class": "tomato sauce",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "sauce & marinade"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tomatensauce",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tomato_sauce"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tomatensauce",
+                "GB": "Tomato sauce"
+            },
+            "description": {
+                "DE": "Tomatensauce ist eine einfache, auf gekochten, passierten Tomaten basierende Sauce aus der italienischen Küche, die die Grundlage vieler Gerichte wie z. B. Spaghetti alla napoletana bildet. Sie gehört zu den bekanntesten selbstständigen Saucen der klassischen Küche, d. h. sie wird nicht aus einer Grundsauce hergestellt, sondern aus ihr werden andere Ableitungen erzielt wie z. B. die Teufelsauce.",
+                "GB": "Tomato sauce can refer to many different sauces made primarily from tomatoes, usually to be served as part of a dish, rather than as a condiment. Tomato sauces are common for meat and vegetables, but they are perhaps best known as bases for Mexican salsas or sauces for pasta dishes. Tomatoes have a rich flavor, high water content, soft flesh which breaks down easily, and the right composition to thicken into a sauce when they are cooked . All of these qualities make them ideal for simple and appealing sauces."
             }
         },
         {
             "class": "tomato soup",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tomatensuppe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tomato_soup"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tomatensuppe",
+                "GB": "Tomato soup"
+            },
+            "description": {
+                "DE": "Tomatensuppe bezeichnet im Allgemeinen eine Suppe aus Tomaten verschiedener, aber doch meistens roter, nicht unbedingt der gleichen Sorte angehörenden Tomaten. Die Suppe kann je nach regionaler Gegebenheit mit Möhren oder anderem Gemüse geschmacklich ergänzt werden. Auch kann ihr Geschmack mit regionaltypischen Gewürzen, Kräutern und Beigaben, wie z. B. Crème fraîche oder Croûtons verfeinert werden.\nWeiße Tomatensuppe entsteht, wenn die Suppe durch ein Tuch gefiltert wird und somit die roten Bestandteile entfernt werden, anschließend wird Sahne zugegeben, somit erhält man eine Suppe, die fast weiß ist, aber nach Tomatensuppe schmeckt.",
+                "GB": "Tomato soup is a soup made with tomatoes as the primary ingredient. It may be served hot or cold in a bowl, and may be made in a variety of ways. It may be smooth in texture, and there are also recipes which include chunks of tomato, cream and chicken or vegetable stock. Popular toppings for tomato soup include sour cream or croutons. In the United States, the soup is frequently served with crackers, which may be crumbled onto the soup by the diner, and a grilled cheese sandwich. Tomato soup is one of the top comfort foods in Poland and the United States. It can be made fresh by blanching tomatoes, removing the skins, then blending them into a puree."
             }
         },
         {
             "class": "tom yam",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "tom yum"
         },
         {
             "class": "tom yum",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tom_Yam",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tom_yum"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tom Yam",
+                "GB": "Tom yum"
+            },
+            "description": {
+                "DE": "Tom Yam ist eine heiße sauer-scharfe Suppe der thailändischen Küche.",
+                "GB": "Tom yum or tom yam ) is a type of hot and sour Thai soup, usually cooked with shrimp . Tom yum has its origin in Thailand."
             }
         },
         {
             "class": "tonic",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soft drink"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tonic_Water",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tonic_water"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tonic Water",
+                "GB": "Tonic water"
+            },
+            "description": {
+                "DE": "Tonic Water ist ein chininhaltiges, farbloses, mit Kohlensäure versetztes Erfrischungsgetränk und zählt zu den Bitterlimonaden. Aufgrund seines Chiningehalts leuchtet es unter UV-Licht.",
+                "GB": "Tonic water is a carbonated soft drink in which quinine is dissolved. Originally used as a prophylactic against malaria, tonic water usually now has a significantly lower quinine content and is consumed for its distinctive bitter flavor, though it is nowadays also often sweetened. It is often used in mixed drinks, particularly in gin and tonic."
             }
         },
         {
             "class": "tonkatsu",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other main course"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tonkatsu",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tonkatsu"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tonkatsu",
+                "GB": "Tonkatsu"
+            },
+            "description": {
+                "DE": "Tonkatsu ist ein paniertes Schnitzel aus der japanischen Küche, das dem Schnitzel Wiener Art sehr ähnlich ist.",
+                "GB": "Tonkatsu is a Japanese dish that consists of a breaded, deep-fried\/tempura pork cutlet. It involves cutting the pig's back center into 2-3 centimeter thick slices, coating with panko , frying them in oil, and then serving with Japanese Worcestershire sauce, rice, and vegetable salad . The two main types are fillet and loin. Tonkatsu is often served with shredded cabbage."
             }
         },
         {
             "class": "torta",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "torta"
         },
         {
             "class": "torte",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "torte"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Torte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Torte"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Torte",
+                "GB": "Torte"
+            },
+            "description": {
+                "DE": "Eine Torte ist eine feine Backware. Sie besteht aus einem vorher gebackenen Tortenboden, der je nach Rezept mit Creme gefüllt oder Obst belegt wird. Anschließend kann die Torte noch mit Tortenguss, Creme oder auch einer Glasur überzogen und weiter verziert werden. Bisweilen wird in Rezepten für die Torte der französische Ausdruck Tarte verwendet, der aber auch Backwaren bezeichnet, die der Definition eines Kuchens entsprechen. Törtchen haben prinzipiell dieselbe Zusammensetzung wie Torten, jedoch einen deutlich geringeren Durchmesser.",
+                "GB": "A torte is a rich, usually multilayered, cake that is filled with whipped cream, buttercreams, mousses, jams, or fruits."
             }
         },
         {
             "class": "tortellini",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "pasta"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tortellini",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tortellini"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tortellini",
+                "GB": "Tortellini"
+            },
+            "description": {
+                "DE": "Tortellini sind ringförmige Teigwaren, die – ähnlich wie Ravioli – gefüllt sind. Die traditionelle Füllung besteht aus einer Mischung von Schweinefleisch, Parmaschinken, Mortadella, Parmesankäse, Eier und Muskatnuss.",
+                "GB": "Tortellini are ring-shaped pasta, sometimes also described as \"navel shaped\", hence their alternative name of \"belly button\" . Originally from the Italian region of Emilia , they are usually stuffed with a mix of meat , Parmigiano Reggiano cheese, egg and nutmeg. They are traditionally served in capon broth ."
             }
         },
         {
             "class": "tortelloni",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "tortellini"
         },
         {
             "class": "tortilla soup",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "soup"
+            ],
             "related-classes": [],
-            "categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Tortilla-Suppe",
+                "GB": "Tortilla Soup"
+            },
             "description": {
                 "DE": "",
                 "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
             }
         },
         {
             "class": "tostada",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "snack, appetizer & starter"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tostada_(tortilla)"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Tostada",
+                "GB": "Tostada (tortilla)"
+            },
+            "description": {
+                "DE": "Tostada ist ein spanisches Wort für \"geröstet\". In Mexiko und anderen Teilen Lateinamerikas ist es der Name verschiedener lokaler Gerichte, die geröstet werden oder eine geröstete Zutat als Hauptbasis ihrer Zubereitung verwenden.",
+                "GB": "Tostada is a Spanish word meaning \"toasted\". In Mexico and other parts of Latin America, it is the name of various local dishes which are toasted or use a toasted ingredient as the main base of their preparation."
             }
         },
         {
             "class": "tostadas",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "plural": "tostada"
         },
         {
             "class": "treat",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
-            "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
-            "urls": {
-                "wikipedia": {
-                    "DE": null,
-                    "GB": null
-                },
-                "spoonacular": null
-            }
+            "duplicate": "treat"
         },
         {
             "class": "trifle",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "other dessert"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Trifle",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Trifle"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Trifle",
+                "GB": "Trifle"
+            },
+            "description": {
+                "DE": "Trifle ist eine englische Süßspeise, bestehend aus mehreren Schichten aus Custard, Obst oder Marmelade, Biskuitkuchen und Schlagsahne. Der Biskuit wird im Allgemeinen mit Alkohol getränkt .",
+                "GB": "Trifle, in English cuisine, is a dessert made with fruit, a thin layer of sponge fingers soaked in sherry or another fortified wine, and custard. It can be topped with whipped cream. The fruit and sponge layers may be suspended in fruit-flavoured jelly, and these ingredients are usually arranged to produce three or four layers. The contents of a trifle are highly variable; many varieties exist, some forgoing fruit entirely and instead using other ingredients, such as chocolate, coffee or vanilla."
             }
         },
         {
             "class": "trout",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Forelle",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Brown_trout"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Forelle",
+                "GB": "Trout"
+            },
+            "description": {
+                "DE": "Die Forelle ist eine Fischart aus der Gattung Salmo in der Familie der Lachsfische (Salmonidae). Sie kommt im Atlantik, in der Nord- und Ostsee, von Spanien bis Island und Westrussland vor sowie in vielen angrenzenden Flüssen und Seen Europas. Vom Menschen wurde die Art zudem im Rest Europas, in Nord- und Südamerika, Afrika, Südasien, Australien und Neuseeland eingeführt. Nach der Lebensweise werden drei Formen unterschieden: die anadrom wandernde Meerforelle sowie die zeitlebens im Süßwasser verbleibenden Formen der Seeforelle und Bachforelle. Forellen sind beliebte Sportfische, Meerforellen werden auch mit Treibnetzen bejagt oder als Beifang wirtschaftlich genutzt.",
+                "GB": "The brown trout is a European species of salmonid fish that has been widely introduced into suitable environments globally. It includes both purely freshwater populations, referred to as the riverine ecotype, Salmo trutta morpha fario, and a lacustrine ecotype, S. trutta morpha lacustris, also called the lake trout,[3][4] as well as anadromous forms known as the sea trout, S. trutta morpha trutta. The latter migrates to the oceans for much of its life and returns to fresh water only to spawn. Sea trout in Ireland and Britain have many regional names: sewin in Wales, finnock in Scotland, peal in the West Country, mort in North West England, and white trout in Ireland."
             }
         },
         {
             "class": "tuna",
-            "name": {
-                "DE": "",
-                "GB": ""
-            },
+            "categories": [
+                "fish"
+            ],
             "related-classes": [],
-            "categories": [],
-            "description": {
-                "DE": "",
-                "GB": ""
-            },
             "urls": {
                 "wikipedia": {
-                    "DE": null,
-                    "GB": null
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Thunfische",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tuna"
                 },
                 "spoonacular": null
+            },
+            "name": {
+                "DE": "Thunfisch",
+                "GB": "Tuna"
+            },
+            "description": {
+                "DE": "Thunfische bezeichnen eine Gattung großer Raubfische, die in allen tropischen, subtropischen und gemäßigten Meeren vorkommt. Sie gehören zu den wichtigsten Speisefischen und sind von großer fischereiwirtschaftlicher Bedeutung. Einige der acht Arten sind inzwischen durch Überfischung gefährdet.",
+                "GB": "A tuna is a saltwater fish that belongs to the tribe Thunnini, a subgrouping of the Scombridae family. The Thunnini comprise 15 species across five genera, the sizes of which vary greatly, ranging from the bullet tuna , weight: 1.8 kg ) up to the Atlantic bluefin tuna , weight: 684 kg ). The bluefin averages 2 m , and is believed to live up to 50 years."
             }
         },
         {
