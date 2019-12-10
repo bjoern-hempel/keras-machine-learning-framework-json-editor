@@ -4024,6 +4024,28 @@
             }
         },
         {
+            "class": "chicken",
+            "categories": [
+                "poultry"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": "https://en.wikipedia.org/wiki/Chicken_as_food"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Huhn",
+                "GB": "Chicken"
+            },
+            "description": {
+                "DE": "Huhn ist die häufigste Geflügelart der Welt. Aufgrund der relativ einfachen und kostengünstigen Aufzucht im Vergleich zu Tieren wie Rindern oder Schweinen sind Hühner in der gesamten Küche der Kulturen auf der ganzen Welt weit verbreitet, und ihr Fleisch wurde unterschiedlich an den regionalen Geschmack angepasst.",
+                "GB": "Chicken is the most common type of poultry in the world. Owing to the relative ease and low cost of raising them in comparison to animals such as cattle or hogs, chickens have become prevalent throughout the cuisine of cultures around the world, and their meat has been variously adapted to regional tastes."
+            }
+        },
+        {
             "class": "chicken alfredo",
             "categories": [
                 "poultry"
@@ -5058,6 +5080,50 @@
             "duplicate": "cocktail"
         },
         {
+            "class": "cocktail with vodka",
+            "categories": [
+                "cocktail"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Cocktail mit Wodka",
+                "GB": "Cocktail with vodka"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "class": "cocktail with whisky",
+            "categories": [
+                "cocktail"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Cocktail mit Whisky",
+                "GB": "Cocktail with whisky"
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
             "class": "coconut cake",
             "categories": [
                 "cake"
@@ -5292,6 +5358,28 @@
         {
             "class": "coles law",
             "duplicate": "coleslaw side dish"
+        },
+        {
+            "class": "coleslaw",
+            "categories": [
+                "other salad"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Krautsalat",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coleslaw"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Krautsalat",
+                "GB": "Coleslaw"
+            },
+            "description": {
+                "DE": "Krautsalat ist ein Salat, der meist aus Weißkraut, seltener aus Blau- bzw. Rotkraut zubereitet wird, hierbei steht Kraut als alternative Bezeichnung für Kohl. Er kann sowohl warm als auch kalt zubereitet werden. Als eine der ältesten Kulturpflanzen in Europa gab es Salat aus Weißkraut vermutlich schon bei den Römern. In manchen Regionen wurde Kopfsalat früher auch als Krautsalat bezeichnet.",
+                "GB": "Coleslaw, also known as cole slaw or slaw, is a salad consisting primarily of finely-shredded raw cabbage with a salad dressing, commonly either vinaigrette or mayonnaise. Coleslaw prepared with vinaigrette may benefit from the long lifespan granted by pickling."
+            }
         },
         {
             "class": "coleslaw side dish",
@@ -8675,6 +8763,28 @@
             "description": {
                 "DE": "",
                 "GB": ""
+            }
+        },
+        {
+            "class": "ice cream float",
+            "categories": [
+                "other beverage"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": "https://en.wikipedia.org/wiki/Ice_cream_float"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Ice cream float",
+                "GB": "Ice cream float"
+            },
+            "description": {
+                "DE": "Ein Eiscreme-Float oder Eiscreme-Soda, Koks-Float oder Spinne ist ein gekühltes Getränk, das aus Eiscreme besteht, entweder in einem Erfrischungsgetränk oder in einer Mischung aus aromatisiertem Sirup und kohlensäurehaltigem Wasser.",
+                "GB": "An ice cream float or ice cream soda, coke float, or spider, is a chilled beverage that consists of ice cream in either a soft drink or in a mixture of flavored syrup and carbonated water."
             }
         },
         {
@@ -13278,6 +13388,28 @@
             }
         },
         {
+            "class": "rosé wine",
+            "categories": [
+                "wine"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https://de.wikipedia.org/wiki/Ros%C3%A9wein",
+                    "GB": "https://en.wikipedia.org/wiki/Ros%C3%A9"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Roséwein",
+                "GB": "Rosé"
+            },
+            "description": {
+                "DE": "Roséweine sind sehr hellfarbige Weine aus roten Trauben, die wie Weißwein hergestellt werden. Die Beeren dürfen dabei nicht oder nur wenige Stunden auf der Maische liegen. Je nach Intensität des Kontaktes mit den Beerenhäuten ist der Roséwein unterschiedlich stark gefärbt; das Farbspektrum reicht von lachsfarben bis zu kirschrot. Billige Roséweine von außerhalb der EU können auch aus weißen und roten Weinen gemischt sein. In Deutschland ist der Marktanteil in den letzten Jahren von 2 auf 8 % gestiegen.",
+                "GB": "A rosé, also labelled rosado in Portuguese and Spanish-speaking countries and rosato in Italy, is a type of wine that incorporates some of the color from the grape skins, but not enough to qualify it as a red wine. It may be the oldest known type of wine, as it is the most straightforward to make with the skin contact method. The pink color can range from a pale \"onion-skin\" orange to a vivid near-purple, depending on the grape varieties used and winemaking techniques."
+            }
+        },
+        {
             "class": "roti",
             "categories": [
                 "pastry & bread"
@@ -13772,6 +13904,28 @@
             }
         },
         {
+            "class": "scotch eggs",
+            "categories": [
+                "other main course"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https://de.wikipedia.org/wiki/Schottische_Eier",
+                    "GB": "https://en.wikipedia.org/wiki/Scotch_egg"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Schottische Eier",
+                "GB": "Scotch egg"
+            },
+            "description": {
+                "DE": "Schottische Eier (scotch eggs) sind eine Snack-Spezialität aus der britischen Küche. Sie bestehen aus hart gekochten Eiern; diese werden mit Wurstbrät umhüllt, mit Brotkrumen paniert und anschließend frittiert. Das Resultat sind apfelgroße, orange-braune Kugeln. Schottische Eier sind üblicherweise in Supermärkten Großbritanniens im Kühlregal zu finden; sie werden meist kalt, z. B. bei Picknicks, serviert, und können aus der Hand gegessen werden. Scotch eggs wurden erstmals 1738 in London von Fortnum & Mason hergestellt.",
+                "GB": "A Scotch egg consists of a soft or hard-boiled egg wrapped in sausage meat, coated in bread crumbs and baked or deep-fried."
+            }
+        },
+        {
             "class": "scramble",
             "duplicate": "scrambled eggs"
         },
@@ -14075,6 +14229,28 @@
             "description": {
                 "DE": "Kurzer Kuchen ist ein süßer Kuchen oder Keks. Das früheste Rezept für Mürbeteig ist in einem englischen Kochbuch von 1588.",
                 "GB": "Shortcake is a sweet cake or biscuit . The earliest recipe for shortcake is in an English cookbook from 1588."
+            }
+        },
+        {
+            "class": "short ribs",
+            "categories": [
+                "beef"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https://de.wikipedia.org/wiki/Querrippe",
+                    "GB": "https://en.wikipedia.org/wiki/Short_ribs"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Querrippe",
+                "GB": "Short ribs"
+            },
+            "description": {
+                "DE": "Die Quer- oder Zwerchrippe ist das vordere Teilstück der Rippen vom Rind unterhalb von Rinderhals und Hochrippe. Das mäßig durchwachsene Fleisch wird für Schmorgerichte wie Gulasch und als Kochfleisch für Eintöpfe, Suppen und Brühen verwendet.",
+                "GB": "Short ribs are a cut of beef taken from the brisket, chuck, plate, or rib areas of beef cattle. They consist of a short portion of the rib bone, which is overlain by meat which varies in thickness. There are two major types of cuts: The \"flanken\", which is cut across the bone and leaves the bone just 1 to 2 inches (2.5 to 5.1 cm) in length, and the \"English\", which is cut parallel to the bone and leaves the bone up to 6 inches (15 cm) in length. English cut short ribs may be served individually, or three or four may served connected to one another (a style known as the \"plate\"). Short ribs are popular in many international cuisines."
             }
         },
         {
@@ -15833,6 +16009,28 @@
             "description": {
                 "DE": "Tequila ist eine Form der Spirituose Mezcal, eines Agaven-Brands aus Mexiko. Tequila ist der bekannteste Mezcal und wird in der Umgebung der Stadt Tequila im mexikanischen Bundesstaat Jalisco und in vier weiteren Staaten aus dem Herzen der blauen Agave gewonnen. Dieses Herz wurde von den Einheimischen „Das Haus des Mondes“ genannt, was in der Indigenensprache Nahuatl „Mezcal“ heißt. Für gewöhnlich beträgt der Alkoholgehalt zwischen 38 und 40, bei einigen Tequilas auch bis zu 50 Volumenprozent Alkohol.",
                 "GB": "Tequila ) is a distilled beverage made from the blue agave plant, primarily in the area surrounding the city of Tequila 65 km northwest of Guadalajara, and in the Jaliscan Highlands of the central western Mexican state of Jalisco. Tequila is a type of mezcal, and the regions of production overlap for the two drinks. The distinction is that tequila must use only blue agave plants rather than any type of agave. Tequila is commonly served neat in Mexico and as a shot with salt and lime around the world."
+            }
+        },
+        {
+            "class": "tequila sunrise",
+            "categories": [
+                "cocktail"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https://de.wikipedia.org/wiki/Tequila_Sunrise",
+                    "GB": "https://en.wikipedia.org/wiki/Tequila_Sunrise_(cocktail)"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Tequila Sunrise",
+                "GB": "Tequila Sunrise"
+            },
+            "description": {
+                "DE": "Der Tequila Sunrise (Sonnenaufgang) ist ein fruchtiger, süßer Cocktail aus Tequila, Orangensaft und Grenadine. Er verdankt seinen Namen der charakteristischen Farbabstufung von Gelb-Orange (oben) über Orange bis Orangerot (unten), da die Grenadine erst zum Schluss in das Glas gegeben wird und durch die Eiswürfel nach unten sinkt. Das Getränk gehört zu den Longdrinks und wird in einem Highballglas auf Eis zubereitet und serviert.",
+                "GB": "The Tequila Sunrise is a cocktail made of tequila, orange juice, and grenadine syrup, and served unmixed in a tall glass. The modern drink originates from Sausalito, California in the early 1970s after an earlier one created in the 1930s in Phoenix, Arizona. The cocktail is named for its appearance when served—with gradations of color resembling a sunrise."
             }
         },
         {
