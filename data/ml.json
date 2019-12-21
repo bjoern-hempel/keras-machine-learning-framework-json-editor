@@ -5357,7 +5357,7 @@
         },
         {
             "class": "coles law",
-            "duplicate": "coleslaw side dish"
+            "duplicate": "coleslaw"
         },
         {
             "class": "coleslaw",
@@ -5383,25 +5383,7 @@
         },
         {
             "class": "coleslaw side dish",
-            "categories": [
-                "other salad"
-            ],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Krautsalat",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coleslaw"
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "Krautsalat",
-                "GB": "Coleslaw"
-            },
-            "description": {
-                "DE": "Krautsalat ist ein Salat, der meist aus Weißkraut, seltener aus Blau- bzw. Rotkraut zubereitet wird, hierbei steht Kraut als alternative Bezeichnung für Kohl. Er kann sowohl warm als auch kalt zubereitet werden. Als eine der ältesten Kulturpflanzen in Europa gab es Salat aus Weißkraut vermutlich schon bei den Römern. In manchen Regionen wurde Kopfsalat früher auch als Krautsalat bezeichnet.",
-                "GB": "Coleslaw, also known as cole slaw or slaw, is a salad consisting primarily of finely-shredded raw cabbage with a salad dressing, commonly either vinaigrette or mayonnaise. Coleslaw prepared with vinaigrette may benefit from the long lifespan granted by pickling."
-            }
+            "duplicate": "coleslaw"
         },
         {
             "class": "collard greens",
@@ -14487,25 +14469,7 @@
         },
         {
             "class": "slaw",
-            "categories": [
-                "green salad"
-            ],
-            "related-classes": [],
-            "urls": {
-                "wikipedia": {
-                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Krautsalat",
-                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coleslaw"
-                },
-                "spoonacular": null
-            },
-            "name": {
-                "DE": "Krautsalat",
-                "GB": "Coleslaw"
-            },
-            "description": {
-                "DE": "Krautsalat ist ein Salat, der meist aus Weißkraut, seltener aus Blau- bzw. Rotkraut zubereitet wird, hierbei steht Kraut als alternative Bezeichnung für Kohl. Er kann sowohl warm als auch kalt zubereitet werden. Als eine der ältesten Kulturpflanzen in Europa gab es Salat aus Weißkraut vermutlich schon bei den Römern. In manchen Regionen wurde Kopfsalat früher auch als Krautsalat bezeichnet.",
-                "GB": "Coleslaw , also known as cole slaw or slaw, is a salad consisting primarily of finely-shredded raw cabbage with a salad dressing, commonly either vinaigrette or mayonnaise. Coleslaw prepared with vinaigrette may benefit from the long lifespan granted by pickling."
-            }
+            "duplicate": "coleslaw"
         },
         {
             "class": "slider",
