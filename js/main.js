@@ -171,7 +171,7 @@ function getLabelsArray()
 {
     let labels = [];
 
-    $("div.panel > div > div[data-schemapath*='root.classes.'] > h3 > label").each(function (index) {
+    $("div.panel > div > div[data-schemapath*='root.classes.'] > h3 > span").each(function (index) {
         let label = $(this);
 
         labels.push({
@@ -274,6 +274,9 @@ function startEditor()
 
                 let counter = startClass + 1;
                 let labels = getLabelsArray();
+
+                console.error(labels);
+
                 labels.forEach(function (label, index) {
                     let html = '';
 

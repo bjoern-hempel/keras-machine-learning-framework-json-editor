@@ -1,5 +1,6 @@
 {
     "enum": [
+        "allergic_reactions",
         "choice",
         "deadly",
         "edible",
@@ -8,11 +9,12 @@
     ],
     "options": {
         "enum_titles": [
-            "1. Choice",
-            "2. Deadly",
-            "3. Edible",
-            "4. Poisonous",
-            "5. Psychoactive"
+            "1. Allergic reactions",
+            "2. Choice",
+            "3. Deadly",
+            "4. Edible",
+            "5. Poisonous",
+            "6. Psychoactive"
         ]
     }
 }

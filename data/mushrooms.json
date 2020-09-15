@@ -98,24 +98,27 @@
         },
         {
             "class": "agaricus_xanthoderma",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "agaricus"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Karbol-Champignon",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Agaricus_xanthodermus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Karbol-Champignon",
+                "GB": "Agaricus xanthodermus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Karbol-Champignon , auch Gift-Egerling oder Karbol-Egerling genannt, ist eine giftige Pilzart aus der Familie der Champignonverwandten, der essbaren Champignons sehr ähnlich sieht. Er kommt zudem im selben Terrain vor wie der Wiesenchampignon, riecht aber unangenehm nach Phenol . Der Name Tinten-Egerling kommt von der ähnlich riechenden Eisengallustinte.",
+                "GB": "Agaricus xanthodermus, commonly known as the yellow-staining mushroom or simply the yellow-stainer, is a mushroom of the genus Agaricus, which displays a strong yellow colouration at the base of the stem when cut. It is poisonous for most people, causing gastrointestinal upset, but can be eaten by some without apparent negative effect."
             },
-            "edibility": []
+            "edibility": [
+                "poisonous"
+            ]
         },
         {
             "class": "amanita_citrina",
