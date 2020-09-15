@@ -221,45 +221,52 @@
         },
         {
             "class": "amanita_porphyria",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "amanita"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Porphyrbrauner_Wulstling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Amanita_porphyria"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Porphyrbrauner Wulstling",
+                "GB": "Amanita porphyria"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Porphyrbraune Wulstling , auch Porphyrwulstling oder Purpurbrauner Wulstling genannt, ist eine Pilzart aus der Familie der Wulstlingsverwandten.",
+                "GB": "Amanita porphyria, also known as the grey veiled amanita, is a fairly common, inedible mushroom of the genus Amanita found in Europe and North America."
             },
-            "edibility": []
+            "edibility": [
+                "inedible"
+            ]
         },
         {
             "class": "amanita_regalis",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "amanita"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/K%C3%B6nigs-Fliegenpilz",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Amanita_regalis"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Königs-Fliegenpilz",
+                "GB": "Amanita regalis"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Königs-Fliegenpilz oder Braune Fliegenpilz ist eine Pilzart aus der Familie der Wulstlingsverwandten.",
+                "GB": "Amanita regalis, commonly known as the royal fly agaric or the king of Sweden Amanita, is a species of fungus in the family Amanitaceae. Common in Scandinavian countries, it is also found in eastern and northern Europe. In North America, its distribution is restricted to Alaska. The fruit bodies of the fungus somewhat resemble the fly agaric , and it was formerly regarded as a variety of this species. A. regalis differs from it in being larger, with a liver-brown cap bearing numerous scabs, and in having a stem which is yellow-ochre at the base, with patches or rings of patches. Chemical analysis has shown that this species contains muscimol, the same psychoactive compound found in A. muscaria."
             },
-            "edibility": []
+            "edibility": [
+                "poisonous",
+                "psychoactive"
+            ]
         },
         {
             "class": "amanita_rubescens",
