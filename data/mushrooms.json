@@ -172,45 +172,52 @@
         },
         {
             "class": "amanita_pantherina",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "amanita"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pantherpilz",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Amanita_pantherina"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Pantherpilz",
+                "GB": "Amanita pantherina"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Pantherpilz ist eine Pilzart aus der Familie der Wulstlingsverwandten . Die Fruchtkörper des Pantherpilzes zeigen typische Wulstlingsmerkmale: braune, mit weißen Flocken besetzte Hüte, beringte weiße Stiele mit verdickter Knolle am unteren Ende und helle, dicht stehende Lamellen. Der Pantherpilz ist stark giftig. Die Fruchtkörper enthalten Ibotensäure, Muscimol und Muscazon.",
+                "GB": "Amanita pantherina, also known as the panther cap and false blusher due to its similarity to the true blusher , is a species of fungus found in Europe and Western Asia."
             },
-            "edibility": []
+            "edibility": [
+                "poisonous",
+                "psychoactive"
+            ]
         },
         {
             "class": "amanita_phalloides",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "amanita"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gr%C3%BCner_Knollenbl%C3%A4tterpilz",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Amanita_phalloides"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Grüner Knollenblätterpilz",
+                "GB": "Amanita phalloides"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Grüne Knollenblätterpilz oder Grünliche Gift-Wulstling ist eine Pilzart aus der Familie Amanitaceae, der zur Gattung der Wulstlinge zählt. Er ist ein mit Laubbäumen vergesellschafteter Mykorrhizapilz. Der Verzehr auch nur geringer Mengen eines Fruchtkörpers dieses Giftpilzes kann zu einer tödlichen Pilzvergiftung führen, da die enthaltenen Gifte ein Leberversagen verursachen.",
+                "GB": "Amanita phalloides , commonly known as the death cap, is a deadly poisonous basidiomycete fungus, one of many in the genus Amanita. Widely distributed across Europe, but now sprouting in other parts of the world, A. phalloides forms ectomycorrhizas with various broadleaved trees. In some cases, the death cap has been introduced to new regions with the cultivation of non-native species of oak, chestnut, and pine. The large fruiting bodies appear in summer and autumn; the caps are generally greenish in colour with a white stipe and gills. Cap colour is variable, including white forms , and thus not a reliable identifier."
             },
-            "edibility": []
+            "edibility": [
+                "deadly"
+            ]
         },
         {
             "class": "amanita_porphyria",
