@@ -1,3 +1,6 @@
+let googleSearchLink = 'https://www.google.com/search?q=%s';
+let googleSearchAdd = 'mushrooms';
+
 function loadJSON(jsonPath, callback)
 {
     let request = new XMLHttpRequest();
@@ -65,7 +68,7 @@ function loadWikiData(url, callback, searchEnglishLink = false, typeName = 'clas
 
             let counter = 0;
             let description = "";
-            let descriptionElements = response.find('#mw-content-text p');
+            let descriptionElements = response.find('#mw-content-text > div.mw-parser-output > p');
 
             do {
                 if (counter + 1 > descriptionElements.length) {
@@ -76,6 +79,8 @@ function loadWikiData(url, callback, searchEnglishLink = false, typeName = 'clas
                 description = $(descriptionElements[counter]).text().trim();
                 counter++;
             } while (description === "");
+
+            console.info(description);
 
             let englishLinkUrl = null;
             if (searchEnglishLink) {
@@ -88,6 +93,9 @@ function loadWikiData(url, callback, searchEnglishLink = false, typeName = 'clas
             }
 
             callback(name, filterText(description), englishLinkUrl, typeName);
+        },
+        error:function (data) {
+            console.error(data);
         }
     });
 }
@@ -187,10 +195,10 @@ function startEditor()
     /* Default parameter for category and class */
     let defaultPageCategory = 1;
     let defaultStartCategory = 0;
-    let defaultMaxCategories = 100;
+    let defaultMaxCategories = 10;
     let defaultPageClass = 1;
     let defaultStartClass = 0;
-    let defaultMaxClasses = 1;
+    let defaultMaxClasses = 10;
 
     /* Read url */
     let url = new URL(window.location.href);
@@ -207,7 +215,7 @@ function startEditor()
     let maxClasses = url.searchParams.get('maxCategories') === null ? defaultMaxClasses : parseInt(url.searchParams.get('maxCategories'));
     startClass += (pageClass - 1) * maxClasses;
 
-    loadJSON('data/ml.json', function(jsonData) {
+    loadJSON('data/mushrooms.json', function(jsonData) {
         let objData = JSON.parse(jsonData);
 
         /* Split data */
@@ -226,7 +234,7 @@ function startEditor()
         let editor = new JSONEditor(document.getElementById('editor_holder'),{
             ajax: true,
             schema: {
-                $ref: "json/ml.json",
+                $ref: "json/mushrooms/schema.json",
                 format: "grid"
             },
             startval: objData
@@ -348,17 +356,22 @@ function startEditor()
 
                             englishEditor.setValue(englishLinkUrl);
                         }
-                    }, language === 'DE', 'categories');
+                    }, language === 'DE', 'classes');
                 });
             });
 
             /* set google opener */
             $("input[name*='[class]']").dblclick(function (e) {
                 let className = $(e.target).val();
-                openInNewTab('https://www.google.com/search?q=%s'.replace(/%s/, className + '%20food'));
+                openInNewTab(
+                    googleSearchLink.replace(
+                        /%s/,
+                        className.replace(/_/g, '%20') + (
+                            googleSearchAdd !== null ? '%20%s'.replace(/%s/, googleSearchAdd) : ''
+                        )
+                    )
+                );
             });
         });
-
-
     });
 }

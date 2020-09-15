@@ -1,0 +1,221 @@
+{
+    "$ref": "basic.json",
+    "properties": {
+        "categories": {
+            "type": "array",
+            "format": "row",
+            "title": "Categories",
+            "uniqueItems": true,
+            "options": {
+                "collapsed": true
+            },
+            "items": {
+                "type": "object",
+                "title": "Category",
+                "properties": {
+                    "category": {
+                        "type": "string",
+                        "title": "Category"
+                    },
+                    "parent-categories": {
+                        "type": "array",
+                        "title": "Parent Categories",
+                        "items": {
+                            "type": "string",
+                            "title": "Parent Category",
+                            "$ref": "categories.json"
+                        }
+                    },
+                    "related-categories": {
+                        "type": "array",
+                        "title": "Related Categories",
+                        "items": {
+                            "type": "string",
+                            "title": "Related Category",
+                            "$ref": "categories.json"
+                        }
+                    },
+                    "urls": {
+                        "type": "object",
+                        "title": "URLs",
+                        "properties": {
+                            "wikipedia": {
+                                "type": "object",
+                                "title": "Wikipedia",
+                                "properties": {
+                                    "DE": {
+                                        "type": "string",
+                                        "title": "German",
+                                        "format": "url"
+                                    },
+                                    "GB": {
+                                        "type": "string",
+                                        "title": "English",
+                                        "format": "url"
+                                    }
+                                }
+                            },
+                            "spoonacular": {
+                                "type": "null",
+                                "title": "Spoonacular"
+                            }
+                        }
+                    },
+                    "name": {
+                        "type": "object",
+                        "title": "Name",
+                        "properties": {
+                            "DE": {
+                                "type": "string",
+                                "title": "German"
+                            },
+                            "GB": {
+                                "type": "string",
+                                "title": "English"
+                            }
+                        }
+                    },
+                    "description": {
+                        "type": "object",
+                        "title": "Description",
+                        "format": "textarea",
+                        "properties": {
+                            "DE": {
+                                "type": "string",
+                                "title": "German",
+                                "options": {
+                                    "format": "textarea"
+                                }
+                            },
+                            "GB": {
+                                "type": "string",
+                                "title": "English",
+                                "options": {
+                                    "format": "textarea"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "classes": {
+            "type": "array",
+            "format": "grid",
+            "title": "Classes",
+            "uniqueItems": true,
+            "options": {
+                "collapsed": false
+            },
+            "items": {
+                "type": "object",
+                "title": "Class",
+                "properties": {
+                    "class": {
+                        "type": "string",
+                        "title": "Class"
+                    },
+                    "categories": {
+                        "type": "array",
+                        "title": "Categories",
+                        "items": {
+                            "type": "string",
+                            "title": "Category",
+                            "$ref": "categories.json"
+                        }
+                    },
+                    "related-classes": {
+                        "type": "array",
+                        "title": "Related Classes",
+                        "items": {
+                            "type": "string",
+                            "title": "Related Class"
+                        }
+                    },
+                    "singular": {
+                        "type": "string",
+                        "title": "Singular"
+                    },
+                    "plural": {
+                        "type": "string",
+                        "title": "Plural"
+                    },
+                    "duplicate": {
+                        "type": "string",
+                        "title": "Duplicate"
+                    },
+                    "urls": {
+                        "type": "object",
+                        "title": "URLs",
+                        "properties": {
+                            "wikipedia": {
+                                "type": "object",
+                                "title": "Wikipedia",
+                                "properties": {
+                                    "DE": {
+                                        "type": "string",
+                                        "title": "German",
+                                        "format": "url"
+                                    },
+                                    "GB": {
+                                        "type": "string",
+                                        "title": "English",
+                                        "format": "url"
+                                    }
+                                }
+                            },
+                            "spoonacular": {
+                                "type": "null",
+                                "title": "Spoonacular"
+                            }
+                        }
+                    },
+                    "name": {
+                        "type": "object",
+                        "title": "Name",
+                        "properties": {
+                            "DE": {
+                                "type": "string",
+                                "title": "German"
+                            },
+                            "GB": {
+                                "type": "string",
+                                "title": "English"
+                            }
+                        }
+                    },
+                    "description": {
+                        "type": "object",
+                        "title": "Description",
+                        "format": "textarea",
+                        "properties": {
+                            "DE": {
+                                "type": "string",
+                                "title": "German",
+                                "options": {
+                                    "format": "textarea"
+                                }
+                            },
+                            "GB": {
+                                "type": "string",
+                                "title": "English",
+                                "options": {
+                                    "format": "textarea"
+                                }
+                            }
+                        }
+                    },
+                    "edibility": {
+                        "type": "array",
+                        "title": "Edibility",
+                        "items": {
+                            "type": "string",
+                            "title": "Edibility",
+                            "$ref": "edibility.json"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

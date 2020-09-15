@@ -3,7 +3,7 @@
 /* some configs and parameters */
 $data = json_encode(json_decode(file_get_contents('php://input')), JSON_PRETTY_PRINT + JSON_UNESCAPED_UNICODE);
 $rootPath = sprintf('%s/%s', dirname(__FILE__), '..');
-$relativePath = 'data/ml.json';
+$relativePath = 'data/mushrooms.json';
 $absolutePath = sprintf('%s/%s', $rootPath, $relativePath);
 
 /* write json content */

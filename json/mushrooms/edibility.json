@@ -1,0 +1,18 @@
+{
+    "enum": [
+        "choice",
+        "deadly",
+        "edible",
+        "poisonous",
+        "psychoactive"
+    ],
+    "options": {
+        "enum_titles": [
+            "1. Choice",
+            "2. Deadly",
+            "3. Edible",
+            "4. Poisonous",
+            "5. Psychoactive"
+        ]
+    }
+}

@@ -1,0 +1,1181 @@
+{
+    "categories": [
+        {
+            "category": "Amanita",
+            "parent-categories": [
+                "amanitaceae"
+            ],
+            "related-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Wulstlinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Amanita"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Wulstlinge",
+                "GB": "Amanita"
+            },
+            "description": {
+                "DE": "Die Wulstlinge (Amanita) sind eine große Pilzgattung aus der Familie der Wulstlingsverwandten (Amanitaceae). Dazu zählen auch die Artengruppen, die auf Deutsch als Kaiserlinge, Knollenblätterpilze und Scheidenstreiflinge bezeichnet werden. In Europa kommen rund 100 Arten, Varietäten und Formen vor bzw. sind dort zu erwarten. Einige Spezies wie der Perlpilz und der Orangegelbe Scheidenstreifling gelten als gute Speisepilze. Etliche Arten sind dagegen giftig, darunter der Grüne Knollenblätterpilz, der Pantherpilz und der Fliegenpilz. Letzterer Pilz ist die Typusart der Gattung.",
+                "GB": "The genus Amanita contains about 600 species of agarics, including some of the most toxic known mushrooms found worldwide, as well as some well-regarded edible species. This genus is responsible for approximately 95% of the fatalities resulting from mushroom poisoning, with the death cap accounting for about 50% on its own. The most potent toxin present in these mushrooms is α-amanitin."
+            }
+        }
+    ],
+    "classes": [
+        {
+            "class": "agaricus_arvensis",
+            "categories": [
+                "agaricus"
+            ],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Wei%C3%9Fer_Anis-Champignon",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Agaricus_arvensis"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Weißer Anis-Champignon",
+                "GB": "Agaricus arvensis"
+            },
+            "description": {
+                "DE": "Der Weiße Anis-Champignon (Agaricus arvensis, Syn.: Psalliota arvensis) ist eine Pilzart aus der Familie der Champignonverwandten. Weitere Namen sind Schaf-Egerling, Gemeiner Anis-Egerling und Schaf-Champignon. Die Art ist als Speisepilz beliebt. Sein Fleisch riecht angenehm nach Anis.",
+                "GB": "Agaricus arvensis, commonly known as the horse mushroom, is a mushroom of the genus Agaricus."
+            },
+            "edibility": [
+                "choice"
+            ]
+        },
+        {
+            "class": "agaricus_campestris",
+            "categories": [
+                "agaricus"
+            ],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Wiesen-Champignon",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Agaricus_campestris"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Wiesen-Champignon",
+                "GB": "Agaricus campestris"
+            },
+            "description": {
+                "DE": "Der Wiesen-Champignon , auch unter den Namen Feld- oder Wiesenegerling bekannt, ist ein Blätterpilz aus der Familie der Champignonverwandten. Die Art umfasst zahlreiche, teils schwer unterscheidbare Varietäten und kann leicht mit anderen Gattungsvertretern verwechselt werden. Der Wiesen-Champignon wurde von der Deutschen Gesellschaft für Mykologie zum Pilz des Jahres 2018 ernannt.",
+                "GB": "Agaricus campestris is a widely eaten gilled mushroom closely related to the cultivated button mushroom Agaricus bisporus. It is commonly known as the field mushroom or, in North America, meadow mushroom."
+            },
+            "edibility": [
+                "choice"
+            ]
+        },
+        {
+            "class": "agaricus_silvicola",
+            "categories": [
+                "agaricus"
+            ],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/D%C3%BCnnfleischiger_Anis-Egerling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Agaricus_silvicola"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Dünnfleischiger Anis-Egerling",
+                "GB": "Agaricus silvicola"
+            },
+            "description": {
+                "DE": "Der Dünnfleischige Anis-Egerling oder -champignon ist ein essbarer Pilz aus der Familie der Champignonverwandten .",
+                "GB": "Agaricus silvicola, also known as the wood mushroom, is a species of Agaricus mushroom related to the button mushroom."
+            },
+            "edibility": [
+                "edible"
+            ]
+        },
+        {
+            "class": "agaricus_xanthoderma",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "amanita_citrina",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "amanita_muscaria",
+            "categories": [
+                "amanita"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Fliegenpilz",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Amanita_muscaria"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Fliegenpilz",
+                "GB": "Amanita muscaria"
+            },
+            "description": {
+                "DE": "Der Fliegenpilz (Amanita muscaria), auch Roter Fliegenpilz genannt, ist eine giftige Pilzart aus der Familie der Wulstlingsverwandten. Die Fruchtkörper erscheinen in Mitteleuropa von Juni bis zum Beginn des Winters, hauptsächlich von Juli bis Oktober.",
+                "GB": "Amanita muscaria, commonly known as the fly agaric or fly amanita, is a basidiomycete of the genus Amanita. It is also a muscimol mushroom. Native throughout the temperate and boreal regions of the Northern Hemisphere, Amanita muscaria has been unintentionally introduced to many countries in the Southern Hemisphere, generally as a symbiont with pine and birch plantations, and is now a true cosmopolitan species. It associates with various deciduous and coniferous trees."
+            },
+            "edibility": [
+                "poisonous",
+                "psychoactive"
+            ]
+        },
+        {
+            "class": "amanita_pantherina",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "amanita_phalloides",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "amanita_porphyria",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "amanita_regalis",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "amanita_rubescens",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "armillaria",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "auricularia",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "boletus_aereus",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "boletus_calopus",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "boletus_edulis",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "boletus_satanas",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "calocybe_gambosa",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "cantharellus_cibarius",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "clitocybe_geotropa",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "clitocybe_phaeophthalma",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "clitocybe_rivulosa",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "coprinus_comatus",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "cortinarius_rubellus",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "craterellus_cornucopioides",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "flammulina_velutipes",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "galerina_marginata",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "gomphus_clavatus",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "gyromitra_esculenta",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "hygrocybe",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "hypholoma_fasciculare",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "hypholoma_sublateritium",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "inocybe",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "kuehneromyces_mutabilis",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "laccaria_amethystina",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "lactarius_deliciosus",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "lactarius_lignyotus",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "lactarius_volemus",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "leccinum_carpini",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "leccinum_scabrum",
+            "categories": [
+                "leccinum"
+            ],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gemeiner_Birkenpilz",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Leccinum_scabrum"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Gemeiner Birkenpilz",
+                "GB": "Leccinum scabrum"
+            },
+            "description": {
+                "DE": "Der Gemeine Birkenpilz, Birkenröhrling oder Birken-Röhrling, Kapuziner oder Geißpilz (Leccinum scabrum, syn. Boletus scaber oder Krombholzia scabra) ist eine Pilzart aus der Familie der Dickröhrlingsverwandten.",
+                "GB": "Leccinum scabrum, commonly known as the rough-stemmed bolete, scaber stalk, and birch bolete, is an edible mushroom in the family Boletaceae, and was formerly classified as Boletus scaber. The birch bolete is widespread in Europe, in the Himalayas in Asia, and elsewhere in the Northern Hemisphere, occurring only in mycorrhizal association with birch trees. It fruits from June to October. This mushroom is also becoming increasingly common in Australia and New Zealand where it is likely introduced."
+            },
+            "edibility": [
+                "edible"
+            ]
+        },
+        {
+            "class": "lepista_nuda",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "lycoperdon_perlatum",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "macrolepiota_procera",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "megacollybia_platyphylla",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "morchella_esculenta",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "paxillus_involutus",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "russula_cyanoxantha",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "sarcodon_imbricatus",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "scleroderma",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "sparassis_crispa",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "suillus_grevillei",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "tricholoma_saponaceum",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "tricholoma_sulphureum",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        },
+        {
+            "class": "xerocomus_badius",
+            "categories": [],
+            "related-classes": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            },
+            "edibility": []
+        }
+    ],
+    "version": "1.0"
+}
