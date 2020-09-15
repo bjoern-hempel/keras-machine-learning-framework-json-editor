@@ -509,203 +509,245 @@
         },
         {
             "class": "clitocybe_phaeophthalma",
-            "categories": [],
+            "categories": [
+                "singerocybe"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ranziger_Trichterling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Clitocybe_dealbata"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ranziger Trichterling",
+                "GB": "Clitocybe dealbata"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Ranzige Trichterling ist eine Pilzart aus der Familie der Ritterlingsverwandten . Die Fruchtkörper erscheinen von September bis November in Laubwäldern und wachsen dort in der Laubstreu. Der Ranzige Trichterling enthält Muscarin und ist daher giftig.",
+                "GB": "Clitocybe dealbata, also known as the ivory funnel, is a small white funnel-shaped toadstool widely found in lawns, meadows and other grassy areas in Europe and North America. Also known as the sweating mushroom, it derives this name from the symptoms of poisoning. It contains potentially deadly levels of muscarine."
             },
-            "edibility": []
+            "edibility": [
+                "poisonous",
+                "deadly"
+            ]
         },
         {
             "class": "clitocybe_rivulosa",
             "categories": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Clitocybe_rivulosa",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Clitocybe_rivulosa"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Rinnigbereifter Trichterling",
+                "GB": "Clitocybe rivulosa"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Clitocybe rivulosa, allgemein als falscher Champignon oder Narrentrichter bekannt, ist ein giftiger Basidiomyceten-Pilz der großen Gattung Clitocybe. Als eine von mehreren Arten mit ähnlichem Aussehen ist er ein kleiner, weißer, trichterförmiger Fliegenpilz, der in Rasenflächen, Wiesen und anderen Grasflächen in Europa und Nordamerika weit verbreitet ist. Er ist auch als Schweißpilz bekannt und leitet diesen Namen von den Vergiftungssymptomen ab. Er enthält potenziell tödliche Mengen an Muscarin.",
+                "GB": "Clitocybe rivulosa, commonly known as the false champignon or fool's funnel, is a poisonous basidiomycete fungus of the large genus Clitocybe. One of several species similar in appearance, it is a small white funnel-shaped toadstool widely found in lawns, meadows and other grassy areas in Europe and North America. Also known as the sweating mushroom, it derives this name from the symptoms of poisoning . It contains potentially deadly levels of muscarine."
             },
-            "edibility": []
+            "edibility": [
+                "poisonous",
+                "deadly"
+            ]
         },
         {
             "class": "coprinus_comatus",
-            "categories": [],
+            "categories": [
+                "coprinus"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schopf-Tintling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coprinus_comatus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schopf-Tintling",
+                "GB": "Coprinus comatus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Schopf-Tintling , auch Spargelpilz, Porzellantintling, Tintenpilz oder inkorrekt Tintenschopfling genannt, ist eine Pilzart aus der Familie der Champignonverwandten. Er ist in Europa heimisch, häufig und jung ein ausgezeichneter, wenngleich nicht sehr haltbarer Speisepilz, denn alte Exemplare zerfließen zu einer tintenartigen Flüssigkeit. Die Art ist kultivierbar, im Handel wird beispielsweise Körnerbrut angeboten, die vom Pilzgeflecht durchwachsen ist.",
+                "GB": "Coprinus comatus, the shaggy ink cap, lawyer's wig, or shaggy mane, is a common fungus often seen growing on lawns, along gravel roads and waste areas. The young fruit bodies first appear as white cylinders emerging from the ground, then the bell-shaped caps open out. The caps are white, and covered with scales—this is the origin of the common names of the fungus. The gills beneath the cap are white, then pink, then turn black and secrete a black liquid filled with spores . This mushroom is unusual because it will turn black and dissolve itself in a matter of hours after being picked or depositing spores."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "cortinarius_rubellus",
-            "categories": [],
+            "categories": [
+                "leprocybe"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Spitzgebuckelter_Raukopf",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cortinarius_rubellus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Spitzgebuckelter Raukopf",
+                "GB": "Cortinarius rubellus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Spitzgebuckelte Raukopf oder Spitzbuckelige Orange-Schleierling ist eine Pilzart aus der Familie der Schleierlingsverwandten . Innerhalb der Gattung wird er der Untergattung Rauköpfe zugeordnet. Die gestielten, freudig rost-\/fuchsfarbenen Fruchtkörper haben oft einen Hut mit spitzem Buckel und bisweilen einen gelblich gebänderten Stiel. Der Blätterpilz wächst in Fichtenwäldern auf sauren, feuchten und gerne mit Torfmoosen bewachsenen Böden. Er enthält den Giftstoff Orellanin und verursacht bei Verzehr unbehandelt ein tödliches Nierenversagen.",
+                "GB": "Cortinarius rubellus, commonly known as the deadly webcap, is a species of fungus in the family Cortinariaceae, native to Europe and North America. Within the genus it belongs to a group known as the Orellani, all of which are highly toxic — eating them results in kidney failure, which is often irreversible. The mushroom is generally tan to brown all over."
             },
-            "edibility": []
+            "edibility": [
+                "poisonous"
+            ]
         },
         {
             "class": "craterellus_cornucopioides",
-            "categories": [],
+            "categories": [
+                "craterellus"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Totentrompete",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Craterellus_cornucopioides"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Totentrompete",
+                "GB": "Craterellus cornucopioides"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Toten- oder Herbsttrompete , aufgrund der trichterartig geformten Fruchtkörper auch Toten-Trichterling genannt, ist eine Pilzart aus der Familie der Pfifferlingsverwandten . Sie gilt als sehr guter Speisepilz.",
+                "GB": "Craterellus cornucopioides, or horn of plenty, is an edible mushroom. It is also known as the black chanterelle, black trumpet, trompette de la mort , trombetta dei morti or trumpet of the dead."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "flammulina_velutipes",
-            "categories": [],
+            "categories": [
+                "flammulina"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gemeiner_Samtfu%C3%9Fr%C3%BCbling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Enokitake"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Gemeiner Samtfußrübling",
+                "GB": "Enokitake"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Gemeine Samtfußrübling ist eine Pilzart aus der Familie Physalacriaceae. Er ist ein Speisepilz, wird in Ostasien auch kultiviert und dort als Enoki vermarktet. An natürlichen Standorten wachsen die kleinen, frostresistenten Fruchtkörper im Winterhalbjahr bei kühlen Temperaturen, weshalb die Art auch Winterpilz genannt wird. Dagegen beziehen sich die Trivialnamen Samtfuß oder Samtfußrübling auf den samtig beschaffenen Stiel.",
+                "GB": "Enoki , also known as velvet shank, is a species of edible mushroom in the family Physalacriaceae. It is well-known for its role in Japanese cuisine, where it is also known as enokitake ."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "galerina_marginata",
-            "categories": [],
+            "categories": [
+                "galerina"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gift-H%C3%A4ubling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Galerina_marginata"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Gift-Häubling",
+                "GB": "Galerina marginata"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Gift-Häubling – bisweilen auch Nadelholz-Häubling genannt, obwohl er auch Laubholz besiedelt – ist eine giftige Pilzart aus der Familie der Träuschlingsverwandten.",
+                "GB": "Galerina marginata, known colloquially as the funeral bell or the deadly skullcap, is a species of poisonous fungus in the family Hymenogastraceae of the order Agaricales. Prior to 2001, the species G. autumnalis, G. oregonensis, G. unicolor, and G. venenata were thought to be separate due to differences in habitat and the viscidity of their caps, but phylogenetic analysis showed that they are all the same species."
             },
-            "edibility": []
+            "edibility": [
+                "deadly"
+            ]
         },
         {
             "class": "gomphus_clavatus",
-            "categories": [],
+            "categories": [
+                "gomphus"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schweinsohr_(Pilz)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gomphus_clavatus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schweinsohr (Pilz)",
+                "GB": "Gomphus clavatus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Das Schweinsohr oder der Purpurleistling ist ein Pilz aus der Ordnung der Schweinsohrartigen. Früher stellte man ihn wegen der leistenartigen Fruchtschicht in die Nähe der Pfifferlingsartigen. Die Gattung Gomphus besteht in Europa aus nur einer Art. Das Schweinsohr ist Pilz des Jahres 1998.",
+                "GB": "Gomphus clavatus, commonly known as pig's ears or the violet chanterelle, is an edible species of fungus in the genus Gomphus native to Eurasia and North America. The fruit body is vase- or fan-shaped with wavy edges to its rim, and grows up to 15–16 cm wide and 17 cm tall. The upper surface or cap is orangish-brown to lilac, while the lower spore-bearing surface, the hymenium, is covered in wrinkles and ridges rather than gills or pores, and is a distinctive purple color. Described by Jacob Christian Schäffer in 1774, G. clavatus has had several name changes and many alternative scientific names, having been classified in the genus Cantharellus , though it is not closely related to them."
             },
-            "edibility": []
+            "edibility": [
+                "allergic_reactions",
+                "edible"
+            ]
         },
         {
             "class": "gyromitra_esculenta",
-            "categories": [],
+            "categories": [
+                "gyromitra"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Fr%C3%BChjahrs-Giftlorchel",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gyromitra_esculenta"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Frühjahrs-Giftlorchel",
+                "GB": "Gyromitra esculenta"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Frühjahrs-Giftlorchel , kurz auch Frühjahrslorchel, Frühlorchel oder einfach Giftlorchel genannt, ist eine Art der Pilze aus der Familie der Giftlorchelverwandten. Sie ist in Europa und Nordamerika verbreitet. Allgemeine Kennzeichen sind der hirnartig gewundene Hut, der neben braunen auch rötliche Töne aufweist, der schmale, hohle Stiel, der an mehreren Punkten mit dem Hut verwachsen ist sowie die glatten Sporen ohne apikale Kalotten. Der Pilz ist stark giftig, wird aber in verschiedenen Regionen nach entsprechender Zubereitung als Speisepilz verwendet. Vergiftungen sind allerdings auch dann nicht auszuschließen.",
+                "GB": "Gyromitra esculenta , is an ascomycete fungus from the genus Gyromitra, widely distributed across Europe and North America. It normally fruits in sandy soils under coniferous trees in spring and early summer. The fruiting body, or mushroom, is an irregular brain-shaped cap dark brown in colour that can reach 10 centimetres high and 15 cm wide, perched on a stout white stipe up to 6 cm high."
             },
-            "edibility": []
+            "edibility": [
+                "deadly",
+                "choice"
+            ]
         },
         {
             "class": "hygrocybe",
-            "categories": [],
+            "categories": [
+                "hygrocybe"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Saftlinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hygrocybe"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Saftlinge",
+                "GB": "Hygrocybe"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Saftlinge sind eine Pilzgattung aus der Familie der Schnecklingsverwandten. Aufgrund des glasigen bis wachsartigen Fleischs werden sie auch als Glasköpfe bezeichnet. Etliche Arten fallen durch freudig gefärbte Fruchtkörper auf. Sie bevorzugen meist nährstoffarme Standorte, weshalb sie auch als Zeigerarten für die Gütebeurteilung von Biotopen eingesetzt werden. Alle Saftlinge stehen in Deutschland unter Naturschutz.",
+                "GB": "Hygrocybe is a genus of agarics in the family Hygrophoraceae. Called waxcaps in English , basidiocarps are often brightly coloured and have waxy to slimy caps, white spores, and smooth, ringless stems. In Europe they are characteristic of old, unimproved grasslands which are a declining habitat, making many Hygrocybe species of conservation concern. Elsewhere they are more typically found in woodlands. Most are ground-dwelling and all are believed to be moss associates. Around 150 species are recognized worldwide. Fruit bodies of several Hygrocybe species are considered edible and are sometimes offered for sale in local markets."
             },
-            "edibility": []
+            "edibility": [
+                "edible"
+            ]
         },
         {
             "class": "hypholoma_fasciculare",
