@@ -149,7 +149,6 @@
             "categories": [
                 "amanita"
             ],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Fliegenpilz",
@@ -270,218 +269,247 @@
         },
         {
             "class": "amanita_rubescens",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "amanita"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Perlpilz",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Blusher"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Perlpilz",
+                "GB": "Blusher"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Perlpilz , auch Rötender Wulstling oder Fleischchampignon genannt, ist eine Pilzart aus der Familie der Wulstlingsverwandten. Markant und namensgebend ist die rosarote bis rötliche Verfärbung an verletzten Stellen. Ältere Fruchtkörper sind häufig mit ebenso verfärbten Madengängen durchzogen. Der Perlpilz ist häufig, weit verbreitet und kann sowohl in Laub- als auch in Nadelwäldern gefunden werden.",
+                "GB": "The blusher is the common name for several closely related species of the genus Amanita. A. rubescens, found in Europe and eastern North America, and A. novinupta in western North America. Both their scientific and common names are derived from the propensity of their flesh to turn pink on bruising, or cutting."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "armillaria",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "armillaria"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Hallimasche",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Armillaria"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hallimasche",
+                "GB": "Armillaria"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Hallimasche oder Honigpilze sind eine Pilzgattung aus der Familie Physalacriaceae mit mehreren, schwer unterscheidbaren Arten beziehungsweise Kleinarten. Man spricht hier auch von einem Aggregat, dem Hallimaschkomplex. Viele Arten besitzen am Stiel einen wattigen Ring , der aber mit zunehmender Reife der Fruchtkörper durch Witterungseinflüsse und Schneckenfraß verloren gehen kann. Einige Arten befallen auch lebende Bäume, bringen diese zum Absterben und gelten deshalb als Forstschädlinge.",
+                "GB": "Armillaria, is a genus of parasitic fungi that includes the A. mellea species known as honey fungi that live on trees and woody shrubs. It includes about 10 species formerly categorized summarily as A. mellea. Armillarias are long-lived and form some of the largest living organisms in the world. The largest known organism covers more than 3.4 square miles in Oregon's Malheur National Forest and is more than 2,400 years old. Some species of Armillaria display bioluminescence, resulting in foxfire."
             },
-            "edibility": []
+            "edibility": [
+                "edible"
+            ]
         },
         {
             "class": "auricularia",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "auricularia"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Judasohr",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Auricularia_auricula-judae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Judasohr",
+                "GB": "Auricularia auricula-judae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Das Judasohr ist ein nahezu weltweit verbreiteter Pilz. Eine ähnliche Art mit ostasiatischer Verbreitung wird als Mu-Err , Black Fungus, Holunderpilz oder -schwamm, Ohrlappenpilz oder Wolkenohrenpilz bezeichnet, der in vielen Gerichten der asiatischen und speziell auch der chinesischen Küche verwendet wird.",
+                "GB": "Auricularia auricula-judae, known most commonly as Jew's Ear , is a species of edible Auriculariales fungus found worldwide. The fruiting body is distinguished by its noticeably ear-like shape and brown colouration; it grows upon wood, especially elder. Its specific epithet is derived from the belief that Judas Iscariot hanged himself from an elder tree; the common name \"Judas's ear\" was largely eclipsed by the corruption \"Jew's ear\", while today \"jelly ear\" and other names are preferred. The fungus can be found throughout the year in temperate regions worldwide, where it grows upon both dead and living wood."
             },
-            "edibility": []
+            "edibility": [
+                "edible"
+            ]
         },
         {
             "class": "boletus_aereus",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "boletus"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Bronze-R%C3%B6hrling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Boletus_aereus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Bronze-Röhrling",
+                "GB": "Boletus aereus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Bronze-Röhrling oder Schwarzhütige Steinpilz ist eine Pilzart aus der Familie der Dickröhrlingsverwandten. Der essbare, aber relativ seltene Dickröhrling wächst in wärmebegünstigten Eichen- und Buchenwäldern. Er wurde von der Deutschen Gesellschaft für Mykologie zum „Pilz des Jahres 2008“ erkoren.",
+                "GB": "Boletus aereus, the dark cep or bronze bolete, is a highly prized and much sought-after edible mushroom in the family Boletaceae. The bolete is widely consumed in Spain , France, Italy, Greece, and generally throughout the Mediterranean. Described in 1789 by French mycologist Pierre Bulliard, it is closely related to several other European boletes, including B. reticulatus, B. pinophilus, and the popular B. edulis. Some populations in North Africa have in the past been classified as a separate species, B. mamorensis, but have been shown to be phylogenetically conspecific to B. aereus and this taxon is now regarded as a synonym."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "boletus_calopus",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "boletus"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Sch%C3%B6nfu%C3%9F-R%C3%B6hrling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Caloboletus_calopus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schönfuß-Röhrling",
+                "GB": "Caloboletus calopus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Schönfuß-Röhrling oder Dickfuß-Röhrling ist eine Pilzart aus der Familie der Dickröhrlingsverwandten .",
+                "GB": "Caloboletus calopus, commonly known as the bitter beech bolete or scarlet-stemmed bolete, is a fungus of the bolete family, found in Asia, Northern Europe and North America. Appearing in coniferous and deciduous woodland in summer and autumn, the stout fruit bodies are attractively coloured, with a beige to olive cap up to 15 cm across, yellow pores, and a reddish stipe up to 15 cm long and 5 cm wide. The pale yellow flesh stains blue when broken or bruised."
             },
-            "edibility": []
+            "edibility": [
+                "inedible"
+            ]
         },
         {
             "class": "boletus_edulis",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "boletus"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gemeiner_Steinpilz",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Boletus_edulis"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Gemeiner Steinpilz",
+                "GB": "Boletus edulis"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Gemeine Steinpilz , auch Fichten-Steinpilz, Herrenpilz oder Edelpilz genannt, ist eine Pilzart aus der Familie der Dickröhrlingsverwandten und Typusspezies der Gattung Dickröhrlinge. Die Fruchtkörper haben meist einen bräunlichen Hut, weiße bis olivgelbliche Poren, eine helle Netzzeichnung am Stiel und weißes, nur sehr selten auf Druck oder bei Verletzung blauendes Fleisch. Der Pilz bildet mit zahlreichen Laub- und Nadelbäumen eine Mykorrhiza, häufig lebt er mit Fichten in Symbiose. Er ist auf weiten Teilen der Nordhalbkugel verbreitet und wurde durch den Menschen auch in einigen Ländern der Südhalbkugel eingeführt. Der Gemeine Steinpilz hat eine große Bedeutung als Speisepilz und wird kommerziell gehandelt.",
+                "GB": "Boletus edulis is a basidiomycete fungus, and the type species of the genus Boletus. Widely distributed in the Northern Hemisphere across Europe, Asia, and North America, it does not occur naturally in the Southern Hemisphere, although it has been introduced to southern Africa, Australia, New Zealand, and Brazil. Several closely related European mushrooms formerly thought to be varieties or forms of B. edulis have been shown using molecular phylogenetic analysis to be distinct species, and others previously classed as separate species are conspecific with this species. The western North American species commonly known as the California king bolete is a large, darker-coloured variant first formally identified in 2007."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "boletus_satanas",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "boletus"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Satans-R%C3%B6hrling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Rubroboletus_satanas"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Satans-Röhrling",
+                "GB": "Rubroboletus satanas"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Satans-Röhrling , auch Satanspilz genannt, ist eine Pilzart aus der Familie der Dickröhrlingsverwandten . Er ist ein Giftpilz.",
+                "GB": "Rubroboletus satanas, commonly known as Satan's bolete or the Devil's bolete, is a basidiomycete fungus of the bolete family and one of its most infamous members. It is perhaps best known under its previous name, Boletus satanas, before the fungus was transferred to the new genus Rubroboletus in 2014, based on molecular phylogenetic data. Found in broad-leaved and mixed woodland in the warmer regions of Europe, it is classified as a poisonous mushroom, known to cause gastrointestinal symptoms of diarrhoea and violent vomiting. However, reports of poisoning are rare, due to its striking appearance and at times putrid smell, which discourage casual experimentation."
             },
-            "edibility": []
+            "edibility": [
+                "poisonous"
+            ]
         },
         {
             "class": "calocybe_gambosa",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "calocybe"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Maipilz",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Calocybe_gambosa"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Maipilz",
+                "GB": "Calocybe gambosa"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Maipilz , auch Mai- oder Georgsritterling genannt, ist eine Pilzart aus der Familie der Raslingsverwandten . Er ist ein guter Speisepilz, kann jedoch mit dem stark giftigen Ziegelroten Risspilz oder dem giftigen Riesen-Rötling verwechselt werden.",
+                "GB": "Calocybe gambosa, commonly known as St. George's mushroom, is an edible mushroom that grows mainly in fields, grass verges and roadsides. Deriving its common name from when it first appears in the UK, namely on St George's Day . It appears in March in Italy, a warmer country where it is also a popular mushroom to eat, and is known there as marzolino. It is also popular in Northern Spain and Southern France, in the Basque Country region and its surroundings where it appears in April. In these regions it is usually eaten sautéed with egg or with bacon."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "cantharellus_cibarius",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "cantharellus"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Echter_Pfifferling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cantharellus_cibarius"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Echter Pfifferling",
+                "GB": "Cantharellus cibarius"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Echte Pfifferling, Eierschwamm oder Rehling , auch Eierschwämmchen, in Österreich und Bayern Eierschwammerl und Reherl, in Franken Gelberle, in Sachsen Gelchen, in der Schweiz auch Eierschwämmli genannt, ist ein gegart essbarer und als Marktpilz gehandelter Pilz aus der Familie der Pfifferlingsverwandten.",
+                "GB": "Cantharellus cibarius is a species of golden chanterelle mushroom in the genus Cantharellus. It is also known as girolle . It grows in Europe from Scandinavia to the Mediterranean Basin, mainly in deciduous and coniferous forests. Due to its characteristic color and shape, it is easy to distinguish from mushrooms with potential toxicity that discourage human consumption. A commonly eaten and favored mushroom, the chanterelle is typically harvested from late summer to late fall in its European distribution."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "clitocybe_geotropa",
-            "categories": [],
-            "related-classes": [],
+            "categories": [
+                "infundibulicybe"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/M%C3%B6nchskopf",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Infundibulicybe_geotropa"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Mönchskopf",
+                "GB": "Infundibulicybe geotropa"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Mönchskopf ist eine essbare Pilzart aus der Familie der Ritterlingsverwandten.",
+                "GB": "Infundibulicybe geotropa, also known as the trooping funnel or monk's head, is a funnel-shaped toadstool widely found in Europe and in North America. A large sturdy cream- or buff-coloured funnel-shaped mushroom, it grows in mixed woodlands, often in troops or fairy rings, one of which is over half a mile wide. Although edible, it could be confused with some poisonous species of similar colouration and size."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "clitocybe_phaeophthalma",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -502,7 +530,6 @@
         {
             "class": "clitocybe_rivulosa",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -523,7 +550,6 @@
         {
             "class": "coprinus_comatus",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -544,7 +570,6 @@
         {
             "class": "cortinarius_rubellus",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -565,7 +590,6 @@
         {
             "class": "craterellus_cornucopioides",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -586,7 +610,6 @@
         {
             "class": "flammulina_velutipes",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -607,7 +630,6 @@
         {
             "class": "galerina_marginata",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -628,7 +650,6 @@
         {
             "class": "gomphus_clavatus",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -649,7 +670,6 @@
         {
             "class": "gyromitra_esculenta",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -670,7 +690,6 @@
         {
             "class": "hygrocybe",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -691,7 +710,6 @@
         {
             "class": "hypholoma_fasciculare",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -712,7 +730,6 @@
         {
             "class": "hypholoma_sublateritium",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -733,7 +750,6 @@
         {
             "class": "inocybe",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -754,7 +770,6 @@
         {
             "class": "kuehneromyces_mutabilis",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -775,7 +790,6 @@
         {
             "class": "laccaria_amethystina",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -796,7 +810,6 @@
         {
             "class": "lactarius_deliciosus",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -817,7 +830,6 @@
         {
             "class": "lactarius_lignyotus",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -838,7 +850,6 @@
         {
             "class": "lactarius_volemus",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -859,7 +870,6 @@
         {
             "class": "leccinum_carpini",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -882,7 +892,6 @@
             "categories": [
                 "leccinum"
             ],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Gemeiner_Birkenpilz",
@@ -905,7 +914,6 @@
         {
             "class": "lepista_nuda",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -926,7 +934,6 @@
         {
             "class": "lycoperdon_perlatum",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -947,7 +954,6 @@
         {
             "class": "macrolepiota_procera",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -968,7 +974,6 @@
         {
             "class": "megacollybia_platyphylla",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -989,7 +994,6 @@
         {
             "class": "morchella_esculenta",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -1010,7 +1014,6 @@
         {
             "class": "paxillus_involutus",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -1031,7 +1034,6 @@
         {
             "class": "russula_cyanoxantha",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -1052,7 +1054,6 @@
         {
             "class": "sarcodon_imbricatus",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -1073,7 +1074,6 @@
         {
             "class": "scleroderma",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -1094,7 +1094,6 @@
         {
             "class": "sparassis_crispa",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -1115,7 +1114,6 @@
         {
             "class": "suillus_grevillei",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -1136,7 +1134,6 @@
         {
             "class": "tricholoma_saponaceum",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -1157,7 +1154,6 @@
         {
             "class": "tricholoma_sulphureum",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -1178,7 +1174,6 @@
         {
             "class": "xerocomus_badius",
             "categories": [],
-            "related-classes": [],
             "urls": {
                 "wikipedia": {
                     "DE": "",
