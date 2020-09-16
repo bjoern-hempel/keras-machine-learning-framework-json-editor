@@ -751,183 +751,219 @@
         },
         {
             "class": "hypholoma_fasciculare",
-            "categories": [],
+            "categories": [
+                "hypholoma"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gr%C3%BCnbl%C3%A4ttriger_Schwefelkopf",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hypholoma_fasciculare"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Grünblättriger Schwefelkopf",
+                "GB": "Hypholoma fasciculare"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Grünblättrige Schwefelkopf ist ein Blätterpilz aus der Gattung der Schwefelköpfe. Der lateinische Name fascicularis beschreibt die Wuchsform und bedeutet auf deutsch „büschelig“.",
+                "GB": "Hypholoma fasciculare, commonly known as the sulphur tuft, sulfur tuft or clustered woodlover, is a common woodland mushroom, often in evidence when hardly any other mushrooms are to be found. This saprophagic small gill fungus grows prolifically in large clumps on stumps, dead roots or rotting trunks of broadleaved trees."
             },
-            "edibility": []
+            "edibility": [
+                "poisonous"
+            ]
         },
         {
             "class": "hypholoma_sublateritium",
-            "categories": [],
+            "categories": [
+                "hypholoma"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ziegelroter_Schwefelkopf",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hypholoma_lateritium"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ziegelroter Schwefelkopf",
+                "GB": "Hypholoma lateritium"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Ziegelrote Schwefelkopf ist eine Pilzart aus der Familie der Träuschlingsverwandten. Er ist seltener und weniger bekannt als seine beiden Verwandten, der essbare Graublättrige Schwefelkopf und der giftige Grünblättrige Schwefelkopf. Von diesen unterscheidet er sich unter anderem durch die meist größeren Fruchtkörper.",
+                "GB": "Hypholoma lateritium, sometimes called brick cap, is rarer and less well-known than its relatives, the inedible, and poisonous sulfur tuft and the edible Hypholoma capnoides. Its fruiting bodies are generally larger than either of these. Hypholoma sublateritium is a synonym."
             },
-            "edibility": []
+            "edibility": [
+                "inadvisable"
+            ]
         },
         {
             "class": "inocybe",
-            "categories": [],
+            "categories": [
+                "inocybe"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Risspilze",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Inocybe"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Risspilze",
+                "GB": "Inocybe"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Risspilze sind eine artenreiche Pilzgattung aus der Familie der Risspilzverwandten.",
+                "GB": "Inocybe is a large genus of mushroom-forming fungi with over 1400 species, including all forms and variations. Members of Inocybe are mycorrhizal, and some evidence shows that the high degree of speciation in the genus is due to adaptation to different trees and perhaps even local environments."
             },
-            "edibility": []
+            "edibility": [
+                "inadvisable"
+            ]
         },
         {
             "class": "kuehneromyces_mutabilis",
-            "categories": [],
+            "categories": [
+                "kuehneromyces"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gemeines_Stockschw%C3%A4mmchen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Kuehneromyces_mutabilis"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Gemeines Stockschwämmchen",
+                "GB": "Kuehneromyces mutabilis"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Das Gemeine Stockschwämmchen ist eine Pilzart aus der Familie der Träuschlingsverwandten .",
+                "GB": "Kuehneromyces mutabilis , commonly known as the sheathed woodtuft, is an edible mushroom that grows in clumps on tree stumps or other dead wood. A few other species have been described in the genus Kuehneromyces, but K. mutabilis is by far the most common and best known."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "laccaria_amethystina",
-            "categories": [],
+            "categories": [
+                "laccaria"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Violetter_Lacktrichterling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Laccaria_amethystina"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Violetter Lacktrichterling",
+                "GB": "Laccaria amethystina"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Violette oder Amethystblaue Lacktrichterling ist eine Pilzart aus der Familie der Heidetrüffelverwandten. Der auch unter dem Namen Violetter Bläuling oder kurz Bläuling bekannte Pilz ist wie alle Lacktrichterlinge essbar. Den Namen hat er seiner durchgängig violetten Färbung zu verdanken, die im feuchten Zustand sehr kräftig violett bis lila ausfällt und im trockenen Zustand zu hell-violett bis fast weiß ausblasst.",
+                "GB": "Laccaria amethystina, commonly known as the amethyst deceiver, is a small brightly colored mushroom, that grows in deciduous as well as coniferous forests. The mushroom itself is edible, but can absorb arsenic from the soil. Because its bright amethyst coloration fades with age and weathering, it becomes difficult to identify, hence the common name ‘Deceiver’. This common name is shared with its close relation Laccaria laccata that also fades and weathers. It is found mainly in Northern temperate zones, though it is reported to occur in tropical Central and South America as well. Recently, some of the other species in the genus have been given the common name of \"deceiver\"."
             },
-            "edibility": []
+            "edibility": [
+                "edible"
+            ]
         },
         {
             "class": "lactarius_deliciosus",
-            "categories": [],
+            "categories": [
+                "lactarius"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Edel-Reizker",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lactarius_deliciosus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Edel-Reizker",
+                "GB": "Lactarius deliciosus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Edel-Reizker oder Echte Reizker ist eine Pilzart aus der Familie der Täublingsverwandten . Charakteristisch ist der an verletzten Stellen austretende Milchsaft, der im Unterschied zu anderen Reizkern lebhaft und unverändert orangerot gefärbt ist. Der Pilz lebt mit Kiefern in Symbiose. Deshalb wird die Art auch Kiefern-Blutreizker genannt. Der Blätterpilz gilt als guter Speisepilz. Nach dem Verzehr verfärbt sich der Harn rot, was jedoch harmlos ist. Der lateinische Artname deliciosus bedeutet „köstlich“. Der deutsche Name Reizker ist ein Wort slawischen Ursprungs und lässt sich mit Rotmilchling übersetzen.",
+                "GB": "Lactarius deliciosus, commonly known as the saffron milk cap and red pine mushroom, is one of the best known members of the large milk-cap genus Lactarius in the order Russulales. It is found in Europe and has been accidentally introduced to other countries under conifers and can be found growing in pine plantations. A fresco in the Roman town of Herculaneum appears to depict Lactarius deliciosus and is one of the earliest pieces of art to illustrate a fungus."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "lactarius_lignyotus",
-            "categories": [],
+            "categories": [
+                "lactarius"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Mohrenkopf-Milchling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lactarius_lignyotus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Mohrenkopf-Milchling",
+                "GB": "Lactarius lignyotus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Mohrenkopf-Milchling oder kurz Mohrenkopf , auch Mohrenköpfiger Milchling, ist eine Pilzart aus der Familie der Täublingsverwandten . Er ist ein mittelgroßer Milchling mit einem schwarzbraunen Hut und einem langen, ebenfalls schwarzbraunen Stiel. Im Gegensatz dazu stehen die weißen Lamellen. Die wässrigweiße Milch färbt sich an der Luft lachsrosa. Dieser Milchling kommt in Gebirgsnadelwäldern unter Fichten recht häufig vor und ist ein geschätzter Speisepilz. In weiten Teilen Deutschlands ist er allerdings sehr selten. Der Pilz wird im Volksmund auch Essenkehrer, Schornsteinfeger, Schwarzfußmilchling oder Pasterle genannt.",
+                "GB": "Lactarius lignyotus is a member of the large milk-cap genus Lactarius in the order Russulales. It was first described scientifically by Elias Magnus Fries in 1855. It is considered edible, but of little interest."
             },
-            "edibility": []
+            "edibility": [
+                "edible"
+            ]
         },
         {
             "class": "lactarius_volemus",
-            "categories": [],
+            "categories": [
+                "lactarius"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Br%C3%A4tling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lactifluus_volemus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Brätling",
+                "GB": "Lactifluus volemus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Brätling, Milchbrätling, Brot- oder auch Birnen-Milchling ist eine Pilzart aus der Familie der Täublingsverwandten . Anders als der mehr oder weniger scharf schmeckende Milchsaft der meisten Milchlinge ist der des Brätlings mild, mit leicht bitterem Nachgeschmack. An den Fingern färbt sich die bei Verletzung sehr reichlich austretende weiße Milch schnell braun. Typisch für den Pilz ist der im weiten Umkreis wahrnehmbare „fischige“ Duft, der je nach Gegend als herings-, hummer- oder topinamburähnlich beschrieben wird.",
+                "GB": "Lactifluus volemus, formerly known as Lactarius volemus, is a species of fungus in the family Russulaceae. It is widely distributed in the northern hemisphere, in temperate regions of Europe, North America and Asia as well as some subtropical and tropical regions of Central America and Asia. A mycorrhizal fungus, its fruit bodies grow on the ground at the base of various species of trees from summer to autumn, either individually or in groups. It is valued as an edible mushroom, and is sold in markets in Asia. Several other Lactifluus mushrooms resemble L. volemus, such as the closely related edible species L. corrugis, but these can be distinguished by differences in distribution, visible morphology, and microscopic characteristics. L. volemus produces a white spore print and has roughly spherical spores about 7–8 micrometres in diameter."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "leccinum_carpini",
-            "categories": [],
+            "categories": [
+                "leccinellum"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Hainbuchen-Raufu%C3%9F",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Leccinum_griseum"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hainbuchen-Raufuß",
+                "GB": "Leccinum griseum"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Hainbuchen-Raufuß, Hainbuchen-Röhrling oder Grauhederl ist eine Pilzart aus der Familie der Dickröhrlingsverwandten .",
+                "GB": "Leccinum griseum is a common, edible mushroom in the genus Leccinum. It is found below hornbeam, usually in small groups. Young mushrooms with firm flesh are very palatable."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "leccinum_scabrum",
@@ -955,283 +991,339 @@
         },
         {
             "class": "lepista_nuda",
-            "categories": [],
+            "categories": [
+                "lepista"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Violetter_R%C3%B6telritterling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Clitocybe_nuda"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Violetter Rötelritterling",
+                "GB": "Clitocybe nuda"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Violette Rötelritterling ist ein Ständerpilz aus der Familie der Ritterlingsverwandten. Früher wurde er zu den Ritterlingen gezählt. In Europa ist die Art häufig anzutreffen.",
+                "GB": "Clitocybe nuda, commonly known as the wood blewit and alternately described as Lepista nuda, is an edible mushroom native to Europe and North America. Described by Pierre Bulliard in 1790, it was also known as Tricholoma nudum for many years. It is found in both coniferous and deciduous woodlands. It is a fairly distinctive mushroom that is widely eaten, though there is some caution about edibility. Nevertheless, it has been cultivated in Britain, the Netherlands and France."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "lycoperdon_perlatum",
-            "categories": [],
+            "categories": [
+                "lycoperdon"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Flaschen-St%C3%A4ubling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lycoperdon_perlatum"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Flaschen-Stäubling",
+                "GB": "Lycoperdon perlatum"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Flaschen-Stäubling , im Volksmund oft auch inkorrekt als Flaschenbovist bezeichnet, ist einer der häufigsten Stäublinge. Lange Zeit wurde diese Art den Bauchpilzen zugeordnet, doch neuere phylogenetische Erkenntnisse lassen dieses Taxon nicht mehr gelten. Der Flaschen-Stäubling und seine Verwandten zählen jetzt zu den Champignonverwandten , die neben Blätterpilzen auch Arten umfassen, die keine Fruchtkörper mit Lamellen ausbilden.",
+                "GB": "Lycoperdon perlatum, popularly known as the common puffball, warted puffball, gem-studded puffball, wolf farts or the devil's snuff-box, is a species of puffball fungus in the family Agaricaceae. A widespread species with a cosmopolitan distribution, it is a medium-sized puffball with a round fruit body tapering to a wide stalk, and dimensions of 1.5 to 6 cm wide by 3 to 10 cm tall. It is off-white with a top covered in short spiny bumps or \"jewels\", which are easily rubbed off to leave a netlike pattern on the surface. When mature it becomes brown, and a hole in the top opens to release spores in a burst when the body is compressed by touch or falling raindrops."
             },
-            "edibility": []
+            "edibility": [
+                "edible"
+            ]
         },
         {
             "class": "macrolepiota_procera",
-            "categories": [],
+            "categories": [
+                "macrolepiota"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gemeiner_Riesenschirmling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Macrolepiota_procera"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Gemeiner Riesenschirmling",
+                "GB": "Macrolepiota procera"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Gemeine Riesenschirmling, Parasol oder Riesenschirmpilz ist eine Pilzart aus der Familie der Champignonverwandten .",
+                "GB": "Macrolepiota procera, the parasol mushroom, is a basidiomycete fungus with a large, prominent fruiting body resembling a parasol. It is a fairly common species on well-drained soils. It is found solitary or in groups and fairy rings in pastures and occasionally in woodland. Globally, it is widespread in temperate regions."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "megacollybia_platyphylla",
-            "categories": [],
+            "categories": [
+                "megacollybia"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Breitbl%C3%A4ttriger_R%C3%BCbling",
+                    "GB": "https:\/\/de.wikipedia.org\/wiki\/Breitbl%C3%A4ttriger_R%C3%BCbling"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Breitblättriger Rübling",
+                "GB": "Megacollybia platyphylla"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Breitblättrige Rübling, auch Breitblättriger Holzrübling, Breitblatt oder Breitblattrübling ist eine Pilzart aus der Familie der Porotheleaceae.",
+                "GB": "Megacollybia platyphylla is a fungal species from the Porotheleaceae family."
             },
-            "edibility": []
+            "edibility": [
+                "inadvisable"
+            ]
         },
         {
             "class": "morchella_esculenta",
-            "categories": [],
+            "categories": [
+                "morchella"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Speise-Morchel",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Morchella_esculenta"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Speise-Morchel",
+                "GB": "Morchella esculenta"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Speise- oder Rund-Morchel ist eine Schlauchpilzart aus der Familie der Morchelverwandten . Sie entwickelt im Frühjahr große, in Hut und Stiel gegliederte Fruchtkörper mit einem wabigen Hut in gelblichen, gräulichen oder bräunlichen Tönen in Schattierungen von blass bis braun.\nSie ist ein sehr begehrter Speisepilz mit hohem Wiedererkennungswert. Sie wird auch getrocknet gehandelt.",
+                "GB": "Morchella esculenta, is a species of fungus in the family Morchellaceae of the Ascomycota. It is one of the most readily recognized of all the edible mushrooms and highly sought after. Each fruit body begins as a tightly compressed, grayish sponge with lighter ridges, and expands to form a large yellowish sponge with large pits and ridges raised on a large white stem. The pitted yellow-brown caps measure 2–7 centimetres broad by 2–10 cm tall, and are fused to the stem at its lower margin, forming a continuous hollow. The pits are rounded and irregularly arranged. The hollow stem is typically 2–9 cm long by 2–5 cm thick, and white to yellow. The fungus fruits under hardwoods and conifers during a short period in the spring, depending on the weather, and is also associated with old orchards, woods and disturbed grounds"
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "paxillus_involutus",
-            "categories": [],
+            "categories": [
+                "paxillus"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kahler_Krempling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Paxillus_involutus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Kahler Krempling",
+                "GB": "Paxillus involutus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Verkahlende oder kurz Kahle Krempling ist eine Pilzart aus der Familie der Kremplingsverwandten . Die Fruchtkörper haben einen braunen Hut mit einem zunächst stark eingerollten, filzigen, aber bald schon glatten Rand. Die bräunlich-gelben und am Grund querverbundenen Lamellen bräunen an Druckstellen, weshalb die Art auch Empfindlicher Krempling genannt wird. Trotz seines lamellenförmigen Hymenophors gehört der Blätterpilz verwandtschaftlich zur Ordnung der Dickröhrlingsartigen . Er lebt mit zahlreichen Laub- und Nadelbäumen in Symbiose . Roh verzehrt wirkt der Pilz stark magen-darm-giftig und kann selbst gegart bei wiederholtem Genuss das Paxillus-Syndrom auslösen. In beiden Fällen kann ein schwerer Verlauf zum Tod des Konsumenten führen.",
+                "GB": "Paxillus involutus, commonly known as the brown roll-rim, common roll-rim, or poison pax, is a basidiomycete fungus that is widely distributed across the Northern Hemisphere. It has been inadvertently introduced to Australia, New Zealand, South Africa, and South America, probably transported in soil with European trees. Various shades of brown in colour, the fruit body grows up to 6 cm high and has a funnel-shaped cap up to 12 cm wide with a distinctive inrolled rim and decurrent gills that may be pore-like close to the stipe. Although it has gills, it is more closely related to the pored boletes than to typical gilled mushrooms. It was first described by Pierre Bulliard in 1785, and was given its current binomial name by Elias Magnus Fries in 1838. Genetic testing suggests that Paxillus involutus may be a species complex rather than a single species."
             },
-            "edibility": []
+            "edibility": [
+                "deadly"
+            ]
         },
         {
             "class": "russula_cyanoxantha",
-            "categories": [],
+            "categories": [
+                "russula"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Frauen-T%C3%A4ubling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Russula_cyanoxantha"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Frauen-Täubling",
+                "GB": "Russula cyanoxantha"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Frauen-Täubling ist eine Pilzart aus der Familie der Täublingsverwandten. Er ist gekennzeichnet durch seinen großen, violetten bis grünen und radialadrigen Hut, sein mild schmeckendes Fleisch, den dicken Stiel und seine fast negative Eisensulfatreaktion. Besonders charakteristisch im Vergleich zu den meisten verwandten Arten sind die auffallend biegsamen, sich fettig anfühlenden Lamellen. Der europaweit häufige Täubling kommt sowohl in Laub- als auch in Nadelwäldern vor, die Fruchtkörper des beliebten Speisepilzes erscheinen zwischen Juni und Anfang November.",
+                "GB": "Russula cyanoxantha, synonymous with R. xyanoxantha, commonly known as the charcoal burner, is a basidiomycete mushroom, distinguished from most other members of the genus Russula by the fact that its gills do not split, but are soft and flexible. It is one of the most common species of Russula in Europe."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "sarcodon_imbricatus",
-            "categories": [],
+            "categories": [
+                "sarcodon"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Habichtspilz",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sarcodon_imbricatus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Habichtspilz",
+                "GB": "Sarcodon imbricatus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Habichtspilz, Habichts-Stacheling oder Rehpilz ist eine Pilzart aus der Familie der Weißsporstachelingsverwandten . Er stammt aus der Gattung der Braunsporstachelinge, die in Mitteleuropa mit einem guten Dutzend Arten vertreten ist. Seinen deutschen Namen erhielt der Pilz aufgrund der schuppigen Hutoberseite, die an das Federkleid eines Habichts erinnert. Auch der wissenschaftliche Name orientiert sich am Aussehen der Fruchtkörper: Er bedeutet so viel wie „mit Ziegeln bedeckter“ „Fleischzahn“ .",
+                "GB": "Sarcodon imbricatus, commonly known as the shingled hedgehog or scaly hedgehog, is a species of tooth fungus in the order Thelephorales. The mushroom is edible. Many sources report it has a bitter taste, but others have found it delicious and suspect that the bitter specimens may be similar related species. The mushroom has a large, brownish cap with large brown scales and may reach 30 cm in diameter. On the underside it sports greyish, brittle teeth instead of gills, and has white flesh. Its spore print is brown. It is associated with spruce , appearing in autumn. It ranges throughout North America and Europe, although collections from the British Isles are now assigned to the similar species Sarcodon squamosus."
             },
-            "edibility": []
+            "edibility": [
+                "edible"
+            ]
         },
         {
             "class": "scleroderma",
-            "categories": [],
+            "categories": [
+                "scleroderma"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Dickschaliger_Kartoffelbovist",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Scleroderma_citrinum"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Dickschaliger Kartoffelbovist",
+                "GB": "Scleroderma citrinum"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Dickschalige oder Gemeine Kartoffel-\/Hartbovist ist eine giftige Pilzart aus der Familie der Kartoffelbovistverwandten.",
+                "GB": "Scleroderma citrinum, commonly known as the common earthball, pigskin poison puffball, or common earth ball, is the most common species of earthball in the UK and occurs widely in woods, heathland and in short grass from autumn to winter.\nScleroderma citrinum has two synonyms, Scleroderma aurantium and Scleroderma vulgare Horn."
             },
-            "edibility": []
+            "edibility": [
+                "poisonous"
+            ]
         },
         {
             "class": "sparassis_crispa",
-            "categories": [],
+            "categories": [
+                "sparassis"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Krause_Glucke",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sparassis_crispa"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Krause Glucke",
+                "GB": "Sparassis crispa"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Krause Glucke oder Fette Henne ist eine parasitische Pilzart aus der Familie der Gluckenverwandten , deren großer ockergelblicher Fruchtkörper essbar ist und mit seinen krausen Verzweigungen an einen Badeschwamm erinnert.",
+                "GB": "Sparassis crispa is a species of fungus in the genus Sparassis. In English it is sometimes called cauliflower fungus."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         },
         {
             "class": "suillus_grevillei",
-            "categories": [],
+            "categories": [
+                "suillus"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gold-R%C3%B6hrling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Suillus_grevillei"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Gold-Röhrling",
+                "GB": "Suillus grevillei"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Gold-Röhrling oder Goldgelbe Lärchen-Röhrling ist ein essbarer Pilz aus der Familie der Schmierröhrlingsverwandten.",
+                "GB": "Suillus grevillei is a mycorrhizal mushroom with a tight, brilliantly coloured cap, shiny and wet looking with its mucous slime layer. The hymenium easily separates from the flesh of the cap, with a central stalk that is quite slender. The species has a ring or a tight-fitting annular zone."
             },
-            "edibility": []
+            "edibility": [
+                "edible"
+            ]
         },
         {
             "class": "tricholoma_saponaceum",
-            "categories": [],
+            "categories": [
+                "tricholoma"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Seifen-Ritterling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tricholoma_saponaceum"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Seifen-Ritterling",
+                "GB": "Tricholoma saponaceum"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Seifen-Ritterling ist eine Pilzart aus der Familie der Ritterlingsverwandten . Der mittelgroße bis große und sehr variable Ritterling ist in erster Linie durch seinen seifenartigen Geruch gekennzeichnet. Außerdem rötet sein Fleisch in der Stielbasis bei Verletzung. Die Fruchtkörper erscheinen zwischen August und November im Laub- und Nadelwald. Der Ritterling gilt als ungenießbar oder schwach giftig.",
+                "GB": "Tricholoma saponaceum, also known as the soap-scented toadstool, soapy knight or soap tricholoma is an inedible mushroom found in woodlands in Europe and North America."
             },
-            "edibility": []
+            "edibility": [
+                "inedible"
+            ]
         },
         {
             "class": "tricholoma_sulphureum",
-            "categories": [],
+            "categories": [
+                "tricholoma"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Gemeiner_Schwefel-Ritterling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tricholoma_sulphureum"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Gemeiner Schwefel-Ritterling",
+                "GB": "Tricholoma sulphureum"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Gemeine Schwefel-Ritterling ist eine Pilzart aus der Familie der Ritterlingsverwandten, die in Laub- und Nadelwäldern Europas, Chinas und Nordamerikas vorkommt. Der bräunlich-gelbe Fruchtkörper wächst von August bis Dezember auf kalkhaltigen Böden. Er ist giftig und hat einen unangenehmen Geschmack und Geruch.",
+                "GB": "Tricholoma sulphureum, also known as sulphur knight or gas agaric, is an inedible or mildly poisonous mushroom found in woodlands in Europe. It has a distinctive bright yellow colour and an unusual smell likened to coal gas. It occurs in deciduous woodlands in Europe from spring to autumn."
             },
-            "edibility": []
+            "edibility": [
+                "poisonous"
+            ]
         },
         {
             "class": "xerocomus_badius",
-            "categories": [],
+            "categories": [
+                "imleria"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Maronen-R%C3%B6hrling",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Imleria_badia"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Maronen-Röhrling",
+                "GB": "Imleria badia"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Der Maronen-Röhrling ist eine Pilzart aus der Familie der Dickröhrlingsverwandten . Im Volksmund wird er auch Marone genannt, weil der halbkugelige bis gewölbte, dunkelbraune Hut der Fruchtkörper an Esskastanien erinnert. Ein weiterer Name, der sich ebenfalls auf den Hut bezieht, ist Braunkappe – die Bezeichnung wird seit einigen Jahren auch im Handel für den Riesen-Träuschling gebraucht. Markant sind die jung weißlichen und im Alter olivgelblichen Röhren, die auf Druck stark blauen. Das hat ihm auch den Namen Blaupilz eingebracht. Der Stiel hat eine braune bis gelblich-braune, stets blassere Farbe als der Hut und eine typische eingewachsene Maserung. Der Maronen-Röhrling ist ein beliebter und häufiger Speisepilz in bodensauren Nadelwäldern. In Deutschland, Österreich und der Schweiz ist er als Marktpilz zugelassen.",
+                "GB": "Imleria badia, commonly known as the bay bolete, is an edible, pored mushroom found in Europe and North America, where it grows in coniferous or mixed woods on the ground or on decaying tree stumps, sometimes in prolific numbers. Both the common and scientific names refer to the bay- or chestnut-coloured cap, which is almost spherical in young specimens before broadening and flattening out to a diameter up to 15 cm . On the cap underside are small yellowish pores that turn dull blue-grey when bruised. The smooth, cylindrical stipe, measuring 4–9 cm long by 1–2 cm thick, is coloured like the cap, but paler. Some varieties have been described from eastern North America, differing from the main type in both macroscopic and microscopic morphology."
             },
-            "edibility": []
+            "edibility": [
+                "choice"
+            ]
         }
     ],
     "version": "1.0"

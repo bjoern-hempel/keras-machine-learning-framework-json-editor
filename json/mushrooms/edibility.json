@@ -4,6 +4,7 @@
         "choice",
         "deadly",
         "edible",
+        "inadvisable",
         "inedible",
         "poisonous",
         "psychoactive"
@@ -14,9 +15,10 @@
             "2. Choice",
             "3. Deadly",
             "4. Edible",
-            "5. Inedible",
-            "6. Poisonous",
-            "7. Psychoactive"
+            "5. Inadvisable",
+            "6. Inedible",
+            "7. Poisonous",
+            "8. Psychoactive"
         ]
     }
 }
