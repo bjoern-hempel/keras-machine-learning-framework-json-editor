@@ -7,7 +7,7 @@
             "title": "Categories",
             "uniqueItems": true,
             "options": {
-                "collapsed": true
+                "collapsed": false
             },
             "items": {
                 "type": "object",
@@ -105,7 +105,7 @@
             "title": "Classes",
             "uniqueItems": true,
             "options": {
-                "collapsed": false
+                "collapsed": true
             },
             "items": {
                 "type": "object",

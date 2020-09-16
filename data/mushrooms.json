@@ -1,11 +1,107 @@
 {
     "categories": [
         {
-            "category": "Amanita",
+            "category": "agaricaceae",
+            "parent-categories": [
+                "agaricales"
+            ],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Champignonverwandte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Agaricaceae"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Champignonverwandte",
+                "GB": "Agaricaceae"
+            },
+            "description": {
+                "DE": "Die Champignonverwandten oder Egerlingsverwandten sind eine große Familie der Champignonartigen .",
+                "GB": "The Agaricaceae are a family of basidiomycete fungi and include the genus Agaricus, as well as basidiomycetes previously classified in the families Tulostomataceae, Lepiotaceae, and Lycoperdaceae."
+            }
+        },
+        {
+            "category": "agaricales",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "agaricomycetes",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "agaricomycetidae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "agaricus",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "amanita",
             "parent-categories": [
                 "amanitaceae"
             ],
-            "related-categories": [],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/de.wikipedia.org\/wiki\/Wulstlinge",
@@ -20,6 +116,1432 @@
             "description": {
                 "DE": "Die Wulstlinge (Amanita) sind eine große Pilzgattung aus der Familie der Wulstlingsverwandten (Amanitaceae). Dazu zählen auch die Artengruppen, die auf Deutsch als Kaiserlinge, Knollenblätterpilze und Scheidenstreiflinge bezeichnet werden. In Europa kommen rund 100 Arten, Varietäten und Formen vor bzw. sind dort zu erwarten. Einige Spezies wie der Perlpilz und der Orangegelbe Scheidenstreifling gelten als gute Speisepilze. Etliche Arten sind dagegen giftig, darunter der Grüne Knollenblätterpilz, der Pantherpilz und der Fliegenpilz. Letzterer Pilz ist die Typusart der Gattung.",
                 "GB": "The genus Amanita contains about 600 species of agarics, including some of the most toxic known mushrooms found worldwide, as well as some well-regarded edible species. This genus is responsible for approximately 95% of the fatalities resulting from mushroom poisoning, with the death cap accounting for about 50% on its own. The most potent toxin present in these mushrooms is α-amanitin."
+            }
+        },
+        {
+            "category": "amanitaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "armillaria",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "auricularia",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "auriculariaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "auriculariales",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "bankeraceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "boletaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "boletales",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "boletineae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "boletoideae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "boletus",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "calocybe",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "cantharellaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "cantharellales",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "cantharellus",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "coprinus",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "cortinariaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "cortinarius",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "craterellus",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "discinaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "flammulina",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "galerina",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "gomphaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "gomphales",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "gomphus",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "gyromitra",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "hydnangiaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "hygrocybe",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "hygrophoraceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "hypholoma",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "imleria",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        "incertae sedis",
+        {
+            "category": "infundibulicybe",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "inocybaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "inocybe",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "kuehneromyces",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "laccaria",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "lactarius",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "lactifluus",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "leccinellum",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "leccinoideae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "leccinum",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "lepista",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "leprocybe",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "lycoperdon",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "lyophyllaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "macrolepiota",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "megacollybia",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "morchella",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "morchellaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "paxillaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "paxillineae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "paxillus",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "pezizales",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "pezizomycetes",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "phallomycetidae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "physalacriaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "polyporales",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "porotheleaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "russula",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "russulaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "russulales",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "sarcodon",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "scleroderma",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "sclerodermataceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "sclerodermatineae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "singerocybe",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "sparassidaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "sparassis",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "strophariaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "suillaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "suillineae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "suillus",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "thelephorales",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "tricholoma",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "tricholomataceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
             }
         }
     ],

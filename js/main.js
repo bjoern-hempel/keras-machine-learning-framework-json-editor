@@ -359,12 +359,25 @@ function startEditor()
 
                             englishEditor.setValue(englishLinkUrl);
                         }
-                    }, language === 'DE', 'classes');
+                    }, language === 'DE', 'categories'); // categories, classes
                 });
             });
 
             /* set google opener */
             $("input[name*='[class]']").dblclick(function (e) {
+                let className = $(e.target).val();
+                openInNewTab(
+                    googleSearchLink.replace(
+                        /%s/,
+                        className.replace(/_/g, '%20') + (
+                            googleSearchAdd !== null ? '%20%s'.replace(/%s/, googleSearchAdd) : ''
+                        )
+                    )
+                );
+            });
+
+            /* set google opener */
+            $("input[name*='[category]']").dblclick(function (e) {
                 let className = $(e.target).val();
                 openInNewTab(
                     googleSearchLink.replace(
