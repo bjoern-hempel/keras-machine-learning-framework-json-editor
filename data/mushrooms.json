@@ -1672,40 +1672,44 @@
         },
         {
             "category": "tricholoma",
-            "parent-categories": [],
+            "parent-categories": [
+                "tricholomataceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ritterlinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tricholoma"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ritterlinge",
+                "GB": "Tricholoma"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Ritterlinge sind eine Pilzgattung mit relativ dickfleischigen Arten aus der Familie der Ritterlingsverwandten. Die Herkunft des wissenschaftlichen Namens Tricholoma bezieht sich auf den Bärtigen Ritterling, während der deutsche Name „Ritterling“ einer Legende nach die Pilze bezeichnet, die den Rittersleuten vorbehalten waren.",
+                "GB": "Tricholoma is a genus of fungus that contains many fairly fleshy white-spored gilled mushrooms which are found worldwide generally growing in woodlands. These are ectomycorrhizal fungi, existing in a symbiotic relationship with various species of coniferous or broad-leaved trees. The generic name derives from Ancient Greek: τριχο-, romanized: tricho-, lit. 'hair' and Ancient Greek: λῶμα, romanized: loma, lit. 'fringe, border' although only a few species have shaggy caps which fit this description."
             }
         },
         {
             "category": "tricholomataceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ritterlingsverwandte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Tricholomataceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ritterlingsverwandte",
+                "GB": "Tricholomataceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Ritterlingsverwandten sind eine große, kosmopolitisch verbreitete Familie in der Ordnung der Champignonartigen .",
+                "GB": "The Tricholomataceae are a large family of mushrooms within the Agaricales. Originally a classic \"wastebasket taxon\", the family included any white-, yellow-, or pink-spored genera in the Agaricales not already classified as belonging to e.g. the Amanitaceae, Lepiotaceae, Hygrophoraceae, Pluteaceae, or Entolomataceae."
             }
         }
     ],
