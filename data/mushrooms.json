@@ -1462,140 +1462,156 @@
         },
         {
             "category": "sclerodermataceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "sclerodermatineae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Sclerodermataceae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sclerodermataceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Kartoffelbovistverwandte",
+                "GB": "Sclerodermataceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Sclerodermataceae sind eine Familie von Pilzen der Ordnung Boletales, die mehrere Gattungen ungewöhnlicher Pilze enthält, die wenig Ähnlichkeit mit Steinpilzen haben. Taxa, zu denen auch Arten gehören, die gemeinhin als \"harthäutige Puffbälle\", \"Erdbälle\" oder \"Erdsterne\" bekannt sind, sind sowohl in gemäßigten als auch in tropischen Regionen weit verbreitet. Zu den bekanntesten Vertretern gehören der Erdball Scleroderma citrinum, der Farbpilz Pisolithus tinctorius und die \"Hübschmäuler\" der Gattung Calostoma.",
+                "GB": "The Sclerodermataceae are a family of fungi in the order Boletales, containing several genera of unusual fungi that little resemble boletes. Taxa, which include species commonly known as the ‘hard-skinned puffballs’, ‘earthballs’, or 'earthstars', are widespread in both temperate and tropical regions. The best known members include the earthball Scleroderma citrinum, the dye fungus Pisolithus tinctorius and the 'prettymouths' of the genus Calostoma."
             }
         },
         {
             "category": "sclerodermatineae",
-            "parent-categories": [],
+            "parent-categories": [
+                "boletales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Sclerodermatineae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sclerodermatineae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Sclerodermatineae",
+                "GB": "Sclerodermatineae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Sklerodermatineae ist eine Unterordnung der Pilzordnung Boletales. Sie wurde 2002 von den Mykologen Manfred Binder und Andreas Bresinsky beschrieben und umfasst neun Gattungen und etwa 80 Arten. Die Unterordnung enthält eine vielfältige Ansammlung von Fruchtkörpermorphologien, einschließlich Boletten, gasteroiden Formen, Erdsternen und Puffern. Die meisten Arten sind Ektomykorrhiza-Arten, obwohl die ökologische Rolle einiger Arten nicht mit Sicherheit bekannt ist. Es wird angenommen, dass die Unterordnung ihren Ursprung in der späten Kreidezeit in Asien und Nordamerika hat, und die Hauptgattungen diversifizierten sich um das mittlere Känozoikum.",
+                "GB": "Sclerodermatineae is a suborder of the fungal order Boletales. Circumscribed in 2002 by mycologists Manfred Binder and Andreas Bresinsky, it contains nine genera and about 80 species. The suborder contains a diverse assemblage fruit body morphologies, including boletes, gasteroid forms, earthstars, and puffballs. Most species are ectomycorrhizal, although the ecological role of some species is not known with certainty. The suborder is thought to have originated in the late Cretaceous in Asia and North America, and the major genera diversified around the mid Cenozoic ."
             }
         },
         {
             "category": "singerocybe",
-            "parent-categories": [],
+            "parent-categories": [
+                "tricholomataceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Singerocybe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Singerocybe"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Singerocybe",
+                "GB": "Singerocybe"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Singerocybe ist eine Pilzgattung, die sechs Arten umfasst. Singerocybe wurde 1988 von dem finnischen Mykologen Harri Harmaja mit Singerocybe viscida als Typusart umschrieben.",
+                "GB": "Singerocybe is a genus of fungi that contains six species. Singerocybe was circumscribed by the Finnish mycologist Harri Harmaja in 1988 with Singerocybe viscida as the type species."
             }
         },
         {
             "category": "sparassidaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "polyporales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Sparassidaceae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sparassidaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Gluckenverwandte",
+                "GB": "Sparassidaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Sparassidaceae sind eine Familie von Pilzen in der Ordnung Polyporales. Die Familie wurde 1910 vom deutschen Botaniker Wilhelm Herter auf die Gattung Sparassis umschrieben. Sparassiella wurde der Familie 1964 hinzugefügt. Ab April 2018 nimmt der Index Fungorum 10 Arten in die Familie der Sparassidaceae auf.",
+                "GB": "The Sparassidaceae are a family of fungi in the order Polyporales. The family was circumscribed by German botanist Wilhelm Herter in 1910 to contain the genus Sparassis. Sparassiella was added to the family in 1964. As of April 2018, Index Fungorum accepts 10 species in the Sparassidaceae."
             }
         },
         {
             "category": "sparassis",
-            "parent-categories": [],
+            "parent-categories": [
+                "sparassidaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Glucken_(Pilze)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sparassis"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Glucken (Pilze)",
+                "GB": "Sparassis"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Glucken sind eine Pilzgattung aus der Familie der Gluckenverwandten, die zum Verwandtschaftskreis der Stielporlingsartigen gehört.",
+                "GB": "Sparassis is a genus of parasitic and saprobic mushrooms characterised by their unique shape and appearance. This appearance can be described as similar to a sea sponge, a brain, or a head of cauliflower, from which it has been given its popular name."
             }
         },
         {
             "category": "strophariaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tr%C3%A4uschlingsverwandte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Strophariaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Träuschlingsverwandte",
+                "GB": "Strophariaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Träuschlingsverwandten sind eine Familie aus der Ordnung der Champignonartigen. Zu den Träuschlingsverwandten gehören Arten mit kleinen bis mittelgroßen und vereinzelt auch sehr großen Fruchtkörpern. Die Pilze wachsen auf Holz oder Erdboden.",
+                "GB": "The Strophariaceae are a family of fungi in the order Agaricales. Under an older classification, the family covered 18 genera and 1316 species. The species of Strophariaceae have red-brown to dark brown spore prints, while the spores themselves are smooth and have an apical germ pore. These agarics are also characterized by having a cutis-type pileipellis. Ecologically, all species in this group are saprotrophs, growing on various kinds of decaying organic matter. The family was circumscribed in 1946 by mycologists Rolf Singer and Alexander H. Smith."
             }
         },
         {
             "category": "suillaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "suillineae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schmierr%C3%B6hrlingsverwandte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Suillaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schmierröhrlingsverwandte",
+                "GB": "Suillaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Schmierröhrlingsverwandten sind eine Familie aus der Ordnung der Dickröhrlingsartigen mit weltweit 58 Arten.",
+                "GB": "The Suillaceae are a family of fungi in the order Boletales, containing the boletus-like Suillus, the small truffle-like Truncocolumella, as well as the monotypic genus Psiloboletinus. As of 2008, there are 54 species in the family. Gastrosuillus, once considered a distinct genus, has been shown with molecular analysis to be a recent evolutionary derivative of Suillus. Fuscoboletinus, described by Pomerleau and Smith in 1962, has also been subsumed into Suillus."
             }
         },
         {
             "category": "suillineae",
-            "parent-categories": [],
+            "parent-categories": [
+                "boletales"
+            ],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -1604,50 +1620,54 @@
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Suillineae",
+                "GB": "Suillineae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Suillineae",
+                "GB": "Suillineae"
             }
         },
         {
             "category": "suillus",
-            "parent-categories": [],
+            "parent-categories": [
+                "suillaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schmierr%C3%B6hrlinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Suillus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schmierröhrlinge",
+                "GB": "Suillus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Schmierröhrlinge sind eine Pilzgattung aus der Familie der Schmierröhrlingsverwandten.",
+                "GB": "Suillus is a genus of basidiomycete fungi in the family Suillaceae and order Boletales. Species in the genus are associated with trees in the pine family, and are mostly distributed in temperate locations in the Northern Hemisphere, although some species have been introduced to the Southern Hemisphere."
             }
         },
         {
             "category": "thelephorales",
-            "parent-categories": [],
+            "parent-categories": [
+                "incertae sedis"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Thelephorales",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Thelephorales"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Warzenpilzartige",
+                "GB": "Thelephorales"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Thelephorales sind eine Ordnung von Pilzen aus der Klasse der Agaricomyceten. Die Ordnung umfasst kortikale und hydnoide Pilze sowie einige wenige Polyporen und Clavarioid-Arten. Die meisten Pilze innerhalb der Thelephorales sind ektomykorrhizal. Keiner dieser Pilze ist von großer wirtschaftlicher Bedeutung, obwohl Sarkodon imbricatus essbar ist und kommerziell vermarktet wird, während mehrere Arten für die handwerkliche Färbung verwendet wurden.",
+                "GB": "The Thelephorales are an order of fungi in the class Agaricomycetes. The order includes corticioid and hydnoid fungi, together with a few polypores and clavarioid species. Most fungi within the Thelephorales are ectomycorrhizal. None is of any great economic importance, though Sarcodon imbricatus is edible and commercially marketed, whilst several species have been used for craft dyeing."
             }
         },
         {
