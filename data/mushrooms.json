@@ -213,7 +213,7 @@
         {
             "category": "auriculariales",
             "parent-categories": [
-                "incertae sedis"
+                "incertae_sedis"
             ],
             "urls": {
                 "wikipedia": {
@@ -402,7 +402,7 @@
         {
             "category": "cantharellales",
             "parent-categories": [
-                "incertae sedis"
+                "incertae_sedis"
             ],
             "urls": {
                 "wikipedia": {
@@ -1324,7 +1324,7 @@
         {
             "category": "polyporales",
             "parent-categories": [
-                "incertae sedis"
+                "incertae_sedis"
             ],
             "urls": {
                 "wikipedia": {
@@ -1408,7 +1408,7 @@
         {
             "category": "russulales",
             "parent-categories": [
-                "incertae sedis"
+                "incertae_sedis"
             ],
             "urls": {
                 "wikipedia": {
@@ -1660,7 +1660,7 @@
         {
             "category": "thelephorales",
             "parent-categories": [
-                "incertae sedis"
+                "incertae_sedis"
             ],
             "urls": {
                 "wikipedia": {
