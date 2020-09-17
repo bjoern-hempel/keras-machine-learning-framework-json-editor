@@ -1,5 +1,5 @@
 let googleSearchLink = 'https://www.google.com/search?q=%s';
-let googleSearchAdd = 'mushrooms';
+let googleSearchAdd = 'pilze wiki';
 
 function loadJSON(jsonPath, callback)
 {

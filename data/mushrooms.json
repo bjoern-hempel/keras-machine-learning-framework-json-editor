@@ -422,116 +422,128 @@
         },
         {
             "category": "cantharellus",
-            "parent-categories": [],
+            "parent-categories": [
+                "cantharellaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pfifferlinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cantharellus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Pfifferlinge",
+                "GB": "Cantharellus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Pfifferlinge sind eine Pilzgattung aus der Familie der Pfifferlingsverwandten. Die Typusart ist der Echte Pfifferling.",
+                "GB": "Cantharellus is a genus of popular edible mushrooms, commonly known as chanterelles, a name which can also refer to the type species, Cantharellus cibarius. They are mycorrhizal fungi, meaning they form symbiotic associations with plants, making them very difficult to cultivate. Caution must be used when identifying chanterelles for consumption due to lookalikes, such as the Jack-O-Lantern species, which can make a person very ill. Despite this, chanterelles are one of the most recognized and harvested groups of edible mushrooms."
             }
         },
         {
             "category": "coprinus",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Tintlinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Coprinus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Tintlinge",
+                "GB": "Coprinus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Tintlinge ist eine Bezeichnung für eine Gruppe von Pilzarten, die früher alle in die Gattung Coprinus gestellt wurden. Dabei handelt es sich um Arten der Agaricomycetidae, die saprobiontisch auf Holz, Torf, Dung oder Erde wachsen. Sie verfügen alle über einen jung eichel- bis glockenförmigen, später aufschirmenden Hut, der im Alter zerfließt. Ihre Fruchtschicht besteht aus Lamellen, die anfänglich weiß bis hell ockerlich sind und später dunkelbraun bis schwarz werden. Der Stiel setzt bei allen Arten in der Mitte des Hutes an und ist innen hohl. Ihr Sporenabdruck ist dunkelbraun bis schwarz.",
+                "GB": "Coprinus is a small genus of mushroom-forming fungi consisting of Coprinus comatus - the shaggy ink cap or shaggy mane - and several of its close relatives. Until 2001, Coprinus was a large genus consisting of all agaric species in which the lamellae autodigested to release their spores. The black ink-like liquid this creates gave these species their common name \"ink cap\" or \"inky cap\" ."
             }
         },
         {
             "category": "cortinariaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schleierlingsverwandte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cortinariaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schleierlingsverwandte",
+                "GB": "Cortinariaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Schleierlingsverwandten sind eine sehr artenreiche Familie innerhalb der Ordnung der Champignonartigen. Die Typusgattung der Familie sind die Cortinarii, die diesen Namen tragen, weil ihre Fruchtkörper ein schleierartiges Velum besitzen, das man als Cortina oder zu Deutsch als Schleier bezeichnet. Die Cortina besteht aus haarartigen Fasern, die die jungen Lamellen wie ein Schleier schützend verhüllen. Neben den typischen Blätterpilzen kommen Arten mit sekotioiden Fruchtkörpern und gasteroide, trüffelartige Arten vor.",
+                "GB": "The Cortinariaceae are a large family of gilled mushrooms found worldwide, containing over 2100 species. The family takes its name from its largest genus, the varied species of the genus Cortinarius. Many genera formerly in the Corinariaceae have been placed in various other families, including Hymenogastraceae, Inocybaceae and Bolbitiaceae."
             }
         },
         {
             "category": "cortinarius",
-            "parent-categories": [],
+            "parent-categories": [
+                "cortinariaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schleierlinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cortinarius"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schleierlinge",
+                "GB": "Cortinarius"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Schleierlinge sind eine sehr artenreiche Gattung in der Familie der Schleierlingsverwandten. Unter Mykologen ist auch der Begriff Cortinarien als Bezeichnung für diese Gattung üblich. Der wissenschaftliche Name Cortinarius leitet sich ab von lateinisch Cortina, was übersetzt „Schleier“ heißt. Bei letzterem handelt es sich um ein sehr feines, aus spinnwebartigen Fasern gebildetes Velum zwischen Hutrand und Stiel, weshalb die Gattung auch Haarschleierlinge genannt wird. Die Cortina ist ein charakteristisches Merkmal, kommt aber auch bei einigen anderen Gattungen vor.",
+                "GB": "Cortinarius is a globally distributed genus of mushrooms in the family Cortinariaceae. It is suspected to be the largest genus of agarics, containing over 2,000 widespread species. A common feature among all species in the genus Cortinarius is that young specimens have a cortina between the cap and the stem, hence the name, meaning curtained. Most of the fibres of the cortina are ephemeral and will leave no trace once gone, except for limited remnants on the stem or cap edge in some species. All have a rusty brown spore print. The common names cortinar and webcap refer to members of the genus. Due to dangerous toxicity of several species and the fact that it is difficult to distinguish between various species of the genus, non-expert consumption of mushrooms from the genus is discouraged."
             }
         },
         {
             "category": "craterellus",
-            "parent-categories": [],
+            "parent-categories": [
+                "cantharellaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kraterellen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Craterellus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Kraterellen",
+                "GB": "Craterellus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Kraterellen oder Trompeten sind eine Pilzgattung aus der Familie der Pfifferlingsverwandten.",
+                "GB": "Craterellus is a genus of generally edible fungi similar to the closely related chanterelles, with some new species recently moved from the latter to the former. Both groups lack true gills on the underside of their caps, though they often have gill-like wrinkles and ridges."
             }
         },
         {
             "category": "discinaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "pezizales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Discinaceae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Discinaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Giftlorchelverwandten",
+                "GB": "Discinaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Discinaceae sind eine Familie von Ascomyceten-Pilzen, deren bekannteste Mitglieder die Scheinmorcheln der Gattung Gyromitra sind. Ursprünglich 1961 von Erich Heinz Benedix errichtet, wurde sie 1997 von der Mykologin Kerry O'Donnell in einer molekularen Studie über ribosomale DNA als eine diskrete Klasse gefunden. Im Jahr 2008 soll die Familie 5 Gattungen und 58 Arten umfassen.",
+                "GB": "The Discinaceae are a family of ascomycete fungi, the best known members of which are the false morels of the genus Gyromitra. Originally erected by Erich Heinz Benedix in 1961, it was found to be a discrete clade in a molecular study of ribosomal DNA by mycologist Kerry O'Donnell in 1997. As of 2008, the family is thought to contain 5 genera and 58 species."
             }
         },
         {
@@ -539,75 +551,81 @@
             "parent-categories": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pilze",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Fungus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Pilze",
+                "GB": "Fungus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Pilze bilden das dritte große Reich eukaryotischer Lebewesen neben den Tieren und den Pflanzen. Sie sind wie die Pflanzen, zu denen sie lange gerechnet wurden, sesshaft, können jedoch keine Photosynthese treiben. Daher müssen sie sich wie Tiere durch die Aufnahme organischer Substanzen ernähren, die sie jedoch in gelöster Form aus der Umgebung aufnehmen. Nach heutiger Kenntnis sind die Pilze näher mit den Tieren als mit den Pflanzen verwandt. Zu ihnen gehören vor allem Vielzeller wie die Ständerpilze, aber auch Einzeller wie die Backhefe sowie coenocytische Formen mit vielen Zellkernen, aber ohne zellige Untergliederung.",
+                "GB": "A fungus is any member of the group of eukaryotic organisms that includes microorganisms such as yeasts and molds, as well as the more familiar mushrooms. These organisms are classified as a kingdom, which is separate from the other eukaryotic life kingdoms of plants and animals."
             }
         },
         {
             "category": "flammulina",
-            "parent-categories": [],
+            "parent-categories": [
+                "physalacriaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Samtfu%C3%9Fr%C3%BCblinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Flammulina"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Samtfußrüblinge",
+                "GB": "Flammulina"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Samtfußrüblinge sind eine Pilzgattung aus der Familie der Physalacriaceae. Die Pilze wachsen meist in Büscheln an totem oder lebendem Holz. Die frostresistenten Fruchtkörper erscheinen überwiegend im Winter und gelten als essbar. In der asiatischen Küche ist der Gemeine Samtfußrübling ein geschätzter Speisepilz und wird deshalb auch kultiviert.",
+                "GB": "Flammulina is a genus of fungi in the family Physalacriaceae. The genus, widespread in temperate regions, has been estimated to contain 10 species."
             }
         },
         {
             "category": "galerina",
-            "parent-categories": [],
+            "parent-categories": [
+                "strophariaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/H%C3%A4ublinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Galerina"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Häublinge",
+                "GB": "Galerina"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Häublinge sind eine Pilzgattung aus der Familie der Träuschlingsverwandten.",
+                "GB": "Galerina is a genus of small brown-spore saprobic mushrooms, with over 300 species found throughout the world, from the far north to remote Macquarie Island in the Southern Ocean. Species are typically small and hygrophanous, with a slender and brittle stem. They are often found growing on wood, and when on the ground have a preference for mossy habitats. This group is most noted for toxic species which are occasionally confused with hallucinogenic species of Psilocybe."
             }
         },
         {
             "category": "gomphaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "gomphales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Gomphaceae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gomphaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schweinsohrartige",
+                "GB": "Gomphaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Gomphaceae sind eine vielfältige Familie von Pilzen, die zu den klassisch als Phallales oder kladistisch als Gomphoid-Phalloid-Klade bekannten Pilzen gehören. Die Familie hat 13 Gattungen und 287 Arten.",
+                "GB": "The Gomphaceae are a diverse family of fungi belonging in what is classically known as the Phallales or cladistically as the gomphoid-phalloid clade. The family has 13 genera and 287 species."
             }
         },
         {
