@@ -1046,97 +1046,107 @@
         },
         {
             "category": "lycoperdon",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/St%C3%A4ublinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lycoperdon"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Stäublinge",
+                "GB": "Lycoperdon"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Stäublinge sind eine Pilzgattung aus der Familie der Champignonverwandten. Bis auf den Hasen-Stäubling sind Stäublinge in einen sterilen Stiel- und einen sporenproduzierenden Kopfteil gegliedert. Der Name bezieht sich auf die reifen Fruchtkörper, deren Sporenstaub im Inneren bei Berührung oder auf Druck in einer deutlichen Wolke verpufft.",
+                "GB": "Lycoperdon is a genus of puffball mushrooms. The genus has a widespread distribution and contains about 50 species. In general, it contains the smaller species such as the pear-shaped puffball and the gem-studded puffball. It was formerly classified within the now-obsolete order Lycoperdales, as the type genus which, following a restructuring of fungal taxonomy brought about by molecular phylogeny, has been split. Lycoperdon is now placed in the family Agaricaceae of the order Agaricales."
             }
         },
         {
             "category": "lyophyllaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Lyophyllaceae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lyophyllaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Raslingsverwandte",
+                "GB": "Lyophyllaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Lyophyllaceae sind eine Familie von Pilzen der Ordnung Agaricales. Eine Schätzung aus dem Jahr 2008 ergab acht Gattungen und 157 Arten; ab November 2014 listet der Catalog of Life 13 Gattungen der Familie auf. Lyophyllaceae wurde 1981 vom Mykologen Walter Jülich umschrieben.",
+                "GB": "The Lyophyllaceae is a family of fungi in the order Agaricales. A 2008 estimate indicated eight genera and 157 species; as of November 2014, the Catalog of Life lists 13 genera in the family. Lyophyllaceae was circumscribed by mycologist Walter Jülich in 1981."
             }
         },
         {
             "category": "macrolepiota",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Riesenschirmlinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Macrolepiota"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Riesenschirmlinge",
+                "GB": "Macrolepiota"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Riesenschirmlinge sind eine Pilzgattung aus der Familie der Champignonverwandten.",
+                "GB": "Macrolepiota is a genus of white spored, gilled mushrooms of the family Agaricaceae. The best-known member is the parasol mushroom. The widespread genus contains about 40 species."
             }
         },
         {
             "category": "megacollybia",
-            "parent-categories": [],
+            "parent-categories": [
+                "porotheleaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Megacollybia",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Megacollybia"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Megacollybia",
+                "GB": "Megacollybia"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Megacollybia ist eine Pilzgattung aus der Familie der Marasmiaceae. Die früher als monotypisch geltende Gattung wurde 2007 auf der Grundlage genetischer Daten in mehrere Arten aufgeteilt. Die Typusart, M. platyphylla, ist in ihrer Verbreitung auf Europa, Skandinavien sowie West- und Zentralrussland beschränkt. M. rimosa wurde 2013 aus Brasilien als neu in der Wissenschaft beschrieben.",
+                "GB": "Megacollybia is a genus of fungus in the family Marasmiaceae. Previously thought to be monotypic, the genus was split into several species on the basis of genetic data in 2007. The type species, M. platyphylla, is restricted in distribution to Europe, Scandinavia, and western and central Russia. M. rimosa was described as new to science from Brazil in 2013."
             }
         },
         {
             "category": "morchella",
-            "parent-categories": [],
+            "parent-categories": [
+                "morchellaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Morcheln",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Morchella"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Morcheln",
+                "GB": "Morchella"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Morcheln sind eine Gattung der Schlauchpilze.",
+                "GB": "Morchella, the true morels, is a genus of edible sac fungi closely related to anatomically simpler cup fungi in the order Pezizales. These distinctive fungi have a honeycomb appearance due to the network of ridges with pits composing their caps. Morels are prized by gourmet cooks, particularly in French cuisine. Due to difficulties in cultivation, commercial harvesting of wild morels has become a multimillion-dollar industry in the temperate Northern Hemisphere, in particular North America, Turkey, China, the Himalayas, India, and Pakistan, where these highly prized fungi are found in abundance."
             }
         },
         {
@@ -1144,42 +1154,46 @@
             "parent-categories": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Morchellaceae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Morchellaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Morchelverwandte",
+                "GB": "Morchellaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Morchellaceae sind eine Familie von Ascomyceten-Pilzen in der Ordnung Pezizales. Gemäss einem Standardnachschlagewerk enthält die Familie mindestens 49 Arten, die auf 4 Gattungen verteilt sind. 2012 wurden jedoch 5 Gattungen hinzugefügt, die das Sequestrat und das hypogäische Ascoma produzieren. Die bekanntesten Mitglieder sind die hochgeschätzten und kommerziell gepflückten echten Morcheln der Gattung Morchella, die Fingerhutmorcheln der Gattung Verpa und eine Gattung der becherförmigen Pilze Disciotis. Die übrigen vier Gattungen produzieren die sequestrierten Fruchtkörper.",
+                "GB": "The Morchellaceae are a family of ascomycete fungi in the order Pezizales. According to a standard reference work, the family has contained at least 49 species distributed among 4 genera, but in 2012, 5 genera producing the sequestrate and hypogeous ascoma were added. The best-known members are the highly regarded and commercially picked true morels of the genus Morchella, the thimble morels of the genus Verpa, and a genus of cup-shaped fungi Disciotis. The remaining four genera produce the sequestrate fruit bodies."
             }
         },
         {
             "category": "paxillaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "paxillineae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Paxillaceae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Paxillaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Kremplingsverwandte",
+                "GB": "Paxillaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Paxillaceae sind eine Familie pilzbildender Pilze mit enger Verwandtschaft zu den Boletten. Insgesamt umfasst die Familie neun Gattungen und 78 Arten. Die Gattungen Paxillus, die Pilze mit dekurrenten Kiemen enthält, und Gyrodon, die u.a. Mitglieder mit dekurrenten Poren hat, gehören zur Gattung der Paxillus. Der französische Mykologe René Maire hatte die Familie 1902 aufgestellt, indem er sie zwischen die Pilze Agarics und Boletes einordnete und die Ähnlichkeiten der Gruppen mit der letzteren Gruppe erkannte. Maire's Verwendung des Namens wurde später als ungültig erachtet, und die Autorität der Gattung wird Johannes Paulus Lotsy zugeschrieben. Die molekulare Forschung bestätigt die Verwandtschaft von Gyrodon mit dem rekurrent-porigen Pilz G. lividus, Paragyrodon mit der Typusart P. sphaerosporus und Paxillus als Schwestergruppen, die zusammen in der Nähe der Basis eines phylogenetischen Baumes liegen, aus dem die Gattung Boletus hervorgeht. Der Name Gyrodontaceae, 1951 vom belgischen Botaniker Paul Heinemann veröffentlicht, gilt als Synonym für Paxillaceae.",
+                "GB": "The Paxillaceae are a family of mushroom-forming fungi bearing close affinity to the boletes. Collectively, the family contains nine genera and 78 species. The type genus is Paxillus, containing fungi with decurrent gills, and Gyrodon, which has members with decurrent pores, among others. French mycologist René Maire had erected the family in 1902, placing it between the agarics and boletes and recognizing the groups' similarities with the latter group. Maire's usage of the name was later deemed to be invalid, and the genus authority is attributed to Johannes Paulus Lotsy. Molecular research confirms the relations of Gyrodon, with the decurrent-pored mushroom G. lividus, Paragyrodon, with the type species P. sphaerosporus, and Paxillus as sister groups, together lying near the base of a phylogenetic tree from which the genus Boletus arises. The name Gyrodontaceae, published by Belgian botanist Paul Heinemann in 1951, is considered synonymous with Paxillaceae."
             }
         },
         {
             "category": "paxillineae",
-            "parent-categories": [],
+            "parent-categories": [
+                "boletales"
+            ],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -1188,88 +1202,96 @@
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Paxillineae",
+                "GB": "Paxillineae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Paxillineae",
+                "GB": "Paxillineae"
             }
         },
         {
             "category": "paxillus",
-            "parent-categories": [],
+            "parent-categories": [
+                "paxillaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Echte_Kremplinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Paxillus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Echte Kremplinge",
+                "GB": "Paxillus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Echten Kremplinge sind eine Pilzgattung aus der Familie der Kremplingsverwandten. Trotz ihres lamellenartig ausgebildeten Hymenophors gehören sie zur Dickröhrlingsverwandtschaft. Früher beinhaltete die Gattung auch die saprob lebenden Holzkremplinge .",
+                "GB": "Paxillus is a genus of mushrooms of which most are known to be poisonous or inedible. Species include Paxillus involutus and Paxillus vernalis. Two former species—Tapinella panuoides and Tapinella atrotomentosa—have now been transferred to the related genus Tapinella in the family Tapinellaceae\n"
             }
         },
         {
             "category": "pezizales",
-            "parent-categories": [],
+            "parent-categories": [
+                "pezizomycetes"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Becherlingsartige",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pezizales"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Becherlingsartige",
+                "GB": "Pezizales"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Becherlingsartigen sind eine Ordnung der Schlauchpilze und umfassen viele der als Speisepilz genutzten Schlauchpilze, so auch die Trüffel. Sie bilden alleine die Klasse der Pezizomycetes.",
+                "GB": "The Pezizales are an order of the subphylum Pezizomycotina within the phylum Ascomycota. The order contains 16 families, 199 genera, and 1683 species. It contains a number of species of economic importance, such as morels, the black and white truffles, and the desert truffles. The Pezizales can be saprobic, mycorrhizal, or parasitic on plants. Species grow on soil, wood, leaves and dung. Soil-inhabiting species often fruit in habitats with a high pH and low content of organic matter, including disturbed ground. Most species occur in temperate regions or at high elevation. Several members of the Sarcoscyphaceae and Sarcosomataceae are common in tropical regions."
             }
         },
         {
             "category": "pezizomycetes",
-            "parent-categories": [],
+            "parent-categories": [
+                "fungi"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Pezizomycetes",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Pezizomycetes"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Pezizomycetes",
+                "GB": "Pezizomycetes"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Pezizomyceten sind eine Klasse von Pilzen innerhalb der Division Ascomycota.",
+                "GB": "Pezizomycetes are a class of fungi within the division Ascomycota."
             }
         },
         {
             "category": "phallomycetidae",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricomycetes"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Phallomycetidae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Phallomycetidae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Phallomycetidae",
+                "GB": "Phallomycetidae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Phallomycetidae ist eine Unterklasse der Agaricomycetes und umfasst sehr unterschiedliche Formen wie die Stinkmorchel, Schweinsohren oder die Erdsterne.",
+                "GB": "Phallomycetidae is a subclass of the class Agaricomycetes of fungi."
             }
         },
         {
@@ -1277,151 +1299,165 @@
             "parent-categories": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Physalacriaceae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Physalacriaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Physalacriaceae",
+                "GB": "Physalacriaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Physalacriaceae sind eine Familie von Pilzen in der Ordnung Agaricales. Die Arten der Familie haben eine weite Verbreitung, die von der Arktis bis in die Tropen, z.B. Gloiocephala, und von Meeresstandorten und Süßwasser bis zu semiariden Wäldern reicht.",
+                "GB": "The Physalacriaceae are a family of fungi in the order Agaricales. Species in the family have a widespread distribution, ranging from the Arctic,, to the tropics, e.g. Gloiocephala, and from marine sites and fresh waters to semiarid forests ."
             }
         },
         {
             "category": "polyporales",
-            "parent-categories": [],
+            "parent-categories": [
+                "incertae sedis"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Stielporlingsartige",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Polyporales"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Stielporlingsartige",
+                "GB": "Polyporales"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Stielporlingsartigen sind eine Ordnung Großpilze aus der Klasse Agaricomycetes. Früher wurden sie mit den Stachel-, Keulen- und Leistenpilzen sowie sämtlichen Formen der krustenartigen Rindenpilzen als Nichtblätterpilze bezeichnet. Diese Einordnung ist aber nicht mehr aktuell, da sich das Taxon als polyphyletisch erwiesen hat.",
+                "GB": "The Polyporales are an order of about 1800 species of fungi in the division Basidiomycota. The order includes some polypores as well as many corticioid fungi and a few agarics. Many species within the order are saprotrophic, most of them wood-rotters. Some genera, such as Ganoderma and Fomes, contain species that attack living tissues and then continue to degrade the wood of their dead hosts. Those of economic importance include several important pathogens of forest and amenity trees and a few species that cause damage by rotting structural timber. Some of the Polyporales are commercially cultivated and marketed for use as food items or in traditional Chinese medicine."
             }
         },
         {
             "category": "porotheleaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Porotheleaceae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Porotheleaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Porotheleaceae",
+                "GB": "Porotheleaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Porotheleaceae sind eine Familie von saprophytischen, hauptsächlich holzzerstörenden Pilzen in der Ordnung Agaricales, die in erster Linie Agaricales sind, aber auch cyphelloide und polyporoide Mitglieder umfassen. Die Familie wurde in der Literatur informell als \"Hydropoid\"-Klasse zitiert. Die Typusgattung, Porotheleum, wurde 2002 in die phylogenetisch definierte Klasse eingeordnet, aber die Klasse wurde 2006 stärker unterstützt, ohne jedoch Porotheleum einzubeziehen. Ihre Schwestergruppe sind die Cyphellaceae, beide in der \"marasmioiden Klasse\". Einige der einbezogenen Taxa werden von Ameisen kultiviert. In jüngerer Zeit wurde die Familie in einer Analyse, die Porotheleum einbezog, anerkannt.",
+                "GB": "The Porotheleaceae are a family of saprophytic, mainly wood-decay fungi in the order Agaricales that are primarily agarics, but also include cyphelloid and polyporoid members. The family had been informally cited in the literature as the 'hydropoid' clade. The type genus, Porotheleum, was placed in the phylogenetically defined clade in 2002 but the clade was more strongly supported in 2006 but without including Porotheleum. Its sister group is the Cyphellaceae, both in the 'marasmioid clade'. Some included taxa are cultivated by ants. More recently the family was recognized in an analysis that included Porotheleum."
             }
         },
         {
             "category": "russula",
-            "parent-categories": [],
+            "parent-categories": [
+                "russulaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/T%C3%A4ublinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Russula"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Täublinge",
+                "GB": "Russula"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Täublinge sind eine sehr umfangreiche Pilzgattung aus der Familie der Täublingsverwandten in der Ordnung der Täublingsartigen. Die Täublinge zählen mit schätzungsweise 750 Arten zu den artenreichsten Pilzgattungen. Es handelt sich zumindest bei den europäischen Arten der weltweit verbreiteten Gattung ausschließlich um Mykorrhiza-Pilze, die für den Bestand unserer Wälder unverzichtbar sind. Die Fruchtkörper sind meist recht groß und häufig auffallend bunt, zudem zählen einige Arten zu den beliebtesten Speisepilzen. So sind die Täublinge gleichermaßen bei Mykologen und Pilzsammlern sehr beliebt. Zu ihren charakteristischsten Merkmalen gehören neben den spröden Lamellen das glatt wie eine Karotte brechende Fleisch. Der Grund hierfür sind die im Pilzfleisch eingelagerten Kugelzellen, die Sphaerozysten. Eine weitere Besonderheit ist das Sporenornament, das sind warzige oder dornige Verzierungen, die die Sporen unter dem Mikroskop fast wie Kieselalgen aussehen lassen. Allerdings wird dieses Ornament erst sichtbar, wenn man die Sporen mit Jodreagenz anfärbt. All diese Merkmale teilen sich die Täublinge mit den Milchlingen, ihrer Schwestergattung, von der sie sich dadurch unterscheiden, dass ihre Saftgänge im Gegensatz zu den Milchlingen keinen Milchsaft führen. Die Gattung Russula wurde von Christian Hendrik Persoon im Jahre 1796 beschrieben.",
+                "GB": "Around 750 worldwide species of ectomycorrhizal mushrooms compose the genus Russula. They are typically common, fairly large, and brightly colored – making them one of the most recognizable genera among mycologists and mushroom collectors. Their distinguishing characteristics include usually brightly coloured caps, a white to dark yellow spore print, brittle, attached gills, an absence of latex, and absence of partial veil or volva tissue on the stem. Microscopically, the genus is characterised by the amyloid ornamented spores and flesh composed of spherocysts. Members of the related genus Lactarius have similar characteristics but emit a milky latex when their gills are broken. The genus was described by Christian Hendrik Persoon in 1796."
             }
         },
         {
             "category": "russulaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "russulales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/T%C3%A4ublingsverwandte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Russulaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Täublingsverwandte",
+                "GB": "Russulaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Täublingverwandten, in älterer Literatur teils auch „Sprödblättler“ genannt, sind eine Familie von Großpilzen aus der Ordnung der Täublingsartigen .",
+                "GB": "The Russulaceae are a diverse family of fungi in the order Russulales, with roughly 1,900 known species and a worldwide distribution. They comprise the brittlegills and the milk-caps, well-known mushroom-forming fungi that include some edible species. These gilled mushrooms are characterised by the brittle flesh of their fruitbodies."
             }
         },
         {
             "category": "russulales",
-            "parent-categories": [],
+            "parent-categories": [
+                "incertae sedis"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/T%C3%A4ublingsartige",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Russulales"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Täublingsartige",
+                "GB": "Russulales"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Täublingsartigen sind eine Ordnung von Großpilzen aus der Klasse der Agaricomycetes.",
+                "GB": "The Russulales are an order of the Agaricomycetes,. According to the Dictionary of the Fungi, the order consists of 12 families, 80 genera, and 1767 species. According to Species Fungorum , the order contains 13 families, 117 genera , and 3,060 species."
             }
         },
         {
             "category": "sarcodon",
-            "parent-categories": [],
+            "parent-categories": [
+                "bankeraceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Braunsporstachelinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Sarcodon"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Braunsporstachelinge",
+                "GB": "Sarcodon"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Braunsporstachelinge umfassen fleischige Stachelpilze mit kompakteren Fruchtkörpern. Das Sporenpulver hat eine braune Farbe und die Sporen sind typisch höckerig geformt. Alle Arten sind Bodenbewohner.",
+                "GB": "Sarcodon is a genus of fungi in the family Bankeraceae, which is part of the order Thelephorales known for its almost universal ectomycorrhizal life style.\nThe genus owes its name to the presence of teeth-like spines on the hymenophore, it is derived from ancient greek; sarco = flesh and odon = tooth. This is why they are commonly called \"tooth fungi\", or \"Hydnoid fungi\"."
             }
         },
         {
             "category": "scleroderma",
-            "parent-categories": [],
+            "parent-categories": [
+                "sclerodermataceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Kartoffelboviste",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Scleroderma_(fungus)"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Kartoffelboviste",
+                "GB": "Scleroderma"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Kartoffel- oder Hartboviste sind eine Pilzgattung aus der Familie der Kartoffelbovistverwandten. Das Äußere der Fruchtkörper lässt eine Verwandtschaft zu den Bovisten und Stäublingen vermuten, tatsächlich aber zählen sie zu den Dickröhrlingsartigen. Früher wurden die Sclerodermataceae auch zusammen mit den Wettersternen in die eigene Ordnung Sclerodermatales gestellt. Die Vertreter der Gattung sind giftig. Gering dosiert wurden die Kartoffelboviste auch schon zur Fälschung von Echten Trüffeln in Lebensmitteln eingesetzt.",
+                "GB": "Scleroderma is a genus of fungi, commonly known as earth balls, now known to belong to the Boletales order, in suborder Sclerodermatineae. The best known species are S. citrinum and S. verrucosum. They are found worldwide.\nVarious members of this genus are used as inoculation symbionts to colonize and promote the growth of tree seedlings in nurseries. They are not edible."
             }
         },
         {
