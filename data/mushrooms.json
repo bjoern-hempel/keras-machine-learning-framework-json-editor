@@ -693,7 +693,9 @@
         },
         {
             "category": "hydnangiaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricales"
+            ],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/en.wikipedia.org\/wiki\/Hydnangiaceae",
@@ -733,7 +735,9 @@
         },
         {
             "category": "hygrophoraceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricales"
+            ],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/en.wikipedia.org\/wiki\/Hygrophoraceae",
@@ -1151,7 +1155,9 @@
         },
         {
             "category": "morchellaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "pezizales"
+            ],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/en.wikipedia.org\/wiki\/Morchellaceae",
@@ -1296,7 +1302,9 @@
         },
         {
             "category": "physalacriaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricales"
+            ],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/en.wikipedia.org\/wiki\/Physalacriaceae",
