@@ -65,40 +65,44 @@
         },
         {
             "category": "agaricomycetidae",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricomycetes"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Agaricomycetidae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Agaricomycetidae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Agaricomycetidae",
+                "GB": "Agaricomycetidae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Agaricomycetidae ist die artenreichste Unterklasse der Agaricomycetes. Sie umfasst zahlreiche bekannte essbare und giftige Pilze. Früher war für Agaricomycetidae die Bezeichnung Hymenomycetidae, beziehungsweise eingedeutscht Hymenomyceten geläufig.",
+                "GB": "Agaricomycetidae is a subclass of fungi, in the division Basidiomycota. The name Agaricomycetidae had previously been named by Marcel Locquin in 1984, but his publication did not contain a Latin diagnosis and it is therefore invalid under the International Code of Nomenclature for algae, fungi, and plants. It was subsequently validly published by Erast Parmasto in 1986."
             }
         },
         {
             "category": "agaricus",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Champignons",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Agaricus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Champignons",
+                "GB": "Agaricus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Champignons, zu deutsch auch Egerlinge oder Angerlinge, sind eine Pilzgattung aus der Familie der Champignonverwandten .",
+                "GB": "Agaricus is a genus of mushrooms containing both edible and poisonous species, with possibly over 300 members worldwide. The genus includes the common mushroom and the field mushroom, the dominant cultivated mushrooms of the West."
             }
         },
         {
@@ -124,78 +128,86 @@
         },
         {
             "category": "amanitaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Wulstlingsverwandte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Amanitaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Wulstlingsverwandte",
+                "GB": "Amanitaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Wulstlingsverwandten sind eine Pilzfamilie aus der Ordnung der Champignonartigen. Die Stellung der Familie wird in der Literatur unterschiedlich dargestellt. Einige Autoren stellen einzelne oder alle Gattungen dieser Familie zu den Dachpilzverwandten .",
+                "GB": "The Amanitaceae is a family of mushroom-forming fungi. The family, also commonly called the amanita family, is in order Agaricales, the gilled mushrooms. The family consists primarily of the large genus Amanita, but also includes the smaller genera Amarrendia, Catatrama, Limacella, Limacellopsis, Saproamanita, Torrendia and Zhuliangomyces. Both Amarrendia and Torrendia are considered to be synonymous with Amanita but appear quite different because they are secotioid."
             }
         },
         {
             "category": "armillaria",
-            "parent-categories": [],
+            "parent-categories": [
+                "physalacriaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Hallimasche",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Armillaria"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Hallimasche",
+                "GB": "Armillaria"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Hallimasche oder Honigpilze sind eine Pilzgattung aus der Familie Physalacriaceae mit mehreren, schwer unterscheidbaren Arten beziehungsweise Kleinarten. Man spricht hier auch von einem Aggregat, dem Hallimaschkomplex. Viele Arten besitzen am Stiel einen wattigen Ring, der aber mit zunehmender Reife der Fruchtkörper durch Witterungseinflüsse und Schneckenfraß verloren gehen kann. Einige Arten befallen auch lebende Bäume, bringen diese zum Absterben und gelten deshalb als Forstschädlinge.",
+                "GB": "Armillaria, is a genus of parasitic fungi that includes the A. mellea species known as honey fungi that live on trees and woody shrubs. It includes about 10 species formerly categorized summarily as A. mellea. Armillarias are long-lived and form some of the largest living organisms in the world. The largest known organism covers more than 3.4 square miles in Oregon's Malheur National Forest and is more than 2,400 years old. Some species of Armillaria display bioluminescence, resulting in foxfire."
             }
         },
         {
             "category": "auricularia",
-            "parent-categories": [],
+            "parent-categories": [
+                "auriculariaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ohrlappenpilze",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Auricularia"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ohrlappenpilze",
+                "GB": "Auricularia"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Ohrlappenpilze sind eine Pilzgattung aus der Familie der Ohrlappenpilzverwandten.",
+                "GB": "Auricularia is a genus of jelly fungi in the family Auriculariaceae. Preliminary phylogenetic studies suggest the Exidiaceae is closely related to Auriculariaceae – the two share many morphological traits. Fruitbody either resupinate or pileate and then either ear-to shell-shaped or forming narrow, imbricate brackets, flabby elastic or tough gelatinous; hymenial surface smooth, wrinkled or veined, often purplish. Basidia cylindrical, with 1–3 transverse septa. Spores narrowly ellipsoid to allantoid, hyaline, smooth. Most Auricularia species are edible and are grown commercially. Auricularia species are widely distributed in Kerala's Western Ghats, and recently, Auricularia auricula-judae, A. polytricha, and A. mesenterica have been reported."
             }
         },
         {
             "category": "auriculariaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "auriculariales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Ohrlappenpilzverwandte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Auriculariaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ohrlappenpilzverwandte",
+                "GB": "Auriculariaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Ohrlappenpilzverwandten sind derzeit die einzige Familie innerhalb der Ordnung der Ohrlappenpilzartigen. Die Pilze haben gallertartige Fruchtkörper und segmentierte Basidien. Die Familie enthält über 100 Arten, die als Saprobionten auf totem Holz wachsen. Einige Arten sind besonders in Ostasien häufig kultivierte Speisepilze. Auch die Gattungen, die früher in die Familie der Drüslingsverwandten gestellt wurden, gehören neuerdings zu den Ohrlappenpilzverwandten.",
+                "GB": "The Auriculariaceae are a family of fungi in the order Auriculariales. Species within the family were formerly referred to the \"heterobasidiomycetes\" or \"jelly fungi\", since many have gelatinous basidiocarps that produce spores on septate basidia. Around 100 species are known worldwide. All are believed to be saprotrophic, most growing on dead wood. Fruit bodies of several Auricularia species are cultivated for food on a commercial scale, especially in China."
             }
         },
         {
