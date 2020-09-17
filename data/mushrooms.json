@@ -630,59 +630,65 @@
         },
         {
             "category": "gomphales",
-            "parent-categories": [],
+            "parent-categories": [
+                "phallomycetidae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Gomphales",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gomphales"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schweinsohrartige",
+                "GB": "Gomphales"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Gomphales sind eine Ordnung von Basidiomyceten-Pilzen. Einige oder alle Familien, die zu den Gomphales gehören, wurden manchmal in die Ordnung der Phallales aufgenommen, die inzwischen veralteten Ramariaceae wurden früher auch zu den Cantharellales gezählt. Neuere phylogenetische Analysen schließen in Gomphales die Familien der ursprünglichen Beschreibung der Ordnung von Walter Jülich ein, mit Hinzufügung der Clavariadelphaceae. Nach einer Schätzung von 2008 enthalten die Gomphales 18 Gattungen und 336 Arten.",
+                "GB": "The Gomphales are an order of basidiomycete fungi. Some or all families belonging to Gomphales have been sometimes included in the order Phallales, the now-obsolete Ramariaceae was also previously included in Cantharellales. Recent phylogenetic analyses include in Gomphales the families of the original description of the order by Walter Jülich, with addition of Clavariadelphaceae. According to one 2008 estimate, the Gomphales contain 18 genera and 336 species."
             }
         },
         {
             "category": "gomphus",
-            "parent-categories": [],
+            "parent-categories": [
+                "gomphaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Gomphus_(fungus)",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gomphus_(fungus)"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schweinsohren",
+                "GB": "Gomphus (fungus)"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Gomphus ist eine Gattung cantharelloider Pilze aus der Familie der Gomphaceae. Einst vermutlich mit den Pfifferlingen verwandt, haben molekulare Studien gezeigt, dass sie mit Stinkhörnern und Feenkeulen verbündet sind. Die Typusart der Gattung ist das Schweinsohr .",
+                "GB": "Gomphus is a genus of cantharelloid fungi in the family Gomphaceae. Once presumed to be related to chanterelles, molecular study has shown them to be allied with stinkhorns and fairy clubs. The type species of the genus is the pig's ear ."
             }
         },
         {
             "category": "gyromitra",
-            "parent-categories": [],
+            "parent-categories": [
+                "discinaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Giftlorcheln",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Gyromitra"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Giftlorcheln",
+                "GB": "Gyromitra"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Giftlorcheln sind eine Gattung der Schlauchpilze aus der Ordnung der Becherlingsverwandten .",
+                "GB": "Gyromitra is a genus of about 18 species of ascomycete fungi."
             }
         },
         {
@@ -690,37 +696,39 @@
             "parent-categories": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Hydnangiaceae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hydnangiaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Heidetrüffelverwandte",
+                "GB": "Hydnangiaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Hydnangiaceae sind eine Familie von Pilzen aus der Pilzordnung der Agaricales. Die Familie ist in gemäßigten und tropischen Regionen der Welt weit verbreitet und umfasst etwa 30 Arten in vier Gattungen. Die Arten der Hydnangiaceae bilden ektomykorrhizierte Beziehungen mit verschiedenen Baumarten sowohl in Nadel- als auch in Laubwäldern.",
+                "GB": "The Hydnangiaceae are a family of fungi in the mushroom order Agaricales. Widespread in temperate and tropical regions throughout the world, the family contains about 30 species in four genera. Species in the Hydnangiaceae form ectomycorrhizal relationships with various species of trees in both coniferous and deciduous forests."
             }
         },
         {
             "category": "hygrocybe",
-            "parent-categories": [],
+            "parent-categories": [
+                "hygrophoraceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Saftlinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hygrocybe"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Saftlinge",
+                "GB": "Hygrocybe"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Saftlinge sind eine Pilzgattung aus der Familie der Schnecklingsverwandten. Aufgrund des glasigen bis wachsartigen Fleischs werden sie auch als Glasköpfe bezeichnet. Etliche Arten fallen durch freudig gefärbte Fruchtkörper auf. Sie bevorzugen meist nährstoffarme Standorte, weshalb sie auch als Zeigerarten für die Gütebeurteilung von Biotopen eingesetzt werden. Alle Saftlinge stehen in Deutschland unter Naturschutz.",
+                "GB": "Hygrocybe is a genus of agarics in the family Hygrophoraceae. Called waxcaps in English, basidiocarps are often brightly coloured and have waxy to slimy caps, white spores, and smooth, ringless stems. In Europe they are characteristic of old, unimproved grasslands which are a declining habitat, making many Hygrocybe species of conservation concern. Elsewhere they are more typically found in woodlands. Most are ground-dwelling and all are believed to be moss associates. Around 150 species are recognized worldwide. Fruit bodies of several Hygrocybe species are considered edible and are sometimes offered for sale in local markets."
             }
         },
         {
@@ -728,214 +736,235 @@
             "parent-categories": [],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Hygrophoraceae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hygrophoraceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schnecklingsverwandte",
+                "GB": "Hygrophoraceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Hygrophoraceae sind eine Familie von Pilzen aus der Ordnung der Agaricales. Ursprünglich wurde die Familie der Hygrophoraceae mit weißporigen, dickkieligen Agariken, einschließlich der Hygrophorus- und Hygrocybe-Arten, begründet. Der DNA-Nachweis hat die Grenzen der Familie erweitert, so dass sie heute nicht nur Agariken, sondern auch basidioliche und kortikioide Pilze enthält. Die Arten sind also vielfältig und unterschiedlich ektomykorrhiziert, lichenisiert, mit Moosen assoziiert oder saprotrophisch. Die Familie umfasst 25 Gattungen und über 600 Arten. Keine davon ist von grosser wirtschaftlicher Bedeutung, obwohl die Fruchtkörper einiger Hygrocybe- und Hygrophorus-Arten als essbar gelten und für den Verkauf auf lokalen Märkten gesammelt werden können.",
+                "GB": "The Hygrophoraceae are a family of fungi in the order Agaricales. Originally conceived as containing white-spored, thick-gilled agarics, including Hygrophorus and Hygrocybe species , DNA evidence has extended the limits of the family, so it now contains not only agarics, but also basidiolichens and corticioid fungi. Species are thus diverse and are variously ectomycorrhizal, lichenized, associated with mosses, or saprotrophic. The family contains 25 genera and over 600 species. None is of any great economic importance, though fruit bodies of some Hygrocybe and Hygrophorus species are considered edible and may be collected for sale in local markets."
             }
         },
         {
             "category": "hypholoma",
-            "parent-categories": [],
+            "parent-categories": [
+                "strophariaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Schwefelk%C3%B6pfe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Hypholoma"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schwefelköpfe",
+                "GB": "Hypholoma"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schwefelköpfe sind eine Pilzgattung aus der Familie Träuschlingsverwandten. Am bekanntesten und häufigsten sind der essbare Graublättrige Schwefelkopf und der giftige Grünblättrige Schwefelkopf, die Typusart der Gattung.",
+                "GB": "Hypholoma is a genus of fungi which are quite well known due to the commonness of sulphur tuft on stumps in temperate woodlands. Species in this genus are easily recognizable because the dark spores create a distinctive greenish effect on the yellow cap underside. Hypholoma means \"mushrooms with threads\" because of the thread-like veil that connects the cap to the stem when young and for the bundles of rhizomorphs which radiate outwards from the stem base. \nOther well-known species are H. capnoides and H. lateritium."
             }
         },
         {
             "category": "imleria",
-            "parent-categories": [],
+            "parent-categories": [
+                "boletoideae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Imleria",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Imleria"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Imleria",
+                "GB": "Imleria"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Imleria ist eine Pilzgattung aus der Familie der Dickröhrlingsverwandten. Die Fruchtkörper haben einen blassen, fast weißen bis kastanienbraunen Hut und Stiel sowie eine jung fast weiße, cremefarbene bis blassgelbe Röhrenschicht. Feucht ist die Hutoberfläche klebrig. Das Fleisch und die Röhren blauen auf Druck oder im Schnitt. Die Hutdeckschicht ist ein Ixotrichoderm, die Sporen sind glatt.",
+                "GB": "Imleria is a genus of fungi in the family Boletaceae. It was erected in 2014 by Alfredo Vizzini as a new genus for what had previously been named Boletus badius or Xerocomus badius. It was placed in its own genus because of its distinct morphological features and because it had previously been found to belong in its own genus in a molecular phylogenetics study by Gelardi et al.. Zhu et al. placed three more species in Imleria. Species of Imleria can be found in Europe, North America and Asia. The genus is named in honor of Belgian mycologist Louis Imler ."
             }
         },
-        "incertae sedis",
         {
             "category": "infundibulicybe",
-            "parent-categories": [],
+            "parent-categories": [
+                "tricholomataceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Infundibulicybe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Infundibulicybe"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Infundibulicybe",
+                "GB": "Infundibulicybe"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Infundibulicybe ist eine Satellitengattung der Trichterlinge. Sie enthält die Pilzarten aus dem Verwandtschaftskreis des Mönchskopfs, der Typusart der Gattung.",
+                "GB": "Infundibulicybe is a genus of fungi that is robustly placed incertae sedis as sister group to the Tricholomatoid clade. It has previously been part of the family of Tricholomataceae, but recent molecular phylogeny has shown it to take an isolated position within the Agaricales."
             }
         },
         {
             "category": "inocybaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Inocybaceae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Inocybaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Risspilzverwandte",
+                "GB": "Inocybaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Inocybaceae sind eine Familie von Pilzen der Ordnung Agaricales. Die Mitglieder dieser Familie haben eine weite Verbreitung in tropischen und gemäßigten Gebieten.",
+                "GB": "The Inocybaceae are a family of fungi in the order Agaricales. Members of this family have a widespread distribution in tropical and temperate areas."
             }
         },
         {
             "category": "inocybe",
-            "parent-categories": [],
+            "parent-categories": [
+                "inocybaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Risspilze",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Inocybe"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Risspilze",
+                "GB": "Inocybe"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Risspilze sind eine artenreiche Pilzgattung aus der Familie der Risspilzverwandten.",
+                "GB": "Inocybe is a large genus of mushroom-forming fungi with over 1400 species, including all forms and variations. Members of Inocybe are mycorrhizal, and some evidence shows that the high degree of speciation in the genus is due to adaptation to different trees and perhaps even local environments."
             }
         },
         {
             "category": "kuehneromyces",
-            "parent-categories": [],
+            "parent-categories": [
+                "strophariaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Stockschw%C3%A4mmchen",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Kuehneromyces"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Stockschwämmchen",
+                "GB": "Kuehneromyces"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Stockschwämmchen sind eine Pilzgattung aus der Familie der Träuschlingsverwandten .",
+                "GB": "Kuehneromyces is a genus of agaric fungi in the family Strophariaceae. The genus was circumscribed by mycologists Rolf Singer and Alexander H. Smith in 1946."
             }
         },
         {
             "category": "laccaria",
-            "parent-categories": [],
+            "parent-categories": [
+                "hydnangiaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Laccaria",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Laccaria"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Lacktrichterlinge",
+                "GB": "Laccaria"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Laccaria ist eine Gattung von etwa 75 Pilzarten, die sowohl in gemäßigten als auch in tropischen Regionen der Welt vorkommen. Sie sind Mykorrhiza-Pilze. Die Typusart ist Laccaria laccata, allgemein als Täuscherpilz bekannt. Andere bemerkenswerte Arten sind L. bicolor und der Amethystbetrüger, der manchmal fälschlicherweise als L. amethystea bezeichnet wird. Da einige Laccaria-Arten die Fähigkeit haben, in Kultur vegetativ zu wachsen und\/oder aus Basidiosporen zu keimen, werden sie oft als experimentelle Systeme für Untersuchungen an ektomykorrhizierten Basidiomyceten verwendet. Sie haben ein \"tetrapolares Paarungssystem\", was bedeutet, dass es 4 Paarungstypen gibt, von denen sich jeweils zwei gegenseitig befruchten können. Kürzlich wurde das Genom von L. bicolor sequenziert.",
+                "GB": "Laccaria is a genus around 75 species of fungus found in both temperate and tropical regions of the world. They are mycorrhizal. The type species is Laccaria laccata, commonly known as the deceiver. Other notable species include L. bicolor, and the amethyst deceiver, sometimes incorrectly written as L. amethystea. Because some Laccaria species have the ability to grow vegetatively and\/or germinate from basidiospores in culture, they are often used as experimental systems for studies of ectomycorrhizal basidiomycetes. They have a \"tetrapolar mating system\", meaning that there are 4 mating types, any two of which can fertilize each other. Recently, the genome of L. bicolor has been sequenced."
             }
         },
         {
             "category": "lactarius",
-            "parent-categories": [],
+            "parent-categories": [
+                "russulaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Milchlinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lactarius"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Milchlinge",
+                "GB": "Lactarius"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Milchlinge sind eine artenreiche Gattung von Pilzen aus der Familie der Täublingsverwandten. Während früher alle Arten der Täublingsverwandten mit milchendem Fleisch in diese Gattung gestellt wurden, werden einige Arten aufgrund molekulargenetischer Untersuchungen heute zur Gattung Lactifluus gezählt.",
+                "GB": "Lactarius is a genus of mushroom-producing, ectomycorrhizal fungi, containing several edible species. The species of the genus, commonly known as milk-caps, are characterized by the milky fluid they exude when cut or damaged. Like the closely related genus Russula, their flesh has a distinctive brittle consistency. It is a large genus with roughly 450 known species, mainly distributed in the Northern hemisphere. Recently, the genus Lactifluus has been separated from Lactarius based on molecular phylogenetic evidence."
             }
         },
         {
             "category": "lactifluus",
-            "parent-categories": [],
+            "parent-categories": [
+                "russulaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Lactifluus",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lactifluus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Lactifluus",
+                "GB": "Lactifluus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Lactifluus ist eine Pilzgattung und neben Lactarius die zweite Gattung von Milchlingen, die sich durch die namensgebende „Milch“ der Fruchtkörper auszeichnen. Sie gehört zur Familie der Täublingsverwandten, die durch das spröde Fleisch ihrer Fruchtkörper und die amyloide Ornamentierung ihrer Sporen gekennzeichnet sind.",
+                "GB": "Lactifluus is one of three genera of mushroom-forming fungi containing species commonly named \"milk-caps\", the others being Lactarius and Multifurca. It has been separated from Lactarius based on molecular phylogenetic evidence but is very similar to that genus. There are roughly 150 known Lactifluus species, which have a mainly tropical distribution but are also found in the north temperate zone and Australasia. Some of them are edible mushrooms."
             }
         },
         {
             "category": "leccinellum",
-            "parent-categories": [],
+            "parent-categories": [
+                "leccinoideae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Leccinellum",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Leccinellum"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Leccinellum",
+                "GB": "Leccinellum"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Leccinellum ist eine Pilzgattung aus der Familie der Dickröhrlingsverwandten. Die Fruchtkörper ähneln in der Gestalt stark den Arten aus der Gattung Leccinum, besitzen aber in allen Fruchtkörperteilen ein gelbes Pigment. Ist es nur schwach ausgeprägt oder erscheint es nur vorübergehend an einzelnen Teilen, besteht die Hutdeckschicht aus Ketten mit kugelförmigen Zellen. Darüber hinaus verfärbt sich das Fleisch an der Luft oft rasch und gleichmäßig intensiv, beispielsweise erst rötlich, violettlich, lilafarben und schließlich grau oder schwärzlich. Die Arten der Gattungen Leccinum und Leccinellum werden im deutschen Sprachraum aufgrund der schuppigen\/rauen Stieloberfläche auch als „Raufüße“, kurz für „Raufußröhrlinge“, oder „Raustielröhrlinge“ bezeichnet.",
+                "GB": "Leccinellum is a genus of fungi in the family Boletaceae. Mycologists Andreas Bresinsky and Manfred Binder circumscribed the genus in 2003 to contain Leccinum species with a yellow pore surface and a trichoderm-like cap cuticle. Leccinellum nigrescens was designated the type species; this taxon has since been renamed to Leccinellum crocipodium Della Maggiora & Trassinelli."
             }
         },
         {
             "category": "leccinoideae",
-            "parent-categories": [],
+            "parent-categories": [
+                "boletaceae"
+            ],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -944,69 +973,75 @@
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Leccinoideae",
+                "GB": "Leccinoideae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Leccinoideae",
+                "GB": "Leccinoideae"
             }
         },
         {
             "category": "leccinum",
-            "parent-categories": [],
+            "parent-categories": [
+                "leccinoideae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Leccinum",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Leccinum"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Leccinum",
+                "GB": "Leccinum"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Leccinum ist eine Pilzgattung aus der Familie der Dickröhrlingsverwandten. Die Arten der Gattungen Leccinum und Leccinellum werden im deutschen Sprachraum aufgrund der schuppigen\/rauen Stieloberfläche auch als „Raufüße“, kurz für „Raufußröhrlinge“, oder „Raustielröhrlinge“ bezeichnet.",
+                "GB": "Leccinum is a genus of fungi in the family Boletaceae. It was the name given first to a series of fungi within the genus Boletus, then erected as a new genus last century. Their main distinguishing feature is the small, rigid projections that give a rough texture to their stalks. The genus name was coined from the Italian Leccino, for a type of rough-stemmed bolete. The genus has a widespread distribution, especially in north temperate regions, and contains about 75 species."
             }
         },
         {
             "category": "lepista",
-            "parent-categories": [],
+            "parent-categories": [
+                "tricholomataceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/R%C3%B6telritterlinge",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lepista"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Rötelritterlinge",
+                "GB": "Lepista"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Rötelritterlinge sind meist mittelgroße bis große, fleischige Pilze aus der Ordnung der Champignonartigen, die vor allem im Herbst recht zahlreich erscheinen. Sie stehen vom Habitus her zwischen Ritterlingen und Trichterlingen. Auffällig ist bei ihnen die Bildung von zum Teil recht großen Hexenringen. Sie bilden keine Mykorrhiza.",
+                "GB": "Lepista is a genus of mushroom-forming fungi. According to the Dictionary of the Fungi, the widespread genus contains about 50 species. In 1969, Howard Bigelow and Alex H. Smith made the group a subgenus of Clitocybe."
             }
         },
         {
             "category": "leprocybe",
-            "parent-categories": [],
+            "parent-categories": [
+                "cortinarius"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Rauk%C3%B6pfe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Lethal_webcaps"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Rauköpfe",
+                "GB": "Orellani"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Rauköpfe auch Rauhköpfe sind Pilze, die eine Untergattung der Schleierlinge bilden. Einige Arten sind tödlich giftig.",
+                "GB": "The Orellani are a group of seven related species in the genus Cortinarius that have been classified as a section of the subgenus Leprocybe or a subgenus in their own right. They are among world's most poisonous mushrooms as they contain the highly toxic compound orellanine. The best-known species are the deadly webcap and the fool's webcap, C. orellanus."
             }
         },
         {
