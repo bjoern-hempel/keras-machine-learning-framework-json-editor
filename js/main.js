@@ -53,6 +53,8 @@ function filterText(text)
     textFiltered = textFiltered.replace(/\/[^/)]+\//g, '');
     textFiltered = textFiltered.replace(/[ ]+/g, ' ');
 
+    textFiltered = textFiltered.replace(' . ', '. ').replace(' , ', ', ');
+
     return textFiltered;
 }
 
@@ -275,8 +277,6 @@ function startEditor()
                 let counter = startClass + 1;
                 let labels = getLabelsArray();
 
-                console.error(labels);
-
                 labels.forEach(function (label, index) {
                     let html = '';
 
@@ -323,6 +323,13 @@ function startEditor()
             /* set wikipedia parser */
             ['DE', 'GB'].forEach(function(language) {
                 $("input[name*='[wikipedia][%s]']".replace(/%s/, language)).dblclick(function (e) {
+                    let dataType = 'classes';
+                    let matches = e.target.name.match(/root\[([a-z]+)\]/);
+
+                    if (matches) {
+                        dataType = matches[1];
+                    }
+
                     let wikipage = $(e.target).val();
                     let panelElements = $(e.target).parents('div.panel');
 
@@ -364,29 +371,18 @@ function startEditor()
             });
 
             /* set google opener */
-            $("input[name*='[class]']").dblclick(function (e) {
-                let className = $(e.target).val();
-                openInNewTab(
-                    googleSearchLink.replace(
-                        /%s/,
-                        className.replace(/_/g, '%20') + (
-                            googleSearchAdd !== null ? '%20%s'.replace(/%s/, googleSearchAdd) : ''
+            ['class', 'category'].forEach(function(type) {
+                $("input[name*='[%s]']".replace(/%s/, type)).dblclick(function (e) {
+                    let className = $(e.target).val();
+                    openInNewTab(
+                        googleSearchLink.replace(
+                            /%s/,
+                            className.replace(/_/g, '%20') + (
+                                googleSearchAdd !== null ? '%20%s'.replace(/%s/, googleSearchAdd) : ''
+                            )
                         )
-                    )
-                );
-            });
-
-            /* set google opener */
-            $("input[name*='[category]']").dblclick(function (e) {
-                let className = $(e.target).val();
-                openInNewTab(
-                    googleSearchLink.replace(
-                        /%s/,
-                        className.replace(/_/g, '%20') + (
-                            googleSearchAdd !== null ? '%20%s'.replace(/%s/, googleSearchAdd) : ''
-                        )
-                    )
-                );
+                    );
+                });
             });
         });
     });

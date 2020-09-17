@@ -23,40 +23,44 @@
         },
         {
             "category": "agaricales",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricomycetidae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Champignonartige",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Agaricales"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Champignonartige",
+                "GB": "Agaricales"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Champignonartigen sind eine Ordnung der Großpilze aus der Unterklasse Agaricomycetidae innerhalb der Klasse der Agaricomycetes. Darunter befinden sich etliche bekannte Speisepilze wie die Champignons, der Parasol und der Shiitake , aber auch populäre Giftpilze wie der Fliegenpilz und die Knollenblätterpilze .",
+                "GB": "The fungal order Agaricales, also known as gilled mushrooms or euagarics, contains some of the most familiar types of mushrooms. The order has 33 extant families, 413 genera, and over 13,000 described species, along with six extinct genera known only from the fossil record. They range from the ubiquitous common mushroom to the deadly destroying angel and the hallucinogenic fly agaric to the bioluminescent jack-o-lantern mushroom."
             }
         },
         {
             "category": "agaricomycetes",
-            "parent-categories": [],
+            "parent-categories": [
+                "fungi"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Agaricomycetes",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Agaricomycetes"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Agaricomycetes",
+                "GB": "Agaricomycetes"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Agaricomycetes sind eine Klasse der Abteilung der Ständerpilze. Mit etwa 98 % der beschriebenen Arten bilden sie die größte Klasse innerhalb der Ständerpilze. Auf Grund der von ihnen ausgebildeten, häufig auffälligen Fruchtkörper gehören sie zu den bekanntesten Pilzen.",
+                "GB": "The Agaricomycetes are a class of fungi in the division Basidiomycota. The taxon is roughly identical to that defined for the Homobasidiomycetes by Hibbett & Thorn, with the inclusion of Auriculariales and Sebacinales. It includes not only mushroom-forming fungi, but also most species placed in the deprecated taxa Gasteromycetes and Homobasidiomycetes. Within the subdivision Agaricomycotina, which already excludes the smut and rust fungi, the Agaricomycetes can be further defined by the exclusion of the classes Tremellomycetes and Dacrymycetes, which are generally considered to be jelly fungi. However, a few former \"jelly fungi\", such as Auricularia, are classified in the Agaricomycetes. According to a 2008 estimate, Agaricomycetes include 17 orders, 100 families, 1147 genera, and about 21000 species. Modern molecular phylogenetic analyses have been since used to help define several new orders in the Agaricomycetes: Amylocorticiales, Jaapiales, Stereopsidales, and Lepidostromatales."
             }
         },
         {
@@ -481,6 +485,25 @@
         },
         {
             "category": "discinaceae",
+            "parent-categories": [],
+            "urls": {
+                "wikipedia": {
+                    "DE": "",
+                    "GB": ""
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "",
+                "GB": ""
+            },
+            "description": {
+                "DE": "",
+                "GB": ""
+            }
+        },
+        {
+            "category": "fungi",
             "parent-categories": [],
             "urls": {
                 "wikipedia": {
