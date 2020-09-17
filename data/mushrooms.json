@@ -212,102 +212,114 @@
         },
         {
             "category": "auriculariales",
-            "parent-categories": [],
+            "parent-categories": [
+                "incertae sedis"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Auriculariales",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Auriculariales"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Ohrlappenpilzartige",
+                "GB": "Auriculariales"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Ohrlappenpilzartige sind eine Ordnung von Pilzen aus der Klasse der Agaricomyceten. Die Arten innerhalb dieser Ordnung wurden früher als \"Heterobasidiomyceten\" oder \"Geleepilze\" bezeichnet, da viele von ihnen gelatinöse Basidiocarpen haben, die Sporen auf Septabasidien produzieren. Weltweit sind etwa 200 Arten bekannt, die in sechs oder mehr Familien eingeteilt sind, wobei der Status dieser Familien derzeit ungewiss ist. Es wird angenommen, dass alle Arten in den Auriculariales saprotroph sind, wobei die meisten auf Totholz wachsen. Die Fruchtkörper mehrerer Auricularia-Arten werden vor allem in China in kommerziellem Umfang für die Ernährung angebaut.",
+                "GB": "The Auriculariales are an order of fungi in the class Agaricomycetes. Species within the order were formerly referred to the \"heterobasidiomycetes\" or \"jelly fungi\", since many have gelatinous basidiocarps that produce spores on septate basidia. Around 200 species are known worldwide, placed in six or more families, though the status of these families is currently uncertain. All species in the Auriculariales are believed to be saprotrophic, most growing on dead wood. Fruit bodies of several Auricularia species are cultivated for food on a commercial scale, especially in China."
             }
         },
         {
             "category": "bankeraceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "thelephorales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Wei%C3%9Fsporstachelingsverwandte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Bankeraceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Weißsporstachelingsverwandte",
+                "GB": "Bankeraceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Weißsporstachelingsverwandten sind eine Familie von Ektomykorrhizapilzen aus der Ordnung der Warzenpilzartigen. Die Fruchtkörper sind in Hut und Stiel gegliedert und haben ein hydnoides oder poroides Hymenophor . Die Hyphen sind häufig aufgeblasen und die inamyloiden Sporen meist ziemlich klein. Sie sind entweder hyalin und stachelig oder braun und knotig-warzig ornamentiert. Die Warzen können zunehmend gabelig werden und\/oder verwachsen. Die Familie hat über 120 Arten und 5 Gattungen und ist überwiegend in der nördlich gemäßigten Zone verbreitet.",
+                "GB": "The Bankeraceae are a family of fungi in the order Thelephorales. Taxa are terrestrial, and ectomycorrhizal with species such as Pinaceae or Fagaceae. The family was circumscribed by Marinus Anton Donk in 1961. According to a 2008 estimate, the family contains 6 genera and 98 species."
             }
         },
         {
             "category": "boletaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "boletineae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Dickr%C3%B6hrlingsverwandte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Boletaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Dickröhrlingsverwandte",
+                "GB": "Boletaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Dickröhrlingsverwandte sind eine Familie der Abteilung der Ständerpilze aus dem Reich der Pilze. In Mitteleuropa sind in 24 Gattungen etwa 70 Arten verzeichnet. Zu den Dickröhrlingsverwandten zählen begehrte Speisepilze und seltene Großpilze.",
+                "GB": "The Boletaceae are a family of mushroom-forming fungi, primarily characterised by small pores on the spore-bearing hymenial surface, instead of gills as are found in most agarics. Nearly as widely distributed as the agarics, the family is renowned for hosting some prime edible species, such as the Cep or King Bolete , highly sought after by mushroom hunters worldwide. A number of rare or threatened species are also present in the family, that have become the focus of increasing conservation concerns. As a whole, the typical members of the family are commonly known as boletes."
             }
         },
         {
             "category": "boletales",
-            "parent-categories": [],
+            "parent-categories": [
+                "agaricomycetes"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Dickr%C3%B6hrlingsartige",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Boletales"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Dickröhrlingsartige",
+                "GB": "Boletales"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Dickröhrlingsartige sind eine Ordnung der Ständerpilze aus dem Reich der Pilze. Die Typusart der Ordnung Boletales ist als die Typusart der die Ordnung benennenden Gattung Boletus der Gemeine Steinpilz. Die meisten Röhrenpilze gehören zur Familie der Dickröhrlingsverwandten.",
+                "GB": "The Boletales are an order of Agaricomycetes containing over 1300 species with a diverse array of fruiting body types. The boletes are the best known members of this group, and until recently, the Boletales were thought to only contain boletes. The Boletales are now known to contain distinct groups of agarics, gasteromycetes, and other fruiting-body types."
             }
         },
         {
             "category": "boletineae",
-            "parent-categories": [],
+            "parent-categories": [
+                "boletales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Boletineae",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Boletineae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Boletineae",
+                "GB": "Boletineae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Boletineae sind eine Unterordnung der Pilzordnung Boletales. Zu den Familien der Boletineae gehören die Boletaceae und die Paxillaceae.",
+                "GB": "The Boletineae are a suborder of the fungal order Boletales. Families in the Boletineae include the Boletaceae and the Paxillaceae."
             }
         },
         {
             "category": "boletoideae",
-            "parent-categories": [],
+            "parent-categories": [
+                "boletaceae"
+            ],
             "urls": {
                 "wikipedia": {
                     "DE": "",
@@ -316,88 +328,96 @@
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Boletoideae",
+                "GB": "Boletoideae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Unterfamilie der Familie Dickröhrlingsverwandte (Boletaceae)",
+                "GB": "Subfamily of the family Boletaceae"
             }
         },
         {
             "category": "boletus",
-            "parent-categories": [],
+            "parent-categories": [
+                "boletaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Steinpilze",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Boletus"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Steinpilze",
+                "GB": "Boletus"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Steinpilze sind eine Gattung aus der Familie der Dickröhrlingsverwandten .",
+                "GB": "Boletus is a genus of mushroom-producing fungi, comprising over 100 species. The genus Boletus was originally broadly defined and described by Carl Linnaeus in 1753, essentially containing all fungi with hymenial pores instead of gills. Since then, other genera have been defined gradually, such as Tylopilus by Petter Adolf Karsten in 1881, and old names such as Leccinum have been resurrected or redefined. Some mushrooms listed in older books as members of the genus have now been placed in separate genera. These include such as Boletus scaber, now Leccinum scabrum, Tylopilus felleus, Chalciporus piperatus and Suillus luteus. Most boletes have been found to be ectomycorrhizal fungi, which mean that they form a mutualistic relationship with the roots system of certain kinds of plants. More recently, Boletus has been found to be massively polyphyletic, with only a small percentage of the over 300 species that have been assigned to Boletus actually belonging there and necessitating the description and resurrection of many more genera."
             }
         },
         {
             "category": "calocybe",
-            "parent-categories": [],
+            "parent-categories": [
+                "lyophyllaceae"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/en.wikipedia.org\/wiki\/Calocybe",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Calocybe"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Schönköpfe",
+                "GB": "Calocybe"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Calocybe ist eine kleine Gattung von etwa 40 Pilzarten, darunter der Maipilz, der essbar ist, und der Milchpilz, der essbar ist und in Indien angebaut wird. Es gibt nicht viele Arten dieser Gattung in Großbritannien. Der Name leitet sich von den altgriechischen Begriffen kalos \"hübsch\" und cubos \"Kopf\" ab. Etwa neun Arten kommen in neotropischen Regionen vor.",
+                "GB": "Calocybe is a small genus of about 40 species of mushroom, including St. George's mushroom, which is edible, and milky mushroom, which is edible and is cultivated in India. There are not many species of this genus in Britain. The name is derived from the Ancient Greek terms kalos \"pretty\", and cubos \"head\". Around nine species are found in neotropical regions."
             }
         },
         {
             "category": "cantharellaceae",
-            "parent-categories": [],
+            "parent-categories": [
+                "cantharellales"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pfifferlingsverwandte",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cantharellaceae"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Pfifferlingsverwandte",
+                "GB": "Cantharellaceae"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Pfifferlingsverwandten sind eine Familie Großpilze aus der Ordnung der Pfifferlingsartigen .",
+                "GB": "The Cantharellaceae are a family of fungi in the order Cantharellales. The family contains the chanterelles and related species, a group of fungi that superficially resemble agarics but have smooth, wrinkled, or gill-like hymenophores. Species in the family are ectomycorrhizal, forming a mutually beneficial relationship with the roots of trees and other plants. Many of the Cantharellaceae, including the chanterelle, the Pacific golden chanterelle , the horn of plenty , and the trumpet chanterelle , are not only edible, but are collected and marketed internationally on a commercial scale."
             }
         },
         {
             "category": "cantharellales",
-            "parent-categories": [],
+            "parent-categories": [
+                "incertae sedis"
+            ],
             "urls": {
                 "wikipedia": {
-                    "DE": "",
-                    "GB": ""
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Pfifferlingsartige",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Cantharellales"
                 },
                 "spoonacular": null
             },
             "name": {
-                "DE": "",
-                "GB": ""
+                "DE": "Pfifferlingsartige",
+                "GB": "Cantharellales"
             },
             "description": {
-                "DE": "",
-                "GB": ""
+                "DE": "Die Pfifferlingsartigen sind eine Ordnung Großpilze aus der Klasse Agaricomycetes.",
+                "GB": "The Cantharellales are an order of fungi in the class Agaricomycetes. The order includes not only the chanterelles, but also some of the tooth fungi , clavarioid fungi , and corticioid fungi. Species within the order are variously ectomycorrhizal, saprotrophic, associated with orchids, or facultative plant pathogens. Those of economic importance include edible and commercially collected Cantharellus, Craterellus, and Hydnum species as well as crop pathogens in the genera Ceratobasidium and Thanatephorus ."
             }
         },
         {
