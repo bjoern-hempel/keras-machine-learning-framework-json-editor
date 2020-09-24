@@ -797,6 +797,27 @@
             }
         },
         {
+            "category": "incertae_sedis",
+            "parent-categories": [
+                "agaricomycetes"
+            ],
+            "urls": {
+                "wikipedia": {
+                    "DE": "https:\/\/de.wikipedia.org\/wiki\/Incertae_sedis",
+                    "GB": "https:\/\/en.wikipedia.org\/wiki\/Incertae_sedis"
+                },
+                "spoonacular": null
+            },
+            "name": {
+                "DE": "Incertae sedis",
+                "GB": "Incertae sedis"
+            },
+            "description": {
+                "DE": "Der Fachbegriff incertae sedis, kennzeichnet in der biologischen Taxonomie die unsichere systematische Stellung eines Taxons, beispielsweise die unklare Zuordnung einer Gattung zu einer bestimmten Familie.",
+                "GB": "Incertae sedis or problematica are terms used for a taxonomic group where its broader relationships are unknown or undefined. Alternatively, such groups are frequently referred to as \"enigmatic taxa\". In the system of open nomenclature, uncertainty at specific taxonomic levels is indicated by incertae familiae (of uncertain family), incerti subordinis, incerti ordinis and similar terms."
+            }
+        },
+        {
             "category": "infundibulicybe",
             "parent-categories": [
                 "tricholomataceae"
@@ -2367,7 +2388,7 @@
             },
             "description": {
                 "DE": "Der Gift-Häubling – bisweilen auch Nadelholz-Häubling genannt, obwohl er auch Laubholz besiedelt – ist eine giftige Pilzart aus der Familie der Träuschlingsverwandten.",
-                "GB": "Galerina marginata, known colloquially as the funeral bell or the deadly skullcap, is a species of poisonous fungus in the family Hymenogastraceae of the order Agaricales. Prior to 2001, the species G. autumnalis, G. oregonensis, G. unicolor, and G. venenata were thought to be separate due to differences in habitat and the viscidity of their caps, but phylogenetic analysis showed that they are all the same species."
+                "GB": "Galerina marginata, known colloquially as the funeral bell or the deadly skullcap, is a species of poisonous fungus in the family Hymenogastraceae of the order Agaricales. Prior to 2001, the species G. autumnalis, G. oregonensis, G. unicolor, and G. venenata were thought to be separate due to differences in habitat and the viscidity of their caps, but phylogenetic analysis showed that they are all the same species."
             },
             "edibility": [
                 "deadly"
