@@ -2253,7 +2253,9 @@
         },
         {
             "class": "clitocybe_rivulosa",
-            "categories": [],
+            "categories": [
+                "singerocybe"
+            ],
             "urls": {
                 "wikipedia": {
                     "DE": "https:\/\/en.wikipedia.org\/wiki\/Clitocybe_rivulosa",
